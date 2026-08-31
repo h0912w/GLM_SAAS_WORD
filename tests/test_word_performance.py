@@ -358,6 +358,21 @@ def test_pattern_tag_performance_ignores_rows_without_a_tag():
     assert word_performance.pattern_tag_performance(expansions, cache_rows) == {}
 
 
+def test_dead_pattern_tags_requires_zero_pass_and_min_attempts():
+    cache_rows = [cache_row("Fuel Portal", False)] * 300 + [cache_row("Fuel Sync", True)] * 300
+    expansions = [
+        expansion_row("function", "Portal", "dead_strategy"),
+        expansion_row("function", "Sync", "alive_strategy"),
+    ]
+    assert word_performance.dead_pattern_tags(expansions, cache_rows) == ["dead_strategy"]
+
+
+def test_dead_pattern_tags_excludes_under_sampled_tags():
+    cache_rows = [cache_row("Fuel Portal", False)] * 50  # 300 미만 - 판정 보류
+    expansions = [expansion_row("function", "Portal", "too_early_to_tell")]
+    assert word_performance.dead_pattern_tags(expansions, cache_rows) == []
+
+
 def test_least_tried_pattern_tags_orders_by_ascending_attempts():
     cache_rows = [cache_row("Fuel Portal", True)] * 10 + [cache_row("Fuel Map", True)] * 2
     expansions = [

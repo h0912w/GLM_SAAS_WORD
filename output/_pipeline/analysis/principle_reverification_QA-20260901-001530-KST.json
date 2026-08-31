@@ -1,0 +1,88 @@
+{
+  "decisions": [
+    {
+      "approve": true,
+      "confidence": 0.9,
+      "reason": "법적/명확성 리스크에 근거한 원칙이라 통과율 데이터와 무관하게 여전히 유효 - 반박 근거 없음",
+      "title": "실제 상표와 겹치는 도메인어(Freon/Toast/Compass류)는 피해야 한다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.85,
+      "reason": "메커니즘(같은 문구 반복으로 승인률 희석)이 논리적으로 타당하고 반례 없음",
+      "title": "한 라운드 안에서 뜻이 겹치는 기능어 동의어를 여러 개 제안하지 말 것"
+    },
+    {
+      "approve": true,
+      "confidence": 0.85,
+      "reason": "광고 경쟁 포화 카테고리라는 구조적 설명이 설득력 있고 두 독립 라운드에서 반복 확인됨 - 반박 근거 없음",
+      "title": "판촉/인센티브류 명사(쿠폰/캐시백/Deal류)는 기능어로 제안하지 말 것"
+    },
+    {
+      "approve": true,
+      "confidence": 0.65,
+      "reason": "방향은 유지하되 확신도는 낮춘다 - 관측이 2건뿐이고, 이전에 '범용 결합력'원칙(원칙7)도 초기 강한 신호(Number 6.75%) 이후 인접어 테스트(Category/Attribute류)에서 크게 반증된 전례가 있다. Reminder/Digest 같은 인접어로 3번째 독립 검증을 하기 전까지는 validated 지위를 전제로 대량 투자하지 말 것을 권장",
+      "title": "소통/알림 계열 명사(Message/Notification)는 강한 기능어 후보다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.55,
+      "reason": "단일 라운드 대조에서 나온 사후 재해석이라 아직 candidate로 유지하는 게 맞다 - 독립 재현 라운드가 없으면 이 구분 자체가 또 다른 사후적 이야기 만들기일 위험이 있다",
+      "title": "'구체적 식별/정보 대상'(Number/Code/Identifier류)이 '추상적 분류/스키마 용어'(Category/Attribute류)보다 우세하다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "이번 세션(QA-20260831-233534-KST)에서 plumbing_services에 everyday_household_noun(14개)/trade_insider_term(11개) 두 태그로 정확히 이 가설을 통제 대조 실험 형태로 이미 심어뒀다 - 아직 KP 실측 표본이 3~14회뿐이라 결론은 못 내리지만, 다음 몇 라운드 후 pattern_tag_performance로 직접 검증 가능하다. 그 결과가 나오기 전까지는 candidate 유지",
+      "title": "이미 검증된(니치 아닌) 업계라도 그 업계 내부자 전문용어는 일상어보다 저조하다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "두 번의 독립 라운드가 모두 무확장 기준보다 낮은 통과율을 보였다는 반증이 이미 반영된 결론 - 재확인",
+      "title": "도메인어 단독 확장(기능어 고정)은 더 이상 우선순위 전략이 아니다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.6,
+      "reason": "방향은 여러 라운드에서 일관되나 '손쉬운 승자는 소진됐다'는 메타 관측도 함께 기록돼 있어, 이 원칙을 다시 적용해도 예전만큼의 효과는 기대하지 말 것 - candidate 유지가 적절하고 validated 승격은 아직 이르다",
+      "title": "보편 금융명사(Fee/Cost/Tax류)는 전문 금융용어(Overdraft/Endowment류)보다 우세하다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.85,
+      "reason": "논리적으로 자명하고, 이번 세션에서도 Almanac 은퇴 패턴과 겹치는 Chronicle/Gazette/Herald를 사전에 걸러낸 사례로 실무적으로도 유용함이 재확인됨",
+      "title": "은퇴 목록(retired_function_words)과 같은 계열의 신조어도 재제안하지 말 것"
+    },
+    {
+      "approve": true,
+      "confidence": 0.9,
+      "reason": "절차적 원칙이라 판단이 아니라 규율 문제 - 이번 세션에서도 이 체크를 실제로 수행해 Timeline/Blueprint/Estimator 등 20개 이상의 후보가 이미 소진됐음을 확인하고 폐기했다(중복 제안 방지 효과 실증)",
+      "title": "새 단어 제안 전 word_bank.py+확장분 전체를 검색해 진짜 새 단어인지 확인할 것"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "관측은 1라운드뿐이지만 그 라운드 안에서 5개 독립 단어가 전부 0%로 수렴한 것은 일반 '1건 관측'보다 강한 내부 일관성이 있다 - candidate 유지가 맞지만 우선순위를 낮출 필요는 없음",
+      "title": "회계상 상태/차액을 가리키는 추상 기능어(Overdue/Payoff류)는 제안하지 말 것"
+    },
+    {
+      "approve": true,
+      "confidence": 0.75,
+      "reason": "Diagram이 등장 즉시 전체 1위를 기록한 강한 단일 신호 - 아직 candidate가 맞지만 우선 탐색 대상으로 유지할 근거는 충분함",
+      "title": "시각적 구조를 보여주는 문서 계열 명사(Diagram/Graph)는 강한 기능어 후보다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.6,
+      "reason": "Calculator 자체는 강했지만(6.35%) 인접어 Forecast의 재현은 약했다(0.89%) - 표면형이 아니라 '계산해서 알려준다'는 좁은 하위 성질이 핵심이라는 해석이 아직 충분히 검증되지 않았다. candidate 유지",
+      "title": "실제 계산 결과를 알려주는 도구 명사(Calculator류)는 강한 기능어 후보다"
+    }
+  ],
+  "judged_at": "2026-09-01T00:16:43.930299+09:00",
+  "judged_by": "main-orchestrator",
+  "request_hash": "3a8095557c673e84aa295ea13fc5bb8c5ca9cf8d6038a0af30e2bba24b87136d",
+  "round": 1,
+  "run_id": "QA-20260901-001530-KST",
+  "stage": "principle_reverification"
+}

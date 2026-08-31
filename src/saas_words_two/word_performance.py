@@ -592,6 +592,21 @@ def pattern_tag_performance(expansion_rows: list[dict], cache_rows: list[dict]) 
     }
 
 
+# 죽은 전략(패턴 태그) 목록 - 2026-09-01: `retirement_candidates`(개별 기능어
+# 은퇴)와 정확히 같은 논리(통과 0 + 시도 충분)를 태그(전략) 단위로 적용한다.
+# "이 전략 방향 자체가 이미 반증됐다"를 개별 단어가 아니라 카테고리 레벨에서
+# 코드가 자동으로 판정해, `expand_word_bank`가 같은 전략을 다른 단어로
+# 포장해 재시도하는 것을 막는다.
+DEAD_PATTERN_TAG_MIN_ATTEMPTS = RETIREMENT_MIN_ATTEMPTS
+
+
+def dead_pattern_tags(
+    expansion_rows: list[dict], cache_rows: list[dict], *, min_attempts: int = DEAD_PATTERN_TAG_MIN_ATTEMPTS
+) -> list[str]:
+    perf = pattern_tag_performance(expansion_rows, cache_rows)
+    return sorted(tag for tag, stats in perf.items() if stats["passed"] == 0 and stats["attempts"] >= min_attempts)
+
+
 def least_tried_pattern_tags(expansion_rows: list[dict], cache_rows: list[dict], *, top_n: int = 5) -> list[str]:
     """실측 시도 횟수가 가장 적은 패턴 태그 순 - `expand_word_bank` 판정에서
     "이미 우려먹은 패턴"에 안주하지 않고 새 축을 시도하도록 유도하는 데 쓴다

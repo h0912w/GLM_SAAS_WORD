@@ -34,3 +34,18 @@
   포함된다
 - `config/word_bank_expansions.csv`에 `pattern_tag` 컬럼이 없는 구버전 파일을
   읽어도 크래시하지 않고 빈 문자열로 하위호환 처리된다
+- **(2026-09-01 추가, 저지능 모델 호환 강화 구조 2단계)** review_titles 응답의
+  구조 결함(제목 불일치/approve 타입 오류/confidence 범위 이탈/거절인데 reason
+  누락/checks-approve 논리 불일치) 비율이 임계값을 넘으면 같은 배치가 더 엄격한
+  지침으로 재요청된다
+- 구조 재요청 한도(기본 1회)를 넘기면 남은 결함 항목은 안전 기본값(자동 거절,
+  `structural_validation_failed:` 사유)으로 확정되고 무한 대기하지 않는다
+- `config/judgment_quality.yaml`의 `review_titles_chunk_size`를 배치 크기보다
+  작게 설정하면 배치가 `review_titles_chunk1`, `review_titles_chunk2`... 순서로
+  쪼개져 순차 판정되고, 기본값(200)에서는 QA 기본 규모가 청크 1개로 처리돼
+  기존 동작과 동일하다
+- `expand_word_bank` 제안의 형식 유효율 또는 탐색 쿼터(새 pattern_tag 비율)가
+  기준 미달이면 재요청되고, 실패한 시도의 유효 단어도 함께 폐기되어 절대
+  병합되지 않는다
+- `principle_reverification`은 설정된 라운드 주기에만 열리고, 그 응답은
+  ledger/산출물에 반영되지 않으며 별도 보고서 파일로만 저장된다

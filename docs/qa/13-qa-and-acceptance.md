@@ -23,6 +23,15 @@
    이상탐지 중 하나라도 걸리면 `review_titles_recheck` 판정이 실제로 열리는지,
    그 결과가 ledger의 `ai_approved`/`ai_reason`(`redteam_recheck_rejected: ...`)에
    반영되는지, 카나리아 자체는 ledger에 절대 남지 않는지.
+7. **(2026-09-01 추가)** 저지능 모델 호환 강화 구조 2단계(같은 문서 다섯 번째
+   개정)의 객관 게이트를 확인한다 - 구조 결함이 과도한 응답이 `[재요청 - 이전
+   응답 구조 결함]` 지침으로 실제 재요청되는지, 재시도 한도 초과 시 안전
+   기본값(자동 거절)으로 확정되고 무한 대기하지 않는지, `config/
+   judgment_quality.yaml`의 `review_titles_chunk_size`를 낮추면 실제로
+   `review_titles_chunk1`류 청크가 발생하는지, `expand_word_bank`의 유효율/
+   탐색 쿼터 미달이 재요청을 트리거하는지, `principle_reverification`이
+   설정된 주기에 실제로 열리고 응답이 별도 보고서로만 저장되는지(ledger에
+   반영되지 않는지).
 
 ## 원본 설계 세부 규칙
 

@@ -616,17 +616,37 @@ _EXPAND_WORD_BANK_INSTRUCTIONS = (
     "모든 명사 뒤에 자연스럽게 붙는 범용 메타포이기 때문이다 - 새 기능어도 이 성질(특정 "
     "업계·특정 의미군에 국한되지 않고 폭넓게 결합됨)을 우선 고려해 제안하라. "
     "기존 word_bank.py와 이미 제안된 확장분(입력으로 함께 제공됨)과 겹치지 않게. "
-    "[가설 태그 - 반드시 준수, 2026-08-31 강화 구조] 각 제안 단어에 pattern_tag(예: "
-    "\"specific_place_noun\", \"action_verb_noun\")를 붙여라 - 같은 태그를 붙인 단어들의 "
-    "실측 통과율이 다음 라운드부터 pattern_tag_performance로 자동 집계돼 그 가설이 맞았는지 "
-    "숫자로 확인된다(세션이 나중에 일일이 기억해서 판단할 필요 없음). 입력의 "
-    "least_tried_pattern_tags는 아직 실측이 적어 검증이 덜 된 태그 목록이다 - 이미 pattern_tag_"
-    "performance에서 통과율이 확인된 태그만 반복하지 말고, 이번 제안 중 일부는 새로운 태그를 "
-    "시도해 탐색-활용 균형을 유지하라(한쪽에만 안주하면 정체로 이어진다). "
+    "[가설 태그 - 반드시 준수, 2026-08-31 강화 구조] 각 제안 단어에 pattern_tag를 붙여라 - "
+    "개별 단어의 별명이 아니라 **재사용 가능한 전략 카테고리**여야 한다(예: "
+    "\"specific_place_noun\", \"action_verb_noun\" - 이번에 제안하는 여러 단어가 같은 "
+    "카테고리면 같은 태그를 공유해야 다음 라운드부터 pattern_tag_performance가 그 전략의 "
+    "실측 통과율을 의미 있게 집계한다). 입력의 least_tried_pattern_tags는 아직 실측이 적어 "
+    "검증이 덜 된 태그 목록이고, dead_pattern_tags는 **이미 반증돼 죽은 전략**이다(원 단어와 "
+    "다른 단어를 골라도 같은 전략 방향이면 재제안하지 마라 - 예: dead_pattern_tags에 "
+    "\"promo_incentive_noun\"이 있으면 그 계열의 새 단어를 또 시도하지 말 것). "
+    "[2026-09-01 강화 구조 - 탐색 쿼터] 입력의 exploration_quota_pct(기본 30%) 이상의 "
+    "제안은 pattern_tag_performance에 아직 없는(=한 번도 안 써본) 완전히 새로운 태그여야 "
+    "한다 - 이미 검증된 태그만 우려먹으면 코드가 이 라운드를 거부하고 더 엄격한 지침으로 "
+    "재요청한다(무한 재시도는 아니고 1회 한도). "
+    "[2026-09-01 강화 구조 - 원칙 자체가 틀렸을 수 있다] accumulated_learnings의 validated "
+    "원칙들도 이 문서 로그를 보면 여러 번 반증되며 재정의된 이력이 있다(예: '범용 결합력' "
+    "원칙, '도메인어 단독 확장' 원칙 모두 한 번은 성공처럼 보였다가 다음 독립 라운드에서 "
+    "뒤집혔다) - 지금 validated라고 표시된 것도 영구히 맞다고 가정하지 마라. 이번 제안 중 "
+    "최소 1개는 의도적으로 현재 validated 원칙 중 하나와 반대 방향(대조 실험)으로 설계해서, "
+    "그 원칙이 여전히 맞는지 다음 라운드 실측으로 확인할 수 있게 하라. "
     "각 항목을 "
     '{"type": "domain"|"function", "word": "Title Case 단일 영단어", "industry": '
-    '"domain일 때만 필수, function이면 생략", "pattern_tag": "이 단어가 대표하는 패턴 태그"} '
-    "형태로 응답하라."
+    '"domain일 때만 필수, function이면 생략", "pattern_tag": "이 단어가 대표하는 재사용 '
+    '가능한 전략 카테고리"} 형태로 응답하라.'
+)
+
+# 2026-09-01: expand_word_bank 응답이 형식(유효 제안 비율)이나 탐색 쿼터를
+# 충족하지 못했을 때 재요청에 덧붙이는 보강 지침.
+_EXPAND_WORD_BANK_RETRY_SUFFIX = (
+    "\n\n[재요청 - 이전 응답 품질 미달] 이전 제안 중 {invalid_pct:.0f}%가 형식을 지키지 "
+    "않았거나(단일 Title Case 영단어가 아님, industry 누락 등) 탐색 쿼터(최소 "
+    "{quota_pct:.0f}%는 완전히 새로운 pattern_tag)를 충족하지 못했다. 이번엔 더 적은 개수를 "
+    "제안하더라도 형식과 탐색 쿼터를 정확히 지켜라."
 )
 
 
@@ -660,10 +680,13 @@ def _load_word_generation_learnings_principles(project_root: Path) -> str:
     return section.strip()
 
 
-def _write_expand_word_bank_request(project_root: Path, run_dir: Path, state: run_state.RunState) -> Path:
+def _write_expand_word_bank_request(
+    project_root: Path, run_dir: Path, state: run_state.RunState, *, round_no: int = 1, extra_instructions: str = ""
+) -> Path:
     existing_domain, existing_function = _merged_word_bank(project_root)
     expansion_rows = _load_word_bank_expansion_rows(project_root)
     cache_rows = word_performance.load_cache_rows(project_root)
+    cfg = config.load_judgment_quality_config(project_root)
     items = [
         {"industry": industry, "existing_domain_words": list(words)}
         for industry, words in existing_domain.items()
@@ -671,17 +694,20 @@ def _write_expand_word_bank_request(project_root: Path, run_dir: Path, state: ru
         {"existing_function_words": list(existing_function)},
         {"function_word_performance": word_performance.performance_summary_for_expansion(project_root)},
         {"accumulated_learnings": _load_word_generation_learnings_principles(project_root)},
-        # 2026-08-31 강화 구조: 가설(pattern_tag)-검증 루프 + 탐색-활용 균형.
+        # 2026-08-31/09-01 강화 구조: 가설(pattern_tag)-검증 루프 + 탐색-활용 균형 +
+        # 죽은 전략(카테고리 단위 은퇴) + 탐색 쿼터.
         {"pattern_tag_performance": word_performance.pattern_tag_performance(expansion_rows, cache_rows)},
         {"least_tried_pattern_tags": word_performance.least_tried_pattern_tags(expansion_rows, cache_rows)},
+        {"dead_pattern_tags": word_performance.dead_pattern_tags(expansion_rows, cache_rows)},
+        {"exploration_quota_pct": cfg["exploration_quota_pct"] * 100},
     ]
     return judgment.write_request(
         run_dir,
         "expand_word_bank",
         state.run_id,
-        _EXPAND_WORD_BANK_INSTRUCTIONS,
+        _EXPAND_WORD_BANK_INSTRUCTIONS + extra_instructions,
         items,
-        round_no=1,
+        round_no=round_no,
         generated_at=ids.now_kst().isoformat(),
     )
 
@@ -747,202 +773,237 @@ _REVIEW_TITLES_RECHECK_INSTRUCTIONS = (
 )
 
 
-def _stage_generate_and_review_titles(project_root: Path, options: RunOptions, state: run_state.RunState) -> None:
-    run_dir = _run_dir(project_root, state)
-    stage_name = "review_titles"
-    round_no = 1
-    backlog = state.context.get("backlog", [])
+# ---------------------------------------------------------------------------
+# 저지능 모델 호환 강화 구조 2단계 (2026-09-01, 사용자 지시) - "판단이 아니라
+# 형식·절차 자체를 못 따라간" 경우를 코드가 기계적으로 걸러서, 그 상태로는
+# 절대 다음 스테이지로 넘어가지 못하게 한다. 판단 자체(코드가 대신 판정)가
+# 아니라 구조 검증(응답이 요청한 스키마를 지켰는가)만 code가 전담한다(§5).
+# ---------------------------------------------------------------------------
 
-    if judgment.has_response(run_dir, stage_name, round_no):
-        response = judgment.read_response(run_dir, stage_name, round_no)
-        candidate_industry = state.context.get("candidate_industry", {})
-        judged_at = ids.now_kst().isoformat()
 
-        golden = word_performance.load_golden_set(project_root)
-        real_decisions = []
-        canary_decisions = []
-        for decision in response["decisions"]:
-            if normalize_title(decision.get("title", "")) in golden:
-                canary_decisions.append(decision)
-            else:
-                real_decisions.append(decision)
-        golden_eval = word_performance.evaluate_golden_set(canary_decisions, golden)
+def _load_judgment_quality_config(project_root: Path) -> dict:
+    return config.load_judgment_quality_config(project_root)
 
-        ledger_rows: list[dict] = []
-        pending_approved: list[dict] = []
-        low_confidence_titles: list[str] = []
-        for decision in real_decisions:
-            title = decision["title"]
-            approve = bool(decision.get("approve"))
-            confidence = decision.get("confidence")
-            if approve:
-                pending_approved.append(
-                    {
-                        "title": title,
-                        "industry": candidate_industry.get(title, ""),
-                        "original_reason": decision.get("reason", ""),
-                    }
-                )
-                if isinstance(confidence, (int, float)) and confidence < CONFIDENCE_RECHECK_THRESHOLD:
-                    low_confidence_titles.append(title)
-            else:
-                ledger_rows.append(
-                    {
-                        "title": title,
-                        "industry": candidate_industry.get(title, ""),
-                        "ai_approved": "False",
-                        "ai_reason": decision.get("reason", ""),
-                        "judged_at": judged_at,
-                    }
-                )
 
-        approval_anomaly = word_performance.detect_approval_rate_anomaly(
-            word_performance.load_round_history(project_root),
-            generated=len(real_decisions),
-            ai_approved=len(pending_approved),
+def _validate_review_decisions(items: list[dict], decisions: list[dict]) -> tuple[dict[str, dict], list[tuple[str | None, str]]]:
+    """`items`(요청에 보낸 후보 목록)에 대한 `decisions`(응답)가 구조적으로
+    온전한지 검사한다. 반환: (title -> 유효한 decision dict, [(title_or_None, 결함사유)]).
+
+    판단(approve가 맞았는지)은 검사하지 않는다 - 오직 "응답이 요청한 스키마를
+    지켰는가"만 본다: 모든 항목에 결정이 있는가·중복 없는가·title이 실제
+    후보와 일치하는가·approve가 boolean인가·confidence가 0.0~1.0인가·거절이면
+    reason이 있는가·(있다면) checks 필드가 approve와 논리적으로 앞뒤가
+    맞는가. 하나라도 어긋나면 그 항목은 "구조 결함"으로 분류돼 이후
+    (재요청 또는 안전 기본값 자동거절) 처리 대상이 된다."""
+    item_titles = {it["title"] for it in items}
+    accepted: dict[str, dict] = {}
+    malformed: list[tuple[str | None, str]] = []
+    seen: set[str] = set()
+
+    for decision in decisions:
+        title = decision.get("title")
+        if not isinstance(title, str) or title not in item_titles:
+            malformed.append((title if isinstance(title, str) else None, "unknown_or_missing_title"))
+            continue
+        if title in seen:
+            malformed.append((title, "duplicate_decision"))
+            continue
+        approve = decision.get("approve")
+        if not isinstance(approve, bool):
+            malformed.append((title, "approve_not_boolean"))
+            continue
+        confidence = decision.get("confidence")
+        if confidence is not None and not (isinstance(confidence, (int, float)) and 0.0 <= confidence <= 1.0):
+            malformed.append((title, "confidence_out_of_range"))
+            continue
+        if not approve and not str(decision.get("reason", "")).strip():
+            malformed.append((title, "missing_reason_for_rejection"))
+            continue
+        checks = decision.get("checks")
+        if isinstance(checks, dict) and {"clarity", "duplication", "trademark"} <= checks.keys():
+            all_pass = all(bool(checks[k]) for k in ("clarity", "duplication", "trademark"))
+            if approve and not all_pass:
+                malformed.append((title, "checks_inconsistent_with_approve_true"))
+                continue
+            if not approve and all_pass:
+                malformed.append((title, "checks_inconsistent_with_approve_false"))
+                continue
+        seen.add(title)
+        accepted[title] = decision
+
+    for missing_title in item_titles - seen:
+        if missing_title not in {t for t, _ in malformed}:
+            malformed.append((missing_title, "no_decision_for_item"))
+
+    return accepted, malformed
+
+
+_STRUCTURAL_RETRY_NOTE = (
+    "\n\n[재요청 - 이전 응답 구조 결함] 이전 응답의 항목 중 상당수({invalid_pct:.0f}%)가 "
+    "형식을 지키지 않았다(제목 불일치, approve가 boolean이 아님, confidence 범위 이탈, "
+    "거절인데 reason 누락, checks와 approve 불일치 등). 이번엔 아래 스키마를 정확히 지켜라: "
+    '{{"title": "요청에 있던 제목 그대로", "approve": true|false, "confidence": 0.0~1.0, '
+    '"reason": "거절 시 필수"}}. 모든 항목에 정확히 하나씩 답하고, 같은 제목을 두 번 "'
+    "답하지 마라."
+)
+
+
+def _process_review_chunk(
+    project_root: Path, run_dir: Path, state: run_state.RunState, stage_name: str, chunk_items: list[dict], instructions: str
+) -> dict[str, dict]:
+    """review_titles 배치를 청크 단위로 판정시키고, 구조 결함이 과도하면(코드가
+    기계적으로 판정) 같은 청크를 더 엄격한 지침으로 1회 재요청한다 - 판단 자체는
+    항상 AI가 하고, 코드는 "응답 형식이 온전한가"만 게이트로 사용한다(§5)."""
+    cfg = _load_judgment_quality_config(project_root)
+    retry_max = cfg["structural_retry_max"]
+    invalid_threshold = cfg["structural_invalid_ratio_for_full_retry"]
+
+    attempts = state.context.setdefault("review_attempts", {})
+    round_no = attempts.get(stage_name, 1)
+
+    if not judgment.has_response(run_dir, stage_name, round_no):
+        request_path = judgment.write_request(
+            run_dir, stage_name, state.run_id, instructions, chunk_items,
+            round_no=round_no, generated_at=ids.now_kst().isoformat(),
         )
-        needs_recheck = (
-            bool(golden_eval["mismatches"])
-            or bool(low_confidence_titles)
-            or approval_anomaly["status"] in ("anomalous_high", "anomalous_low")
+        _pause_for_judgment(project_root, state, stage_name, request_path)
+
+    response = judgment.read_response(run_dir, stage_name, round_no)
+    accepted, malformed = _validate_review_decisions(chunk_items, response["decisions"])
+    invalid_ratio = (len(malformed) / len(chunk_items)) if chunk_items else 0.0
+
+    if invalid_ratio > invalid_threshold and round_no <= retry_max:
+        attempts[stage_name] = round_no + 1
+        state.context["review_attempts"] = attempts
+        retry_instructions = instructions + _STRUCTURAL_RETRY_NOTE.format(invalid_pct=invalid_ratio * 100)
+        request_path = judgment.write_request(
+            run_dir, stage_name, state.run_id, retry_instructions, chunk_items,
+            round_no=round_no + 1, generated_at=ids.now_kst().isoformat(),
         )
+        _pause_for_judgment(project_root, state, stage_name, request_path)
 
-        recheck_stage = "review_titles_recheck"
-        if needs_recheck and pending_approved:
-            if judgment.has_response(run_dir, recheck_stage, round_no):
-                recheck_response = judgment.read_response(run_dir, recheck_stage, round_no)
-                recheck_by_title = {d["title"]: d for d in recheck_response["decisions"]}
-                fresh_approved = []
-                for item in pending_approved:
-                    verdict = recheck_by_title.get(item["title"])
-                    survived = bool(verdict.get("approve")) if verdict else False
-                    reason = ""
-                    if not survived:
-                        refute_reason = verdict.get("reason", "") if verdict else "no_recheck_response"
-                        reason = f"redteam_recheck_rejected: {refute_reason}"
-                    ledger_rows.append(
-                        {
-                            "title": item["title"],
-                            "industry": item["industry"],
-                            "ai_approved": str(survived),
-                            "ai_reason": reason,
-                            "judged_at": judged_at,
-                        }
-                    )
-                    if survived:
-                        fresh_approved.append({"title": item["title"], "industry": item["industry"]})
-            else:
-                recheck_items = [
-                    {"title": c["title"], "industry": c["industry"], "original_reason": c["original_reason"]}
-                    for c in pending_approved
-                ]
-                request_path = judgment.write_request(
-                    run_dir, recheck_stage, state.run_id, _REVIEW_TITLES_RECHECK_INSTRUCTIONS, recheck_items,
-                    round_no=round_no, generated_at=ids.now_kst().isoformat(),
-                )
-                _pause_for_judgment(project_root, state, recheck_stage, request_path)
-        else:
-            fresh_approved = [{"title": c["title"], "industry": c["industry"]} for c in pending_approved]
-            for c in pending_approved:
-                ledger_rows.append(
-                    {
-                        "title": c["title"],
-                        "industry": c["industry"],
-                        "ai_approved": "True",
-                        "ai_reason": "",
-                        "judged_at": judged_at,
-                    }
-                )
+    # 재시도 한도 도달 또는 결함률이 임계 이하 - 남은 개별 결함은 안전
+    # 기본값(자동 거절)으로 확정하고 계속 진행한다(무한 대기 금지).
+    for title, reason in malformed:
+        if title and title not in accepted:
+            accepted[title] = {
+                "title": title,
+                "approve": False,
+                "reason": f"structural_validation_failed: {reason}",
+            }
+    return accepted
 
-        _append_generated_ledger_rows(project_root, ledger_rows)
-        _export_generated_ledger_snapshot(project_root, ids.now_kst())
 
-        combined = backlog + fresh_approved
-        try:
-            approved = _apply_keyword_metrics_filter(project_root, state, combined)
-        except (KeywordMetricsCredentialsError, KeywordMetricsBudgetExceeded) as exc:
-            state.status = "RETRYING"
-            run_state.save(project_root, state)
-            raise RetryRequired(f"keyword metrics filter unavailable: {exc}", status="RETRYING")
-        finally:
-            # 판정/API 조회 후 모든 스냅샷 생성 - 명시적 호출로 누락 방지
-            _export_final_words_and_history_snapshots(project_root, ids.now_kst())
-            # 학습 루프: 매 라운드 성과 리포트 자동 갱신(캐시 없으면 no-op)
-            word_performance.write_report(project_root, ids.now_kst())
-        state.context["approved"] = approved
-        state.context["round_stats"] = {
-            "generated": len(real_decisions),
-            "ai_approved": len(fresh_approved),
-            "backlog_carried": len(backlog),
-            "kp_passed": len(approved),
-        }
-        # 2026-08-31 강화 구조: 이번 라운드의 판정 품질 신호를 체크포인트
-        # 단계(HANDOFF)에서도 보이도록 상태에 남긴다.
-        state.context["golden_eval"] = golden_eval
-        state.context["approval_anomaly"] = approval_anomaly
-        state.status = "DONE"
-        run_state.save(project_root, state)
+_PRINCIPLE_REVERIFICATION_INSTRUCTIONS = (
+    "입력의 accumulated_learnings에 있는 '핵심 원칙' 각각(특히 validated 표시된 것)에 "
+    "대해 반박을 시도하라 - 지금까지 맞았다고 동의하는 게 목적이 아니라, 이 원칙이 여전히 "
+    "유효한지 의심하는 게 목적이다. 각 원칙에 대해 decisions 배열의 한 항목으로 "
+    '{"title": "원칙을 한 문장으로 요약(추적용, 자유 서술)", "approve": true(여전히 유효)|'
+    'false(반증/재검증 필요), "reason": "판단 근거", "confidence": 0.0~1.0} 형태로 응답하라. '
+    "이 응답은 ledger나 산출물에 반영되지 않는다 - 다음 세션이 memory/"
+    "WORD_GENERATION_LEARNINGS.md의 '핵심 원칙' 절을 갱신할 때 참고할 별도 보고서로만 "
+    "저장된다."
+)
+
+
+def _principle_reverification_report_path(project_root: Path, run_id: str) -> Path:
+    return project_root / "output" / "_pipeline" / "analysis" / f"principle_reverification_{run_id}.json"
+
+
+def _maybe_trigger_principle_reverification(project_root: Path, run_dir: Path, state: run_state.RunState) -> None:
+    """N라운드마다 한 번(기본 10), 지금까지 쌓인 '핵심 원칙'을 전담 반박 역할로
+    재검증하는 판정을 강제로 연다(2026-09-01) - `principle_refresh_reminder`가
+    콘솔에 권고만 하던 것을 실제 판정 게이트로 격상한 것. 응답은 코드가 결론을
+    대신 반영하지 않고 보고서 파일로만 저장한다 - '핵심 원칙' 문서 갱신은 여전히
+    세션의 해석 몫이다(§5)."""
+    cfg = _load_judgment_quality_config(project_root)
+    every_n = cfg["principle_reverification_every_n_rounds"]
+    if every_n <= 0:
         return
 
-    excluded = _excluded_normalized(project_root, state)
-    round_size = options.round_size or DEFAULT_ROUND_SIZE[options.mode]
-    domain_words, function_words = _merged_word_bank(project_root)
-    candidates = word_generation.generate_combinations(
-        round_size, exclude=excluded, domain_words=domain_words, function_words=function_words
+    upcoming_round_number = len(word_performance.load_round_history(project_root)) + 1
+    if upcoming_round_number % every_n != 0:
+        return
+    if state.context.get("principle_reverification_done_for_round") == upcoming_round_number:
+        return
+
+    stage = "principle_reverification"
+    if judgment.has_response(run_dir, stage, 1):
+        response = judgment.read_response(run_dir, stage, 1)
+        atomic_write_text(
+            _principle_reverification_report_path(project_root, state.run_id),
+            json.dumps(response, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+        )
+        state.context["principle_reverification_done_for_round"] = upcoming_round_number
+        return
+
+    principles = _load_word_generation_learnings_principles(project_root)
+    if not principles:
+        state.context["principle_reverification_done_for_round"] = upcoming_round_number
+        return
+
+    request_path = judgment.write_request(
+        run_dir, stage, state.run_id, _PRINCIPLE_REVERIFICATION_INSTRUCTIONS,
+        [{"accumulated_learnings": principles}], round_no=1, generated_at=ids.now_kst().isoformat(),
+    )
+    _pause_for_judgment(project_root, state, stage, request_path)
+
+
+def _process_expand_word_bank_response(project_root: Path, run_dir: Path, state: run_state.RunState) -> None:
+    """expand_word_bank 응답을 소비하기 전에 두 가지 객관 지표를 코드가 검사한다
+    (2026-09-01): ① 유효 제안 비율(형식을 지킨 제안/전체 제안) ② 탐색 쿼터(새
+    pattern_tag 비율). 둘 다 판단이 아니라 순수 집계라 코드 역할(§5)이다. 미달이면
+    1회 한도로 더 엄격한 지침으로 재요청하고, 그래도 미달이면 있는 그대로
+    받아들이고 계속 진행한다(무한 재시도 금지)."""
+    cfg = _load_judgment_quality_config(project_root)
+    round_no = state.context.get("expand_word_bank_round_no", 1)
+    response = judgment.read_response(run_dir, "expand_word_bank", round_no)
+
+    retired = word_performance.load_retired_function_words(project_root)
+    new_rows = _consume_word_bank_expansion(response, state.run_id, ids.now_kst().isoformat(), retired=retired)
+
+    total_proposed = len(response.get("decisions", []))
+    if total_proposed == 0:
+        # 아예 제안이 없는 것은 "형식을 못 지킨 것"이 아니라 세션이 정직하게
+        # "제안할 게 없다"고 답한 정상 케이스일 수 있다(예: QA 테스트, 정말로
+        # 소진). 품질 게이트 대상이 아니다 - 그대로 진행하면 candidates가 계속
+        # 비어 CAPABILITY_STAGNATION으로 정직하게 끝난다.
+        _append_word_bank_expansion_rows(project_root, new_rows)
+        return
+
+    valid_ratio = len(new_rows) / total_proposed
+
+    expansion_rows = _load_word_bank_expansion_rows(project_root)
+    cache_rows = word_performance.load_cache_rows(project_root)
+    already_tried_tags = set(word_performance.pattern_tag_performance(expansion_rows, cache_rows).keys())
+    tagged_rows = [r for r in new_rows if r.get("pattern_tag")]
+    new_tag_ratio = (
+        sum(1 for r in tagged_rows if r["pattern_tag"] not in already_tried_tags) / len(tagged_rows)
+        if tagged_rows
+        else 1.0  # 태그가 아예 없으면 탐색 쿼터를 판단할 근거가 없다 - 유효 비율 게이트가 이미 걸러줌
     )
 
-    if not candidates:
-        expand_stage = "expand_word_bank"
-        if judgment.has_response(run_dir, expand_stage, round_no):
-            expand_response = judgment.read_response(run_dir, expand_stage, round_no)
-            new_rows = _consume_word_bank_expansion(
-                expand_response,
-                state.run_id,
-                ids.now_kst().isoformat(),
-                retired=word_performance.load_retired_function_words(project_root),
-            )
-            _append_word_bank_expansion_rows(project_root, new_rows)
-            domain_words, function_words = _merged_word_bank(project_root)
-            candidates = word_generation.generate_combinations(
-                round_size, exclude=excluded, domain_words=domain_words, function_words=function_words
-            )
-        elif not state.context.get("word_bank_expansion_attempted"):
-            state.context["word_bank_expansion_attempted"] = True
-            expand_request_path = _write_expand_word_bank_request(project_root, run_dir, state)
-            _pause_for_judgment(project_root, state, expand_stage, expand_request_path)
+    quality_ok = valid_ratio >= cfg["expand_word_bank_min_valid_ratio"] and new_tag_ratio >= cfg["exploration_quota_pct"]
+    retry_count = state.context.get("expand_word_bank_quality_retries", 0)
 
-    if not candidates:
-        if not backlog:
-            state.status = "CAPABILITY_STAGNATION"
-            run_state.save(project_root, state)
-            raise RetryRequired(
-                "word bank exhausted even after a self-expansion attempt - "
-                "no new combinations and no pending backlog",
-                status="CAPABILITY_STAGNATION",
-            )
-        try:
-            approved = _apply_keyword_metrics_filter(project_root, state, backlog)
-        except (KeywordMetricsCredentialsError, KeywordMetricsBudgetExceeded) as exc:
-            state.status = "RETRYING"
-            run_state.save(project_root, state)
-            raise RetryRequired(f"keyword metrics filter unavailable: {exc}", status="RETRYING")
-        state.context["approved"] = approved
-        state.context["round_stats"] = {
-            "generated": 0,
-            "ai_approved": 0,
-            "backlog_carried": len(backlog),
-            "kp_passed": len(approved),
-        }
-        state.status = "DONE"
-        run_state.save(project_root, state)
-        return
+    if not quality_ok and retry_count < cfg["expand_word_bank_retry_max"]:
+        state.context["expand_word_bank_quality_retries"] = retry_count + 1
+        new_round_no = round_no + 1
+        state.context["expand_word_bank_round_no"] = new_round_no
+        invalid_pct = (1.0 - valid_ratio) * 100
+        extra = _EXPAND_WORD_BANK_RETRY_SUFFIX.format(
+            invalid_pct=invalid_pct, quota_pct=cfg["exploration_quota_pct"] * 100
+        )
+        request_path = _write_expand_word_bank_request(
+            project_root, run_dir, state, round_no=new_round_no, extra_instructions=extra
+        )
+        _pause_for_judgment(project_root, state, "expand_word_bank", request_path)
 
-    candidate_industry = state.context.setdefault("candidate_industry", {})
-    for item in candidates:
-        candidate_industry[item["title"]] = item["industry"]
-    state.context["candidate_industry"] = candidate_industry
+    _append_word_bank_expansion_rows(project_root, new_rows)
 
-    instructions = (
+
+def _review_titles_instructions(project_root: Path) -> str:
+    return (
         "각 후보를 아래 세 기준으로 각각 독립적으로 평가한 뒤 종합하라(하나로 뭉뚱그려 "
         "판단하지 말 것 - 복합판단에서는 항목을 놓치기 쉽다):\n"
         "1) 명확성: 어떤 SaaS인지 짐작 가능한가\n"
@@ -952,20 +1013,240 @@ def _stage_generate_and_review_titles(project_root: Path, options: RunOptions, s
         "실패했는지 남겨라. 모두 통과하면 approve=true. [2026-08-31 강화 구조 - 반드시 "
         "포함] 각 판정에 스스로 이 판단이 얼마나 확실한지 0.0~1.0 사이 confidence를 반드시 "
         "포함하라 - 애매하거나 근거가 약하면 낮게 매겨라(낮은 confidence는 자동으로 별도 "
-        "재검증 라운드에 회부되므로 정직하게 매기는 편이 유리하다). 이 배치에는 판정 품질을 "
-        "확인하기 위한 고정 정답 카나리아 후보가 실제 후보와 형식상 구분 없이 섞여 있다 - "
-        "어떤 항목이 카나리아인지 추측하거나 다르게 취급하려 하지 말고 모든 항목을 동일한 "
-        "기준으로 판정하라. industry 필드는 참고용 맥락이다."
+        "재검증 라운드에 회부되므로 정직하게 매기는 편이 유리하다). [2026-09-01 강화 구조 - "
+        "권장] 가능하면 각 판정에 checks 필드도 포함하라: "
+        '{"clarity": true|false, "duplication": true|false, "trademark": true|false} - '
+        "세 값이 모두 true일 때만 approve=true여야 하고, 하나라도 false면 approve=false여야 "
+        "한다(이 논리가 어긋나면 코드가 구조 결함으로 보고 재검증에 회부한다). 이 배치에는 "
+        "판정 품질을 확인하기 위한 고정 정답 카나리아 후보가 실제 후보와 형식상 구분 없이 "
+        "섞여 있다 - 어떤 항목이 카나리아인지 추측하거나 다르게 취급하려 하지 말고 모든 "
+        "항목을 동일한 기준으로 판정하라. industry 필드는 참고용 맥락이다."
         + _review_titles_few_shot_examples(project_root)
     )
+
+
+def _stage_generate_and_review_titles(project_root: Path, options: RunOptions, state: run_state.RunState) -> None:
+    run_dir = _run_dir(project_root, state)
+    backlog = state.context.get("backlog", [])
+
+    # 2026-09-01 강화 구조: N라운드마다 지금까지의 '핵심 원칙'을 반박 전담으로
+    # 재검증하는 판정을 강제로 연다 - 매 호출마다 확인하되, 이번 라운드에 이미
+    # 처리됐으면 즉시 no-op이다.
+    _maybe_trigger_principle_reverification(project_root, run_dir, state)
+
+    if "review_all_items" not in state.context:
+        excluded = _excluded_normalized(project_root, state)
+        round_size = options.round_size or DEFAULT_ROUND_SIZE[options.mode]
+        domain_words, function_words = _merged_word_bank(project_root)
+        candidates = word_generation.generate_combinations(
+            round_size, exclude=excluded, domain_words=domain_words, function_words=function_words
+        )
+
+        if not candidates:
+            expand_stage = "expand_word_bank"
+            expand_round_no = state.context.get("expand_word_bank_round_no", 1)
+            if judgment.has_response(run_dir, expand_stage, expand_round_no):
+                _process_expand_word_bank_response(project_root, run_dir, state)
+                domain_words, function_words = _merged_word_bank(project_root)
+                candidates = word_generation.generate_combinations(
+                    round_size, exclude=excluded, domain_words=domain_words, function_words=function_words
+                )
+            elif not state.context.get("word_bank_expansion_attempted"):
+                state.context["word_bank_expansion_attempted"] = True
+                expand_request_path = _write_expand_word_bank_request(project_root, run_dir, state)
+                _pause_for_judgment(project_root, state, expand_stage, expand_request_path)
+
+        if not candidates:
+            if not backlog:
+                state.status = "CAPABILITY_STAGNATION"
+                run_state.save(project_root, state)
+                raise RetryRequired(
+                    "word bank exhausted even after a self-expansion attempt - "
+                    "no new combinations and no pending backlog",
+                    status="CAPABILITY_STAGNATION",
+                )
+            try:
+                approved = _apply_keyword_metrics_filter(project_root, state, backlog)
+            except (KeywordMetricsCredentialsError, KeywordMetricsBudgetExceeded) as exc:
+                state.status = "RETRYING"
+                run_state.save(project_root, state)
+                raise RetryRequired(f"keyword metrics filter unavailable: {exc}", status="RETRYING")
+            state.context["approved"] = approved
+            state.context["round_stats"] = {
+                "generated": 0,
+                "ai_approved": 0,
+                "backlog_carried": len(backlog),
+                "kp_passed": len(approved),
+            }
+            state.status = "DONE"
+            run_state.save(project_root, state)
+            return
+
+        candidate_industry = state.context.setdefault("candidate_industry", {})
+        for item in candidates:
+            candidate_industry[item["title"]] = item["industry"]
+        state.context["candidate_industry"] = candidate_industry
+
+        golden = word_performance.load_golden_set(project_root)
+        canary_items = [{"title": row["title"], "industry": "canary"} for row in golden.values()]
+        state.context["review_all_items"] = canary_items + [
+            {"title": c["title"], "industry": c["industry"]} for c in candidates
+        ]
+        state.context["review_chunk_index"] = 0
+        state.context["review_chunk_decisions"] = {}
+        run_state.save(project_root, state)
+
+    # ------------------------------------------------------------------
+    # 2026-09-01 강화 구조: 배치를 청크로 쪼개 순차 판정한다(기본 청크 크기는
+    # 커서 QA 기본 규모에선 청크 1개=기존 동작과 동일 - 지능이 더 낮은 모델을
+    # 붙였다면 config/judgment_quality.yaml의 chunk_size를 낮춰서 실제로
+    # 쪼개지게 한다). 각 청크는 구조 검증(_process_review_chunk)을 통과해야만
+    # 다음 청크로 넘어간다 - 통과 못 하면 그 청크에서 재요청하며 멈춘다.
+    # ------------------------------------------------------------------
+    all_items = state.context["review_all_items"]
+    cfg = _load_judgment_quality_config(project_root)
+    chunk_size = max(1, cfg["review_titles_chunk_size"])
+    chunks = [all_items[i : i + chunk_size] for i in range(0, len(all_items), chunk_size)]
+    decisions_by_title: dict[str, dict] = state.context.setdefault("review_chunk_decisions", {})
+    chunk_index = state.context.get("review_chunk_index", 0)
+    review_instructions = _review_titles_instructions(project_root)
+
+    while chunk_index < len(chunks):
+        stage_name = "review_titles" if chunk_index == 0 else f"review_titles_chunk{chunk_index}"
+        accepted = _process_review_chunk(project_root, run_dir, state, stage_name, chunks[chunk_index], review_instructions)
+        decisions_by_title.update(accepted)
+        chunk_index += 1
+        state.context["review_chunk_decisions"] = decisions_by_title
+        state.context["review_chunk_index"] = chunk_index
+        run_state.save(project_root, state)
+
+    candidate_industry = state.context.get("candidate_industry", {})
+    judged_at = ids.now_kst().isoformat()
+
     golden = word_performance.load_golden_set(project_root)
-    canary_items = [{"title": row["title"], "industry": "canary"} for row in golden.values()]
-    items = canary_items + [{"title": c["title"], "industry": c["industry"]} for c in candidates]
-    request_path = judgment.write_request(
-        run_dir, stage_name, state.run_id, instructions, items,
-        round_no=round_no, generated_at=ids.now_kst().isoformat(),
+    real_decisions = []
+    canary_decisions = []
+    for decision in decisions_by_title.values():
+        if normalize_title(decision.get("title", "")) in golden:
+            canary_decisions.append(decision)
+        else:
+            real_decisions.append(decision)
+    golden_eval = word_performance.evaluate_golden_set(canary_decisions, golden)
+
+    ledger_rows: list[dict] = []
+    pending_approved: list[dict] = []
+    low_confidence_titles: list[str] = []
+    for decision in real_decisions:
+        title = decision["title"]
+        approve = bool(decision.get("approve"))
+        confidence = decision.get("confidence")
+        if approve:
+            pending_approved.append(
+                {
+                    "title": title,
+                    "industry": candidate_industry.get(title, ""),
+                    "original_reason": decision.get("reason", ""),
+                }
+            )
+            if isinstance(confidence, (int, float)) and confidence < CONFIDENCE_RECHECK_THRESHOLD:
+                low_confidence_titles.append(title)
+        else:
+            ledger_rows.append(
+                {
+                    "title": title,
+                    "industry": candidate_industry.get(title, ""),
+                    "ai_approved": "False",
+                    "ai_reason": decision.get("reason", ""),
+                    "judged_at": judged_at,
+                }
+            )
+
+    approval_anomaly = word_performance.detect_approval_rate_anomaly(
+        word_performance.load_round_history(project_root),
+        generated=len(real_decisions),
+        ai_approved=len(pending_approved),
     )
-    _pause_for_judgment(project_root, state, stage_name, request_path)
+    needs_recheck = (
+        bool(golden_eval["mismatches"])
+        or bool(low_confidence_titles)
+        or approval_anomaly["status"] in ("anomalous_high", "anomalous_low")
+    )
+
+    recheck_stage = "review_titles_recheck"
+    if needs_recheck and pending_approved:
+        if judgment.has_response(run_dir, recheck_stage, 1):
+            recheck_response = judgment.read_response(run_dir, recheck_stage, 1)
+            recheck_by_title = {d["title"]: d for d in recheck_response["decisions"]}
+            fresh_approved = []
+            for item in pending_approved:
+                verdict = recheck_by_title.get(item["title"])
+                survived = bool(verdict.get("approve")) if verdict else False
+                reason = ""
+                if not survived:
+                    refute_reason = verdict.get("reason", "") if verdict else "no_recheck_response"
+                    reason = f"redteam_recheck_rejected: {refute_reason}"
+                ledger_rows.append(
+                    {
+                        "title": item["title"],
+                        "industry": item["industry"],
+                        "ai_approved": str(survived),
+                        "ai_reason": reason,
+                        "judged_at": judged_at,
+                    }
+                )
+                if survived:
+                    fresh_approved.append({"title": item["title"], "industry": item["industry"]})
+        else:
+            recheck_items = [
+                {"title": c["title"], "industry": c["industry"], "original_reason": c["original_reason"]}
+                for c in pending_approved
+            ]
+            request_path = judgment.write_request(
+                run_dir, recheck_stage, state.run_id, _REVIEW_TITLES_RECHECK_INSTRUCTIONS, recheck_items,
+                round_no=1, generated_at=ids.now_kst().isoformat(),
+            )
+            _pause_for_judgment(project_root, state, recheck_stage, request_path)
+    else:
+        fresh_approved = [{"title": c["title"], "industry": c["industry"]} for c in pending_approved]
+        for c in pending_approved:
+            ledger_rows.append(
+                {
+                    "title": c["title"],
+                    "industry": c["industry"],
+                    "ai_approved": "True",
+                    "ai_reason": "",
+                    "judged_at": judged_at,
+                }
+            )
+
+    _append_generated_ledger_rows(project_root, ledger_rows)
+    _export_generated_ledger_snapshot(project_root, ids.now_kst())
+
+    combined = backlog + fresh_approved
+    try:
+        approved = _apply_keyword_metrics_filter(project_root, state, combined)
+    except (KeywordMetricsCredentialsError, KeywordMetricsBudgetExceeded) as exc:
+        state.status = "RETRYING"
+        run_state.save(project_root, state)
+        raise RetryRequired(f"keyword metrics filter unavailable: {exc}", status="RETRYING")
+    finally:
+        # 판정/API 조회 후 모든 스냅샷 생성 - 명시적 호출로 누락 방지
+        _export_final_words_and_history_snapshots(project_root, ids.now_kst())
+        # 학습 루프: 매 라운드 성과 리포트 자동 갱신(캐시 없으면 no-op)
+        word_performance.write_report(project_root, ids.now_kst())
+    state.context["approved"] = approved
+    state.context["round_stats"] = {
+        "generated": len(real_decisions),
+        "ai_approved": len(fresh_approved),
+        "backlog_carried": len(backlog),
+        "kp_passed": len(approved),
+    }
+    # 2026-08-31 강화 구조: 이번 라운드의 판정 품질 신호를 체크포인트
+    # 단계(HANDOFF)에서도 보이도록 상태에 남긴다.
+    state.context["golden_eval"] = golden_eval
+    state.context["approval_anomaly"] = approval_anomaly
+    state.status = "DONE"
+    run_state.save(project_root, state)
 
 
 # ---------------------------------------------------------------------------

@@ -1,7 +1,7 @@
 # 단어 성과 리포트 (자동 생성)
 
-- 생성 시각: 2026-08-31T23:41:51.770705+09:00
-- 누적 통과율: 2247/246271 = 0.91%
+- 생성 시각: 2026-09-01T00:20:03.322054+09:00
+- 누적 통과율: 2247/246284 = 0.91%
 - 은퇴 기능어: 92개 (`config/retired_function_words.csv`)
 
 ## 기능어 통과율 상위 (시도 100회 이상)
@@ -42,7 +42,7 @@ Almanac, Analyzer, Anchor, Benchmark, Blueprint, Book, Cabinet, Cashback, Catalo
 | License | 22 | 267 | 8.24% |
 | Formula | 16 | 233 | 6.87% |
 | Transfer | 18 | 263 | 6.84% |
-| Video | 17 | 272 | 6.25% |
+| Video | 17 | 273 | 6.23% |
 | Union | 16 | 262 | 6.11% |
 | Family | 16 | 271 | 5.90% |
 | Hospital | 16 | 284 | 5.63% |
@@ -53,7 +53,7 @@ Almanac, Analyzer, Anchor, Benchmark, Blueprint, Book, Cabinet, Cashback, Catalo
 | Chat | 14 | 273 | 5.13% |
 | Council | 14 | 277 | 5.05% |
 | Grading | 14 | 277 | 5.05% |
-| Scratch | 12 | 238 | 5.04% |
+| Scratch | 12 | 239 | 5.02% |
 | Service | 14 | 285 | 4.91% |
 | Ratio | 12 | 249 | 4.82% |
 | Class | 14 | 293 | 4.78% |

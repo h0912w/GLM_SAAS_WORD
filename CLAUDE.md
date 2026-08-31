@@ -105,6 +105,41 @@ main-orchestrator/AGENT.md`의 "판정 프로토콜" 절,
 비중이 코드로 이동한 게 아니라 "코드가 감지, AI가 재검증"하는 새 층이
 추가됐을 뿐이다.
 
+**2026-09-01 저지능 모델 호환 강화 구조 2단계(사용자 지시).** 위 1단계가
+"판단이 맞았는가"를 다뤘다면, 사용자가 두 가지를 더 요구했다: ① "각
+단계별로 객관적 지표로 판정해서, 똑바로 못 했으면 다음 스텝으로 못 넘어가게"
+② "단어 생성 방법 자체가 틀렸을 수 있다는 재검토가 계속 반복돼야 단어 생성
+능력이 향상된다." 구현된 것:
+
+- **응답 구조 완전성 게이트** — review_titles 응답이 요청 스키마(제목 일치·
+  approve가 boolean·confidence 범위·거절 시 reason 필수·`checks` 필드의
+  논리 일관성)를 지켰는지 코드가 검사한다(`word_pipeline._validate_review_
+  decisions`) — 판단이 아니라 형식 검증이라 §5 위반이 아니다. 결함 비율이
+  임계값을 넘으면 같은 배치를 더 엄격한 지침으로 1회 재요청하고, 그래도
+  안 되면 결함 항목만 안전 기본값(자동 거절)으로 확정한다.
+- **배치 청킹** — `config/judgment_quality.yaml`의 `review_titles_chunk_size`
+  (기본 200, QA 기본 규모에선 청크 1개=기존과 동일)로 배치를 순차 판정
+  가능한 작은 단위로 쪼갠다 — 지능이 더 낮은 모델을 붙였다면 이 값을 낮추면
+  된다.
+- **expand_word_bank 유효율·탐색 쿼터 게이트** — 제안 중 형식을 지킨
+  비율과 이미 시도된 `pattern_tag`가 아닌 새 태그 비율을 코드가 계산해
+  미달이면 1회 재요청한다. `word_performance.dead_pattern_tags`(개별
+  기능어 은퇴와 동일 논리를 태그 단위로 적용)를 판정 요청에 노출해 같은
+  실패 전략의 재포장을 막는다.
+- **주기적 원칙 재검증** — N라운드(기본 10)마다 지금까지 validated인
+  '핵심 원칙'을 전담 반박 역할 판정(`principle_reverification`)에 강제로
+  부친다. 응답은 ledger에 반영되지 않고 별도 보고서로만 저장된다 - 문서
+  갱신은 여전히 세션의 해석 몫이다(§5). `expand_word_bank` 지침에도
+  "validated 원칙도 과거에 반증된 이력이 있다 - 이번 제안 중 최소 1개는
+  의도적으로 반대 방향 대조 실험으로 설계하라"는 요구가 코드로 강제
+  삽입된다.
+
+상세는 §4/§5, `.claude/agents/main-orchestrator/AGENT.md`의 "판정 프로토콜
+2단계" 절, `docs/design/15-continuous-word-quality-improvement.md`의 다섯
+번째 개정 참고. **유지되는 것**: 여기서도 §5 역할분리 비중은 그대로다 -
+코드는 오직 "형식을 지켰는가"만 보고, 그 판단이 맞았는가는 여전히 전부
+AI(및 1단계 안전망)의 몫이다.
+
 원본 설계서(`docs/design/source/claude_code_saas_high_demand_low_supply_two_word_design_v2.4.md`)는
 여전히 역사적 기준이지만, 위 전환들이 실행 규칙의 우선순위를 가진다. 새 규칙과
 원본이 충돌하면 전환 결정을 따르고, 충돌 사실을 `memory/ACTIVE_ISSUES.md`에
@@ -155,7 +190,9 @@ main-orchestrator/AGENT.md`의 "판정 프로토콜" 절,
 **입력**: `input/blocklist.txt`, `src/saas_words_two/word_bank.py`(업계별
 단어뱅크), `config/keyword_metrics.yaml`(검색량·경쟁지수 기준값), `.env.local`
 (Google Ads API 자격증명, git 제외), `config/golden_set.csv`(판정 품질 회귀
-검사용 고정 정답 카나리아, §4 하단 참고), 메모리 파일.
+검사용 고정 정답 카나리아, §4 하단 참고), `config/judgment_quality.yaml`
+(청크 크기·구조 재요청 임계값·탐색 쿼터·원칙 재검증 주기, 2026-09-01),
+메모리 파일.
 
 **출력 — 정확히 4개 문서, 각각 마스터(고정 경로, 항상 최신) + 날짜시간 스냅샷**:
 
@@ -259,6 +296,10 @@ backlog만 처리한 라운드(신규 생성 0건)는 구간 계산에서 제외
 | 승인율 이상탐지(circuit breaker) | 전담(순수 수치 비교, `detect_approval_rate_anomaly`) | — |
 | 레드팀 재검증(`review_titles_recheck`) | 트리거 판정만(순수 수치 신호 3종 OR) | 반박 전담 판정 |
 | 패턴 태그 가설-검증 루프 | 집계(순수 통계, `pattern_tag_performance`/`least_tried_pattern_tags`) | 가설 태그 부여·탐색-활용 균형 유지 |
+| 응답 구조 완전성 검증(2026-09-01) | 전담(순수 스키마 검사, `_validate_review_decisions`) | 구조 재요청 시 스키마 준수해 재응답 |
+| 배치 청킹 | 전담(분할·순서 제어) | 청크별 독립 판정 |
+| expand_word_bank 유효율·탐색 쿼터 게이트 | 전담(순수 비율 계산) | 미달 시 재요청에 응답, 죽은 전략 회피 |
+| 원칙 재검증 주기 트리거 | 전담(순수 라운드 수 비교) | 반박 전담 판정, 보고서 해석·문서 갱신 |
 | QA | 동일 파이프라인 실행 | `final-qa-runner`가 실행 결과 판정 |
 
 전체 매트릭스는 `docs/architecture/06-agents-and-role-separation.md`를 따른다.

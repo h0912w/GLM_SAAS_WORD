@@ -57,6 +57,35 @@ model: inherit
 상세 배경은 `docs/design/15-continuous-word-quality-improvement.md`와
 `memory/ACTIVE_ISSUES.md`를 참고한다.
 
+## 판정 프로토콜 2단계 - 형식·구조 (2026-09-01, 사용자 지시)
+
+배경: 지능이 더 낮은 모델일수록 판단이 틀리는 것 못지않게 **응답 형식/절차
+자체를 못 지키는** 위험이 크다. 코드가 이를 기계적으로 걸러 다음 스테이지로
+못 넘어가게 하는 안전망이 추가됐다 - 아래는 이 에이전트가 그 게이트에
+걸리지 않고 협조적으로 작동하기 위한 지침이다.
+
+1. **`checks` 필드를 채워라.** `review_titles`/`review_titles_recheck` 응답의
+   각 항목에 `{"clarity": bool, "duplication": bool, "trademark": bool}`을
+   포함하고, `approve`는 반드시 이 세 값의 AND와 논리적으로 일치시켜라 -
+   불일치는 코드가 구조 결함으로 보고 자동 재검증에 회부한다(3번 지침의
+   실제 강제 버전).
+2. **배치가 청크로 나뉘어 올 수 있다.** `review_titles_chunk1`, `_chunk2`
+   같은 이름으로 같은 배치의 다음 부분이 이어질 수 있다 - 각 청크를 완전히
+   독립된 판정 요청으로 취급하고, 이전 청크에서 본 항목을 다시 언급하거나
+   전체 배치 맥락을 가정하지 마라(각 청크는 자기 완결적이다).
+3. **구조 재요청(`[재요청 - 이전 응답 구조 결함]`)이 오면 스키마를 정확히
+   지켜라.** 이전 응답이 형식 위반으로 거부됐다는 뜻이다 - 판단을 다시
+   하라는 게 아니라 응답 형태(모든 항목에 정확히 하나의 결정, `approve`는
+   boolean, 거절이면 `reason` 필수)를 정확히 맞추라는 뜻이다.
+4. **`principle_reverification` 요청이 오면 반박 전담으로 응답하라.** 이건
+   review_titles와 무관한 별도 판정이다 - `accumulated_learnings`의 각
+   validated 원칙에 대해 "여전히 유효한가"를 의심하고, 응답은 ledger에
+   반영되지 않는 별도 보고서로만 저장된다는 걸 알고 편하게 반박하라.
+5. **`expand_word_bank` 제안이 품질 미달로 재요청되면(`[재요청 - 이전 응답
+   품질 미달]`) 개수보다 정확성을 우선하라.** 형식(단일 Title Case 영단어,
+   domain이면 industry 필수)과 탐색 쿼터(pattern_tag_performance에 없는
+   새 태그 비율)를 지키는 게 개수를 채우는 것보다 중요하다.
+
 ## 공통 금지
 - 별도 Anthropic API/SDK 호출
 - 원문 대량 복사

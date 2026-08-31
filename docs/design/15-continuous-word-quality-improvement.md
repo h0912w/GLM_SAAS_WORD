@@ -160,6 +160,56 @@ AI가 스스로 도는 게 핵심** - 애매한 판정을 사람에게 에스컬
 
 ---
 
+## ⚠️ 2026-09-01 다섯 번째 개정 — 저지능 모델 호환 강화 구조 2단계(구현 완료)
+
+**배경**: 네 번째 개정(2026-08-31)이 "판단이 맞았는가"를 다뤘다면, 이 개정은
+사용자가 요청한 두 가지를 더한다 — ① "각 단계별로 이를 똑바로 했는지를
+객관적 지표로 판정해서, 못 했으면 다음 스텝으로 못 넘어가게" ② "단어 생성
+방법 자체가 틀렸을 수 있다는 재검토가 계속 반복돼야 단어 생성 능력이 향상된다."
+
+**① 구조 완전성 게이트 + 배치 청킹** (`word_pipeline._validate_review_decisions`,
+`_process_review_chunk`): review_titles 응답이 요청한 스키마(제목 일치·
+approve가 boolean·confidence 범위·거절 시 reason·`checks` 필드의 논리
+일관성)를 지켰는지 코드가 검사한다 — 이건 판단(코드가 approve/reject를
+대신 정하는 것)이 아니라 "응답이 온전한가"만 보는 구조 검증이라 §5 위반이
+아니다. 결함 비율이 임계값(기본 30%)을 넘으면 같은 배치를 더 엄격한 지침으로
+1회 재요청하고, 그래도 안 되면 결함 항목만 안전 기본값(자동 거절)으로 확정한다
+— 무한 대기·무한 재시도 없음. 배치는 `config/judgment_quality.yaml`의
+`review_titles_chunk_size`(기본 200, QA 기본 규모에선 청크 1개=기존과 동일)로
+쪼갤 수 있다 — 지능이 더 낮은 모델을 붙였다면 이 값을 낮춰서 한 번에 봐야
+하는 항목 수 자체를 줄여준다.
+
+**expand_word_bank에도 동일한 철학의 객관 게이트** (`_process_expand_word_bank_response`):
+제안 중 형식을 지킨 비율(유효율, 기본 50% 미만이면 재요청)과, 이미 시도된
+`pattern_tag`가 아닌 새 태그 비율(탐색 쿼터, 기본 30% 미만이면 재요청)을
+코드가 계산한다 — 둘 다 순수 집계라 §5상 코드 역할이다. 각각 최대 1회
+재요청 후에는 있는 그대로 받아들이고 계속 진행한다. 죽은 전략 카테고리
+(`word_performance.dead_pattern_tags` — `retirement_candidates`와 동일 논리를
+개별 단어가 아니라 태그 단위에 적용)를 판정 요청에 직접 노출해, 같은 실패
+전략을 다른 단어로 포장해 재시도하는 것을 막는다.
+
+**② 방법 자체를 의심하는 과정을 구조적으로 반복** (`_maybe_trigger_principle_reverification`):
+N라운드(기본 10)마다 지금까지 validated로 승격된 '핵심 원칙'을 전담 반박
+역할의 판정(`principle_reverification`)에 강제로 부친다 — 이전엔
+`principle_refresh_reminder`가 콘솔에 권고만 했지만, 이제 실제 판정 게이트로
+격상됐다. 응답은 ledger나 산출물에 반영되지 않고 별도 보고서
+(`output/_pipeline/analysis/principle_reverification_<run_id>.json`)로만
+저장된다 — '핵심 원칙' 문서를 실제로 갱신하는 건 여전히 세션의 해석
+몫이다(§5, 원칙 문서는 자연어라 기계적으로 반영할 수 없음). `expand_word_bank`
+지침에도 "validated 원칙도 과거에 여러 번 반증된 이력이 있다 - 이번 제안 중
+최소 1개는 의도적으로 반대 방향 대조 실험으로 설계하라"는 문구를 추가해,
+탐색이 우연이 아니라 매 라운드 구조적으로 요구되게 했다.
+
+**QA 검증**: `python -m pytest -q`(189개, 이번 개정 신규 20개 포함)와
+`python tools/verify_design_coverage.py` PASS. 소규모 실사용 라운드로
+청킹(작은 chunk_size로 여러 청크 강제 발생)·구조 재요청(의도적으로 무효
+응답 제출 후 재요청·최종 안전 기본값 확인)·expand_word_bank 품질 게이트
+(유효율/탐색쿼터 미달 시 재요청)·`principle_reverification` 트리거를 모두
+실제로 확인했다(상세 실행 로그는 `memory/HANDOFF.md`와
+`memory/WORD_GENERATION_LEARNINGS.md` 참고).
+
+---
+
 ## 1. 현재 상황 분석
 
 ### 1.1 병목 지점

@@ -668,6 +668,320 @@ def test_high_confidence_no_golden_set_completes_without_recheck(tmp_path):
 
 
 # ---------------------------------------------------------------------------
+# 저지능 모델 호환 강화 구조 2단계 (2026-09-01): 구조 검증, 배치 청킹,
+# expand_word_bank 품질 게이트(유효율+탐색쿼터), 원칙 재검증 주기 트리거.
+# ---------------------------------------------------------------------------
+
+
+def write_judgment_quality_config(tmp_path, **overrides):
+    import yaml
+
+    path = tmp_path / "config" / "judgment_quality.yaml"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(yaml.safe_dump(overrides), encoding="utf-8")
+
+
+def _sample_items():
+    return [{"title": "A B", "industry": "x"}, {"title": "C D", "industry": "y"}]
+
+
+def test_validate_review_decisions_accepts_well_formed():
+    decisions = [
+        {"title": "A B", "approve": True, "confidence": 0.8},
+        {"title": "C D", "approve": False, "reason": "nope", "confidence": 0.9},
+    ]
+    accepted, malformed = word_pipeline._validate_review_decisions(_sample_items(), decisions)
+    assert malformed == []
+    assert set(accepted.keys()) == {"A B", "C D"}
+
+
+def test_validate_review_decisions_flags_unknown_title():
+    decisions = [
+        {"title": "Nonexistent", "approve": True},
+        {"title": "A B", "approve": True},
+        {"title": "C D", "approve": False, "reason": "x"},
+    ]
+    _, malformed = word_pipeline._validate_review_decisions(_sample_items(), decisions)
+    assert ("Nonexistent", "unknown_or_missing_title") in malformed
+
+
+def test_validate_review_decisions_flags_duplicate_decision():
+    decisions = [
+        {"title": "A B", "approve": True},
+        {"title": "A B", "approve": False, "reason": "dup"},
+        {"title": "C D", "approve": True},
+    ]
+    _, malformed = word_pipeline._validate_review_decisions(_sample_items(), decisions)
+    assert ("A B", "duplicate_decision") in malformed
+
+
+def test_validate_review_decisions_flags_non_boolean_approve():
+    decisions = [{"title": "A B", "approve": "yes"}, {"title": "C D", "approve": True}]
+    _, malformed = word_pipeline._validate_review_decisions(_sample_items(), decisions)
+    assert malformed == [("A B", "approve_not_boolean")]
+
+
+def test_validate_review_decisions_flags_confidence_out_of_range():
+    decisions = [{"title": "A B", "approve": True, "confidence": 1.5}, {"title": "C D", "approve": True}]
+    _, malformed = word_pipeline._validate_review_decisions(_sample_items(), decisions)
+    assert ("A B", "confidence_out_of_range") in malformed
+
+
+def test_validate_review_decisions_flags_missing_reason_for_rejection():
+    decisions = [{"title": "A B", "approve": False}, {"title": "C D", "approve": True}]
+    _, malformed = word_pipeline._validate_review_decisions(_sample_items(), decisions)
+    assert ("A B", "missing_reason_for_rejection") in malformed
+
+
+def test_validate_review_decisions_flags_checks_inconsistent_with_approve_true():
+    decisions = [
+        {"title": "A B", "approve": True, "checks": {"clarity": True, "duplication": True, "trademark": False}},
+        {"title": "C D", "approve": True},
+    ]
+    _, malformed = word_pipeline._validate_review_decisions(_sample_items(), decisions)
+    assert ("A B", "checks_inconsistent_with_approve_true") in malformed
+
+
+def test_validate_review_decisions_flags_checks_inconsistent_with_approve_false():
+    decisions = [
+        {"title": "A B", "approve": False, "reason": "x", "checks": {"clarity": True, "duplication": True, "trademark": True}},
+        {"title": "C D", "approve": True},
+    ]
+    _, malformed = word_pipeline._validate_review_decisions(_sample_items(), decisions)
+    assert ("A B", "checks_inconsistent_with_approve_false") in malformed
+
+
+def test_validate_review_decisions_flags_missing_decision_for_item():
+    decisions = [{"title": "A B", "approve": True}]
+    _, malformed = word_pipeline._validate_review_decisions(_sample_items(), decisions)
+    assert ("C D", "no_decision_for_item") in malformed
+
+
+def test_review_titles_large_batch_splits_into_chunks(tmp_path):
+    write_judgment_quality_config(tmp_path, review_titles_chunk_size=3)
+    options = make_options(tmp_path, round_size=7, run_id="QA-20260901-000000-KST")
+    state = word_pipeline._load_or_create_state(options)
+    word_pipeline._stage_load_state(tmp_path, options, state)
+    run_dir = word_pipeline._run_dir(tmp_path, state)
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo.value.stage == "review_titles"
+    run_state.save(tmp_path, state)
+    approve_all_response(run_dir)  # chunk 0 (3 items)
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo2:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo2.value.stage == "review_titles_chunk1"
+    run_state.save(tmp_path, state)
+    request2 = json.loads((run_dir / "judgment" / "review_titles_chunk1_round1_request.json").read_text(encoding="utf-8"))
+    assert len(request2["items"]) == 3
+    judgment.write_response(
+        run_dir, "review_titles_chunk1",
+        [{"title": item["title"], "approve": True, "confidence": 0.9} for item in request2["items"]],
+        round_no=1, judged_at="t2",
+    )
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo3:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo3.value.stage == "review_titles_chunk2"
+    run_state.save(tmp_path, state)
+    request3 = json.loads((run_dir / "judgment" / "review_titles_chunk2_round1_request.json").read_text(encoding="utf-8"))
+    assert len(request3["items"]) == 1
+    judgment.write_response(
+        run_dir, "review_titles_chunk2",
+        [{"title": item["title"], "approve": True, "confidence": 0.9} for item in request3["items"]],
+        round_no=1, judged_at="t3",
+    )
+
+    word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert state.status == "DONE"
+    assert len(state.context["approved"]) == 7
+
+
+def test_review_titles_structural_retry_then_falls_back_to_auto_reject(tmp_path):
+    options = make_options(tmp_path, round_size=5, run_id="QA-20260901-000001-KST")
+    state = word_pipeline._load_or_create_state(options)
+    word_pipeline._stage_load_state(tmp_path, options, state)
+    run_dir = word_pipeline._run_dir(tmp_path, state)
+
+    with pytest.raises(judgment.JudgmentRequired):
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    run_state.save(tmp_path, state)
+
+    request = json.loads((run_dir / "judgment" / "review_titles_round1_request.json").read_text(encoding="utf-8"))
+    # approve가 boolean이 아님 -> 전체가 구조 결함 -> 재요청 트리거
+    bad_decisions = [{"title": item["title"], "approve": "yes"} for item in request["items"]]
+    judgment.write_response(run_dir, "review_titles", bad_decisions, round_no=1, judged_at="t1")
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo.value.stage == "review_titles"
+    assert "round2" in str(excinfo.value.request_path)
+    run_state.save(tmp_path, state)
+
+    # 재요청에도 여전히 무효 -> 재시도 한도 소진, 안전 기본값(자동거절)으로 확정하고 계속 진행
+    request2 = json.loads((run_dir / "judgment" / "review_titles_round2_request.json").read_text(encoding="utf-8"))
+    bad_decisions2 = [{"title": item["title"], "approve": "still bad"} for item in request2["items"]]
+    judgment.write_response(run_dir, "review_titles", bad_decisions2, round_no=2, judged_at="t2")
+
+    word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert state.status == "DONE"
+    assert state.context["approved"] == []
+    ledger = word_pipeline._load_generated_ledger(tmp_path)
+    assert len(ledger) == 5
+    assert all("structural_validation_failed" in row["ai_reason"] for row in ledger.values())
+
+
+def test_expand_word_bank_low_valid_ratio_triggers_retry_then_accepts(tmp_path, monkeypatch):
+    monkeypatch.setattr(word_pipeline.word_bank, "DOMAIN_WORDS", {"finance": ("Ledger",)})
+    monkeypatch.setattr(word_pipeline.word_bank, "FUNCTION_WORDS", ("Guard",))
+    word_pipeline._append_generated_ledger_rows(
+        tmp_path, [{"title": "Ledger Guard", "industry": "finance", "ai_approved": "True", "ai_reason": "", "judged_at": "t0"}]
+    )
+    options = make_options(tmp_path, run_id="QA-20260901-000002-KST")
+    state = word_pipeline._load_or_create_state(options)
+    word_pipeline._stage_load_state(tmp_path, options, state)
+    run_dir = word_pipeline._run_dir(tmp_path, state)
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo.value.stage == "expand_word_bank"
+    run_state.save(tmp_path, state)
+
+    # 4개 중 1개만 형식이 유효함(25% < 기본 50% 기준) -> 재요청 트리거
+    bad_decisions = [
+        {"type": "function", "word": "not valid!", "pattern_tag": "t"},
+        {"type": "function", "word": "also-bad", "pattern_tag": "t"},
+        {"type": "domain", "word": "NoIndustry"},
+        {"type": "function", "word": "Tracker", "pattern_tag": "specific_place_noun"},
+    ]
+    judgment.write_response(run_dir, "expand_word_bank", bad_decisions, round_no=1, judged_at="t1")
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo2:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo2.value.stage == "expand_word_bank"
+    assert "round2" in str(excinfo2.value.request_path)
+    run_state.save(tmp_path, state)
+
+    # 실패한 1차 시도의 유효 단어(Tracker)는 폐기되고 절대 병합되지 않는다
+    domain_words, function_words = word_pipeline._merged_word_bank(tmp_path)
+    assert "Tracker" not in function_words
+
+    good_decisions = [
+        {"type": "domain", "word": "Invoice", "industry": "finance", "pattern_tag": "financial_noun"},
+        {"type": "function", "word": "Locator", "pattern_tag": "specific_place_noun"},
+    ]
+    judgment.write_response(run_dir, "expand_word_bank", good_decisions, round_no=2, judged_at="t2")
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo3:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo3.value.stage == "review_titles"
+
+    domain_words, function_words = word_pipeline._merged_word_bank(tmp_path)
+    assert "Invoice" in domain_words["finance"]
+    assert "Locator" in function_words
+
+
+def test_expand_word_bank_low_exploration_quota_triggers_retry(tmp_path, monkeypatch):
+    monkeypatch.setattr(word_pipeline.word_bank, "DOMAIN_WORDS", {"finance": ("Ledger",)})
+    monkeypatch.setattr(word_pipeline.word_bank, "FUNCTION_WORDS", ("Guard",))
+    word_pipeline._append_generated_ledger_rows(
+        tmp_path,
+        [
+            {"title": "Ledger Guard", "industry": "finance", "ai_approved": "True", "ai_reason": "", "judged_at": "t0"},
+            # "Existing"가 병합 풀에 들어간 뒤 생기는 새 조합도 미리 소진시켜서
+            # candidates가 여전히 비어 expand_word_bank가 진짜로 열리게 한다.
+            {"title": "Ledger Existing", "industry": "finance", "ai_approved": "True", "ai_reason": "", "judged_at": "t0"},
+        ],
+    )
+    word_pipeline._append_word_bank_expansion_rows(
+        tmp_path,
+        [{"type": "function", "word": "Existing", "industry": "", "added_at": "t0", "added_by_run_id": "r0", "pattern_tag": "old_tag"}],
+    )
+    options = make_options(tmp_path, run_id="QA-20260901-000003-KST")
+    state = word_pipeline._load_or_create_state(options)
+    word_pipeline._stage_load_state(tmp_path, options, state)
+    run_dir = word_pipeline._run_dir(tmp_path, state)
+
+    with pytest.raises(judgment.JudgmentRequired):
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    run_state.save(tmp_path, state)
+
+    # 형식은 100% 유효하지만 전부 이미 시도된 태그만 재사용 -> 탐색 쿼터 미달
+    decisions = [
+        {"type": "function", "word": "Repeat1", "pattern_tag": "old_tag"},
+        {"type": "function", "word": "Repeat2", "pattern_tag": "old_tag"},
+    ]
+    judgment.write_response(run_dir, "expand_word_bank", decisions, round_no=1, judged_at="t1")
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo.value.stage == "expand_word_bank"
+    assert "round2" in str(excinfo.value.request_path)
+
+
+def test_principle_reverification_triggers_every_n_rounds(tmp_path):
+    write_judgment_quality_config(tmp_path, principle_reverification_every_n_rounds=1)
+    (tmp_path / "memory").mkdir()
+    (tmp_path / "memory" / "WORD_GENERATION_LEARNINGS.md").write_text(
+        "## 핵심 원칙\n\n1. 테스트 원칙\n\n## 라운드별 로그\n\n(비어있음)\n", encoding="utf-8"
+    )
+    options = make_options(tmp_path, round_size=3, run_id="QA-20260901-000004-KST")
+    state = word_pipeline._load_or_create_state(options)
+    word_pipeline._stage_load_state(tmp_path, options, state)
+    run_dir = word_pipeline._run_dir(tmp_path, state)
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo.value.stage == "principle_reverification"
+    run_state.save(tmp_path, state)
+
+    judgment.write_response(
+        run_dir, "principle_reverification",
+        [{"title": "테스트 원칙", "approve": True, "reason": "여전히 유효", "confidence": 0.8}],
+        round_no=1, judged_at="t1",
+    )
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo2:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo2.value.stage == "review_titles"
+
+    report_path = word_pipeline._principle_reverification_report_path(tmp_path, "QA-20260901-000004-KST")
+    assert report_path.exists()
+    content = json.loads(report_path.read_text(encoding="utf-8"))
+    assert content["decisions"][0]["title"] == "테스트 원칙"
+
+
+def test_principle_reverification_skipped_when_no_principles_recorded_yet(tmp_path):
+    write_judgment_quality_config(tmp_path, principle_reverification_every_n_rounds=1)
+    options = make_options(tmp_path, run_id="QA-20260901-000005-KST")
+    state = word_pipeline._load_or_create_state(options)
+    word_pipeline._stage_load_state(tmp_path, options, state)
+    run_dir = word_pipeline._run_dir(tmp_path, state)
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo.value.stage == "review_titles"
+
+
+def test_principle_reverification_disabled_when_n_is_zero(tmp_path):
+    write_judgment_quality_config(tmp_path, principle_reverification_every_n_rounds=0)
+    (tmp_path / "memory").mkdir()
+    (tmp_path / "memory" / "WORD_GENERATION_LEARNINGS.md").write_text(
+        "## 핵심 원칙\n\n1. 테스트 원칙\n\n## 라운드별 로그\n\n(비어있음)\n", encoding="utf-8"
+    )
+    options = make_options(tmp_path, run_id="QA-20260901-000006-KST")
+    state = word_pipeline._load_or_create_state(options)
+    word_pipeline._stage_load_state(tmp_path, options, state)
+    run_dir = word_pipeline._run_dir(tmp_path, state)
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo.value.stage == "review_titles"
+
+
+# ---------------------------------------------------------------------------
 # config/word_bank_expansions.csv pattern_tag 컬럼 (2026-08-31, 하위호환)
 # ---------------------------------------------------------------------------
 

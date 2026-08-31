@@ -1,0 +1,631 @@
+{
+  "awaiting_judgment": null,
+  "context": {
+    "approval_anomaly": {
+      "baseline_mean_pct": 79.89,
+      "baseline_stdev_pct": 22.18,
+      "current_rate_pct": 69.57,
+      "sample_rounds": 62,
+      "status": "normal",
+      "z_score": -0.47
+    },
+    "approved": [],
+    "backlog": [],
+    "candidate_industry": {
+      "Algae Simulator": "pool_maintenance_services",
+      "Appointment Seal": "healthcare",
+      "Backflow Draft": "plumbing_services",
+      "Calibration Seal": "automotive",
+      "Chargeback Predictor": "finance",
+      "Cistern Warranty": "plumbing_services",
+      "Clog Estimate": "plumbing_services",
+      "Clog Ticket": "plumbing_services",
+      "Coupling Advisory": "plumbing_services",
+      "Cover Simulator": "recruiting",
+      "Discovery Seal": "legal",
+      "Drain Category": "plumbing_services",
+      "Drainpipe Loop": "plumbing_services",
+      "Ductless Flowchart": "hvac_services",
+      "Elbow Converter": "plumbing_services",
+      "Eviction Flowchart": "property_management_services",
+      "Faucet Register": "plumbing_services",
+      "Fence Predictor": "property_management_services",
+      "Fitting Markup": "plumbing_services",
+      "Fixture Price": "plumbing_services",
+      "Fob Simulator": "locksmith_security_services",
+      "Grout Fine": "plumbing_services",
+      "Intake Simulator": "healthcare",
+      "Invitation Mockup": "wedding_planning_services",
+      "Leak Stage": "plumbing_services",
+      "Nozzle Forecast": "plumbing_services",
+      "Overflow Guardian": "plumbing_services",
+      "Overflow Workshop": "plumbing_services",
+      "Pickup Mockup": "pharmacy",
+      "Pipe Bill": "plumbing_services",
+      "Plunger Assistant": "plumbing_services",
+      "Recording Predictor": "events",
+      "Route Mockup": "pool_maintenance_services",
+      "Scratch Mockup": "car_wash_detailing_services",
+      "Sewer Detail": "plumbing_services",
+      "Sewer Rule": "plumbing_services",
+      "Sink Predictor": "plumbing_services",
+      "Sink Seal": "plumbing_services",
+      "Snake Signature": "plumbing_services",
+      "Softener Nexus": "plumbing_services",
+      "Spigot Count": "plumbing_services",
+      "Survey Flowchart": "customer_support",
+      "Test Seal": "healthcare",
+      "Toilet Monitor": "plumbing_services",
+      "Toilet Scheduler": "plumbing_services",
+      "Trap Alert": "plumbing_services",
+      "Upholstery Predictor": "car_wash_detailing_services",
+      "Video Mockup": "media_publishing",
+      "Washer Reminder": "plumbing_services",
+      "Wrench Flowchart": "plumbing_services"
+    },
+    "golden_eval": {
+      "agreed": 7,
+      "agreement_pct": 100.0,
+      "checked": 7,
+      "mismatches": []
+    },
+    "principle_reverification_done_for_round": 63,
+    "review_all_items": [
+      {
+        "industry": "canary",
+        "title": "Falcon Ledger"
+      },
+      {
+        "industry": "canary",
+        "title": "Quantum Notary"
+      },
+      {
+        "industry": "canary",
+        "title": "Slack Messenger"
+      },
+      {
+        "industry": "canary",
+        "title": "Photoshop Canvas"
+      },
+      {
+        "industry": "canary",
+        "title": "Data Thing"
+      },
+      {
+        "industry": "canary",
+        "title": "Invoice Portal"
+      },
+      {
+        "industry": "canary",
+        "title": "Billing Portal"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Sink Predictor"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Appointment Seal"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Toilet Scheduler"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Clog Ticket"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Sewer Rule"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Overflow Workshop"
+      },
+      {
+        "industry": "car_wash_detailing_services",
+        "title": "Scratch Mockup"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Wrench Flowchart"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Intake Simulator"
+      },
+      {
+        "industry": "finance",
+        "title": "Chargeback Predictor"
+      },
+      {
+        "industry": "legal",
+        "title": "Discovery Seal"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Plunger Assistant"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Washer Reminder"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Fixture Price"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Snake Signature"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Spigot Count"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Nozzle Forecast"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Cistern Warranty"
+      },
+      {
+        "industry": "media_publishing",
+        "title": "Video Mockup"
+      },
+      {
+        "industry": "customer_support",
+        "title": "Survey Flowchart"
+      },
+      {
+        "industry": "recruiting",
+        "title": "Cover Simulator"
+      },
+      {
+        "industry": "events",
+        "title": "Recording Predictor"
+      },
+      {
+        "industry": "automotive",
+        "title": "Calibration Seal"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Drainpipe Loop"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Softener Nexus"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Trap Alert"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Backflow Draft"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Coupling Advisory"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Grout Fine"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Fitting Markup"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Elbow Converter"
+      },
+      {
+        "industry": "pharmacy",
+        "title": "Pickup Mockup"
+      },
+      {
+        "industry": "hvac_services",
+        "title": "Ductless Flowchart"
+      },
+      {
+        "industry": "locksmith_security_services",
+        "title": "Fob Simulator"
+      },
+      {
+        "industry": "property_management_services",
+        "title": "Fence Predictor"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Test Seal"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Faucet Register"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Pipe Bill"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Drain Category"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Leak Stage"
+      },
+      {
+        "industry": "wedding_planning_services",
+        "title": "Invitation Mockup"
+      },
+      {
+        "industry": "property_management_services",
+        "title": "Eviction Flowchart"
+      },
+      {
+        "industry": "pool_maintenance_services",
+        "title": "Algae Simulator"
+      },
+      {
+        "industry": "car_wash_detailing_services",
+        "title": "Upholstery Predictor"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Sink Seal"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Toilet Monitor"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Clog Estimate"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Sewer Detail"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Overflow Guardian"
+      },
+      {
+        "industry": "pool_maintenance_services",
+        "title": "Route Mockup"
+      }
+    ],
+    "review_attempts": {},
+    "review_chunk_decisions": {
+      "Appointment Seal": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.55,
+        "title": "Appointment Seal"
+      },
+      "Billing Portal": {
+        "approve": false,
+        "checks": {
+          "clarity": true,
+          "duplication": false,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "reason": "같은 배치의 Invoice Portal과 의미가 겹침(둘 다 청구서 관련 포털)",
+        "title": "Billing Portal"
+      },
+      "Calibration Seal": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "title": "Calibration Seal"
+      },
+      "Chargeback Predictor": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "title": "Chargeback Predictor"
+      },
+      "Cistern Warranty": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "title": "Cistern Warranty"
+      },
+      "Clog Ticket": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "title": "Clog Ticket"
+      },
+      "Cover Simulator": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.55,
+        "title": "Cover Simulator"
+      },
+      "Data Thing": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.9,
+        "reason": "추상적이라 어떤 SaaS인지 짐작 불가",
+        "title": "Data Thing"
+      },
+      "Discovery Seal": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "title": "Discovery Seal"
+      },
+      "Falcon Ledger": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.9,
+        "title": "Falcon Ledger"
+      },
+      "Fixture Price": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "title": "Fixture Price"
+      },
+      "Intake Simulator": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "title": "Intake Simulator"
+      },
+      "Invoice Portal": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "title": "Invoice Portal"
+      },
+      "Nozzle Forecast": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.55,
+        "reason": "노즐에 대한 예측이 구체적으로 무엇인지 불명확",
+        "title": "Nozzle Forecast"
+      },
+      "Overflow Workshop": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "reason": "Workshop(작업장/교육)과 Overflow의 결합이 부자연스러움",
+        "title": "Overflow Workshop"
+      },
+      "Photoshop Canvas": {
+        "approve": false,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": false
+        },
+        "confidence": 0.95,
+        "reason": "Photoshop과 상표 유사",
+        "title": "Photoshop Canvas"
+      },
+      "Plunger Assistant": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "title": "Plunger Assistant"
+      },
+      "Quantum Notary": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "title": "Quantum Notary"
+      },
+      "Recording Predictor": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.55,
+        "reason": "녹화에 대해 무엇을 예측하는지 불명확",
+        "title": "Recording Predictor"
+      },
+      "Scratch Mockup": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "title": "Scratch Mockup"
+      },
+      "Sewer Rule": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "Rule이 구체적으로 무엇을 규정하는지 불명확",
+        "title": "Sewer Rule"
+      },
+      "Sink Predictor": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "title": "Sink Predictor"
+      },
+      "Slack Messenger": {
+        "approve": false,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": false
+        },
+        "confidence": 0.95,
+        "reason": "Slack과 상표 유사",
+        "title": "Slack Messenger"
+      },
+      "Snake Signature": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "드레인 스네이크와 서명의 결합이 성립하지 않음",
+        "title": "Snake Signature"
+      },
+      "Spigot Count": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.55,
+        "reason": "Count가 무엇을 세는지 불명확",
+        "title": "Spigot Count"
+      },
+      "Survey Flowchart": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "title": "Survey Flowchart"
+      },
+      "Toilet Scheduler": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "title": "Toilet Scheduler"
+      },
+      "Video Mockup": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "title": "Video Mockup"
+      },
+      "Washer Reminder": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "title": "Washer Reminder"
+      },
+      "Wrench Flowchart": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "물리적 공구의 플로우차트라는 개념이 성립하지 않음",
+        "title": "Wrench Flowchart"
+      }
+    },
+    "review_chunk_index": 2,
+    "round_stats": {
+      "ai_approved": 13,
+      "backlog_carried": 0,
+      "generated": 23,
+      "kp_passed": 0
+    }
+  },
+  "created_at": "2026-09-01T00:15:30.539703+09:00",
+  "mode": "qa",
+  "run_id": "QA-20260901-001530-KST",
+  "stage": "generate_and_review_titles",
+  "status": "RUNNING",
+  "updated_at": "2026-09-01T00:20:04.186363+09:00"
+}
