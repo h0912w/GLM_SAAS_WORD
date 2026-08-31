@@ -1785,3 +1785,68 @@ Model/Lot/Availability/Eligibility))
   실수 — Walker/Cane 같은 구체명사와 달리 카테고리 이름이라 개별
   SaaS로 연상되지 않음)와 `Waiter`(food_service의 Server 0.41%와
   거의 같은 개념으로 재확인된 약한 재현) 둘 다 완전 실패.
+
+### QA-20260831-233534-KST (2026-08-31, 저지능 모델 호환 강화 구조 도입 후
+첫 실사용 라운드 — round-size 50, 도메인어 25개 + 기능어 5개 신규)
+
+- **맥락**: 이 라운드부터 골든셋 카나리아·승인율 이상탐지·confidence 기반
+  자동 레드팀 재검증·`pattern_tag` 가설-검증 루프가 코드에 반영된 뒤 처음
+  실행됐다(CLAUDE.md 2026-08-31 개정, `docs/design/15-continuous-word-
+  quality-improvement.md` 네 번째 개정 참고). 단어뱅크가 이미 소진 상태라
+  즉시 `expand_word_bank`가 열렸다.
+- **제안**: 새 업계 `plumbing_services`에 도메인어 25개를 두 하위 태그로
+  나눠 제안 — `everyday_household_noun`(Faucet/Pipe/Drain/Leak/Sink/
+  Toilet/Clog/Sewer/Overflow/Wrench/Plunger/Washer/Fixture/Snake, 14개,
+  일반 가정에서 흔히 쓰는 배관 용어)와 `trade_insider_term`(Spigot/
+  Nozzle/Cistern/Drainpipe/Softener/Trap/Backflow/Coupling/Grout/
+  Fitting/Elbow, 11개, 배관공만 주로 쓰는 전문 용어) — 원칙 13("업계
+  내부자 전문용어는 일상어보다 저조")을 **같은 라운드·같은 업계 안에서
+  통제된 대조군으로 직접 검증**하려는 의도적 설계(이전엔 다른 업계
+  간 비교라 업계 자체의 차이가 교란 변수였음). 기능어는 5개만
+  제안(`_EXPAND_WORD_BANK_INSTRUCTIONS`의 "최소 10개 이상" 권고에는
+  못 미침) — 승자 계열(Diagram/Graph → `visual_structure_document`:
+  Mockup/Flowchart, Calculator → `computation_tool`: Simulator/
+  Predictor, Number/Code → `concrete_identifiable_record`: Seal)의
+  인접어를 찾으려 했으나, 충돌 검사(`word_bank.py`+확장분+은퇴목록
+  전체 대조) 결과 시도한 후보 대부분(Timeline/Blueprint/Estimator/
+  Reminder/Digest/Snapshot/Ticket/Profile/Directory 등 20개 이상)이
+  이미 60여 라운드에 걸쳐 다른 세션들이 먼저 제안해 소진된 상태였다 —
+  원칙 4(동의어 금지)·원칙 5(은퇴 패턴 재제안 금지, 예: Almanac 은퇴
+  패턴과 겹치는 Chronicle/Gazette/Herald를 발견 즉시 제외)를 지키며
+  질 낮은 후보로 개수만 채우기보다 5개만 제안하는 쪽을 택했다.
+- **결과**: 신규생성 50개, AI승인 32개(64.0%) → confidence 기반 자동
+  레드팀 재검증(`review_titles_recheck`)이 처음으로 실제 트리거됨
+  (`Backflow Feed`의 1차 승인 confidence가 0.55로 임계값 0.6 미만 —
+  재검증에서 실제로 반박돼 최종 거절로 뒤집힘, ledger에
+  `redteam_recheck_rejected:` 사유와 함께 정확히 기록됨). 골든셋
+  카나리아 5/5 일치(100%, 불일치 없음 — 이 채널은 트리거 안 됨).
+  승인율 이상탐지: 이번 라운드 66.0% vs 과거 기준선 평균 80.2%
+  (z=-0.64, 임계 ±3.0 이내 → 정상, 이 채널도 트리거 안 됨). 세 채널이
+  서로 독립적으로 작동함을 실측으로 확인 — confidence 채널만 걸리고
+  나머지 두 채널은 정상으로 나온 것 자체가 신호 오염이 없다는 증거.
+  Keyword Planner 게이트: 32개 전부 조회했으나 **KP통과 0개** — 신규
+  단어라 개별 단어당 시도 수가 3~14회에 불과해(`pattern_tag_performance`
+  집계: everyday_household_noun 13회/trade_insider_term 4회/
+  visual_structure_document 4회/computation_tool 9회/
+  concrete_identifiable_record 3회, 전부 0% 통과) 은퇴 판정
+  기준(300회+)은 물론 순위 산정 기준(100회+)에도 한참 못 미친다.
+- **해석(정직한 주의사항 — 이 라운드만으로는 아무 원칙도 승격/반증하지
+  않는다)**: 이번 라운드의 목적은 통과율 개선이 아니라 **새 안전망
+  구조(골든셋/이상탐지/confidence 재검증/pattern_tag)가 실제로 작동하는지
+  확인하는 것**이었고 그 목적은 달성했다(레드팀 재검증이 실제 트리거→
+  실제 반박→ledger 정확 반영까지 end-to-end 확인, `python -m pytest -q`
+  169개 통과·`verify_design_coverage.py` PASS 병행 확인). `everyday_
+  household_noun` vs `trade_insider_term`의 원칙 13 대조 실험은 표본이
+  너무 작아(13회 vs 4회) 이번 라운드에서는 결론을 낼 수 없다 — 다음
+  production 라운드에서 이 두 태그의 attempts가 100회+ 쌓이면
+  `pattern_tag_performance`로 재확인할 것. **승격 조건**: 두 태그의
+  통과율 격차가 다음 라운드에서도 같은 방향(everyday > trade_insider)
+  으로 재현되고 표본이 100회+씩 확보되면 원칙 13의 `candidate`를
+  `validated`로 승격하는 근거에 추가.
+- **핵심 원칙 갱신 여부**: 없음(이번 라운드는 단일 관측이고, 유일하게
+  일반화 가능해 보이는 관측 — "60여 라운드 누적 이후 상식적인 SaaS
+  기능어 후보 풀 자체가 빠르게 고갈되고 있다" — 은 원칙이 아니라
+  운영상 사실이라 여기 로그에만 남긴다. 이후 세션은 기능어를 제안하기
+  전 §승격 규칙과 무관하게 `word_bank.py`+`word_bank_expansions.csv`+
+  `retired_function_words.csv` 전체 충돌 검사를 먼저 수행해 헛수고를
+  줄일 것을 권장.
