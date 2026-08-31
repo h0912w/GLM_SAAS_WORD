@@ -32,9 +32,20 @@
 | 업계 단어뱅크 구성 | 코드(저장·형식 검증) + LLM(업계 커버리지·단어 적합성 큐레이션) | main-orchestrator |
 | 2단어 조합 생성 | 코드 전담 | 해당 없음 |
 | 정확·역순 중복 제거 | 코드 전담(`word_generation.generate_combinations`의 exclude 집합) | 해당 없음 |
-| 제목 명확성·의미 중복·상표 유사 검토 | LLM | main-orchestrator |
+| 제목 명확성·의미 중복·상표 유사 검토 | LLM(원자 단위 평가 + confidence 자기신고) | main-orchestrator |
+| 골든셋 카나리아 판정(품질 회귀 확인) | 코드(정답 비교·집계) + LLM(카나리아도 실제 후보와 동일하게 판정) | main-orchestrator |
+| 승인율 이상탐지(circuit breaker) | 코드 전담(순수 수치 비교, `detect_approval_rate_anomaly`) | 해당 없음 |
+| 레드팀 재검증(`review_titles_recheck`) | LLM(반박 전담) - 골든셋 불일치/낮은 confidence/승인율 이상탐지 중 하나라도 걸리면 코드가 자동 트리거 | main-orchestrator |
 | 원시 생성 ledger 기록·backlog 스윕 | 코드 전담 | 해당 없음 |
 | Keyword Planner 게이트(순수 수치 비교) | 코드 전담 | 해당 없음 |
 | 문서①②③④ export·스냅샷 | 코드 전담 | 해당 없음 |
+| 패턴 태그 실측 성과·탐색-활용 균형 | 코드(집계, `pattern_tag_performance`/`least_tried_pattern_tags`) + LLM(가설 태그 부여·해석) | main-orchestrator |
 | Git 저장 | 코드 | 결과 확인: main-orchestrator |
 | QA | 독립 LLM+코드 | final-qa-runner (`run.py --mode qa`) |
+
+**저지능 모델 호환 강화 구조(2026-08-31)**: 위 표의 "카나리아 판정"·"승인율
+이상탐지"·"레드팀 재검증" 세 행이 서로 맞물려 하나의 안전망을 이룬다 - 코드는
+판정 오류 확률이 높은 순간(골든셋 불일치/낮은 confidence/통계적 극단치)만
+감지하고, 실제 재검증은 언제나 AI가 같은 라운드 안에서 수행한다. 사람에게
+에스컬레이션하지 않는다(이 프로젝트의 핵심 제약). 상세는 CLAUDE.md와
+`docs/design/15-continuous-word-quality-improvement.md` 참고.

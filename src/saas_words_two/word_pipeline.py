@@ -22,6 +22,10 @@ from pathlib import Path
 
 from . import config, ids, judgment, run_state, word_bank, word_generation, word_performance
 from .contracts import atomic_write_text, normalize_title
+
+# 저지능 모델 호환 강화 구조(2026-08-31)에서 낮은 confidence로 스스로 신고된
+# 승인 판정을 자동 레드팀 재검증에 회부하는 기준값.
+CONFIDENCE_RECHECK_THRESHOLD = 0.6
 from .judgment import JudgmentRequired
 from .keyword_metrics_client import (
     ApiRuntimeConfig,
@@ -192,6 +196,10 @@ def _excluded_normalized(project_root: Path, state: run_state.RunState) -> set[s
     # 승인분 중 아직 Keyword Planner 미확인인 것은 backlog로 별도 처리된다
     # (_stage_load_state 참고), 재생성 대상에서는 제외되지만 유실되지 않는다.
     excluded |= set(_load_generated_ledger(project_root).keys())
+    # 골든셋 카나리아(config/golden_set.csv)는 실제 산출물이 아니라 판정 품질
+    # 확인용 미끼이므로, 실제 후보 생성이 우연히 같은 문구를 만들어 혼동을
+    # 일으키지 않도록 제외한다(2026-08-31 강화 구조).
+    excluded |= word_performance.golden_set_titles(project_root)
     return excluded
 
 
@@ -435,25 +443,33 @@ def _apply_keyword_metrics_filter(
 # 병합해 후보 생성에 넘긴다 - word_bank.py 자체의 큐레이션 이력은 그대로 보존.
 # ---------------------------------------------------------------------------
 
-_EXPANSION_COLUMNS = ("type", "word", "industry", "added_at", "added_by_run_id")
+# pattern_tag(2026-08-31 추가): 새 단어가 어떤 승자 패턴 가설을 대표하는지
+# 표시하는 자유 태그(예: "specific_place_noun"). 기존 파일(80KB+)에는 이
+# 컬럼이 없으므로 `_append_word_bank_expansion_rows`가 DictWriter의 restval
+# 로 하위호환 기본값("")을 채운다 - 별도 마이그레이션 스크립트 불필요.
+_EXPANSION_COLUMNS = ("type", "word", "industry", "added_at", "added_by_run_id", "pattern_tag")
 
 
 def _word_bank_expansions_path(project_root: Path) -> Path:
     return project_root / "config" / "word_bank_expansions.csv"
 
 
-def _load_dynamic_word_bank(project_root: Path) -> tuple[dict[str, list[str]], list[str]]:
+def _load_word_bank_expansion_rows(project_root: Path) -> list[dict]:
     path = _word_bank_expansions_path(project_root)
+    if not path.exists():
+        return []
+    with path.open("r", encoding="utf-8", newline="") as f:
+        return list(csv.DictReader(f))
+
+
+def _load_dynamic_word_bank(project_root: Path) -> tuple[dict[str, list[str]], list[str]]:
     domain_words: dict[str, list[str]] = {}
     function_words: list[str] = []
-    if not path.exists():
-        return domain_words, function_words
-    with path.open("r", encoding="utf-8", newline="") as f:
-        for row in csv.DictReader(f):
-            if row["type"] == "domain":
-                domain_words.setdefault(row["industry"], []).append(row["word"])
-            elif row["type"] == "function":
-                function_words.append(row["word"])
+    for row in _load_word_bank_expansion_rows(project_root):
+        if row["type"] == "domain":
+            domain_words.setdefault(row["industry"], []).append(row["word"])
+        elif row["type"] == "function":
+            function_words.append(row["word"])
     return domain_words, function_words
 
 
@@ -512,7 +528,7 @@ def _append_word_bank_expansion_rows(project_root: Path, new_rows: list[dict]) -
         rows.append(row)
 
     buffer = io.StringIO()
-    writer = csv.DictWriter(buffer, fieldnames=_EXPANSION_COLUMNS, lineterminator="\n")
+    writer = csv.DictWriter(buffer, fieldnames=_EXPANSION_COLUMNS, lineterminator="\n", restval="")
     writer.writeheader()
     writer.writerows(rows)
     atomic_write_text(path, buffer.getvalue())
@@ -548,6 +564,11 @@ def _consume_word_bank_expansion(
                 "industry": industry if word_type == "domain" else "",
                 "added_at": when,
                 "added_by_run_id": run_id,
+                # 2026-08-31 강화 구조: 이 단어가 대표하는 승자 패턴 가설(자유
+                # 태그). 세션이 안 남기면 빈 문자열 - 필수는 아니고, 태그가
+                # 있어야 `word_performance.pattern_tag_performance`가 그
+                # 가설의 실측 통과율을 집계할 수 있다.
+                "pattern_tag": str(decision.get("pattern_tag", "")).strip(),
             }
         )
     return rows
@@ -594,9 +615,18 @@ _EXPAND_WORD_BANK_INSTRUCTIONS = (
     "성공한 이유는 단어가 독특해서가 아니라 도메인어의 의미 카테고리에 관계없이 거의 "
     "모든 명사 뒤에 자연스럽게 붙는 범용 메타포이기 때문이다 - 새 기능어도 이 성질(특정 "
     "업계·특정 의미군에 국한되지 않고 폭넓게 결합됨)을 우선 고려해 제안하라. "
-    "기존 word_bank.py와 이미 제안된 확장분(입력으로 함께 제공됨)과 겹치지 않게. 각 항목을 "
+    "기존 word_bank.py와 이미 제안된 확장분(입력으로 함께 제공됨)과 겹치지 않게. "
+    "[가설 태그 - 반드시 준수, 2026-08-31 강화 구조] 각 제안 단어에 pattern_tag(예: "
+    "\"specific_place_noun\", \"action_verb_noun\")를 붙여라 - 같은 태그를 붙인 단어들의 "
+    "실측 통과율이 다음 라운드부터 pattern_tag_performance로 자동 집계돼 그 가설이 맞았는지 "
+    "숫자로 확인된다(세션이 나중에 일일이 기억해서 판단할 필요 없음). 입력의 "
+    "least_tried_pattern_tags는 아직 실측이 적어 검증이 덜 된 태그 목록이다 - 이미 pattern_tag_"
+    "performance에서 통과율이 확인된 태그만 반복하지 말고, 이번 제안 중 일부는 새로운 태그를 "
+    "시도해 탐색-활용 균형을 유지하라(한쪽에만 안주하면 정체로 이어진다). "
+    "각 항목을 "
     '{"type": "domain"|"function", "word": "Title Case 단일 영단어", "industry": '
-    '"domain일 때만 필수, function이면 생략"} 형태로 응답하라.'
+    '"domain일 때만 필수, function이면 생략", "pattern_tag": "이 단어가 대표하는 패턴 태그"} '
+    "형태로 응답하라."
 )
 
 
@@ -632,6 +662,8 @@ def _load_word_generation_learnings_principles(project_root: Path) -> str:
 
 def _write_expand_word_bank_request(project_root: Path, run_dir: Path, state: run_state.RunState) -> Path:
     existing_domain, existing_function = _merged_word_bank(project_root)
+    expansion_rows = _load_word_bank_expansion_rows(project_root)
+    cache_rows = word_performance.load_cache_rows(project_root)
     items = [
         {"industry": industry, "existing_domain_words": list(words)}
         for industry, words in existing_domain.items()
@@ -639,6 +671,9 @@ def _write_expand_word_bank_request(project_root: Path, run_dir: Path, state: ru
         {"existing_function_words": list(existing_function)},
         {"function_word_performance": word_performance.performance_summary_for_expansion(project_root)},
         {"accumulated_learnings": _load_word_generation_learnings_principles(project_root)},
+        # 2026-08-31 강화 구조: 가설(pattern_tag)-검증 루프 + 탐색-활용 균형.
+        {"pattern_tag_performance": word_performance.pattern_tag_performance(expansion_rows, cache_rows)},
+        {"least_tried_pattern_tags": word_performance.least_tried_pattern_tags(expansion_rows, cache_rows)},
     ]
     return judgment.write_request(
         run_dir,
@@ -661,6 +696,57 @@ def _write_expand_word_bank_request(project_root: Path, run_dir: Path, state: ru
 # ---------------------------------------------------------------------------
 
 
+def _review_titles_few_shot_examples(project_root: Path, *, n: int = 3) -> str:
+    """ledger에서 실제 승인/거절 사례 몇 개를 뽑아 판정 지침에 구체적 예시로
+    붙인다(2026-08-31 강화 구조) - 저지능 모델은 추상적 규칙 설명보다 구체적
+    사례의 패턴매칭에서 더 정확하다."""
+    ledger = _load_generated_ledger(project_root)
+    approved: list[dict] = []
+    rejected: list[dict] = []
+    for row in ledger.values():
+        if len(approved) >= n and len(rejected) >= n:
+            break
+        if row.get("ai_approved") == "True" and len(approved) < n:
+            approved.append(row)
+        elif row.get("ai_approved") == "False" and row.get("ai_reason") and len(rejected) < n:
+            rejected.append(row)
+    if not approved and not rejected:
+        return ""
+    lines = ["", "[참고 사례 - 과거 실제 판정]"]
+    for row in approved:
+        lines.append(f'- 승인: "{row["title"]}" (업계: {row.get("industry", "")})')
+    for row in rejected:
+        lines.append(f'- 거절: "{row["title"]}" - 사유: {row.get("ai_reason", "")}')
+    return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
+# 저지능 모델 호환 강화 구조 (2026-08-31, 사용자 지시) - 판단은 여전히 전량
+# AI가 하되(코드로 판단을 떠넘기지 않는다), 판단 오류 확률이 높은 신호를 코드가
+# 감지해 같은 라운드 안에서 자동으로 AI 재검증(레드팀)을 트리거한다. 사람에게
+# 넘기지 않는다. 트리거 신호 셋:
+#   ① 골든셋 카나리아(config/golden_set.csv) 불일치 - 판정 기준 자체가 흔들렸다는
+#      직접 증거.
+#   ② 판정 응답의 confidence가 낮은 승인 - 판정자 스스로 신고한 불확실성.
+#   ③ 이번 라운드 AI 승인율이 과거 대비 통계적 극단치(승인율 이상탐지) -
+#      간접 신호라 z_threshold를 넉넉히 잡아 오탐을 줄인다.
+# 셋 중 하나라도 걸리면 이번 라운드의 '승인' 판정들만(거절은 이미 확정) 별도
+# 판정 라운드(review_titles_recheck)에서 다시 검토시키고, 그 결과가 최종
+# ai_approved로 ledger에 반영된다. 상세 배경은
+# docs/design/15-continuous-word-quality-improvement.md 참고.
+# ---------------------------------------------------------------------------
+
+_REVIEW_TITLES_RECHECK_INSTRUCTIONS = (
+    "아래 후보들은 1차 판정에서 이미 approve=true를 받았다. 당신의 역할은 그 판정에 "
+    "동의하는 게 아니라 반박(refute)을 시도하는 것이다 - 명확성·의미중복·상표유사 "
+    "세 기준을 다시 처음부터 독립적으로 적용하고, 1차 판정이 놓쳤을 만한 결함을 "
+    "적극적으로 찾아라. 결함을 찾지 못하면(정말로 반박할 근거가 없으면)만 approve=true를 "
+    "유지하고, 조금이라도 근거 있는 의심이 들면 approve=false로 뒤집고 reason에 무엇을 "
+    "반박했는지 남겨라. original_reason 필드는 1차 판정자가 남긴 근거(있다면)이니 그것도 "
+    "비판적으로 검토하라."
+)
+
+
 def _stage_generate_and_review_titles(project_root: Path, options: RunOptions, state: run_state.RunState) -> None:
     run_dir = _run_dir(project_root, state)
     stage_name = "review_titles"
@@ -671,22 +757,103 @@ def _stage_generate_and_review_titles(project_root: Path, options: RunOptions, s
         response = judgment.read_response(run_dir, stage_name, round_no)
         candidate_industry = state.context.get("candidate_industry", {})
         judged_at = ids.now_kst().isoformat()
-        ledger_rows = []
-        fresh_approved = []
+
+        golden = word_performance.load_golden_set(project_root)
+        real_decisions = []
+        canary_decisions = []
         for decision in response["decisions"]:
+            if normalize_title(decision.get("title", "")) in golden:
+                canary_decisions.append(decision)
+            else:
+                real_decisions.append(decision)
+        golden_eval = word_performance.evaluate_golden_set(canary_decisions, golden)
+
+        ledger_rows: list[dict] = []
+        pending_approved: list[dict] = []
+        low_confidence_titles: list[str] = []
+        for decision in real_decisions:
             title = decision["title"]
             approve = bool(decision.get("approve"))
-            ledger_rows.append(
-                {
-                    "title": title,
-                    "industry": candidate_industry.get(title, ""),
-                    "ai_approved": str(approve),
-                    "ai_reason": "" if approve else decision.get("reason", ""),
-                    "judged_at": judged_at,
-                }
-            )
+            confidence = decision.get("confidence")
             if approve:
-                fresh_approved.append({"title": title, "industry": candidate_industry.get(title, "")})
+                pending_approved.append(
+                    {
+                        "title": title,
+                        "industry": candidate_industry.get(title, ""),
+                        "original_reason": decision.get("reason", ""),
+                    }
+                )
+                if isinstance(confidence, (int, float)) and confidence < CONFIDENCE_RECHECK_THRESHOLD:
+                    low_confidence_titles.append(title)
+            else:
+                ledger_rows.append(
+                    {
+                        "title": title,
+                        "industry": candidate_industry.get(title, ""),
+                        "ai_approved": "False",
+                        "ai_reason": decision.get("reason", ""),
+                        "judged_at": judged_at,
+                    }
+                )
+
+        approval_anomaly = word_performance.detect_approval_rate_anomaly(
+            word_performance.load_round_history(project_root),
+            generated=len(real_decisions),
+            ai_approved=len(pending_approved),
+        )
+        needs_recheck = (
+            bool(golden_eval["mismatches"])
+            or bool(low_confidence_titles)
+            or approval_anomaly["status"] in ("anomalous_high", "anomalous_low")
+        )
+
+        recheck_stage = "review_titles_recheck"
+        if needs_recheck and pending_approved:
+            if judgment.has_response(run_dir, recheck_stage, round_no):
+                recheck_response = judgment.read_response(run_dir, recheck_stage, round_no)
+                recheck_by_title = {d["title"]: d for d in recheck_response["decisions"]}
+                fresh_approved = []
+                for item in pending_approved:
+                    verdict = recheck_by_title.get(item["title"])
+                    survived = bool(verdict.get("approve")) if verdict else False
+                    reason = ""
+                    if not survived:
+                        refute_reason = verdict.get("reason", "") if verdict else "no_recheck_response"
+                        reason = f"redteam_recheck_rejected: {refute_reason}"
+                    ledger_rows.append(
+                        {
+                            "title": item["title"],
+                            "industry": item["industry"],
+                            "ai_approved": str(survived),
+                            "ai_reason": reason,
+                            "judged_at": judged_at,
+                        }
+                    )
+                    if survived:
+                        fresh_approved.append({"title": item["title"], "industry": item["industry"]})
+            else:
+                recheck_items = [
+                    {"title": c["title"], "industry": c["industry"], "original_reason": c["original_reason"]}
+                    for c in pending_approved
+                ]
+                request_path = judgment.write_request(
+                    run_dir, recheck_stage, state.run_id, _REVIEW_TITLES_RECHECK_INSTRUCTIONS, recheck_items,
+                    round_no=round_no, generated_at=ids.now_kst().isoformat(),
+                )
+                _pause_for_judgment(project_root, state, recheck_stage, request_path)
+        else:
+            fresh_approved = [{"title": c["title"], "industry": c["industry"]} for c in pending_approved]
+            for c in pending_approved:
+                ledger_rows.append(
+                    {
+                        "title": c["title"],
+                        "industry": c["industry"],
+                        "ai_approved": "True",
+                        "ai_reason": "",
+                        "judged_at": judged_at,
+                    }
+                )
+
         _append_generated_ledger_rows(project_root, ledger_rows)
         _export_generated_ledger_snapshot(project_root, ids.now_kst())
 
@@ -704,11 +871,15 @@ def _stage_generate_and_review_titles(project_root: Path, options: RunOptions, s
             word_performance.write_report(project_root, ids.now_kst())
         state.context["approved"] = approved
         state.context["round_stats"] = {
-            "generated": len(ledger_rows),
+            "generated": len(real_decisions),
             "ai_approved": len(fresh_approved),
             "backlog_carried": len(backlog),
             "kp_passed": len(approved),
         }
+        # 2026-08-31 강화 구조: 이번 라운드의 판정 품질 신호를 체크포인트
+        # 단계(HANDOFF)에서도 보이도록 상태에 남긴다.
+        state.context["golden_eval"] = golden_eval
+        state.context["approval_anomaly"] = approval_anomaly
         state.status = "DONE"
         run_state.save(project_root, state)
         return
@@ -772,12 +943,24 @@ def _stage_generate_and_review_titles(project_root: Path, options: RunOptions, s
     state.context["candidate_industry"] = candidate_industry
 
     instructions = (
-        "각 제목의 의미 중복과 명확성을 검토하라. 다른 후보와 의미가 겹치거나, "
-        "어떤 SaaS인지 추측할 수 없을 만큼 추상적이거나, 유명 서비스·브랜드와 "
-        "명백히 동일/유사하면 approve=false로 판정하고 reason을 남겨라. "
-        "그렇지 않으면 approve=true. industry 필드는 참고용 맥락이다."
+        "각 후보를 아래 세 기준으로 각각 독립적으로 평가한 뒤 종합하라(하나로 뭉뚱그려 "
+        "판단하지 말 것 - 복합판단에서는 항목을 놓치기 쉽다):\n"
+        "1) 명확성: 어떤 SaaS인지 짐작 가능한가\n"
+        "2) 의미 중복: 이번 배치의 다른 후보와 뜻이 겹치는가\n"
+        "3) 상표 유사: 유명 서비스·브랜드와 동일/유사한가\n"
+        "세 기준 중 하나라도 실패하면 approve=false로 판정하고 reason에 어떤 기준을 왜 "
+        "실패했는지 남겨라. 모두 통과하면 approve=true. [2026-08-31 강화 구조 - 반드시 "
+        "포함] 각 판정에 스스로 이 판단이 얼마나 확실한지 0.0~1.0 사이 confidence를 반드시 "
+        "포함하라 - 애매하거나 근거가 약하면 낮게 매겨라(낮은 confidence는 자동으로 별도 "
+        "재검증 라운드에 회부되므로 정직하게 매기는 편이 유리하다). 이 배치에는 판정 품질을 "
+        "확인하기 위한 고정 정답 카나리아 후보가 실제 후보와 형식상 구분 없이 섞여 있다 - "
+        "어떤 항목이 카나리아인지 추측하거나 다르게 취급하려 하지 말고 모든 항목을 동일한 "
+        "기준으로 판정하라. industry 필드는 참고용 맥락이다."
+        + _review_titles_few_shot_examples(project_root)
     )
-    items = [{"title": c["title"], "industry": c["industry"]} for c in candidates]
+    golden = word_performance.load_golden_set(project_root)
+    canary_items = [{"title": row["title"], "industry": "canary"} for row in golden.values()]
+    items = canary_items + [{"title": c["title"], "industry": c["industry"]} for c in candidates]
     request_path = judgment.write_request(
         run_dir, stage_name, state.run_id, instructions, items,
         round_no=round_no, generated_at=ids.now_kst().isoformat(),
@@ -804,22 +987,46 @@ def _stage_update_memory_and_git_checkpoint(project_root: Path, options: RunOpti
     word_performance.append_round_history(
         project_root, state.run_id, state.mode, ids.now_kst().isoformat(), stats
     )
-    stagnation = word_performance.detect_stagnation(word_performance.load_round_history(project_root))
+    history = word_performance.load_round_history(project_root)
+    stagnation = word_performance.detect_stagnation(history)
     stagnation_line = word_performance.format_stagnation_message(stagnation)
     print(stagnation_line)
 
-    atomic_write_text(
-        project_root / "memory" / "HANDOFF.md",
-        "# HANDOFF\n\n"
-        f"- 상태: `DONE`\n"
-        f"- 현재 단계: update_memory_and_git_checkpoint (word_pipeline)\n"
-        f"- 마지막 실행: run {state.run_id} (mode={state.mode})\n"
+    # 저지능 모델 호환 강화 구조(2026-08-31): 이번 라운드의 판정 품질 안전망
+    # 신호(골든셋 카나리아 일치율, 승인율 이상탐지)를 정체 점검과 같은 방식으로
+    # 콘솔·HANDOFF에 남긴다 - 순수 수치 보고이고 원인 해석은 세션의 몫이다(§5).
+    golden_line = word_performance.format_golden_set_message(state.context.get("golden_eval") or {})
+    anomaly_line = word_performance.format_approval_anomaly_message(
+        state.context.get("approval_anomaly") or {"status": "insufficient_data"}
+    )
+    print(golden_line)
+    print(anomaly_line)
+
+    principle_reminder = word_performance.principle_refresh_reminder(len(history))
+    if principle_reminder:
+        print(principle_reminder)
+
+    handoff_lines = [
+        "# HANDOFF",
+        "",
+        "- 상태: `DONE`",
+        "- 현재 단계: update_memory_and_git_checkpoint (word_pipeline)",
+        f"- 마지막 실행: run {state.run_id} (mode={state.mode})",
         f"- 이번 라운드: 신규생성 {stats.get('generated', 0)}개, "
         f"AI승인 {stats.get('ai_approved', 0)}개, "
         f"backlog반영 {stats.get('backlog_carried', 0)}개, "
-        f"Keyword Planner통과 {stats.get('kp_passed', len(approved))}개\n"
-        f"- {stagnation_line}\n"
-        f"- 다음 원자 작업: 필요하면 다시 실행(같은 run_id --resume 또는 새 run)\n",
+        f"Keyword Planner통과 {stats.get('kp_passed', len(approved))}개",
+        f"- {stagnation_line}",
+        f"- {golden_line}",
+        f"- {anomaly_line}",
+    ]
+    if principle_reminder:
+        handoff_lines.append(f"- {principle_reminder}")
+    handoff_lines.append("- 다음 원자 작업: 필요하면 다시 실행(같은 run_id --resume 또는 새 run)")
+
+    atomic_write_text(
+        project_root / "memory" / "HANDOFF.md",
+        "\n".join(handoff_lines) + "\n",
     )
     _run_or_raise(project_root, "git_checkpoint.py", "--message", f"chore: word pipeline checkpoint for {state.run_id}")
 

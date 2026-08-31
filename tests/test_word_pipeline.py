@@ -471,6 +471,238 @@ def test_generate_and_review_titles_budget_exceeded_is_retrying(tmp_path, monkey
 
 
 # ---------------------------------------------------------------------------
+# 저지능 모델 호환 강화 구조 (2026-08-31): 골든셋 카나리아 + 승인율 이상탐지 +
+# confidence 기반 자동 레드팀 재검증(review_titles_recheck).
+# ---------------------------------------------------------------------------
+
+GOLDEN_SET_ROWS = [
+    {"title": "Falcon Ledger", "industry": "canary", "expected_approve": "True", "rationale": "clear", "added_at": "t0"},
+    {"title": "Slack Messenger", "industry": "canary", "expected_approve": "False", "rationale": "trademark", "added_at": "t0"},
+]
+
+
+def write_golden_set(tmp_path, rows=GOLDEN_SET_ROWS):
+    from saas_words_two import word_performance
+
+    path = word_performance.golden_set_path(tmp_path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=word_performance.GOLDEN_SET_COLUMNS, lineterminator="\n")
+        writer.writeheader()
+        writer.writerows(rows)
+
+
+def test_review_titles_request_includes_golden_set_canaries(tmp_path):
+    write_golden_set(tmp_path)
+    options = make_options(tmp_path, run_id="QA-20260831-000000-KST")
+    state = word_pipeline._load_or_create_state(options)
+    word_pipeline._stage_load_state(tmp_path, options, state)
+    run_dir = word_pipeline._run_dir(tmp_path, state)
+
+    with pytest.raises(judgment.JudgmentRequired):
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+
+    request = json.loads((run_dir / "judgment" / "review_titles_round1_request.json").read_text(encoding="utf-8"))
+    titles = {item["title"] for item in request["items"]}
+    assert {"Falcon Ledger", "Slack Messenger"} <= titles
+
+
+def test_review_titles_never_generates_a_title_matching_the_golden_set(tmp_path, monkeypatch):
+    write_golden_set(tmp_path)
+    # "Falcon Ledger" is both a golden-set canary and, if not excluded, would be
+    # a reachable real combination here - the exclusion must remove exactly
+    # that one combo, leaving the other 5 (matching round_size=5) untouched.
+    monkeypatch.setattr(
+        word_pipeline.word_bank,
+        "DOMAIN_WORDS",
+        {"finance": ("Falcon", "Vendor", "Claim", "Audit", "Escrow", "Refund")},
+    )
+    monkeypatch.setattr(word_pipeline.word_bank, "FUNCTION_WORDS", ("Ledger",))
+    options = make_options(tmp_path, run_id="QA-20260831-000001-KST")
+    state = word_pipeline._load_or_create_state(options)
+    word_pipeline._stage_load_state(tmp_path, options, state)
+    run_dir = word_pipeline._run_dir(tmp_path, state)
+
+    with pytest.raises(judgment.JudgmentRequired):
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+
+    request = json.loads((run_dir / "judgment" / "review_titles_round1_request.json").read_text(encoding="utf-8"))
+    titles = [item["title"] for item in request["items"]]
+    # exactly one copy of "Falcon Ledger" (the canary) - generation skipped
+    # regenerating it as a "real" candidate
+    assert titles.count("Falcon Ledger") == 1
+    assert {"Vendor Ledger", "Claim Ledger", "Audit Ledger", "Escrow Ledger", "Refund Ledger"} <= set(titles)
+
+
+def test_canary_decisions_never_reach_ledger_or_round_stats(tmp_path):
+    write_golden_set(tmp_path)
+    options = make_options(tmp_path, run_id="QA-20260831-000002-KST")
+    state = word_pipeline._load_or_create_state(options)
+    word_pipeline._stage_load_state(tmp_path, options, state)
+    run_dir = word_pipeline._run_dir(tmp_path, state)
+
+    with pytest.raises(judgment.JudgmentRequired):
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    run_state.save(tmp_path, state)
+    # 카나리아를 정답대로(Falcon Ledger=승인, Slack Messenger=거절) 판정하고
+    # 나머지 실제 후보 5개는 전부 승인 + 높은 confidence -> 재검증 불필요.
+    request = json.loads((run_dir / "judgment" / "review_titles_round1_request.json").read_text(encoding="utf-8"))
+    decisions = []
+    for item in request["items"]:
+        if item["title"] == "Falcon Ledger":
+            decisions.append({"title": item["title"], "approve": True, "confidence": 0.95})
+        elif item["title"] == "Slack Messenger":
+            decisions.append({"title": item["title"], "approve": False, "reason": "trademark", "confidence": 0.95})
+        else:
+            decisions.append({"title": item["title"], "approve": True, "confidence": 0.95})
+    judgment.write_response(run_dir, "review_titles", decisions, round_no=1, judged_at="t1")
+
+    word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert state.status == "DONE"
+    assert state.context["round_stats"]["generated"] == 5  # canaries excluded from the count
+    ledger = word_pipeline._load_generated_ledger(tmp_path)
+    assert "falcon ledger" not in ledger
+    assert "slack messenger" not in ledger
+    assert state.context["golden_eval"]["agreement_pct"] == 100.0
+
+
+def test_golden_set_mismatch_triggers_redteam_recheck_and_final_verdict_wins(tmp_path):
+    write_golden_set(tmp_path)
+    options = make_options(tmp_path, run_id="QA-20260831-000003-KST")
+    state = word_pipeline._load_or_create_state(options)
+    word_pipeline._stage_load_state(tmp_path, options, state)
+    run_dir = word_pipeline._run_dir(tmp_path, state)
+
+    with pytest.raises(judgment.JudgmentRequired):
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    run_state.save(tmp_path, state)
+
+    request = json.loads((run_dir / "judgment" / "review_titles_round1_request.json").read_text(encoding="utf-8"))
+    real_titles = [
+        item["title"] for item in request["items"]
+        if word_pipeline.normalize_title(item["title"]) not in {"falcon ledger", "slack messenger"}
+    ]
+    assert len(real_titles) == 5
+    # 1차 판정자가 Slack Messenger(정답=거절)를 잘못 승인 -> 골든셋 불일치 발생.
+    # 실제 후보 5개는 전부 승인(카나리아는 ledger/recheck 흐름에 절대 섞이지 않는다).
+    decisions = [{"title": item["title"], "approve": True, "confidence": 0.9} for item in request["items"]]
+    judgment.write_response(run_dir, "review_titles", decisions, round_no=1, judged_at="t1")
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo.value.stage == "review_titles_recheck"
+    run_state.save(tmp_path, state)
+
+    recheck_request = json.loads(
+        (run_dir / "judgment" / "review_titles_recheck_round1_request.json").read_text(encoding="utf-8")
+    )
+    recheck_titles = {item["title"] for item in recheck_request["items"]}
+    # 카나리아는 골든셋 불일치를 일으킨 원인일 뿐, 실제 산출물이 아니므로
+    # 재검증 대상(=ledger로 이어질 실제 후보)에는 절대 섞이지 않는다.
+    assert recheck_titles == set(real_titles)
+    rejected_title = sorted(recheck_titles)[0]
+
+    recheck_decisions = [
+        {"title": t, "approve": (t != rejected_title), "reason": "no longer clear enough" if t == rejected_title else ""}
+        for t in recheck_titles
+    ]
+    judgment.write_response(run_dir, "review_titles_recheck", recheck_decisions, round_no=1, judged_at="t2")
+
+    word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert state.status == "DONE"
+    assert state.context["golden_eval"]["mismatches"] == [
+        {
+            "title": "Slack Messenger",
+            "expected_approve": False,
+            "actual_approve": True,
+            "rationale": "trademark",
+        }
+    ]
+
+    ledger = word_pipeline._load_generated_ledger(tmp_path)
+    # 카나리아는 애초에 ledger에 존재하지 않는다.
+    assert word_pipeline.normalize_title("Falcon Ledger") not in ledger
+    assert word_pipeline.normalize_title("Slack Messenger") not in ledger
+    rejected_row = ledger[word_pipeline.normalize_title(rejected_title)]
+    assert rejected_row["ai_approved"] == "False"
+    assert "redteam_recheck_rejected" in rejected_row["ai_reason"]
+    survivors = [t for t in real_titles if t != rejected_title]
+    assert all(ledger[word_pipeline.normalize_title(t)]["ai_approved"] == "True" for t in survivors)
+
+
+def test_low_confidence_approval_triggers_redteam_recheck(tmp_path):
+    options = make_options(tmp_path, run_id="QA-20260831-000004-KST")
+    state = word_pipeline._load_or_create_state(options)
+    word_pipeline._stage_load_state(tmp_path, options, state)
+    run_dir = word_pipeline._run_dir(tmp_path, state)
+
+    with pytest.raises(judgment.JudgmentRequired):
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    run_state.save(tmp_path, state)
+
+    request = json.loads((run_dir / "judgment" / "review_titles_round1_request.json").read_text(encoding="utf-8"))
+    decisions = [{"title": item["title"], "approve": True, "confidence": 0.3} for item in request["items"]]
+    judgment.write_response(run_dir, "review_titles", decisions, round_no=1, judged_at="t1")
+
+    with pytest.raises(judgment.JudgmentRequired) as excinfo:
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert excinfo.value.stage == "review_titles_recheck"
+
+
+def test_high_confidence_no_golden_set_completes_without_recheck(tmp_path):
+    # 골든셋 파일이 없고(카나리아 0건) confidence가 전부 높음 -> 재검증 불필요,
+    # 기존(2026-08-18) 단일 라운드 동작이 그대로 유지된다.
+    options = make_options(tmp_path, run_id="QA-20260831-000005-KST")
+    state = word_pipeline._load_or_create_state(options)
+    word_pipeline._stage_load_state(tmp_path, options, state)
+    run_dir = word_pipeline._run_dir(tmp_path, state)
+
+    with pytest.raises(judgment.JudgmentRequired):
+        word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    run_state.save(tmp_path, state)
+    approve_all_response(run_dir)
+
+    word_pipeline._stage_generate_and_review_titles(tmp_path, options, state)
+    assert state.status == "DONE"
+    assert len(state.context["approved"]) == 5
+
+
+# ---------------------------------------------------------------------------
+# config/word_bank_expansions.csv pattern_tag 컬럼 (2026-08-31, 하위호환)
+# ---------------------------------------------------------------------------
+
+
+def test_consume_word_bank_expansion_captures_pattern_tag():
+    response = {"decisions": [{"type": "function", "word": "Portal", "pattern_tag": "specific_place_noun"}]}
+    rows = word_pipeline._consume_word_bank_expansion(response, "RUN-1", "t0")
+    assert rows[0]["pattern_tag"] == "specific_place_noun"
+
+
+def test_consume_word_bank_expansion_defaults_pattern_tag_to_empty_string():
+    response = {"decisions": [{"type": "function", "word": "Portal"}]}
+    rows = word_pipeline._consume_word_bank_expansion(response, "RUN-1", "t0")
+    assert rows[0]["pattern_tag"] == ""
+
+
+def test_append_word_bank_expansion_rows_migrates_legacy_rows_missing_pattern_tag(tmp_path):
+    # 구버전 파일(헤더에 pattern_tag 없음)을 직접 흉내낸다.
+    legacy_path = word_pipeline._word_bank_expansions_path(tmp_path)
+    legacy_path.parent.mkdir(parents=True, exist_ok=True)
+    legacy_path.write_text(
+        "type,word,industry,added_at,added_by_run_id\n"
+        "function,LegacyWord,,t0,RUN-OLD\n",
+        encoding="utf-8",
+    )
+    new_row = {"type": "function", "word": "NewWord", "industry": "", "added_at": "t1", "added_by_run_id": "RUN-NEW", "pattern_tag": "fresh_tag"}
+    word_pipeline._append_word_bank_expansion_rows(tmp_path, [new_row])
+
+    with legacy_path.open(encoding="utf-8", newline="") as f:
+        rows = {r["word"]: r for r in csv.DictReader(f)}
+    assert rows["LegacyWord"]["pattern_tag"] == ""  # backfilled, not a crash
+    assert rows["NewWord"]["pattern_tag"] == "fresh_tag"
+
+
+# ---------------------------------------------------------------------------
 # Keyword Planner filter gate (unchanged logic, GKP-001)
 # ---------------------------------------------------------------------------
 

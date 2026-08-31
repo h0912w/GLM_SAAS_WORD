@@ -85,6 +85,26 @@ AI 판정 20승인 → Keyword Planner 통과 1개(`Furnace Tracker`, 3,600/월�
 독립적으로 확인해준 게 아니므로(교란) 단독으로 승격 근거가 되지 않는다 —
 `expand_word_bank` 판정 시 이 점이 프롬프트에 명시적으로 포함된다.
 
+**2026-08-31 저지능 모델 호환 강화 구조 도입(사용자 지시).** 사용자가 이
+프로젝트를 Claude Code보다 지능이 낮은 모델(예: `settings.json` 레벨에서
+세션 자체를 GLM API로 바꾸는 구성 — 파이프라인 내부에서 별도 `anthropic`
+API를 호출하는 것이 아니라 "지금 실행 중인 세션" 자체가 다른 모델로 도는
+것이므로 §2 규칙1과 충돌하지 않음)에게 맡기려 한다. 사용자가 명시적으로 못
+박은 제약 두 가지: ① **판단을 코드로 떠넘기지 않는다** — "AI 판단이 코드보다
+항상 더 정확하다"는 전제이므로 §5 역할분리 비중을 코드 쪽으로 옮기지 않는다.
+② **사람이 개입하지 않고 AI가 스스로 도는 게 핵심** — 애매한 판정을 사람에게
+에스컬레이션하지 않는다. 이 두 제약 아래 도출된 구조: 코드는 판정 오류
+확률이 높은 순간(골든셋 카나리아 불일치·낮은 confidence·승인율 통계적
+이상치)만 감지하고, 재검증은 항상 같은 라운드 안에서 다시 AI가
+(`review_titles_recheck`, 반박 전담) 수행한다. 여기에 가설(pattern_tag)-검증
+루프와 탐색-활용 균형을 더해 단어 생성 능력이 라운드를 거듭할수록 실제로
+개선되는지도 구조적으로 뒷받침한다. 상세는 §4/§5, `.claude/agents/
+main-orchestrator/AGENT.md`의 "판정 프로토콜" 절,
+`docs/design/15-continuous-word-quality-improvement.md`의 네 번째 개정 참고.
+**유지되는 것**: AI 판정 주체(§2 규칙1)와 판단·코드 역할 분리(§5) 자체 —
+비중이 코드로 이동한 게 아니라 "코드가 감지, AI가 재검증"하는 새 층이
+추가됐을 뿐이다.
+
 원본 설계서(`docs/design/source/claude_code_saas_high_demand_low_supply_two_word_design_v2.4.md`)는
 여전히 역사적 기준이지만, 위 전환들이 실행 규칙의 우선순위를 가진다. 새 규칙과
 원본이 충돌하면 전환 결정을 따르고, 충돌 사실을 `memory/ACTIVE_ISSUES.md`에
@@ -134,7 +154,8 @@ AI 판정 20승인 → Keyword Planner 통과 1개(`Furnace Tracker`, 3,600/월�
 
 **입력**: `input/blocklist.txt`, `src/saas_words_two/word_bank.py`(업계별
 단어뱅크), `config/keyword_metrics.yaml`(검색량·경쟁지수 기준값), `.env.local`
-(Google Ads API 자격증명, git 제외), 메모리 파일.
+(Google Ads API 자격증명, git 제외), `config/golden_set.csv`(판정 품질 회귀
+검사용 고정 정답 카나리아, §4 하단 참고), 메모리 파일.
 
 **출력 — 정확히 4개 문서, 각각 마스터(고정 경로, 항상 최신) + 날짜시간 스냅샷**:
 
@@ -203,6 +224,22 @@ backlog만 처리한 라운드(신규 생성 0건)는 구간 계산에서 제외
 나오면 현재 세션이 원인(단어뱅크 확장 방향, 은퇴 목록 적용 누락 등)을 해석해야
 한다.
 
+**저지능 모델 호환 강화 구조(2026-08-31)**: `config/golden_set.csv`(정답이
+고정된 카나리아 후보, 판정 결과가 아니라 위 §4 4개 문서와 다른 카테고리 —
+실제 산출물이 아니라 판정 품질 확인용 미끼)가 매 `review_titles` 라운드마다
+실제 후보와 형식상 구분 없이 판정에 섞인다. 판정 결과가 고정 정답과
+불일치하거나(골든셋 카나리아 회귀 검사), 판정 응답의 confidence가 0.6 미만인
+승인이 있거나, 이번 라운드 AI 승인율이 과거 대비 통계적 극단치면(승인율
+이상탐지, `word_performance.detect_approval_rate_anomaly`) 이번 라운드의
+"승인" 판정만 별도 판정 라운드 `review_titles_recheck`(반박 전담)에서 다시
+검토되고 그 최종 결과가 ledger(문서①)의 `ai_approved`/`ai_reason`에
+반영된다 — 카나리아 자체는 절대 ledger에 기록되지 않는다. 사람에게
+넘기지 않는다. `config/word_bank_expansions.csv`에는 `pattern_tag` 컬럼이
+추가돼(기존 파일은 하위호환 마이그레이션됨) `expand_word_bank`가 제안하는
+단어마다 어떤 승자 패턴 가설을 대표하는지 표시하고, 다음 라운드부터
+`word_performance.pattern_tag_performance`가 그 가설의 실측 통과율을 자동
+집계한다.
+
 상세 계약은 `docs/contracts/02-input-output-contracts.md`를 따른다(전환 반영됨).
 
 ## 5. 판단과 코드 역할 분리 — 반드시 유지
@@ -218,6 +255,10 @@ backlog만 처리한 라운드(신규 생성 0건)는 구간 계산에서 제외
 | 라운드별 정체 점검(개선/정체/저하 판정) | 전담(순수 수치 비교, `detect_stagnation`) | 정체·저하 신호의 원인 해석·대응 |
 | Keyword Planner 게이트 | 전담(순수 수치 비교) | — |
 | ledger/캐시 병합·문서 export | 전담(원자적 쓰기) | — |
+| 골든셋 카나리아 판정 품질 회귀 검사 | 정답 비교·집계(순수 수치, `evaluate_golden_set`) | 카나리아도 실제 후보와 동일 기준으로 판정(구분 시도 금지) |
+| 승인율 이상탐지(circuit breaker) | 전담(순수 수치 비교, `detect_approval_rate_anomaly`) | — |
+| 레드팀 재검증(`review_titles_recheck`) | 트리거 판정만(순수 수치 신호 3종 OR) | 반박 전담 판정 |
+| 패턴 태그 가설-검증 루프 | 집계(순수 통계, `pattern_tag_performance`/`least_tried_pattern_tags`) | 가설 태그 부여·탐색-활용 균형 유지 |
 | QA | 동일 파이프라인 실행 | `final-qa-runner`가 실행 결과 판정 |
 
 전체 매트릭스는 `docs/architecture/06-agents-and-role-separation.md`를 따른다.
@@ -233,7 +274,10 @@ WORD_GENERATION_LEARNINGS.md`의 "핵심 원칙"이 판정 요청에 코드로 �
 주입된 상태에서, 현재 세션이 그 원칙에 맞춰 새 도메인어/기능어 제안) →
 확장분 반영 후 재시도, 그래도 0개면 진짜 `CAPABILITY_STAGNATION` → (신규
 후보가 있으면) 코드 기반 형식·중복 검증 → 제목 명확성·의미 중복·상표 유사
-검토(현재 세션) → ledger 기록(문서①) → (backlog + 이번 승인분)에 Keyword
+검토(현재 세션, 골든셋 카나리아 동반 판정) → **골든셋 불일치/낮은
+confidence/승인율 이상탐지 중 하나라도 걸리면** `review_titles_recheck`(반박
+전담) 판정을 한 번 더 거침(2026-08-31) → ledger 기록(문서①, 카나리아 제외) →
+(backlog + 이번 승인분)에 Keyword
 Planner 게이트 적용(문서②③④ 갱신) → 메모리·Git 체크포인트 → **이번 라운드에
 `expand_word_bank`가 있었다면** 그 결과(통과율 변화, 신규 은퇴 단어 유무)를
 `memory/WORD_GENERATION_LEARNINGS.md`의 라운드별 로그에 append하고 일반화

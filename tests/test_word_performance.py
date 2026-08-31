@@ -220,6 +220,161 @@ def test_format_stagnation_message_reports_direction_and_numbers():
     assert "0.50%" in msg
 
 
+# ---------------------------------------------------------------------------
+# 저지능 모델 호환 강화 구조 (2026-08-31): 골든셋 카나리아 회귀 검사,
+# 승인율 이상탐지(circuit breaker), 패턴 태그 실측 성과.
+# ---------------------------------------------------------------------------
+
+
+def write_golden_set(tmp_path, rows):
+    path = word_performance.golden_set_path(tmp_path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=word_performance.GOLDEN_SET_COLUMNS, lineterminator="\n")
+        writer.writeheader()
+        writer.writerows(rows)
+
+
+GOLDEN_ROWS = [
+    {"title": "Falcon Ledger", "industry": "canary", "expected_approve": "True", "rationale": "clear", "added_at": "t0"},
+    {"title": "Slack Messenger", "industry": "canary", "expected_approve": "False", "rationale": "trademark", "added_at": "t0"},
+]
+
+
+def test_load_golden_set_missing_file_is_empty(tmp_path):
+    assert word_performance.load_golden_set(tmp_path) == {}
+    assert word_performance.golden_set_titles(tmp_path) == set()
+
+
+def test_load_golden_set_parses_expected_approve_and_normalizes_key(tmp_path):
+    write_golden_set(tmp_path, GOLDEN_ROWS)
+    golden = word_performance.load_golden_set(tmp_path)
+    assert golden["falcon ledger"]["expected_approve"] is True
+    assert golden["slack messenger"]["expected_approve"] is False
+    assert word_performance.golden_set_titles(tmp_path) == {"falcon ledger", "slack messenger"}
+
+
+def test_evaluate_golden_set_counts_agreement_and_mismatches(tmp_path):
+    write_golden_set(tmp_path, GOLDEN_ROWS)
+    golden = word_performance.load_golden_set(tmp_path)
+    decisions = [
+        {"title": "Falcon Ledger", "approve": True},  # agrees
+        {"title": "Slack Messenger", "approve": True},  # mismatch - expected False
+    ]
+    result = word_performance.evaluate_golden_set(decisions, golden)
+    assert result == {
+        "checked": 2,
+        "agreed": 1,
+        "agreement_pct": 50.0,
+        "mismatches": [
+            {
+                "title": "Slack Messenger",
+                "expected_approve": False,
+                "actual_approve": True,
+                "rationale": "trademark",
+            }
+        ],
+    }
+
+
+def test_evaluate_golden_set_ignores_decisions_not_in_golden_set(tmp_path):
+    write_golden_set(tmp_path, GOLDEN_ROWS)
+    golden = word_performance.load_golden_set(tmp_path)
+    result = word_performance.evaluate_golden_set([{"title": "Some Real Candidate", "approve": True}], golden)
+    assert result["checked"] == 0
+    assert result["agreement_pct"] is None
+
+
+def approval_history_row(generated, ai_approved):
+    return {"generated": str(generated), "ai_approved": str(ai_approved), "kp_passed": "0"}
+
+
+def test_detect_approval_rate_anomaly_insufficient_data_with_no_new_generation():
+    result = word_performance.detect_approval_rate_anomaly([], generated=0, ai_approved=0)
+    assert result["status"] == "insufficient_data"
+
+
+def test_detect_approval_rate_anomaly_insufficient_data_with_few_historical_rounds():
+    history = [approval_history_row(100, 50)] * 2  # fewer than min_rounds
+    result = word_performance.detect_approval_rate_anomaly(history, generated=100, ai_approved=50, min_rounds=5)
+    assert result["status"] == "insufficient_data"
+    assert result["sample_rounds"] == 2
+
+
+def test_detect_approval_rate_anomaly_normal_within_threshold():
+    # 50% 승인율이 반복된 안정적 이력 대비 이번 라운드도 50% -> 정상
+    history = [approval_history_row(100, 50)] * 6
+    result = word_performance.detect_approval_rate_anomaly(history, generated=100, ai_approved=50, min_rounds=5)
+    assert result["status"] == "normal"
+
+
+def test_detect_approval_rate_anomaly_flags_extreme_high():
+    # 이력은 항상 승인율 정확히 50% (표준편차 0) - 이번 라운드 100% 승인은
+    # stdev=0일 때 z_score 계산의 0-division을 특별 취급해야 극단치로 잡힌다.
+    history = [approval_history_row(100, 50)] * 6
+    result = word_performance.detect_approval_rate_anomaly(history, generated=100, ai_approved=100, min_rounds=5)
+    assert result["status"] == "anomalous_high"
+
+
+def test_detect_approval_rate_anomaly_skips_backlog_only_rounds_in_baseline():
+    history = [approval_history_row(0, 0)] * 3 + [approval_history_row(100, 50)] * 6
+    result = word_performance.detect_approval_rate_anomaly(history, generated=100, ai_approved=50, min_rounds=5)
+    assert result["sample_rounds"] == 6  # generated=0 라운드는 기준선에서 제외
+
+
+def test_format_golden_set_message_no_canaries_checked():
+    assert "카나리아 판정 없음" in word_performance.format_golden_set_message({})
+
+
+def test_format_golden_set_message_reports_mismatch_trigger():
+    msg = word_performance.format_golden_set_message(
+        {"checked": 2, "agreed": 1, "agreement_pct": 50.0, "mismatches": [{"title": "x"}]}
+    )
+    assert "1/2" in msg
+    assert "레드팀 재검증 트리거" in msg
+
+
+def test_format_approval_anomaly_message_insufficient_data():
+    assert "데이터 부족" in word_performance.format_approval_anomaly_message({"status": "insufficient_data"})
+
+
+def expansion_row(word_type, word, pattern_tag):
+    return {"type": word_type, "word": word, "industry": "", "pattern_tag": pattern_tag}
+
+
+def test_pattern_tag_performance_aggregates_words_sharing_a_tag(tmp_path):
+    cache_rows = [cache_row("Fuel Portal", True)] * 5 + [cache_row("Fuel Map", False)] * 5
+    expansions = [
+        expansion_row("function", "Portal", "specific_place_noun"),
+        expansion_row("function", "Map", "specific_place_noun"),
+    ]
+    perf = word_performance.pattern_tag_performance(expansions, cache_rows)
+    assert perf["specific_place_noun"] == {"passed": 5, "attempts": 10, "word_count": 2, "pass_rate_pct": 50.0}
+
+
+def test_pattern_tag_performance_ignores_rows_without_a_tag():
+    cache_rows = [cache_row("Fuel Portal", True)]
+    expansions = [expansion_row("function", "Portal", "")]
+    assert word_performance.pattern_tag_performance(expansions, cache_rows) == {}
+
+
+def test_least_tried_pattern_tags_orders_by_ascending_attempts():
+    cache_rows = [cache_row("Fuel Portal", True)] * 10 + [cache_row("Fuel Map", True)] * 2
+    expansions = [
+        expansion_row("function", "Portal", "well_tried_tag"),
+        expansion_row("function", "Map", "fresh_tag"),
+    ]
+    assert word_performance.least_tried_pattern_tags(expansions, cache_rows) == ["fresh_tag", "well_tried_tag"]
+
+
+def test_principle_refresh_reminder_fires_only_on_multiples_of_n():
+    assert word_performance.principle_refresh_reminder(9) is None
+    assert word_performance.principle_refresh_reminder(0) is None
+    reminder = word_performance.principle_refresh_reminder(10)
+    assert reminder is not None
+    assert "10라운드" in reminder
+
+
 def test_performance_summary_for_expansion_includes_top_and_retired(tmp_path):
     write_cache(
         tmp_path,

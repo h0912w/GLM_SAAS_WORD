@@ -17,6 +17,12 @@
 3. QA는 단어뱅크 조합부터 제목 검토·Keyword Planner 게이트·Git 체크포인트까지 전체 단계를 직접 수행한다.
 4. `python tools/verify_design_coverage.py`와 `python -m pytest -q`가 PASS해야 한다.
 5. 필수 회귀 사례(`qa/regression/REQUIRED_CASES.md`)를 모두 통과하기 전 DONE으로 전환하지 않는다.
+6. **(2026-08-31 추가)** 저지능 모델 호환 강화 구조(`docs/design/15-continuous-word-quality-improvement.md`
+   네 번째 개정)의 안전망이 실제로 걸리는지 확인한다 - `config/golden_set.csv`
+   카나리아가 `review_titles` 요청에 섞여 있는지, 불일치·낮은 confidence·승인율
+   이상탐지 중 하나라도 걸리면 `review_titles_recheck` 판정이 실제로 열리는지,
+   그 결과가 ledger의 `ai_approved`/`ai_reason`(`redteam_recheck_rejected: ...`)에
+   반영되는지, 카나리아 자체는 ledger에 절대 남지 않는지.
 
 ## 원본 설계 세부 규칙
 

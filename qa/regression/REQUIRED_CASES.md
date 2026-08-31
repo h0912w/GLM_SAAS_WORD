@@ -20,3 +20,17 @@
 - 생성 ledger: AI 승인됐지만 Keyword Planner 미확인인 후보(backlog)는 다음 실행(같은
   run 재개든 새 run이든)에 자동으로 게이트에 반영되어 유실되지 않는다
 - 생성 ledger: 한 번 생성+판정된 조합(승인/거절 무관)은 재생성되지 않는다
+- **(2026-08-31 추가, 저지능 모델 호환 강화 구조)** 골든셋 카나리아
+  (`config/golden_set.csv`)는 `review_titles` 요청에 실제 후보와 형식상
+  구분 없이 포함되지만, 어떤 판정이 나오든 ledger·round_stats·승인분에는
+  절대 반영되지 않는다
+- 골든셋 카나리아 판정 불일치가 하나라도 있으면 `review_titles_recheck`
+  판정 라운드가 자동으로 열린다
+- confidence < 0.6인 승인 판정이 하나라도 있으면 `review_titles_recheck`가
+  자동으로 열린다
+- `review_titles_recheck`에서 반박(approve=false)된 항목은 ledger에
+  `ai_approved=False`, `ai_reason`에 `redteam_recheck_rejected:` 접두사로
+  기록되고, 반박되지 않은 항목만 최종 승인분(Keyword Planner 게이트 대상)에
+  포함된다
+- `config/word_bank_expansions.csv`에 `pattern_tag` 컬럼이 없는 구버전 파일을
+  읽어도 크래시하지 않고 빈 문자열로 하위호환 처리된다

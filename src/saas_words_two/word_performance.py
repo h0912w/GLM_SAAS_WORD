@@ -31,7 +31,7 @@ import csv
 import io
 from pathlib import Path
 
-from .contracts import atomic_write_text
+from .contracts import atomic_write_text, normalize_title
 
 # 은퇴 기준: 이만큼 시도했는데 통과 0건이면 "죽은 기능어"로 판정.
 # 실측 근거: 2026-08-18 분석에서 300회+ 시도 기능어의 통과율 분포는
@@ -405,4 +405,239 @@ def format_stagnation_message(result: dict) -> str:
         f"vs 이전 {result['prior_rounds']}라운드(생성 {result['prior_generated']}개) "
         f"{result['prior_pass_rate_pct']:.2f}% (상대변화 {delta_str}, "
         f"임계값 ±{STAGNATION_DECLINE_THRESHOLD_PCT:.0f}%)"
+    )
+
+
+# ---------------------------------------------------------------------------
+# 저지능 모델 호환 강화 구조 (2026-08-31, 사용자 지시): "사람 개입 없이 AI가
+# 스스로 도는 게 핵심"이라는 제약 아래, 판단 자체는 여전히 전량 AI가 하되
+# (코드로 판단을 떠넘기지 않는다) 그 판단이 틀렸을 확률이 높은 순간을 코드가
+# 순수 통계로 감지해서 "같은 라운드 안에서 즉시 AI 재검증(레드팀)"을 자동
+# 트리거하는 안전망 세 가지: ① 골든셋 카나리아 회귀 검사, ② 승인율 이상탐지,
+# ③ 패턴 태그별 실측 성과(가설-검증 루프, 자가확장 판정에 주입). 코드는 감지만
+# 하고, 재검증 자체는 word_pipeline이 여는 새 판정 라운드(review_titles_recheck)
+# 에서 다시 AI가 수행한다 - 사람에게 넘기지 않는다. 상세 배경은
+# `docs/design/15-continuous-word-quality-improvement.md`의 같은 날짜 개정 참고.
+# ---------------------------------------------------------------------------
+
+GOLDEN_SET_COLUMNS = ("title", "industry", "expected_approve", "rationale", "added_at")
+
+
+def golden_set_path(project_root: Path) -> Path:
+    return project_root / "config" / "golden_set.csv"
+
+
+def load_golden_set(project_root: Path) -> dict[str, dict]:
+    """정답이 고정된 카나리아 후보(`config/golden_set.csv`)를 정규화된 제목
+    -> {expected_approve: bool, ...} 형태로 반환한다. 이 후보들은 실제
+    산출물이 아니라 판정 품질을 매 라운드 확인하기 위한 미끼로, review_titles
+    요청에 실제 후보와 구분 없이 섞여 들어간다(판정 대상이 미끼인지 알아채면
+    검사 의미가 없으므로 형식상 실제 후보와 동일하게 취급됨)."""
+    path = golden_set_path(project_root)
+    if not path.exists():
+        return {}
+    result: dict[str, dict] = {}
+    with path.open("r", encoding="utf-8", newline="") as f:
+        for row in csv.DictReader(f):
+            title = row.get("title", "").strip()
+            if not title:
+                continue
+            result[normalize_title(title)] = {
+                "title": title,
+                "expected_approve": row.get("expected_approve", "").strip().lower() == "true",
+                "rationale": row.get("rationale", ""),
+            }
+    return result
+
+
+def golden_set_titles(project_root: Path) -> set[str]:
+    """정규화된 카나리아 제목 집합 - 실제 후보 생성이 이 제목들과 우연히
+    겹치지 않도록 `word_pipeline._excluded_normalized`가 제외 집합에 합친다."""
+    return set(load_golden_set(project_root).keys())
+
+
+def evaluate_golden_set(canary_decisions: list[dict], golden: dict[str, dict]) -> dict:
+    """카나리아 판정 결과와 고정 정답을 비교한다. `canary_decisions`는 이번
+    라운드 판정 응답 중 카나리아 제목만 골라낸 것(호출자 책임)."""
+    checked = 0
+    agreed = 0
+    mismatches: list[dict] = []
+    for decision in canary_decisions:
+        row = golden.get(normalize_title(decision.get("title", "")))
+        if row is None:
+            continue
+        checked += 1
+        expected = row["expected_approve"]
+        actual = bool(decision.get("approve"))
+        if expected == actual:
+            agreed += 1
+        else:
+            mismatches.append(
+                {
+                    "title": row["title"],
+                    "expected_approve": expected,
+                    "actual_approve": actual,
+                    "rationale": row["rationale"],
+                }
+            )
+    return {
+        "checked": checked,
+        "agreed": agreed,
+        "agreement_pct": round(100.0 * agreed / checked, 2) if checked else None,
+        "mismatches": mismatches,
+    }
+
+
+# 승인율 이상탐지(circuit breaker) - 2026-08-31 정직한 주의사항: 실측
+# round_history.csv(60개 라운드, 2026-08-19~08-31)의 라운드별 AI 승인율은
+# 9.5%~99.6% 사이를 오간다 - 이미 자연 변동폭 자체가 극단적으로 크다. 좁은
+# 임계값(예: 평균±1표준편차)은 거의 매 라운드 "이상"으로 판정해버려 신호로서
+# 무의미해진다. 그래서 z_threshold를 넉넉하게 잡아 "진짜 극단적인" 경우만
+# 잡아내는 용도로 제한한다 - STAGNATION 임계값과 마찬가지로 이 값도 표본이
+# 더 쌓이면 재검증 대상인 잠정치다.
+APPROVAL_ANOMALY_MIN_ROUNDS = 5
+APPROVAL_ANOMALY_Z_THRESHOLD = 3.0
+
+
+def _historical_approval_rates(history_rows: list[dict]) -> list[float]:
+    return [
+        100.0 * int(r["ai_approved"]) / int(r["generated"])
+        for r in history_rows
+        if int(r.get("generated") or 0) > 0
+    ]
+
+
+def detect_approval_rate_anomaly(
+    history_rows: list[dict],
+    *,
+    generated: int,
+    ai_approved: int,
+    min_rounds: int = APPROVAL_ANOMALY_MIN_ROUNDS,
+    z_threshold: float = APPROVAL_ANOMALY_Z_THRESHOLD,
+) -> dict:
+    """이번 라운드 AI 승인율이 과거 라운드들 대비 통계적으로 극단적인지
+    (z-score 기준) 판정한다. 표본 부족·이번 라운드 신규생성 0건이면
+    insufficient_data - 정체 점검(`detect_stagnation`)과 마찬가지로 순수
+    수치 비교만 하고 원인 해석은 하지 않는다(§5)."""
+    if generated <= 0:
+        return {"status": "insufficient_data", "reason": "no_new_generation_this_round"}
+    rates = _historical_approval_rates(history_rows)
+    if len(rates) < min_rounds:
+        return {"status": "insufficient_data", "sample_rounds": len(rates), "min_rounds": min_rounds}
+
+    mean = sum(rates) / len(rates)
+    variance = sum((r - mean) ** 2 for r in rates) / len(rates)
+    stdev = variance**0.5
+    current_rate = 100.0 * ai_approved / generated
+
+    if stdev == 0:
+        # 과거 승인율의 변동이 전혀 없었던 기준선 - 조금이라도 벗어나면 그
+        # 자체로 전례 없는 사건이므로 z-score 나눗셈 없이 방향만 본다.
+        if current_rate == mean:
+            status, z_score = "normal", 0.0
+        elif current_rate > mean:
+            status, z_score = "anomalous_high", float("inf")
+        else:
+            status, z_score = "anomalous_low", float("-inf")
+    else:
+        z_score = (current_rate - mean) / stdev
+        if z_score >= z_threshold:
+            status = "anomalous_high"
+        elif z_score <= -z_threshold:
+            status = "anomalous_low"
+        else:
+            status = "normal"
+
+    return {
+        "status": status,
+        "current_rate_pct": round(current_rate, 2),
+        "baseline_mean_pct": round(mean, 2),
+        "baseline_stdev_pct": round(stdev, 2),
+        "z_score": round(z_score, 2),
+        "sample_rounds": len(rates),
+    }
+
+
+# 패턴 태그 실측 성과 (가설-검증 루프, 2026-08-31): `expand_word_bank` 제안이
+# 각 신규 단어에 붙인 pattern_tag(예: "specific_place_noun")별로 실측
+# 통과율을 코드가 자동 집계한다 - "이 패턴이 통했는지"를 세션이 라운드 로그를
+# 다시 읽고 일반화할 필요 없이 숫자로 바로 확인 가능하게 한다.
+
+
+def pattern_tag_performance(expansion_rows: list[dict], cache_rows: list[dict]) -> dict[str, dict]:
+    """expansion_rows: `config/word_bank_expansions.csv` 행(pattern_tag 포함).
+    cache_rows: `load_cache_rows`로 얻은 Keyword Planner 누적 캐시 행.
+    반환: pattern_tag -> {passed, attempts, word_count, pass_rate_pct}."""
+    fn_stats = function_word_stats(cache_rows)
+    dom_stats = domain_word_stats(cache_rows)
+    totals: dict[str, list[int]] = {}
+    for row in expansion_rows:
+        tag = (row.get("pattern_tag") or "").strip()
+        if not tag:
+            continue
+        stats = fn_stats if row.get("type") == "function" else dom_stats
+        passed, attempts = stats.get(row.get("word", ""), (0, 0))
+        entry = totals.setdefault(tag, [0, 0, 0])
+        entry[0] += passed
+        entry[1] += attempts
+        entry[2] += 1
+    return {
+        tag: {
+            "passed": p,
+            "attempts": a,
+            "word_count": n,
+            "pass_rate_pct": round(100.0 * p / a, 2) if a else None,
+        }
+        for tag, (p, a, n) in totals.items()
+    }
+
+
+def least_tried_pattern_tags(expansion_rows: list[dict], cache_rows: list[dict], *, top_n: int = 5) -> list[str]:
+    """실측 시도 횟수가 가장 적은 패턴 태그 순 - `expand_word_bank` 판정에서
+    "이미 우려먹은 패턴"에 안주하지 않고 새 축을 시도하도록 유도하는 데 쓴다
+    (탐색-활용 균형, 정체 방지)."""
+    perf = pattern_tag_performance(expansion_rows, cache_rows)
+    return sorted(perf.keys(), key=lambda t: perf[t]["attempts"])[:top_n]
+
+
+def format_golden_set_message(result: dict) -> str:
+    """`evaluate_golden_set`의 결과를 콘솔·HANDOFF에 바로 쓸 수 있는 한 줄로."""
+    if not result or result.get("checked", 0) == 0:
+        return "[골든셋 카나리아] 이번 라운드 카나리아 판정 없음"
+    line = f"[골든셋 카나리아] {result['agreed']}/{result['checked']} 일치 ({result['agreement_pct']:.1f}%)"
+    if result["mismatches"]:
+        line += f", 불일치 {len(result['mismatches'])}건 -> 레드팀 재검증 트리거"
+    return line
+
+
+# 주기적 원칙 재계산 리마인더(2026-08-31): "핵심 원칙"을 매번 증분 수정만
+# 하면 오래된 원칙이 낡은 채 누적되며 실제와 어긋나는(드리프트) 문제가 생긴다.
+# 코드는 "지금이 재계산 권장 시점"이라는 리마인더만 표면화하고, 실제 재계산
+# (전체 실측 데이터로 처음부터 다시 도출)은 의미 해석이라 세션의 몫이다(§5).
+PRINCIPLE_REFRESH_REMINDER_EVERY_N_ROUNDS = 10
+
+
+def principle_refresh_reminder(round_count: int) -> str | None:
+    if round_count and round_count % PRINCIPLE_REFRESH_REMINDER_EVERY_N_ROUNDS == 0:
+        return (
+            f"[원칙 재계산 권장] 누적 {round_count}라운드 도달 - "
+            "memory/WORD_GENERATION_LEARNINGS.md의 '핵심 원칙'을 증분 수정 대신 지금까지 "
+            "전체 실측 데이터로 처음부터 다시 도출하는 걸 고려하라(드리프트 방지)."
+        )
+    return None
+
+
+def format_approval_anomaly_message(result: dict) -> str:
+    """`detect_approval_rate_anomaly`의 결과를 콘솔·HANDOFF에 바로 쓸 수 있는 한 줄로."""
+    if result.get("status") == "insufficient_data":
+        return "[승인율 이상탐지] 데이터 부족"
+    label = {
+        "normal": "정상",
+        "anomalous_high": "이상(과도하게 관대)",
+        "anomalous_low": "이상(과도하게 엄격)",
+    }[result["status"]]
+    return (
+        f"[승인율 이상탐지] {label}: 이번 라운드 {result['current_rate_pct']:.1f}% vs "
+        f"기준선 평균 {result['baseline_mean_pct']:.1f}%(표준편차 {result['baseline_stdev_pct']:.1f}, "
+        f"z={result['z_score']:.2f}, 임계 ±{APPROVAL_ANOMALY_Z_THRESHOLD:.1f})"
     )

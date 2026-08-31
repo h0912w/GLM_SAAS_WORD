@@ -1,7 +1,7 @@
 # 단어 성과 리포트 (자동 생성)
 
-- 생성 시각: 2026-08-31T04:18:31.349561+09:00
-- 누적 통과율: 2247/246239 = 0.91%
+- 생성 시각: 2026-08-31T23:41:51.770705+09:00
+- 누적 통과율: 2247/246271 = 0.91%
 - 은퇴 기능어: 92개 (`config/retired_function_words.csv`)
 
 ## 기능어 통과율 상위 (시도 100회 이상)
@@ -15,7 +15,7 @@
 | Status | 46 | 917 | 5.02% |
 | Map | 45 | 898 | 5.01% |
 | List | 44 | 901 | 4.88% |
-| Calculator | 30 | 638 | 4.70% |
+| Calculator | 30 | 639 | 4.69% |
 | Rate | 39 | 895 | 4.36% |
 | Result | 24 | 553 | 4.34% |
 | Message | 30 | 752 | 3.99% |
@@ -48,7 +48,7 @@ Almanac, Analyzer, Anchor, Benchmark, Blueprint, Book, Cabinet, Cashback, Catalo
 | Hospital | 16 | 284 | 5.63% |
 | Closing | 14 | 257 | 5.45% |
 | Conversion | 15 | 277 | 5.42% |
-| Test | 15 | 282 | 5.32% |
+| Test | 15 | 283 | 5.30% |
 | Public | 13 | 248 | 5.24% |
 | Chat | 14 | 273 | 5.13% |
 | Council | 14 | 277 | 5.05% |
@@ -56,7 +56,7 @@ Almanac, Analyzer, Anchor, Benchmark, Blueprint, Book, Cabinet, Cashback, Catalo
 | Scratch | 12 | 238 | 5.04% |
 | Service | 14 | 285 | 4.91% |
 | Ratio | 12 | 249 | 4.82% |
-| Payment | 14 | 292 | 4.79% |
+| Class | 14 | 293 | 4.78% |
 
 > 해석 가이드: 새 기능어를 제안할 때는 상위 표의 패턴(실제 검색되는 구체적
 > 명사)을 닮게, 은퇴 목록의 패턴(전문용어풍 합성어)은 피한다. Keyword
