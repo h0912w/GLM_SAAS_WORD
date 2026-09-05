@@ -1,0 +1,931 @@
+{
+  "awaiting_judgment": null,
+  "context": {
+    "approval_anomaly": {
+      "baseline_mean_pct": 79.76,
+      "baseline_stdev_pct": 22.1,
+      "current_rate_pct": 24.0,
+      "sample_rounds": 64,
+      "status": "normal",
+      "z_score": -2.52
+    },
+    "approved": [],
+    "backlog": [],
+    "candidate_industry": {
+      "Allergen Flowchart": "food_service",
+      "Allergen Mockup": "food_service",
+      "Author Simulator": "media_publishing",
+      "Backflow Roster": "plumbing_services",
+      "Candidate Simulator": "recruiting",
+      "Cistern Forecast": "plumbing_services",
+      "Clog Lobby": "plumbing_services",
+      "Clog Ticker": "plumbing_services",
+      "Coupling Feed": "plumbing_services",
+      "Curfew Flowchart": "government",
+      "Deployment Mockup": "it_devops",
+      "Drain Fee": "plumbing_services",
+      "Drainpipe Warranty": "plumbing_services",
+      "Elbow Discount": "plumbing_services",
+      "Faucet Board": "plumbing_services",
+      "Financing Simulator": "automotive",
+      "Fitting Value": "plumbing_services",
+      "Fixture Code": "plumbing_services",
+      "Fixture Receipt": "plumbing_services",
+      "Grout Brief": "plumbing_services",
+      "Interviewer Simulator": "recruiting",
+      "Leak Label": "plumbing_services",
+      "Mentorship Mockup": "education",
+      "Naptime Seal": "childcare",
+      "Nozzle Message": "plumbing_services",
+      "Nutrition Predictor": "fitness_wellness",
+      "Nutrition Seal": "fitness_wellness",
+      "Overflow Extension": "plumbing_services",
+      "Overflow Trial": "plumbing_services",
+      "Photo Mockup": "media_publishing",
+      "Pipe Window": "plumbing_services",
+      "Plunger Frame": "plumbing_services",
+      "Plunger Map": "plumbing_services",
+      "Rating Flowchart": "customer_support",
+      "Reference Mockup": "recruiting",
+      "Registration Predictor": "events",
+      "Sewer Confirmation": "plumbing_services",
+      "Sewer Recap": "plumbing_services",
+      "Sink Account": "plumbing_services",
+      "Snake Fare": "plumbing_services",
+      "Softener Loop": "plumbing_services",
+      "Spigot Marker": "plumbing_services",
+      "Toilet Base": "plumbing_services",
+      "Toilet Core": "plumbing_services",
+      "Trap Gate": "plumbing_services",
+      "Washer Bin": "plumbing_services",
+      "Washer Passport": "plumbing_services",
+      "Wifi Predictor": "events",
+      "Wrench Agreement": "plumbing_services",
+      "Wrench Rating": "plumbing_services"
+    },
+    "golden_eval": {
+      "agreed": 7,
+      "agreement_pct": 100.0,
+      "checked": 7,
+      "mismatches": []
+    },
+    "review_all_items": [
+      {
+        "industry": "canary",
+        "title": "Falcon Ledger"
+      },
+      {
+        "industry": "canary",
+        "title": "Quantum Notary"
+      },
+      {
+        "industry": "canary",
+        "title": "Slack Messenger"
+      },
+      {
+        "industry": "canary",
+        "title": "Photoshop Canvas"
+      },
+      {
+        "industry": "canary",
+        "title": "Data Thing"
+      },
+      {
+        "industry": "canary",
+        "title": "Ledger Sentinel"
+      },
+      {
+        "industry": "canary",
+        "title": "Ledger Watchman"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Toilet Base"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Clog Lobby"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Sewer Confirmation"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Overflow Extension"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Wrench Rating"
+      },
+      {
+        "industry": "food_service",
+        "title": "Allergen Mockup"
+      },
+      {
+        "industry": "fitness_wellness",
+        "title": "Nutrition Predictor"
+      },
+      {
+        "industry": "childcare",
+        "title": "Naptime Seal"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Plunger Map"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Washer Bin"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Fixture Receipt"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Snake Fare"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Spigot Marker"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Nozzle Message"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Cistern Forecast"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Drainpipe Warranty"
+      },
+      {
+        "industry": "media_publishing",
+        "title": "Photo Mockup"
+      },
+      {
+        "industry": "customer_support",
+        "title": "Rating Flowchart"
+      },
+      {
+        "industry": "recruiting",
+        "title": "Interviewer Simulator"
+      },
+      {
+        "industry": "events",
+        "title": "Wifi Predictor"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Softener Loop"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Trap Gate"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Backflow Roster"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Coupling Feed"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Grout Brief"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Fitting Value"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Elbow Discount"
+      },
+      {
+        "industry": "education",
+        "title": "Mentorship Mockup"
+      },
+      {
+        "industry": "government",
+        "title": "Curfew Flowchart"
+      },
+      {
+        "industry": "media_publishing",
+        "title": "Author Simulator"
+      },
+      {
+        "industry": "it_devops",
+        "title": "Deployment Mockup"
+      },
+      {
+        "industry": "recruiting",
+        "title": "Candidate Simulator"
+      },
+      {
+        "industry": "events",
+        "title": "Registration Predictor"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Faucet Board"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Pipe Window"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Drain Fee"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Leak Label"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Sink Account"
+      },
+      {
+        "industry": "recruiting",
+        "title": "Reference Mockup"
+      },
+      {
+        "industry": "automotive",
+        "title": "Financing Simulator"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Toilet Core"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Clog Ticker"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Sewer Recap"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Overflow Trial"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Wrench Agreement"
+      },
+      {
+        "industry": "food_service",
+        "title": "Allergen Flowchart"
+      },
+      {
+        "industry": "fitness_wellness",
+        "title": "Nutrition Seal"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Plunger Frame"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Washer Passport"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Fixture Code"
+      }
+    ],
+    "review_attempts": {},
+    "review_chunk_decisions": {
+      "Allergen Flowchart": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "title": "Allergen Flowchart"
+      },
+      "Allergen Mockup": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "알레르기 유발물질을 '목업(시안 제작)'한다는 개념이 성립하지 않는 명확성 실패",
+        "title": "Allergen Mockup"
+      },
+      "Author Simulator": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "title": "Author Simulator"
+      },
+      "Backflow Roster": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.55,
+        "title": "Backflow Roster"
+      },
+      "Candidate Simulator": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "title": "Candidate Simulator"
+      },
+      "Cistern Forecast": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "title": "Cistern Forecast"
+      },
+      "Clog Lobby": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.9,
+        "reason": "'막힘 로비'는 자연스러운 영어 관용구가 아니고 제품 개념 자체가 성립하지 않는 명확성 실패",
+        "title": "Clog Lobby"
+      },
+      "Clog Ticker": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "reason": "막힘 티커는 제품 개념으로 성립하지 않는 명확성 실패",
+        "title": "Clog Ticker"
+      },
+      "Coupling Feed": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "이음쇠 공급/피드의 대상이 불명확해 제품 개념이 성립하지 않는 명확성 실패",
+        "title": "Coupling Feed"
+      },
+      "Curfew Flowchart": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.55,
+        "reason": "통금 순서도가 누구를 위해 무엇을 판단하는지 불명확하고 조합이 부자연스러운 명확성 실패",
+        "title": "Curfew Flowchart"
+      },
+      "Data Thing": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.95,
+        "reason": "'Thing'이 구체적 기능을 전혀 드러내지 않아 어떤 SaaS인지 짐작 불가능한 명확성 실패",
+        "title": "Data Thing"
+      },
+      "Deployment Mockup": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "배포는 목업하는 대상이 아니라 스테이징 개념이라 용어 결합이 어색한 명확성 실패",
+        "title": "Deployment Mockup"
+      },
+      "Drain Fee": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "배수 서비스 요금이라는 청구 항목명일 뿐 제품이 아닌 명확성 실패",
+        "title": "Drain Fee"
+      },
+      "Drainpipe Warranty": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "배수관 보증서라는 문서로만 읽혀 독립 제품으로 명확하지 않은 명확성 실패",
+        "title": "Drainpipe Warranty"
+      },
+      "Elbow Discount": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "엘보(배관 부속) 할인 쿠폰처럼 읽혀 SaaS 제품으로 짐작 불가능한 명확성 실패",
+        "title": "Elbow Discount"
+      },
+      "Falcon Ledger": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.9,
+        "title": "Falcon Ledger"
+      },
+      "Faucet Board": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "수도꼭지 게시판/보드가 무엇을 다루는지 불명확한 명확성 실패",
+        "title": "Faucet Board"
+      },
+      "Financing Simulator": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.9,
+        "title": "Financing Simulator"
+      },
+      "Fitting Value": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "부속 가치라는 추상 표현으로 제품 개념이 성립하지 않는 명확성 실패",
+        "title": "Fitting Value"
+      },
+      "Fixture Code": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.55,
+        "title": "Fixture Code"
+      },
+      "Fixture Receipt": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "배관 기자재 영수증이라는 문서로만 읽혀 독립 제품으로 명확하지 않은 명확성 실패",
+        "title": "Fixture Receipt"
+      },
+      "Grout Brief": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "줄눈 브리핑 문서로만 읽혀 독립 제품으로 명확하지 않은 명확성 실패",
+        "title": "Grout Brief"
+      },
+      "Interviewer Simulator": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "title": "Interviewer Simulator"
+      },
+      "Leak Label": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "누수 라벨이 무엇을 분류하고 어떤 제품인지 불명확한 명확성 실패",
+        "title": "Leak Label"
+      },
+      "Ledger Sentinel": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "title": "Ledger Sentinel"
+      },
+      "Ledger Watchman": {
+        "approve": false,
+        "checks": {
+          "clarity": true,
+          "duplication": false,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "'Sentinel'과 'Watchman'은 동의어(감시자)라 이번 배치의 Ledger Sentinel과 제품 개념이 겹치는 의미 중복",
+        "title": "Ledger Watchman"
+      },
+      "Mentorship Mockup": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "멘토링을 목업한다는 개념이 성립하지 않는 명확성 실패",
+        "title": "Mentorship Mockup"
+      },
+      "Naptime Seal": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "reason": "'낮잠 인장'이 무엇을 보증하거나 봉인하는지 불명확한 명확성 실패",
+        "title": "Naptime Seal"
+      },
+      "Nozzle Message": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "reason": "노즐 메시지는 의미가 성립하지 않는 조합이라 명확성 실패",
+        "title": "Nozzle Message"
+      },
+      "Nutrition Predictor": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "title": "Nutrition Predictor"
+      },
+      "Nutrition Seal": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.55,
+        "title": "Nutrition Seal"
+      },
+      "Overflow Extension": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "넘침배관 연장부 같은 물리 부품으로 읽혀 소프트웨어로 짐작 불가능한 명확성 실패",
+        "title": "Overflow Extension"
+      },
+      "Overflow Trial": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "넘침 재판과 체험 어느 쪽으로도 읽히는 모호한 조합의 명확성 실패",
+        "title": "Overflow Trial"
+      },
+      "Photo Mockup": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "title": "Photo Mockup"
+      },
+      "Photoshop Canvas": {
+        "approve": false,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": false
+        },
+        "confidence": 0.98,
+        "reason": "Photoshop은 Adobe의 유명 등록 상표라 상표 유사 기준 실패",
+        "title": "Photoshop Canvas"
+      },
+      "Pipe Window": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "파이프 창은 물리 부품으로 읽히고 관제 뷰로 해석해도 부자연스러운 명확성 실패",
+        "title": "Pipe Window"
+      },
+      "Plunger Frame": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "reason": "뚫어띠 프레임은 물리 부품으로만 읽히는 명확성 실패",
+        "title": "Plunger Frame"
+      },
+      "Plunger Map": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "뚫어띠 지도는 제품 개념으로 자연스럽지 않고 대상이 불명확한 명확성 실패",
+        "title": "Plunger Map"
+      },
+      "Quantum Notary": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "title": "Quantum Notary"
+      },
+      "Rating Flowchart": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "평점 순서도가 무엇을 판단하는 흐름인지 불명확한 명확성 실패",
+        "title": "Rating Flowchart"
+      },
+      "Reference Mockup": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "추천서를 목업한다는 개념이 성립하지 않는 명확성 실패",
+        "title": "Reference Mockup"
+      },
+      "Registration Predictor": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "title": "Registration Predictor"
+      },
+      "Sewer Confirmation": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "하수도 서비스 확인 알림 같은 기능 조각으로만 읽혀 독립 SaaS 제품으로 명확하지 않은 명확성 실패",
+        "title": "Sewer Confirmation"
+      },
+      "Sewer Recap": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "하수도 작업 요약 문서로만 읽혀 독립 제품으로 명확하지 않은 명확성 실패",
+        "title": "Sewer Recap"
+      },
+      "Sink Account": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "자연스러운 영어 관용구가 아니고 sunk account로 오독되는 명확성 실패",
+        "title": "Sink Account"
+      },
+      "Slack Messenger": {
+        "approve": false,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": false
+        },
+        "confidence": 0.98,
+        "reason": "Slack은 세계적으로 유명한 비즈니스 메신저 브랜드와 동일한 등록 상표라 상표 유사 기준 실패",
+        "title": "Slack Messenger"
+      },
+      "Snake Fare": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "'뱀 요금'으로도 배관 스네이크 서비스 요금으로도 어색해 제품 개념이 성립하지 않는 명확성 실패",
+        "title": "Snake Fare"
+      },
+      "Softener Loop": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "reason": "연수기 순환 배관 같은 물리 구성으로 읽혀 소프트웨어로 짐작 불가능한 명확성 실패",
+        "title": "Softener Loop"
+      },
+      "Spigot Marker": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "수도꼭지 표식은 물리 라벨링으로 읽혀 SaaS로 짐작 불가능한 명확성 실패",
+        "title": "Spigot Marker"
+      },
+      "Toilet Base": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "reason": "변기 받침 부품명으로만 읽혀 어떤 소프트웨어 제품인지 짐작 불가능한 명확성 실패",
+        "title": "Toilet Base"
+      },
+      "Toilet Core": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "reason": "변기 코어는 물리 부품명으로만 읽히는 명확성 실패",
+        "title": "Toilet Core"
+      },
+      "Trap Gate": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "트랩과 게이트는 배관 부품 조합으로 읽혀 소프트웨어 개념이 성립하지 않는 명확성 실패",
+        "title": "Trap Gate"
+      },
+      "Washer Bin": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "reason": "와셔 보관함 같은 물리 용기로만 읽히는 명확성 실패",
+        "title": "Washer Bin"
+      },
+      "Washer Passport": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "reason": "와셔/세탁기 여권은 영어 관용구로 성립하지 않는 명확성 실패",
+        "title": "Washer Passport"
+      },
+      "Wifi Predictor": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "와이파이의 무엇을 예측하는지(수요·품질·혼잡) 불명확한 명확성 실패",
+        "title": "Wifi Predictor"
+      },
+      "Wrench Agreement": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "렌치 합의는 자연스럽지 않고 서비스 계약의 대상이 불명확한 명확성 실패",
+        "title": "Wrench Agreement"
+      },
+      "Wrench Rating": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "reason": "렌치(공구) 평점 플랫폼처럼 읽혀 배관 서비스 SaaS와의 결합이 어색한 명확성 실패",
+        "title": "Wrench Rating"
+      }
+    },
+    "review_chunk_index": 1,
+    "round_stats": {
+      "ai_approved": 8,
+      "backlog_carried": 0,
+      "generated": 50,
+      "kp_passed": 0
+    }
+  },
+  "created_at": "2026-09-05T17:33:08.280440+09:00",
+  "mode": "qa",
+  "run_id": "QA-20260905-173308-KST",
+  "stage": "generate_and_review_titles",
+  "status": "RUNNING",
+  "updated_at": "2026-09-05T18:07:07.441153+09:00"
+}

@@ -6325,6 +6325,7 @@ Allergen Finder,20.0,13.0,success,False,2026-08-19T00:02:51.849711+09:00
 Allergen Fine,,,failed,False,2026-08-23T02:57:10.108047+09:00
 Allergen Flag,,,failed,False,2026-08-21T00:24:46.055669+09:00
 Allergen Flow,,,failed,False,2026-08-17T21:39:15.761980+09:00
+Allergen Flowchart,,,failed,False,2026-09-05T18:07:04.546007+09:00
 Allergen Folder,40.0,23.0,success,False,2026-08-28T01:25:42.932648+09:00
 Allergen Forecast,14800.0,3.0,success,False,2026-08-28T21:14:38.360646+09:00
 Allergen Forge,,,failed,False,2026-08-17T20:47:53.457764+09:00
@@ -34006,6 +34007,7 @@ Candidate Sheet,40.0,5.0,success,False,2026-08-19T13:35:17.832639+09:00
 Candidate Shortfall,,,failed,False,2026-08-27T21:47:03.271568+09:00
 Candidate Signal,,,failed,False,2026-08-17T20:36:59.320935+09:00
 Candidate Signature,1000.0,0.0,success,True,2026-08-23T13:26:30.213560+09:00
+Candidate Simulator,,,failed,False,2026-09-05T18:07:04.546007+09:00
 Candidate Slip,20.0,0.0,success,False,2026-08-19T22:03:17.563220+09:00
 Candidate Slot,,,failed,False,2026-08-19T22:03:36.532480+09:00
 Candidate Snapshot,10.0,26.0,success,False,2026-08-18T22:10:22.903886+09:00
@@ -45278,6 +45280,7 @@ Cistern Field,10.0,0.0,success,False,2026-09-01T00:36:15.503302+09:00
 Cistern File,,,failed,False,2026-09-01T00:36:15.503302+09:00
 Cistern Finder,,,failed,False,2026-09-01T00:36:15.503302+09:00
 Cistern Flow,,,failed,False,2026-09-01T00:36:15.503302+09:00
+Cistern Forecast,,,failed,False,2026-09-05T18:07:04.546007+09:00
 Cistern Forge,,,failed,False,2026-09-01T00:36:15.503302+09:00
 Cistern Form,,,failed,False,2026-09-01T00:36:15.503302+09:00
 Cistern Format,,,failed,False,2026-09-01T00:36:15.503302+09:00
@@ -93743,6 +93746,7 @@ Financing Sheet,,,failed,False,2026-08-19T13:25:53.621438+09:00
 Financing Shortfall,,,failed,False,2026-08-27T21:48:09.369962+09:00
 Financing Signal,,,failed,False,2026-08-17T21:36:59.022364+09:00
 Financing Signature,,,failed,False,2026-08-23T13:27:34.278860+09:00
+Financing Simulator,10.0,12.0,success,False,2026-09-05T18:07:04.546007+09:00
 Financing Slip,,,failed,False,2026-08-19T22:01:39.954435+09:00
 Financing Slot,,,failed,False,2026-08-19T22:01:59.739197+09:00
 Financing Snapshot,,,failed,False,2026-08-18T21:11:26.018001+09:00
@@ -120593,6 +120597,7 @@ Interviewer Sheet,,,failed,False,2026-08-29T15:48:58.035081+09:00
 Interviewer Shelf,,,failed,False,2026-08-29T15:47:52.984718+09:00
 Interviewer Signal,,,failed,False,2026-08-29T15:43:32.857726+09:00
 Interviewer Signature,,,failed,False,2026-08-29T15:54:08.655761+09:00
+Interviewer Simulator,,,failed,False,2026-09-05T18:07:04.546007+09:00
 Interviewer Sketch,,,failed,False,2026-08-29T15:56:06.667298+09:00
 Interviewer Slip,,,failed,False,2026-08-29T15:50:39.919074+09:00
 Interviewer Slot,,,failed,False,2026-08-29T15:50:47.733110+09:00
@@ -150130,6 +150135,7 @@ Nutrition Playbook,,,failed,False,2026-08-18T22:07:05.348378+09:00
 Nutrition Point,1300.0,13.0,success,False,2026-08-17T23:26:31.743192+09:00
 Nutrition Poll,,,failed,False,2026-08-29T13:23:31.568406+09:00
 Nutrition Portal,90.0,2.0,success,False,2026-08-17T23:28:34.893276+09:00
+Nutrition Predictor,,,failed,False,2026-09-05T18:07:04.546007+09:00
 Nutrition Preview,,,failed,False,2026-08-28T01:07:27.619930+09:00
 Nutrition Profile,880.0,0.0,success,False,2026-08-19T13:35:15.943675+09:00
 Nutrition Profit,,,failed,False,2026-08-23T02:56:45.800075+09:00
@@ -162059,6 +162065,7 @@ Photo Markup,1900.0,2.0,success,False,2026-08-29T16:47:49.674459+09:00
 Photo Match,2900.0,4.0,success,False,2026-08-29T16:52:32.814793+09:00
 Photo Memo,70.0,22.0,success,False,2026-08-29T16:43:35.724890+09:00
 Photo Message,6600.0,1.0,success,False,2026-08-29T16:49:12.654897+09:00
+Photo Mockup,1600.0,16.0,success,False,2026-09-05T18:07:04.546007+09:00
 Photo Model,40500.0,1.0,success,False,2026-08-31T00:32:44.866146+09:00
 Photo Monitor,2900.0,10.0,success,False,2026-08-29T16:37:40.731908+09:00
 Photo Nexus,70.0,1.0,success,False,2026-08-29T16:37:05.395069+09:00
@@ -183918,6 +183925,7 @@ Registration Playbook,,,failed,False,2026-08-18T22:10:16.418477+09:00
 Registration Point,210.0,0.0,success,False,2026-08-18T01:28:09.694093+09:00
 Registration Poll,,,failed,False,2026-08-29T13:24:58.915501+09:00
 Registration Portal,110000.0,1.0,success,False,2026-08-17T20:42:29.560038+09:00
+Registration Predictor,,,failed,False,2026-09-05T18:07:04.546007+09:00
 Registration Preview,10.0,21.0,success,False,2026-08-28T01:08:32.525331+09:00
 Registration Profile,170.0,0.0,success,False,2026-08-19T13:36:19.763333+09:00
 Registration Profit,,,failed,False,2026-08-23T02:57:50.579977+09:00
