@@ -1,0 +1,13 @@
+{
+  "awaiting_judgment": "expand_word_bank",
+  "context": {
+    "backlog": [],
+    "word_bank_expansion_attempted": true
+  },
+  "created_at": "2026-09-05T19:43:09.730267+09:00",
+  "mode": "production",
+  "run_id": "RUN-20260905-194309-KST",
+  "stage": "generate_and_review_titles",
+  "status": "RUNNING",
+  "updated_at": "2026-09-05T19:43:15.986709+09:00"
+}
