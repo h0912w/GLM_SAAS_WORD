@@ -160,6 +160,7 @@ Battery Diagram
 Battery Guardian
 Battery Manual
 Battery Report
+Beach Advisory
 Behavior Account
 Behavior Cost
 Behavior List
@@ -1018,6 +1019,7 @@ Hospital Playbook
 Hospital Post
 Hospital Quote
 Hospital Record
+Hospital Review
 Hospital Route
 Hospital Rule
 Hospital Slip
@@ -1120,6 +1122,7 @@ Leave Diagram
 Leave Margin
 Leave Office
 Leave Reply
+Leave Review
 Leave Rule
 Leave Score
 Lever Card
@@ -1399,6 +1402,7 @@ Patient Identifier
 Patient Log
 Patient Pass
 Patient Reference
+Patient Review
 Patient Station
 Payload Bin
 Payment Code
@@ -1525,12 +1529,14 @@ Product History
 Product Level
 Product Manual
 Product Number
+Product Review
 Product Rule
 Product Statement
 Product Sum
 Production Code
 Production Draft
 Production Number
+Production Review
 Production Stage
 Production Value
 Program Feed
@@ -2147,12 +2153,15 @@ Transmission Gate
 Transmission Model
 Transmission Signal
 Transmission Wave
+Trap Review
 Triage Category
 Triage Level
 Trim Card
 Trim Flow
 Trim Generator
 Trim Level
+Trip Checker
+Trip Record
 Truck Status
 Truck Trial
 Tuition Cost
