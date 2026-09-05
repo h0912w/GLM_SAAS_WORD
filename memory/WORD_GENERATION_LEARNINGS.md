@@ -358,6 +358,28 @@ candidate; 최소 반복 근거와 QA를 통과해야 validated로 승격한다"
     전문용어 도메인어"만 독립 변수로 다시 시험해 같은 방향이
     재현되면 `validated`.
 
+14. `candidate` (2026-09-05, RUN-20260905-195649-KST — 이 문서 최초 관측,
+    2026-08-31 pattern_tag 단위 태깅 도입 후 첫 정량 관측)
+    **실제 소비자가 그대로 검색하는 "콘텐츠 형식 명사"(X Review 검색
+    쿼리 그 자체가 되는 단어)는 강한 기능어 후보다.** 신규 기능어 11개를
+    패턴 태그 7종에 분산해 만 건을 생성한 첫 라운드에서, Review가 559
+    승인 중 16개 KP통과(성과 리포트 기준 2.86% — 시도 100회 이상 기능어
+    중 Diagram 8.22% 다음 상위권, 첫 라운드 진입 치고는 이 문서 기록상
+    가장 큰 즉시 효과)를 냈고, 같은 라운드·같은 시장에서 승인 표본이
+    충분했던 타 태그 계열은 전부 0통과였다(operational_asset Inventory
+    51승인·0통과, arrival_processing Checkin 30승인·0통과, money_
+    transaction Expense 21승인·0통과, content_format Diary 22승인·
+    0통과). "Tax Review"/"Fraud Review"/"Podcast Review"처럼 소비자가
+    실제로 입력하는 검색 쿼리라는 점에서 원칙 10(시각 구조화 문서)·11
+    (소통/알림)·12(계산 도구)와 별개의 새 계열이며, "실제 검색 쿼리
+    패턴" 논리의 기능어 축 재확인이기도 하다. **주의(확대 해석 금지)**:
+    같은 searchable_content_format 태그의 Recipe(0승인)·Video(3승인)는
+    세션의 약패턴 사전기각 비중이 커서 시장 비교 표본이 오염돼 있다 —
+    이 원칙은 "Review 단어 자체의 성공"으로 읽어야 하지 "content_format
+    태그 전체의 승리"로 읽으면 안 된다. **승격 조건**: 다음 확장에서
+    사전기각 없이 깨끗하게 시험된 다른 콘텐츠 형식 명사(또는 Review
+    잔여 조합의 추가 통과)가 같은 방향을 재현하면 `validated` 검토.
+
 ## 라운드별 로그
 
 ### RUN-20260819-201533-KST (2026-08-19, 도메인어 22 + 기능어 재사용 10)
@@ -1907,3 +1929,72 @@ Model/Lot/Availability/Eligibility))
   확신도만 하향 조정 - 위 참고). 이번 로그의 골든셋 버그 교훈은 §5의
   "판정과 코드 역할 분리"와는 무관한 세션 자신의 검증 절차 오류이므로
   별도 원칙으로 승격하지 않고 이 로그에만 남긴다.
+
+### RUN-20260905-194309-KST (2026-09-05, 도메인어 20 + 기능어 11 — 만 건
+사이클의 풀 재충전 확장, 단어 단위 pattern_tag 첫 본격 운용)
+
+- **배경**: RUN-20260905-190009-KST가 병합 풀 잔여분 1,022개(카나리아 7개
+  제외 ledger 기준)로 완주하며 조합공간이 소진됐고, 다음 라운드에서 신규
+  후보 0개가 확인되자 `expand_word_bank` 판정이 개방됐다.
+- **제안 원칙 — 도메인어 20개**: 전부 `everyday_travel_leisure_noun` 태그로,
+  원칙 13(업계 내부자 전문용어 회피)과 원칙 2(니치 확장 위험)에 따라
+  Itinerary/Boarding Pass/Concierge류 실무 용어를 일절 배제하고 일상 여행
+  어휘만 골랐다(Hotel/Resort/Cruise/Tour/Trip/Vacation/Luggage/Getaway/
+  Landmark/Attraction/Sightseeing/Hostel/Excursion/Beach/Cabin/Campsite/
+  Souvenir/Tourist/Traveler/Roadtrip — travel_tourism 업계, 기존 도메인어
+  13개 보유 검증 업계에 추가).
+- **제안 원칙 — 기능어 11개**: 의도적으로 이질적 패턴 7종에 분산 배치해 태그
+  단위 사후 분해를 가능하게 했다 — searchable_content_format_noun(Review/
+  Recipe/Video/Diary), everyday_money_transaction_noun(Refund/Expense),
+  outbound_communication_noun(Newsletter), operational_asset_noun(
+  Inventory), claim_request_noun(Claim), process_stage_noun(Onboarding),
+  arrival_processing_noun(Checkin). 원칙 11(소통/알림)의 인접어 탐색 권고는
+  Newsletter에서 반영했으나 Newsletter 자체는 1승인에 그침(아래 195649
+  참고).
+- **채택**: 31개 전부 승인. 판정 응답은 본 run(19:56:39 KST), CSV append는
+  다음 실행 RUN-20260905-195649-KST가 수행(19:58:53, `config/
+  word_bank_expansions.csv`의 added_by_run_id 기준).
+- **방법론 비고**: "한 라운드 한 변수" 전통과 달리 도메인어·기능어를 동시에
+  확장한 교란 라운드다. 대신 pattern_tag가 단어마다 기록되므로
+  `word_performance.pattern_tag_performance`로 태그별 결론을 사후 분리할
+  수 있다 — 다음 항목(195649)이 그 첫 실증이다.
+
+### RUN-20260905-195649-KST (2026-09-05, 확장 풀 첫 만 건 생성 — Review
+압도, 194309 확장의 즉시 실측. 51개 청크(200×50+7)를 현재 세션이 직접 판정)
+
+- **라운드 숫자**: 생성 10,000 / AI승인 828(8.3%) / Keyword Planner 통과 19
+  (0.19%). 정체 점검 `향상 중`(직전 라운드 0.00% → 0.19%). 골든셋 7/7,
+  승인율 이상탐지 z=-2.84 정상(레드팀 재검증 미발동).
+- **확장 단어 실측(ledger 집계)**: 19개 통과가 **전부** 이번 확장 단어를
+  포함한다 — 16개는 기존 도메인어 × 신규 기능어 Review(Dispatch Review
+  9,900/Fraud Review 2,400/Album Review 5,400 등), 3개는 신규 도메인어 ×
+  기존 기능어(Resort Receipt 1,000/Sightseeing Trail 1,300/Tourist Tracker
+  1,000).
+  - **Review**: 605 판정·559 승인·16 KP통과(성과 리포트 기준 2.86%) —
+    원칙 14로 등재(위 핵심 원칙 14 참고).
+  - **나머지 기능어 10개**: 승인 표본이 충분한 것끼리 비교하면 Inventory
+    51승인·Checkin 30·Diary 22·Expense 21 모두 **KP 0개** — 같은 라운드,
+    같은 시장에서 Review만 통과를 냈다. Recipe(0승인)·Video(3)·Newsletter(1)
+    는 세션의 약패턴 사전기각 비중이 커서 시장 비교 표본으로 부적절 —
+    Recipe의 0%는 시장 결과가 아니라 판정 사전기각의 결과라 후속 재시험
+    여지를 남긴다.
+  - **도메인어 20개**: 각 ~177 시도에 승인 3~12(2~7%) — 전량 일상어 태그였고
+    첫 라운드부터 3개 통과. 완전 무승인 단어는 없었다(최저 Attraction
+    3승인).
+- **핵심 원칙 평가**:
+  - **원칙 13(일상어 vs 내부자 전문용어): `candidate` 유지.** 이번 확장은
+    내부자 전문용어 대조군 없이 전량 일상어라 승격 조건(통제 비교 재현)을
+    채우지 못했다. 다만 방향 지지 — 일상어 20개 전부가 첫 라운드 승인율
+    2~7%로 건재했고 3개가 즉시 통과했다. 통제 실험은 다음 확장에서
+    "같은 업계에 일상어 N개 + 내부자용어 N개, 기능어 고정"으로 설계할 것.
+  - **신규 원칙 14 `candidate` 등재**(위 핵심 원칙 14 참고).
+  - **pattern_tag 운용 실증**: 교란 라운드였음에도 태그별 집계가
+    searchable_content_format_noun(Review 16통과) vs operational_asset_
+    noun(Inventory 51승인·0통과) 등을 깔끔히 분리했다 — 2026-08-31 도입
+    구조가 의도대로 작동한다는 첫 실증. 한 라운드에서 여러 태그를 동시에
+    시험해도 태그 단위 결론 분리가 가능해졌다.
+- **일반화 교훈(운영)**: 만 건 배치를 51개 청크로 판정하는 동안 라운드 전체
+  중복 판정(동의어 계열 Hub/Center/Portal 등)을 일관 적용해 AI승인율 8.3%를
+  유지했고, 그 결과 승인 풀의 질이 유지돼 KP통과 19개가 나왔다 — 승인율을
+  올리는 것보다 승인 풀의 순도를 지키는 쪽이 통과율에 유리하다는 방향 재확인
+  (1회 관측이라 원칙으로 등재하지 않음).
