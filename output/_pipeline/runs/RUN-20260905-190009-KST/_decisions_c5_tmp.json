@@ -1,0 +1,321 @@
+[
+ {
+  "title": "Clog Reminder",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 무엇을 언제 알리는지 불명확한 알림형 결합"
+ },
+ {
+  "title": "Sewer Version",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Overflow Detector",
+  "approve": true,
+  "confidence": 0.66,
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "배수 넘침을 감지하는 모니터링 SaaS로 명확함"
+ },
+ {
+  "title": "Wrench Verification",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Chargeback Flowchart",
+  "approve": true,
+  "confidence": 0.63,
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "분쟁(차지백) 처리 절차를 흐름도로 관리하는 금융 운영 도구로 짐작 가능"
+ },
+ {
+  "title": "Discovery Simulator",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 증거개시를 시뮬레이션한다는 수요가 불명확"
+ },
+ {
+  "title": "Plunger Manager",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Washer Summary",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Fixture Plan",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 계획서라는 문서 명사구로 읽혀 제품이 불명확"
+ },
+ {
+  "title": "Snake Serial",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Spigot Notification",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 무엇을 알리는지 불명확한 알림형 결합"
+ },
+ {
+  "title": "Nozzle Reading",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Cistern Renewal",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Recording Flowchart",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 녹화 제작 절차 흐름도의 수요가 불명확"
+ },
+ {
+  "title": "Dine Predictor",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 외식 수요 중 무엇을 예측하는지 불명확"
+ },
+ {
+  "title": "Neuter Seal",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Drainpipe Watch",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 감시 주체·이벤트가 불명확해 Alert/Notification 계열보다 제품이 덜 짐작됨"
+ },
+ {
+  "title": "Softener Ring",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Trap Harbor",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Backflow Update",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Coupling Brief",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Grout Stake",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Fitting Advance",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Elbow Announcement",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ },
+ {
+  "title": "Fob Mockup",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 키 태그 목업은 물리 제품 시안으로밖에 읽히지 않음"
+ },
+ {
+  "title": "Fence Flowchart",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 울타리 시공 절차 흐름도의 수요가 불명확"
+ },
+ {
+  "title": "Test Simulator",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 어떤 검사·훈련인지 너무 일반적이라 불명확"
+ },
+ {
+  "title": "Drayage Predictor",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 드레이지의 무엇을 예측하는지 불명확"
+ },
+ {
+  "title": "Realtor Seal",
+  "approve": false,
+  "confidence": 0.8,
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  },
+  "reason": "clarity 실패 - 두 단어의 결합이 짐작 가능한 SaaS 제품이 되지 않음"
+ }
+]
