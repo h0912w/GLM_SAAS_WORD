@@ -36,6 +36,7 @@ Alarm Widget
 Album Rate
 Album Rating
 Album Review
+Algae Type
 Alignment Chart
 Alignment Portal
 Alignment Receipt
@@ -46,6 +47,7 @@ Amendment Bill
 Amenity Fee
 Anesthesia Stage
 Anesthesia Tab
+Anesthesia Type
 Annuity Due
 Applicant Copy
 Applicant Detail
@@ -65,6 +67,7 @@ Application Statement
 Application Status
 Appointment Notification
 Appointment Order
+Appointment Type
 Archive Code
 Archive Map
 Archive Zone
@@ -129,6 +132,7 @@ Background Profile
 Background Quote
 Background Reference
 Background Seal
+Background Size
 Background Sketch
 Background Slot
 Background Tab
@@ -172,6 +176,7 @@ Beneficiary Interest
 Beneficiary List
 Beneficiary Portal
 Beneficiary Status
+Beneficiary Type
 Benefits Log
 Benefits Payment
 Benefits Status
@@ -505,6 +510,7 @@ Configuration Message
 Configuration Update
 Consecutive Number
 Consecutive Sample
+Consent Type
 Consignment Account
 Consignment Number
 Consumption Tax
@@ -514,9 +520,11 @@ Contact Message
 Contact Review
 Content Advisory
 Content Feed
+Content Length
 Content Notification
 Content Rating
 Content Table
+Content Type
 Contingency Agreement
 Contingency Cost
 Contingency Fund
@@ -589,6 +597,7 @@ Crop Cash
 Crop Label
 Crop Loan
 Crop Marker
+Crop Type
 Crown Lab
 Curb Line
 Curfew Message
@@ -598,6 +607,7 @@ Customs Portal
 Customs Rate
 Customs Tariff
 Cylinder Diagram
+Cylinder Length
 Cylinder Number
 Cylinder Rate
 Cylinder Volume
@@ -624,7 +634,9 @@ Defect Point
 Defect Rate
 Delivery Case
 Delivery Message
+Delivery Time
 Delivery Timeline
+Delivery Type
 Delivery Update
 Demand Deposit
 Demand Draft
@@ -640,6 +652,7 @@ Deposit Note
 Deposit Notification
 Detention Charge
 Diagnosis Ticket
+Diagnosis Type
 Dialect Journal
 Dialect Map
 Diaper Report
@@ -785,6 +798,7 @@ Exam Rule
 Exam Scheduler
 Exam Slip
 Exam Tracker
+Exam Type
 Exam Unit
 Exam Window
 Excess Duty
@@ -835,6 +849,7 @@ Feedback Assistant
 Feedback Hub
 Feedback Message
 Feedback Station
+Festival Type
 Filing Directory
 Filing Fee
 Filing List
@@ -948,10 +963,12 @@ Grading Guide
 Grading History
 Grading List
 Grading Number
+Grading Range
 Grading Result
 Grading Score
 Grading Table
 Grading View
+Grading Weight
 Grant Agreement
 Grant Count
 Greenhouse Diagram
@@ -1023,6 +1040,7 @@ Hospital Review
 Hospital Route
 Hospital Rule
 Hospital Slip
+Hospital Type
 Housekeeping Note
 Housekeeping Payment
 Illness Stage
@@ -1052,6 +1070,7 @@ Injury Score
 Injury Table
 Injury Update
 Inquiry Field
+Inspection Type
 Insulation Diagram
 Intake Center
 Interaction Log
@@ -1127,6 +1146,7 @@ Leave Rule
 Leave Score
 Lever Card
 Lever Diagram
+Liability Type
 License Appointment
 License Barcode
 License Board
@@ -1319,6 +1339,7 @@ Network Tracker
 Networking Code
 Networking Manager
 Networking Ring
+Networking Type
 Newsletter Correction
 Newsletter Frame
 Newsletter Guardian
@@ -1341,6 +1362,7 @@ Nurse Revision
 Nurse Rule
 Nutrition Comparison
 Nutrition Status
+Nutrition Type
 Obituary Guardian
 Obituary Journal
 Obituary Monitor
@@ -1394,6 +1416,8 @@ Parking Fee
 Parking Invoice
 Parking Layout
 Parking Portal
+Parking Size
+Parking Type
 Parking Validation
 Patch Note
 Patient Gate
@@ -1510,6 +1534,7 @@ Premium Version
 Preschool Trial
 Prescription Charge
 Prescription Fee
+Prescription Type
 Pricing Detail
 Pricing Discount
 Pricing Estimate
@@ -1714,6 +1739,7 @@ Resident Advisory
 Resident Certification
 Resident Playbook
 Resident Portal
+Resident Size
 Resident Zone
 Resolution Calculator
 Resolution Check
@@ -1939,6 +1965,7 @@ Snow Update
 Soil Card
 Soil Diagram
 Soil Profile
+Soil Type
 Sourcing File
 Sourcing Journal
 Sourcing List
@@ -2080,6 +2107,7 @@ Threat Level
 Threat Message
 Threat Note
 Threat Signal
+Thumbnail Size
 Thumbnail View
 Tick Code
 Tick Copy
@@ -2119,6 +2147,7 @@ Toast Alert
 Toilet Diagram
 Toilet Finder
 Tourist Tracker
+Tourist Type
 Trade Badge
 Trade Deadline
 Trade Quota
@@ -2154,6 +2183,7 @@ Transmission Model
 Transmission Signal
 Transmission Wave
 Trap Review
+Treatment Type
 Triage Category
 Triage Level
 Trim Card
@@ -2313,6 +2343,7 @@ Xray Diagram
 Xray Engine
 Xray History
 Xray Result
+Xray Type
 Xray Wave
 Yield Point
 Zoning Diagram
