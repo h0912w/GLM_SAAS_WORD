@@ -1,0 +1,100 @@
+{
+  "decisions": [
+    {
+      "approve": false,
+      "confidence": 0.7,
+      "reason": "본문 결론(의미 카테고리 추론 예측력 낮음)은 여전히 유효하나, 하위 validated 규칙(소량·금융거래 표면형 기본전략)이 반박된다 — 20시도 중 4적중(16~20%)으로 기대치 하락, RUN-20260823 Profit 0% 즉시은퇴, 그리고 RUN-20260906에서 측정·분류 속성 계열(Type 누적 9.91%)이 금융 명사 최고(Fee 5.04%)를 상회. 기본전략 자리를 속성/식별 관용구 축(원칙15·7)에 넘겨야 하며 원칙1은 '금융 명사 차선책'으로 강등·재정리 필요.",
+      "title": "원칙1: 일상 흔한 명사 조건은 불충분, 추상 정보/기록 명사 우세 + 소량 금융거래 표면형 기본전략"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "두 독립 검증(0.67%, 0.96%) 모두 무확장 기준 하회라는 원 결론 유지. 반박 시도: RUN-20260906에서 일상 도메인어 확장이 통과에 기여한 듯 보이지만(Festival Type 등) 같은 라운드에 기능어 10개도 동시 확장한 교란 라운드라 원칙2의 대상(도메인어 단독 확장) 검증으로는 못 쓴다 — 오히려 교란 위험 경고가 재확인됨.",
+      "title": "원칙2: 도메인어 단독 확장 우선순위 하향(무확장 기준 못 넘음)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.85,
+      "reason": "반례 없음. RUN-20260906에서도 상표 유사 거절이 소수 존재해 사전 회피 가치 유지. Realtor류 멤버십 증명표장 조언도 계속 유효.",
+      "title": "원칙3: 실제 상표·등록 증명표장 도메인어 사전 회피(validated)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "원칙 유효. 다만 자기 점검: RUN-20260906 기능어 세트에 Length/Distance(길이/거리) 반쯤 겹치는 쌍이 있었다 — Distance 0통과로 마무리돼 원칙4의 예측(동의어 공존 시 승인률 저하)과 정합. 배치 설계 시 동의어 쌍 명시 점검 유지.",
+      "title": "원칙4: 한 배치 기능어끼리 동의어 금지(validated)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.75,
+      "reason": "RUN-20260906 신규 기능어 10개는 은퇴 패턴(SaaS 합성어)과 무관했고 재제안 실패 사례 없음. 반면교사 미발생이라 candidate 유지가 맞음.",
+      "title": "원칙5: 은퇴 패턴 재제안 금지(동일 단어 재제안만 코드가 차단)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "원칙 자체는 유효하나 절차 준수가 2회 연속 실패(RUN-20260821 Reserve/Audit/Gate, RUN-20260906 Kitchen 중복등록 — 시도 0회로 낭비). 수동 검색에 의존하는 한 재발한다. 구조적 개선 제안: expand_word_bank 요청에 기존 전체 단어 목록(또는 중복 후보 경고)을 코드로 주입하는 것 — accumulated_learnings 주입과 동일한 §5 합법 패턴. 다음 세션이 검토할 것.",
+      "title": "원칙6: 제안 전 전체 풀(모든 업계+기능어) 중복 검색"
+    },
+    {
+      "approve": true,
+      "confidence": 0.75,
+      "reason": "RUN-20260906이 방향 재현: Type/Size/Length/Range/Weight/Time(사람이 실제 검색하는 구체 속성)이 31통과 전부를 낸 반면 같은 라운드의 추상 경향 단어(Distance/Limit/Clock/Speed)는 0통과. 역사적 Category/Attribute/Field 저조와도 일관. 2회 방향 관측이 됐으니 승격 검토 여지 — 다만 원칙15와 영역이 겹치므로 통합 재정리 권장.",
+      "title": "원칙7: 범용 결합력 중에서도 구체적 식별/정보 대상이 추상 스키마 용어를 이김"
+    },
+    {
+      "approve": true,
+      "confidence": 0.85,
+      "reason": "신규 시험 없음, 반례 없음. 시장 구조 설명(광고 경쟁 포화 카테고리)도 도태 없음.",
+      "title": "원칙8: 판촉/인센티브 명사 기능어 금지(validated)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.75,
+      "reason": "RUN-20260906 은퇴 신규 3개 중 Copayment가 여기 해당(통과 0/시도 300+) — 원칙 방향 추가 관측. 반면교사(재시도 후 재전멸)는 아직이라 candidate 유지 정당.",
+      "title": "원칙9: 회계 상태/차액 추상 명사 기능어 금지"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "Diagram 누적 8.22% 상위권 유지로 본문 방향 유효. 그러나 같은 시각 구조 계열로 기대했던 Flowchart가 이번 은퇴(0/300+) — 계열이 '시각 문서'보다 좁고 실제 검색어 형태(diagram/graph 단일어)만 통한다는 경계 수정 필요. 반박은 아니고 범위 축소 권고.",
+      "title": "원칙10: 시각 구조화 문서(Diagram/Graph) 강세"
+    },
+    {
+      "approve": true,
+      "confidence": 0.85,
+      "reason": "신규 시험 없음, 반례 없음. Message 누적 3.88%로 상위권 유지.",
+      "title": "원칙11: 소통/알림 명사 강세(validated)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "이번 라운드 직접 시험 없음. Calculator 누적 4.38% 상위권 유지. Estimator 인접 재시험 여지 남음.",
+      "title": "원칙12: 계산 결과를 알려주는 도구 명사(Calculator류) 강세"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "승격 직후 재검증이나 반박 시도 결과: 통제 설계(같은 업계·라운드·기능어 풀, 143회 내외 시도)는 견고하고 KP통과가 일상 팔에서만 발생한 점도 재확인. 남은 반박 여지는 '소비자가 전문용어를 그대로 검색하는 B2C-전문 업계(예: 부동산 Escrow류)에서는 역전 가능성' — 향후 반례 감시 대상으로 남기되 현재 근거로는 유효.",
+      "title": "원칙13: 일상어 도메인어가 업계 내부자 전문용어를 이긴다(validated)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "이번 라운드 직접 재시험 없음(Review는 기존 등록분). Recipe/Video의 약세는 판정 사전기각 교란이 여전해 깨끗한 재시험 조건 미충족 — candidate 유지 정당.",
+      "title": "원칙14: 콘텐츠 형식 명사(Review류) 강세"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "첫 관측 라운드 그 자체라 반증 데이터 없음. 다만 자기지적: Type의 44.6% 승인율은 세션의 Type-follows-Size 판정 규칙이 승인 풀을 넓게 만든 기여가 크다 — 판정자와 시장이 같은 방향이었지만 자기충족 위험은 남고, Distance/Limit/Clock/Speed 0통과가 속성 계열 내부 경계가 좁음을 보여줌. 독립 라운드 재현이 승격 조건으로 적절.",
+      "title": "원칙15: 규격·분류·측정 속성 명사(Size/Type류) 강세"
+    }
+  ],
+  "judged_at": "2026-09-06T09:18:34.158881+09:00",
+  "judged_by": "main-orchestrator",
+  "request_hash": "9864f9f0db376a27f51fe3f0c89befc17140c81e265b1f53774ef72dfc2ecb04",
+  "round": 1,
+  "run_id": "RUN-20260906-091606-KST",
+  "stage": "principle_reverification"
+}

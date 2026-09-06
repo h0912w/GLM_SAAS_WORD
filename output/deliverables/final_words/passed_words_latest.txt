@@ -378,6 +378,7 @@ Chart Update
 Charter Log
 Charter Map
 Chassis Engine
+Chassis Type
 Chat Cash
 Chat Format
 Chat Item
@@ -439,6 +440,7 @@ Class Map
 Class Number
 Class Order
 Class Roster
+Class Size
 Class Template
 Class Validation
 Classroom Flow
@@ -600,6 +602,7 @@ Crop Marker
 Crop Type
 Crown Lab
 Curb Line
+Curb Weight
 Curfew Message
 Curriculum Guide
 Curriculum Hub
@@ -723,6 +726,7 @@ Driver Station
 Driver Status
 Driver Studio
 Driver Token
+Driveway Length
 Driveway Tax
 Editing Brief
 Editing Draft
@@ -874,6 +878,7 @@ Fixture Note
 Fleet Review
 Flight Announcement
 Flight Bridge
+Flight Distance
 Flight Duration
 Flight Reminder
 Flight Stage
@@ -921,6 +926,7 @@ Fuel Radar
 Fuel Rate
 Fuel Register
 Fuel Subsidy
+Fuel Type
 Fuel Update
 Fuel Watch
 Funnel Feed
@@ -1043,6 +1049,7 @@ Hospital Slip
 Hospital Type
 Housekeeping Note
 Housekeeping Payment
+Hydration Calculator
 Illness Stage
 Immunization Card
 Immunization Register
@@ -1085,6 +1092,7 @@ Interview Nexus
 Interview Office
 Interview Panel
 Interview Stage
+Interview Type
 Interviewer Panel
 Inventory File
 Inventory Hub
@@ -1168,6 +1176,7 @@ License Renewal
 License Status
 License Summary
 License Tracker
+License Type
 License Verification
 Licensing Appointment
 Licensing Board
@@ -1252,6 +1261,7 @@ Material Hub
 Material List
 Material Status
 Material Tab
+Material Type
 Matter Diagram
 Mayor Duty
 Mayor Office
@@ -1323,6 +1333,7 @@ Motor Unit
 Move Link
 Move Reminder
 Move Rule
+Museum Type
 Nanny Fine
 Nap Portal
 Nap Register
@@ -1335,6 +1346,7 @@ Network Beacon
 Network Calculator
 Network Code
 Network Manager
+Network Speed
 Network Tracker
 Networking Code
 Networking Manager
@@ -1495,6 +1507,7 @@ Placement Portal
 Placement Result
 Playground Map
 Playlist Calculator
+Playlist Length
 Playtime Field
 Plumbing Payment
 Podcast Flow
@@ -1915,6 +1928,7 @@ Shine Station
 Shine Ticket
 Shipment Bill
 Shipment Forecast
+Shipment Weight
 Shoot Penalty
 Shoot Score
 Shoot Update
@@ -1928,6 +1942,7 @@ Shuttle Table
 Sibling Number
 Sidewalk Rule
 Sightseeing Trail
+Sleep Estimator
 Smoke Chain
 Smoke Forecast
 Smoke History
@@ -2030,6 +2045,7 @@ Style Tag
 Subscriber Count
 Subscriber Counter
 Substation Diagram
+Substation Type
 Substitution Code
 Substitution Rule
 Substitution Table
@@ -2039,6 +2055,7 @@ Supplement Note
 Supply Core
 Surcharge Rate
 Surcharge Tax
+Surfing Forecast
 Survey Note
 Survey Receipt
 Survey Sketch
@@ -2066,6 +2083,7 @@ Talent Calculator
 Talent List
 Talent Tax
 Tanker Engine
+Tanker Weight
 Tenant Register
 Terminal Forecast
 Terminal Map
