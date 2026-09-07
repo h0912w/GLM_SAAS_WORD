@@ -462,6 +462,7 @@ Client Atlas,49500.0,0.0,success,True,2026-08-17T23:27:00.420532+09:00
 Client Code,1000.0,0.0,success,True,2026-08-19T21:54:03.410939+09:00
 Client List,12100.0,0.0,success,True,2026-08-19T21:54:16.215789+09:00
 Closing Account,4400.0,0.0,success,True,2026-08-29T15:12:22.468287+09:00
+Closing Capacity,2400.0,0.0,success,True,2026-09-08T08:06:41.651555+09:00
 Closing Case,1900.0,0.0,success,True,2026-08-29T15:12:27.031585+09:00
 Closing Chart,1300.0,0.0,success,True,2026-08-19T21:30:18.297847+09:00
 Closing Code,1000.0,0.0,success,True,2026-08-19T21:53:29.207509+09:00
@@ -640,6 +641,7 @@ Dealer Code,1900.0,0.0,success,True,2026-08-19T21:56:01.385775+09:00
 Dealer Log,9900.0,0.0,success,True,2026-08-19T13:34:03.969558+09:00
 Dealer Markup,1900.0,0.0,success,True,2026-08-23T16:39:47.689837+09:00
 Dealer Path,1900.0,0.0,success,True,2026-08-17T20:41:09.985510+09:00
+Debit Interest,1000.0,0.0,success,True,2026-09-08T08:06:45.990859+09:00
 Debit Memo,5400.0,0.0,success,True,2026-09-08T06:50:09.668556+09:00
 Debit Note,33100.0,0.0,success,True,2026-09-08T06:50:09.668556+09:00
 Deck Log,9900.0,0.0,success,True,2026-09-08T03:37:37.752539+09:00
@@ -1884,6 +1886,7 @@ Salary Simulator,823000.0,0.0,success,True,2026-09-01T00:53:18.263488+09:00
 Satisfaction Feedback,3600.0,0.0,success,True,2026-08-31T01:04:03.261607+09:00
 Satisfaction Level,1600.0,0.0,success,True,2026-08-19T20:42:25.910879+09:00
 Satisfaction Tab,1300.0,0.0,success,True,2026-08-21T00:34:21.181247+09:00
+Savings Progress,1600.0,0.0,success,True,2026-09-08T08:07:56.945730+09:00
 Schedule Bridge,2400.0,0.0,success,True,2026-08-17T20:38:41.975413+09:00
 Schedule Draft,1300.0,0.0,success,True,2026-08-19T20:37:40.051699+09:00
 Schedule Fee,6600.0,0.0,success,True,2026-08-21T01:51:56.272630+09:00
@@ -2053,6 +2056,7 @@ Staffing Log,550000.0,0.0,success,True,2026-08-19T13:24:56.019665+09:00
 Staffing Portal,110000.0,0.0,success,True,2026-08-17T21:33:30.231055+09:00
 Staging Diagram,1000.0,0.0,success,True,2026-08-27T22:15:33.141509+09:00
 Stairs Trail,1000.0,0.0,success,True,2026-08-19T00:36:48.669353+09:00
+Stock Assistant,246000.0,0.0,success,True,2026-09-08T08:08:03.649739+09:00
 Stock Statement,3600.0,0.0,success,True,2026-09-08T03:41:39.542656+09:00
 Storefront Code,1600.0,0.0,success,True,2026-08-19T22:07:28.246340+09:00
 Storefront Portal,8100.0,0.0,success,True,2026-08-17T20:39:31.272188+09:00

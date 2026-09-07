@@ -1,0 +1,265 @@
+import json, os
+from datetime import datetime, timezone, timedelta
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+JDIR = os.path.join(HERE, "judgment")
+REQ = os.path.join(JDIR, "review_titles_round1_request.json")
+RESP = os.path.join(JDIR, "review_titles_round1_response.json")
+
+with open(REQ, encoding="utf-8") as f:
+    req = json.load(f)
+
+APPROVE = {
+    1: (0.6, "Falcon(매 은유)+Ledger(장부) 결합은 장부 관리 도구로 명확·비중복·상표 무관"),
+    2: (0.6, "Quantum(기술 은유)+Notary(공증) 결합은 공증 서비스로 명확·비중복·상표 무관"),
+    6: (0.6, "Ledger+Sentinel(파수 도구 은유)은 실제 장부 감시 도구로 명확 - 동의어 접기 아님, 독립 도구 은유"),
+    8: (0.6, "기록물 이용 통계는 실제 공공 운영 지표 - Records Capacity 승인 정합"),
+    14: (0.6, "호스텔 수용 정원은 실제 숙박 운영 항목(Hotel Capacity 준용)"),
+    15: (0.6, "응급 분류 이용 통계는 실제 의료 운영 지표 - Triage Capacity 정합"),
+    23: (0.6, "발렛 파킹 승인은 실제 호텔 운영 항목 - 명확"),
+    30: (0.6, "바닥 시공 견적·계약 양식 템플릿은 실제 서식 도구 - Form 준용"),
+    31: (0.6, "송금 지급은 실제 금융 운영 항목 - Payment 금융 라인 정합"),
+    36: (0.6, "회의 이용 통계는 실제 공공 운영 지표 - Meeting Capacity 정합"),
+    46: (0.6, "매매 신호 관리는 실제 트레이딩 운영 항목(trading signal 실제 검색어)"),
+    51: (0.6, "콘크리트 발주 관리는 실제 시공 운영 항목 - 발주서 라인(Excavation/Paving Order 준용)"),
+    57: (0.6, "방수 물량 관리는 실제 시공 운영 항목 - Volume 건축 라인(Flooring Volume 준용)"),
+    58: (0.6, "상속 절차 자격 요건 관리는 실제 금융 운영 항목 - 금융 Eligibility 라인"),
+    63: (0.6, "수취인 지급 처리 정원은 실제 금융 운영 항목 - 정원 라인"),
+    64: (0.6, "탱크로리 수송 이용 통계는 실제 물류 운영 지표 - Tanker Capacity 정합"),
+    72: (0.6, "가사 작업 완료 승인은 실제 가사 서비스 검수 항목 - Chore 정합"),
+    76: (0.6, "자산 금고 관리는 실제 자산 보관 개념 - Vault는 실제 보관 은유"),
+    77: (0.6, "환자 진료 수용 정원은 실제 의료 운영 항목 - 정원 라인"),
+    82: (0.6, "변전소 수용 용량은 실제 에너지 운영 지표(substation capacity 실제 용어)"),
+    85: (0.6, "방송 회차 관리는 실제 미디어 운영 항목 - Episode는 콘텐츠 문맥 성립(Story Episode 준용)"),
+    87: (0.6, "채용 스크리닝 진행 승인은 실제 채용 운영 항목 - Screening 정합"),
+    89: (0.6, "세탁기 가동 처리 정원은 실제 세탁 운영 지표(Laundry Capacity 준용)"),
+    90: (0.6, "호스텔 이용 통계는 실제 숙박 운영 지표 - Hostel Capacity 정합"),
+    105: (0.6, "바닥 시공 가이드는 실제 안내 서비스 - Guide 라인"),
+    106: (0.6, "송금 검증은 실제 금융 운영 절차 - Verification 금융 라인"),
+    109: (0.6, "사이딩 시공 처리 정원은 실제 건축 운영 항목 - 정원 라인"),
+    120: (0.6, "거래 감시·관심종목 관리는 실제 트레이딩 운영 항목(watchlist 라인 - 감시 도구 은유 독립 성립)"),
+    125: (0.6, "콘크리트 대금 청구서는 실제 시공 결제 서류 - Bill 건축 라인"),
+    126: (0.6, "철거 계획서는 실제 시공 계획 문서 - Plan 라인(Demolition Planner 준용)"),
+    131: (0.6, "방수 누수 진단 검사는 실제 시공 진단 항목 - Diagnostic 라인(Flooring Diagnostic 준용)"),
+    134: (0.6, "파티오 자재 재고 관리는 실제 시공 운영 항목 - Inventory 라인(Remodel Inventory 준용)"),
+    137: (0.6, "운동 프로그램 수용 정원은 실제 헬스케어 운영 항목 - 정원 라인"),
+    138: (0.6, "수취인 처리 이용 통계는 실제 금융 운영 지표 - Payee Capacity 정합"),
+    146: (0.6, "석공 시공 검수 승인은 실제 건축 운영 항목 - 승인 라인(Framing Approval 준용)"),
+    151: (0.6, "환자 진료 이용 통계는 실제 의료 운영 지표 - Patient Capacity 정합"),
+    154: (0.6, "농약 살포 처리 정원은 실제 농업 운영 항목 - 정원 라인"),
+    155: (0.6, "변전소 이용 통계는 실제 에너지 운영 지표 - Substation Capacity 정합"),
+    162: (0.6, "세탁기 이용 통계는 실제 세탁 운영 지표 - Washer Capacity 정합"),
+    170: (0.6, "비계 설치 허가 승인은 실제 건축 운영 항목 - 승인 라인"),
+    173: (0.6, "전기 설비 계획서는 실제 시공 계획 문서 - Plan 라인"),
+    176: (0.6, "지붕 공사 비용 계산기는 실제 견적 도구 - Calculator 라인"),
+    178: (0.6, "송금 수수료 시뮬레이터는 실제 금융 도구 - Simulator 라인"),
+    181: (0.6, "연금 처리 정원은 실제 인사·급여 운영 항목 - 정원 라인(Annuity Capacity 준용)"),
+    182: (0.6, "사이딩 이용 통계는 실제 건축 운영 지표 - Siding Capacity 정합"),
+    195: (0.6, "기초 공사 계획 도구는 실제 시공 운영 항목 - Planner 라인"),
+    200: (0.6, "할부 상환 관리는 실제 금융 운영 항목 - Redemption 실제 금융 용어"),
+}
+
+DUP_REJECT = {}
+
+REJECT_REASON = {
+    3: "Slack은 유명 협업 SaaS 상표 - 상표 유사 기각",
+    4: "Photoshop은 Adobe 유명 상표 - 상표 유사 기각",
+    5: "Thing은 지칭 대상 불분명한 일반어 - 명확성 불성립",
+    7: "Ledger Sentinel과 동일 파수 은유의 동의어 결합 - 의미중복 기각(대조쌍)",
+    9: "참여 조건 결합은 Condition 앵커 미확정으로 명확성 탈락",
+    10: "방송 습도 결합은 무의미 - 명확성 불성립",
+    11: "롤백 센서 결합은 물리 센서 은유 불성립",
+    12: "스크리닝 후속 결합은 Followup 정크 패턴으로 불성립",
+    13: "티켓팅 승인은 Ticket 앵커 반복 미확정으로 불성립",
+    16: "배당 조건 결합은 Condition 앵커 미확정으로 불성립",
+    17: "파라리걸 습도 결합은 무의미 - 명확성 불성립",
+    18: "배송 에피소드 결합은 Episode 앵커 콘텐츠 문맥 외 불성립",
+    19: "연금 내역 결합은 Breakdown 앵커 미확정으로 불성립",
+    20: "초과근무 센서 결합은 물리 센서 은유 불성립",
+    21: "비계 접수 결합은 Reception 앵커 미확정으로 불성립",
+    22: "바코드 후속 결합은 Followup 정크 패턴 + 식별 기호 불성립",
+    24: "과제 행렬 결합은 Matrix 앵커 불성립",
+    25: "리모델링 서류 파일 결합은 File 동의어 접기(Log 준용)로 불성립",
+    26: "전기 품목 결합은 Item 일반어 불성립",
+    27: "직불 속성 결합은 Attribute 기술 일반어 불성립",
+    28: "저축 키트 결합은 Kit 자재 묶음 불성립(Roofing Kit 준용)",
+    29: "지붕 저장소 결합은 Repository 기술 일반어 불성립",
+    32: "도색 검토 결합은 Review 앵커 미확정으로 불성립(Patio Review 준용)",
+    33: "송금 하중 결합은 Load 물리 사양 명사 불성립",
+    34: "사이딩 호환성 결합은 Compatibility 기술 일반어 불성립",
+    35: "논문 처리 정원은 문서 산출물 정원 불성립(Syllabus 준용)",
+    37: "헤드라인 조건 결합은 Condition 앵커 미확정 + 산출물 불성립",
+    38: "우선처리 습도 결합은 무의미 - 명확성 불성립",
+    39: "헤드헌팅 에피소드 결합은 Episode 앵커 불성립",
+    40: "스왑 사이클 결합은 Cycle 앵커 불성립",
+    41: "진드기 센서 결합은 해충 + 센서 은유 불성립",
+    42: "치아 접수 결합은 신체 부위 + Reception 불성립",
+    43: "완구 후속 결합은 Followup 정크 패턴으로 불성립",
+    44: "제품 승인은 Product 앵커 미확정(물건)으로 불성립",
+    45: "주사 행렬 결합은 Matrix 앵커 불성립",
+    47: "홈통 파도 결합은 Wave 불성립",
+    48: "주식 게이트 결합은 Gate 앵커 미확정으로 불성립",
+    49: "기초 엔진 결합은 Engine 은유 불성립",
+    50: "골조 라인 결합은 Line 앵커 미확정으로 불성립",
+    52: "철거 유닛 결합은 Unit 일반어 불성립",
+    53: "굴착 세부 결합은 Detail 산출물 불분명",
+    54: "할부 위약금은 금액 항목으로 결합 불성립(Discount 준용)",
+    55: "포장 그래프 결합은 Graph 불성립",
+    56: "파산 판독 결합은 Reading 계량 값 불성립",
+    59: "채권자 레시피 결합은 불성립",
+    60: "파티오 뉴스레터 결합은 Newsletter 불성립(Concrete Newsletter 준용)",
+    61: "채무자 깊이 결합은 호가 문맥 부재로 성립 불분명(Trading Depth와 구분)",
+    62: "가구 하중 결합은 Load 물리 사양 명사 불성립",
+    65: "보험계약자 조건 결합은 Condition 앵커 미확정으로 불성립",
+    66: "조정대 습도 결합은 무의미 - 명확성 불성립",
+    67: "분유 에피소드 결합은 Episode 앵커 불성립",
+    68: "우편물 사이클 결합은 Cycle 앵커 불성립",
+    69: "스트레칭 내역 결합은 Breakdown 앵커 미확정으로 불성립",
+    70: "파산 센서 결합은 물리 센서 은유 불성립",
+    71: "석공 후속 결합은 Followup 정크 패턴으로 불성립",
+    73: "창고 행렬 결합은 Matrix 앵커 불성립",
+    74: "신탁 흐름 결합은 Flow 앵커 미확정으로 불성립(Stock Flow 준용)",
+    75: "목공 데스크 결합은 Desk 앵커 금융 한정으로 불성립",
+    78: "등록 조건 결합은 Condition 앵커 미확정으로 불성립",
+    79: "주문 센서 결합은 Order 앵커 미확정 + 센서 불성립",
+    80: "장례 접수 결합은 Reception 앵커 미확정으로 불성립",
+    81: "선박 행렬 결합은 Matrix 앵커 불성립",
+    83: "기록물 조건 결합은 Condition 앵커 미확정으로 불성립",
+    84: "참여 습도 결합은 무의미 - 명확성 불성립",
+    86: "롤백 접수 결합은 Reception 앵커 미확정으로 불성립",
+    88: "티켓팅 행렬 결합은 Matrix + Ticket 앵커 불성립",
+    91: "분류 조건 결합은 Condition 앵커 미확정으로 불성립",
+    92: "배당 습도 결합은 무의미 - 명확성 불성립",
+    93: "파라리걸 에피소드 결합은 Episode 앵커 불성립",
+    94: "배송 사이클 결합은 Cycle 앵커 불성립",
+    95: "연금 센서 결합은 물리 센서 은유 불성립",
+    96: "초과근무 접수 결합은 Reception 앵커 미확정으로 불성립",
+    97: "비계 후속 결합은 Followup 정크 패턴으로 불성립",
+    98: "바코드 승인은 식별 기호로 승인 대상 불성립",
+    99: "발렛 행렬 결합은 Matrix 앵커 불성립",
+    100: "리모델링 등급 결합은 속성 항목으로 성립 불분명",
+    101: "전기 유닛 결합은 Unit 일반어 불성립",
+    102: "직불 필드 결합은 Field 기술 일반어 불성립",
+    103: "저축 건수 결합은 속성 항목으로 성립 불분명",
+    104: "지붕 공지 결합은 Announcement 불성립(Notification 준용)",
+    107: "도색 배합 레시피 결합은 Recipe 앵커 미확정으로 불성립",
+    108: "송금 전압 결합은 Voltage 물리 사양 명사 불성립",
+    110: "논문 이용 통계는 문서 정원 반박에 따른 follower 불성립",
+    111: "회의 조건 결합은 Condition 앵커 미확정으로 불성립",
+    112: "헤드라인 습도 결합은 무의미 - 명확성 불성립",
+    113: "우선처리 에피소드 결합은 Episode 앵커 불성립",
+    114: "헤드헌팅 사이클 결합은 Cycle 앵커 불성립",
+    115: "스왑 내역 결합은 Breakdown 앵커 미확정으로 불성립",
+    116: "진드기 접수 결합은 해충 + Reception 불성립",
+    117: "치아 후속 결합은 신체 부위 + Followup 불성립",
+    118: "완구 승인은 물건으로 승인 대상 불성립",
+    119: "제품 행렬 결합은 Matrix + Product 앵커 불성립",
+    121: "홈통 경로 결합은 Path 불성립",
+    122: "주식 연결점 결합은 Nexus 은유 불성립",
+    123: "기초 어시스턴트 결합은 Assistant 앵커 금융 한정으로 불성립",
+    124: "골조 창문 결합은 구조물·시간창 어느 쪽도 불성립",
+    127: "굴착 식별자 결합은 Identifier 기술 일반어 불성립",
+    128: "할부 마진율 결합은 금액 항목(Markup)으로 불성립",
+    129: "포장 라벨 결합은 기호·산출물 불성립",
+    130: "파산 참조 결합은 Reference 일반어 불성립",
+    132: "상속 방송 결합은 Broadcast 불성립",
+    133: "채권자 영상 결합은 Video 불성립",
+    135: "채무자 신장 결합은 Height 물리 사양 명사 불성립",
+    136: "가구 전압 결합은 Voltage 물리 사양 명사 불성립",
+    139: "탱크로리 조건 결합은 Condition 앵커 미확정으로 불성립",
+    140: "보험계약자 습도 결합은 무의미 - 명확성 불성립",
+    141: "조정대 에피소드 결합은 Episode 앵커 불성립",
+    142: "분유 사이클 결합은 Cycle 앵커 불성립",
+    143: "우편물 내역 결합은 Breakdown 앵커 미확정으로 불성립",
+    144: "스트레칭 센서 결합은 물리 센서 은유 불성립",
+    145: "파산 접수 결합은 Reception 앵커 미확정으로 불성립",
+    147: "가사 행렬 결합은 Matrix 앵커 불성립",
+    148: "신탁 허브 결합은 Hub 앵커 미확정으로 불성립(Carpentry Hub 준용)",
+    149: "목공 레이더 결합은 Radar 은유 불성립(Gutter Radar 준용)",
+    150: "자산 나침반 결합은 방향 은유로 기능 불분명(Radar 준용)",
+    152: "등록 습도 결합은 무의미 - 명확성 불성립",
+    153: "장례 후속 결합은 Followup 정크 패턴으로 불성립",
+    156: "기록물 습도 결합은 무의미 - 명확성 불성립",
+    157: "참여 에피소드 결합은 Episode 앵커 불성립",
+    158: "방송 사이클 결합은 Cycle 앵커 불성립",
+    159: "롤백 후속 결합은 Followup 정크 패턴으로 불성립",
+    160: "스크리닝 행렬 결합은 Matrix 앵커 불성립",
+    161: "거품·폼 물질 결합은 정원 불성립(재료 준용)",
+    163: "호스텔 조건 결합은 Condition 앵커 미확정으로 불성립",
+    164: "분류 습도 결합은 무의미 - 명확성 불성립",
+    165: "배당 에피소드 결합은 Episode 앵커 불성립",
+    166: "파라리걸 사이클 결합은 Cycle 앵커 불성립",
+    167: "배송 내역 결합은 Breakdown 앵커 미확정으로 불성립",
+    168: "연금 접수 결합은 Reception 앵커 미확정으로 불성립",
+    169: "초과근무 후속 결합은 Followup 정크 패턴으로 불성립",
+    171: "바코드 행렬 결합은 Matrix + 식별 기호 불성립",
+    172: "리모델링 요율 결합은 Rate 건축 불성립(금융 Rate 한정)",
+    174: "직불 서식 결합은 Format 앵커 미확정으로 불성립",
+    175: "저축 메시지 결합은 Message 불성립(Notification 준용)",
+    177: "바닥 등급 결합은 속성 항목으로 성립 불분명",
+    179: "도색 영상 결합은 Video 불성립",
+    180: "송금 와트 결합은 Wattage 물리 사양 명사 불성립",
+    183: "논문 조건 결합은 Condition 앵커 미확정으로 불성립",
+    184: "회의 습도 결합은 무의미 - 명확성 불성립",
+    185: "헤드라인 에피소드 결합은 회차 개념 불성립",
+    186: "우선처리 사이클 결합은 Cycle 앵커 불성립",
+    187: "헤드헌팅 내역 결합은 Breakdown 앵커 미확정으로 불성립",
+    188: "스왑 센서 결합은 물리 센서 은유 불성립",
+    189: "진드기 후속 결합은 해충 + Followup 불성립",
+    190: "치아 승인은 신체 부위로 승인 대상 불성립(Molar Capacity 준용)",
+    191: "완구 행렬 결합은 Matrix + 물건 불성립",
+    192: "거래 범위 결합은 Scope 일반어 불성립",
+    193: "홈통 지점 결합은 Point 불성립",
+    194: "주식 지도집 결합은 Atlas 은유 불성립(Compass 준용)",
+    196: "골조 롤 결합은 자재 단위·역할 어느 쪽도 불성립",
+    197: "콘크리트 영수증 결합은 Receipt 건축 불성립(Demolition Receipt 준용)",
+    198: "철거 비용 결합은 금액 항목(Cost)으로 불성립",
+    199: "굴착 분류 결합은 Category 일반어 불성립",
+}
+
+n = len(req["items"])
+assert n == 200, n
+assert len(APPROVE) == 47, len(APPROVE)
+assert len(DUP_REJECT) == 0
+assert len(REJECT_REASON) == 153, len(REJECT_REASON)
+covered = set(APPROVE) | set(DUP_REJECT) | set(REJECT_REASON)
+assert covered == set(range(1, n + 1)), f"coverage mismatch: missing={sorted(set(range(1,n+1))-covered)} extra={sorted(covered-set(range(1,n+1)))}"
+overlap = (set(APPROVE) & set(DUP_REJECT)) | (set(APPROVE) & set(REJECT_REASON)) | (set(DUP_REJECT) & set(REJECT_REASON))
+assert not overlap, f"overlapping indices: {sorted(overlap)}"
+
+canaries = [i for i, it in enumerate(req["items"], 1) if it.get("industry") == "canary"]
+assert set(canaries) <= set(APPROVE) | set(DUP_REJECT) | set(REJECT_REASON), "canary uncovered"
+
+decisions = []
+for i, item in enumerate(req["items"], 1):
+    title = item["title"]
+    if i in APPROVE:
+        conf, reason = APPROVE[i]
+        decisions.append({"title": title, "approve": True,
+                          "checks": {"clarity": True, "duplication": True, "trademark": True},
+                          "confidence": conf, "reason": reason})
+    elif i in DUP_REJECT:
+        decisions.append({"title": title, "approve": False,
+                          "checks": {"clarity": True, "duplication": False, "trademark": True},
+                          "confidence": 0.7, "reason": DUP_REJECT[i]})
+    else:
+        decisions.append({"title": title, "approve": False,
+                          "checks": {"clarity": False, "duplication": True, "trademark": True},
+                          "confidence": 0.7, "reason": REJECT_REASON[i]})
+
+assert len(decisions) == n
+approved = sum(1 for d in decisions if d["approve"])
+kst = timezone(timedelta(hours=9))
+resp = {
+    "decisions": decisions,
+    "judged_at": datetime.now(kst).isoformat(),
+    "judged_by": "main-orchestrator",
+    "request_hash": req["request_hash"],
+    "round": req["round"],
+    "run_id": req["run_id"],
+    "stage": req["stage"],
+}
+with open(RESP, "w", encoding="utf-8", newline="\n") as f:
+    json.dump(resp, f, ensure_ascii=False, indent=2)
+print(f"written: {RESP}")
+print(f"approve={approved} reject={len(decisions)-approved} (dup={len(DUP_REJECT)}) canaries={len(canaries)}")
