@@ -2462,3 +2462,50 @@ Model/Lot/Availability/Eligibility))
 - **은퇴**: 신규 은퇴 대상 0건(95개 기존 유지).
 - **다음 라운드 예고**: 일반 생성 라운드. Sentinel 계열 판정 정렬 유지,
   금융 서류 앵커(Note/Memo/Tax/History)와 정원 라인이 강세 후보군.
+
+### RUN-20260908-065823-KST (2026-09-08) — 병합 풀 고갈 국면 진입(생성 2,861) + 금융 시세 도구 라인 개창
+- **라운드 숫자**: 생성 2,861(round-size 10,000 요청 대비 28.6% — 병합 풀 신규 조합
+  고갈 진행 중) / AI 승인 563(19.68%, 청크 14개: 200×13+68) / KP조회 563 /
+  KP통과 4(라운드 통과율 0.14%). 정체 점검 `stagnant`(직전 0.13% 대비 +7.5%).
+  승인율 이상탐지 정상(z=-1.56, 기준선 69.6% 대비 낮은 승인율은 후보 풀이
+  잔여 조합 위주라서 구조적으로 예상됨). 골든셋 7/7. 신규 은퇴 0건.
+- **병합 풀 고갈 국면(구조 신호)**: round-size 10,000 요청에 신규 생성이 2,861로
+  줄어든 것은 ledger 제외 규칙이 정상 작동하며 현재 병합 풀의 미시도 조합이
+  바닥나고 있다는 뜻이다. 다음 라운드들에서 생성 수가 계속 감소해 0에 도달하면
+  `expand_word_bank`가 트리거된다 — 이는 실패가 아니라 설계된 자가확장 진입
+  절차다. 판정 시 신중함 유지(잔여 조합이 희귀한 만큼 한 건의 오판 비용이
+  커진다).
+- **금융 시세 도구 라인 deliberate 신규(이번 라운드 핵심 개창)**: Stock
+  Alert(주가 경보)·Stock Chart(주가 차트)·Stock Ticker(주가 티커)를
+  Trading Terminal/Watch/Monitor 장르 정합으로 의도적 승인. 건축 결합
+  (Foundation Alert/Chart/Ticker)은 계속 기각 — Alert/Chart/Ticker 앵커가
+  "금융 시세" 문맥에서만 성립함을 라인 차원에서 확정. 이 결정의 KP 실측은
+  다음 라운드부터 나온다.
+- **KP통과 4건**: Stock Assistant **246,000**(이번 라운드 최대·누적 최대급,
+  실제 투자 어시스턴트 수요), Closing Capacity 2,400(M&A 클로징 정원),
+  Debit Interest 1,000(직불 이자), Savings Progress 1,600(저축 진행).
+  금융 도구 라인(Assistant/Terminal/Panel)의 검색 수요 재확인.
+- **판정 라인 확장(승인)**: 강한 실측 Capacity 대량 확정 — Immunization/Ballot/
+  Remittance/Vaccine/Implant/Traveler/Silo/Transmission(변속기 정격)/Softener/
+  Euthanasia(수의 안락사 서비스)/Cemetery/Casino/Network/Callback/Caption/
+  Adjustment(보상 조정)/Dispensing(조제)/Substitution(약품 대체)/Style/Trailer/
+  Freight — 도메인어가 "실제 서비스·자원·시설"이면 정원 성립. 문서 앵커 신규
+  개창: Signature(철거 서명), Report(Foundation/Stock), Log(Foundation/Stock),
+  Deadline(Roofing/Savings 공정 기한), Note(Foundation 시공 메모). Bankruptcy
+  법률 서류 라인 확장: Verification/Simulator/Predictor/Seal/Payment(파산 계획
+  지급)/Deposit. Watch 금융 확장: Payee/Wire/Debtor Watch(수취인·송금·채무자
+  감시). Pool 금융 고정: Trading/Wealth/Trust/Insolvency × Portal/Terminal/
+  Panel/Assistant/Ledger 전 조합 정합.
+- **판정 정합 유지**: 모든 승인 Capacity에 Usage follower 동반 승인, 기각
+  Capacity(Commission/Pricing/Sentiment/Feature/Policy/Runbook/Perimeter/
+  Masterkey/Terminology/Milestone/Prerequisite/Contingency/Indemnity/Creditor/
+  Lanyard)의 follower 전량 기각. Roofing Account(건축 계좌 불성립), Debit
+  Calculator(Calculator 대상 불분명 — Installment Calculator와 구분), Stock
+  Form(양식 결합 금융 불성립), Agreement 앵커 불성립 유지(Savings Agreement),
+  Manager 앵커 불성립 유지(Wealth Manager — 기존 자산관리 서비스명 유사도
+  추가 사유).
+- **다음 라운드 예고**: 생성 수 감소 국면 — 조합이 0에 수렴하면
+  `expand_word_bank` 트리거 예정. 확장 판정 시 winner pattern(실제 검색되는
+  구체적 장소·사물·서비스 명사) 준수 + 의도적 반대 방향 대조 실험 1개 포함
+  (코드 강제 요구). 금융 시세 도구(Alert/Chart/Ticker)의 KP 실측 확인이
+  다음 라운드 핵심 검증 과제.
