@@ -1,0 +1,194 @@
+== healthcare ==
+Patient, Referral, Prior, Claim, Provider, Appointment, Prescription, Insurance, Diagnosis, Discharge, Intake, Consent, Triage, Doctor, Nurse, Clinic, Symptom, Ward, Checkup, Vaccine, Allergy, Dosage, Specialist, Emergency, Surgery, Therapy, Recovery, Visit, Test, Bandage, Hospital, Injury, Illness, Workout, Stretch, Hydration, Posture, Breathing, Meditation, Sleep, Jogging, Immunity, Energy, Suture, Catheter, Cannula, Comorbidity, Auscultation, Intubation, Otoscope, Speculum
+
+== finance ==
+Ledger, Invoice, Payroll, Expense, Budget, Payment, Reconciliation, Audit, Accrual, Refund, Chargeback, Escrow, Dividend, Amortization, Paycheck
+
+== legal ==
+Contract, Docket, Filing, Clause, Compliance, Redline, Matter, Deposition, Waiver, Retainer, Discovery, Statute, Paralegal
+
+== logistics ==
+Freight, Shipment, Manifest, Customs, Warehouse, Pallet, Container, Route, Fleet, Dispatch, Inventory, Backorder, Courier, Waybill, Consignment, Consignee, Shipper, Forwarder, Lane, Trailer, Chassis, Payload, Loading, Unloading, Weighbridge, Backhaul, Intermodal, Crossdock, Drayage, Consolidation, Bulk, Reefer, Flatbed, Tanker
+
+== real_estate ==
+Lease, Tenant, Property, Listing, Escrow, Inspection, Maintenance, Deposit, Rent, Title, Zoning, Appraisal, Mortgage, Buyer, Seller, Rezoning, Counteroffer, Showing, Walkthrough, Contingency, Amendment, Addendum, Survey, Easement, Foreclosure, Refinance, Equity, Valuation, Realtor, Staging, Comparable, Renovation, Neighborhood
+
+== insurance ==
+Policy, Premium, Underwriting, Claim, Adjuster, Coverage, Deductible, Subrogation, Renewal, Actuary, Rider, Binder, Annuity, Endorsement, Reinsurance, Loss, Peril, Exclusion, Liability, Indemnity, Salvage, Settlement, Arbitration, Fraud, Lapse, Cancellation, Quote, Broker, Carrier, Beneficiary, Payout, Adjustment, Litigation, Policyholder, Copay, Coinsurance, Grace, Umbrella, Declarations, Appraisal, Surcharge, Reinstatement, Nonrenewal, Waiver, Certificate, Application, Verification, Investigation, Insured, Claimant, Underwriter, Rebate, Reserve, Bond, Disclosure, Solvency, Retention, Excess, Aggregate, Mandate, Assignment, Audit, Refund, Negligence, Damages, Compensation, Testimony, Reimbursement
+
+== hr_payroll ==
+Onboarding, Timesheet, Benefits, Roster, Shift, Leave, Recruiting, Payroll, Offboarding, Compliance, Candidate, Review, Overtime, Salary, Wage, Bonus, Deduction, Withholding, Garnishment, Severance, Pension, Vesting, Headcount, Attrition, Promotion, Demotion, Termination, Grievance, Union, Seniority, Probation, Training, Dependent
+
+== construction ==
+Permit, Blueprint, Punchlist, Subcontractor, Bid, Change, Inspection, Material, Crew, Jobsite, Warranty, Lien, Scaffold, Drywall
+
+== retail_ecommerce ==
+Inventory, Variant, Checkout, Return, Fulfillment, Vendor, Catalog, Storefront, Loyalty, Markdown, Restock, Bundle, Barcode, Cart, Clearance
+
+== hospitality ==
+Reservation, Guest, Housekeeping, Checkin, Amenity, Concierge, Occupancy, Booking, Banquet, Itinerary, Shuttle, Feedback, Valet, Buffet
+
+== education ==
+Enrollment, Curriculum, Attendance, Transcript, Tuition, Grading, Cohort, Syllabus, Advisor, Scholarship, Classroom, Alumni, Homework, Semester, Quarter, Credit, Major, Minor, Elective, Prerequisite, Thesis, Dissertation, Internship, Practicum, Orientation, Commencement, Detention, Suspension, Tutoring, Mentorship, Rubric, Transfer, Withdrawal
+
+== manufacturing ==
+Production, Assembly, Quality, Defect, Downtime, Maintenance, Scheduling, Batch, Yield, Supplier, Calibration, Throughput, Welding, Prototype
+
+== agriculture ==
+Harvest, Livestock, Irrigation, Yield, Crop, Soil, Pesticide, Grazing, Greenhouse, Fertilizer, Rotation, Silo, Tractor, Orchard
+
+== energy_utilities ==
+Meter, Outage, Grid, Consumption, Billing, Maintenance, Substation, Demand, Efficiency, Compliance, Inspection, Permit
+
+== nonprofit ==
+Donor, Grant, Volunteer, Campaign, Fundraising, Pledge, Beneficiary, Impact, Membership, Outreach, Stewardship, Ledger, Donation
+
+== government ==
+Permit, Citation, Ordinance, Zoning, Constituent, Hearing, Records, Licensing, Compliance, Inspection, Franchise, Ballot, Vote, Election, Mayor, Council, Complaint, Notice, Resident, Budget, Meeting, Agenda, Public, Utility, Waste, Recycling, Sidewalk, Streetlight, Pothole, Curfew, Referendum, Ward
+
+== marketing ==
+Campaign, Audience, Funnel, Attribution, Brand, Creative, Engagement, Referral, Conversion, Segment, Content, Placement
+
+== media_publishing ==
+Editorial, Subscriber, Royalty, Syndication, Manuscript, Archive, Broadcast, Licensing, Distribution, Rights, Circulation, Feed, Reader, Writer, Article, Blog, Podcast, Video, Photo, Caption, Headline, Byline, Column, Print, Digital, Ad, Editor, Publisher, Newsletter, Author, Story, Feature
+
+== transportation ==
+Route, Fleet, Fuel, Maintenance, Dispatch, Driver, Compliance, Mileage, Terminal, Cargo, Schedule, Permit, Carpool, Commute
+
+== telecom ==
+Subscriber, Provisioning, Outage, Bandwidth, Billing, Roaming, Ticket, Coverage, Latency, Churn, Activation, Network, Router, Hotspot, Smartphone
+
+== cybersecurity ==
+Incident, Vulnerability, Access, Credential, Threat, Audit, Compliance, Endpoint, Breach, Firewall, Patch, Perimeter, Password, Phishing
+
+== it_devops ==
+Deployment, Incident, Uptime, Backup, Provisioning, Pipeline, Rollback, Monitoring, Capacity, Migration, Configuration, Runbook, Cloud, Database
+
+== customer_support ==
+Ticket, Escalation, Response, Satisfaction, Queue, Refund, Warranty, Feedback, Resolution, Knowledge, Chat, Callback, Inquiry, Request, Case, Agent, Channel, Survey, Rating, Sentiment, Priority, Severity, Hold, Transfer, Handoff, Backlog, Contact
+
+== recruiting ==
+Candidate, Pipeline, Interview, Offer, Sourcing, Reference, Screening, Requisition, Onboarding, Assessment, Placement, Referral, Resume, Applicant, Hire, Background, Skillset, Cover, Interviewer, Recruiter, Headhunter, Vacancy, Job, Career, Talent, Diversity, Portfolio, Salary, Benefits, Networking, Internship, Aptitude
+
+== events ==
+Registration, Attendee, Venue, Sponsor, Badge, Agenda, Ticketing, Exhibitor, Session, Catering, Logistics, Feedback, Speaker, Keynote, Expo, Conference, Livestream, Recording, Wifi, Lanyard, Swag, Afterparty, Seating, Parking, Volunteer, Signage, Checkin, Background, Complaint, Notice, Attendance, Networking
+
+== automotive ==
+Warranty, Service, Inspection, Inventory, Trade, Financing, Recall, Maintenance, Dealer, Fleet, Mileage, Appraisal, Emission, Alignment, Roadtest, Smog, Tuneup, Calibration, Diagnosis, Checkup, Screening, Tire, Brake, Battery, Oil, Wiper, Headlight, Windshield, Bumper, Exhaust, Transmission, Radiator
+
+== food_service ==
+Inventory, Recipe, Supplier, Reservation, Delivery, Compliance, Waste, Menu, Catering, Staffing, Allergen, Franchise, Chef, Kitchen, Freezer, Cooler, Server, Dine, Waiter
+
+== veterinary ==
+Patient, Vaccination, Boarding, Grooming, Prescription, Appointment, Breed, Microchip, Wellness, Referral, Intake, Discharge, Kennel, Vet, Puppy, Kitten, Spay, Neuter, Deworming, Flea, Tick, Litter, Cage, Leash, Collar, Adoption, Shelter, Exam, Xray, Bloodwork, Euthanasia, Diet, Behavior
+
+== dental ==
+Patient, Appointment, Claim, Hygiene, Treatment, Recall, Chart, Insurance, Referral, Sterilization, Consent, Xray, Toothache, Cavity, Filling, Crown, Braces, Whitening, Flossing, Gum, Molar, Enamel, Extraction, Retainer, Veneer, Plaque, Cleaning, Sedation, Anesthesia, Denture, Implant, Orthodontics
+
+== fitness_wellness ==
+Membership, Class, Trainer, Attendance, Billing, Waiver, Schedule, Retention, Checkin, Program, Nutrition, Session, Treadmill, Yoga, Dumbbell
+
+== childcare ==
+Enrollment, Attendance, Ratio, Curriculum, Billing, Immunization, Pickup, Incident, Staffing, Meal, Naptime, Milestone, Toddler, Infant, Preschool, Playground, Snack, Diaper, Storytime, Craft, Toy, Outdoor, Daycare, Babysitter, Sibling, Allergy, Nap, Playtime, Fieldtrip, Potty, Lullaby, Stroller, Nanny, Formula, Chore
+
+== senior_care ==
+Resident, Medication, Shift, Incident, Care, Family, Vitals, Admission, Discharge, Compliance, Staffing, Wellness, Walker, Wheelchair, Cane, Mobility
+
+== pest_control ==
+Route, Technician, Treatment, Inspection, Contract, Chemical, Recurring, Dispatch, Warranty, Compliance, Termite, Scheduling, Mosquito, Rodent
+
+== landscaping ==
+Route, Crew, Estimate, Season, Irrigation, Maintenance, Property, Equipment, Scheduling, Contract, Mowing, Snow, Mulch
+
+== cleaning_services ==
+Route, Crew, Checklist, Contract, Supply, Inspection, Schedule, Client, Quality, Billing, Turnover, Inventory, Furniture, Kitchen, Closet, Mattress, Curtain, Wardrobe, Sofa, Dishwasher
+
+== laundry_dry_cleaning ==
+Order, Ticket, Route, Garment, Delivery, Pricing, Rack, Turnaround, Membership, Loyalty, Intake, Alteration, Stain
+
+== funeral_services ==
+Arrangement, Casket, Obituary, Family, Service, Cemetery, Permit, Payment, Vendor, Scheduling, Preplanning, Memorial, Cremation, Headstone, Urn
+
+== salon_spa ==
+Appointment, Stylist, Booking, Membership, Retail, Commission, Waitlist, Service, Loyalty, Inventory, Schedule, Checkout, Haircut, Manicure, Pedicure, Massage, Facial, Waxing, Coloring, Blowout, Product, Treatment, Consultation, Tip, Chair, Mirror, Shampoo, Conditioner, Polish, Trim, Style, Spa
+
+== pharmacy ==
+Prescription, Refill, Inventory, Insurance, Adherence, Dispensing, Formulary, Interaction, Copay, Compliance, Consultation, Recall, Pharmacist, Medicine, Bottle, Capsule, Tablet, Syrup, Ointment, Inhaler, Injection, Vitamin, Supplement, Generic, Brand, Expiration, Refrigeration, Pickup, Delivery, Counseling, Substitution, Allergy
+
+== maritime_shipping ==
+Vessel, Manifest, Cargo, Customs, Berth, Charter, Crew, Voyage, Bunker, Inspection, Container, Port, Marina, Kayak, Ferry
+
+== aviation ==
+Flight, Maintenance, Crew, Dispatch, Inspection, Fuel, Charter, Compliance, Schedule, Fleet, Certification, Logbook, Runway, Hangar
+
+== mining ==
+Extraction, Yield, Equipment, Safety, Inspection, Shift, Maintenance, Compliance, Haulage, Blast, Reserve, Tailings, Quarry
+
+== hvac_services ==
+Thermostat, Furnace, Refrigerant, Ductwork, Compressor, Filtration, Callout, Airflow, Insulation, Vent, Blower, Coil, Condenser, Evaporator, Manifold, Gauge, Freon, Zoning, Humidifier, Dehumidifier, Igniter, Flue, Damper, Ventilation, Boiler, Radiator, Chiller, Ductless, Thermocouple, Capacitor
+
+== locksmith_security_services ==
+Keyway, Rekey, Deadbolt, Lockout, Cylinder, Masterkey, Safe, Duplication, Bypass, Rekeying, Padlock, Keypad, Biometric, Intercom, Deadlatch, Strike, Hinge, Bolt, Combination, Mortise, Rim, Lever, Pinning, Shim, Bump, Impressioning, Transponder, Fob, Panic, Keyless
+
+== interpreter_translation_services ==
+Glossary, Localization, Dialect, Turnaround, Proofing, Terminology, Assignment, Fluency, Transcript, Certification, Interpreter, Bilingual, Multilingual, Subtitling, Captioning, Notarization, Apostille, Linguist, Vocabulary, Syntax, Idiom, Consecutive, Simultaneous, Accreditation, Briefing
+
+== moving_relocation_services ==
+Move, Crew, Truck, Packing, Unpacking, Storage, Inventory, Estimate, Booking, Dispatch, Route, Mileage, Warehouse, Crate, Carton, Padding, Deposit, Damage, Reimbursement, Elevator, Stairs, Haul, Relocation, Overnight
+
+== photography_services ==
+Shoot, Album, Retouching, Watermark, Proof, Gallery, Backdrop, Portfolio, Package, Rental, Lighting, Editing, Print, Delivery, Session, Booking, Deposit, Contract, License, Client, Location, Wardrobe, Highlight, Slideshow, Export, Testimonial, Thumbnail
+
+== wedding_planning_services ==
+Ceremony, Reception, Timeline, Seating, Invitation, Florist, Photographer, Venue, Rehearsal, Officiant, Favor, Toast, Bouquet, Catering, Guestlist, Honeymoon, Invite, Vow, Registrar, Cake, Decor, Aisle, Playlist
+
+== property_management_services ==
+Violation, Amenity, Utility, Complaint, Eviction, Renewal, Vendor, Assessment, Resident, Turnover, Occupant, Deposit, Repair, Vacancy, Notice, Warranty, Inspection, Maintenance, Landscaping, Snow, Roof, Elevator, Lease, Parking, Pet, Balcony, Hallway, Fence, Pool, Clubhouse, Playground, Curb, Sidewalk, Mailroom, Storage, Fitness, Rooftop, Tenant, Landlord, Rent, Garage, Laundry, Driveway, Entrance, Courtyard, Garden, Basement, Attic, Thermostat, Smoke, Key, Intercom, Concierge, Doorman, Superintendent, Custodian, Sprinkler, Alarm, Camera, Gate, Recycling, Compost, Bike, Mailbox, Signage, Locksmith, Plumbing
+
+== pool_maintenance_services ==
+Chlorine, Filter, Pump, Skimmer, Algae, Liner, Heater, Backwash, Vacuum, Route, Technician, Turbidity, Saltwater, Cover, Ladder, Tile, Coping, Winterization, Opening, Closing, Valve, Backyard, Motor, Gasket, Hose
+
+== car_wash_detailing_services ==
+Wash, Detailing, Wax, Buff, Upholstery, Coating, Ceramic, Chip, Dent, Scratch, Rinse, Foam, Interior, Exterior, Odor, Shine, Wheel, Undercarriage, Bucket, Sponge, Microfiber, Spot
+
+== plumbing_services ==
+Faucet, Pipe, Drain, Leak, Sink, Toilet, Clog, Sewer, Overflow, Wrench, Plunger, Washer, Fixture, Snake, Spigot, Nozzle, Cistern, Drainpipe, Softener, Trap, Backflow, Coupling, Grout, Fitting, Elbow
+
+== travel_tourism ==
+Hotel, Resort, Cruise, Tour, Trip, Vacation, Luggage, Getaway, Landmark, Attraction, Sightseeing, Hostel, Excursion, Beach, Cabin, Campsite, Souvenir, Tourist, Traveler, Roadtrip, Safari, Museum, Aquarium, Festival, Carnival, Picnic, Barbecue, Hiking, Surfing, Skiing, Casino, Vineyard
+
+== existing_function_words (291) ==
+Tracker, Flow, Hub, Desk, Radar, Relay, Vault, Compass, Beacon, Forge, Cascade, Bridge, Signal, Watch, Scope, Loop, Grid, Wave, Path, Point, Map, Frame, Base, Core, Ledger, Board, Deck, Studio, Lab, Station, Terminal, Center, Zone, Portal, Console, Panel, Scale, Route, Rail, Trail, Chain, Ring, Gate, Nexus, Atlas, Keeper, Manager, Engine, Assistant, Planner, Scheduler, Monitor, Companion, Register, Ops, Playbook, Journal, Registry, Calendar, Directory, Locator, Finder, Office, Counter, Booth, Kiosk, Bay, Post, Harbor, Roster, Alert, Chart, Bin, Passport, Lobby, Ticker, Line, Window, Roll, Report, Log, Form, Card, Sheet, Check, Score, Note, Tag, Profile, Status, View, History, File, Level, Rate, Update, Feed, Draft, Summary, Timeline, Reminder, Index, Ticket, Estimate, Order, Bill, Receipt, Code, List, Table, Slip, Sample, Slot, Pass, Voucher, Badge, Stub, Statement, Memo, Quota, Tab, Bulletin, Brief, Circular, Advisory, Petition, Confirmation, Recap, Entry, Fee, Item, Unit, Plan, Cost, Price, Fare, Tax, Loan, Sum, Debt, Fund, Cash, Sale, Charge, Duty, Allowance, Tariff, Value, Stake, Margin, Fine, Number, Version, Link, Rule, Detail, Identifier, Category, Attribute, Field, Format, Serial, Token, Signature, Marker, Balance, Interest, Asset, Levy, Due, Subsidy, Discount, Arrears, Advance, Penalty, Markup, Redemption, Extension, Trial, Graph, Label, Manual, Worksheet, Diagram, Schematic, Layout, Sketch, Outline, Rendering, Notification, Kit, Count, Message, Total, Widget, Repository, Announcement, Calculator, Converter, Generator, Recorder, Estimator, Checker, Detector, Timer, Workshop, Guardian, Helper, Stage, Result, Streak, Rank, Trend, Comparison, Proposal, Guarantee, Record, Copy, Reading, Reference, Forecast, Deadline, Duration, Volume, Diagnostic, Progress, Authorization, Template, Guide, Rating, Agreement, Reply, Account, Case, Match, Validation, Lookup, Ping, Model, Availability, Eligibility, Broadcast, Barcode, Appointment, Feedback, Invoice, Renewal, Quote, Warranty, Deposit, Certification, Nomination, Correction, Revision, Payment, Verification, Simulator, Predictor, Seal, Review, Recipe, Video, Diary, Refund, Expense, Newsletter, Inventory, Claim, Onboarding, Checkin, Size, Length, Weight, Distance, Range, Limit, Type, Clock, Time, Speed, Depth, Height, Width, Temperature, Pressure, Load, Voltage, Wattage, Brightness, Frequency, Compatibility
+
+== retired_function_words (95) ==
+Almanac, Analyzer, Anchor, Benchmark, Blueprint, Book, Cabinet, Cashback, Catalog, Checklist, Cockpit, Codex, Compendium, Contribution, Copayment, Coupon, Dashboard, Deal, Depot, Diagnosis, Dial, Digest, Dock, Dossier, Downpayment, Endowment, Excerpt, Flag, Flowchart, Folder, Giveaway, Grade, Guard, Guidebook, Helpdesk, Hotline, Inbox, Incentive, Insight, Inspection, Installment, Lens, Lock, Locker, Lot, Meter, Metrics, Mockup, Navigator, Node, Objection, Organizer, Outpost, Overage, Overdraft, Overdue, Overview, Payoff, Pilot, Plaza, Poll, Preview, Profit, Prognosis, Publication, Pulse, Queue, Readout, Referral, Refill, Roadmap, Roundup, Scanner, Sentry, Shelf, Shortfall, Snapshot, Stamp, Stipend, Subscription, Suite, Surtax, Sync, Tally, Threshold, Tier, Toll, Toolbox, Toolkit, Tower, Verdict, Waitlist, Wallet, Workbench, Yard
+
+== top_function_words ==
+[{"attempts": 361, "pass_rate_pct": 8.31, "passed": 30, "word": "Type"}, {"attempts": 672, "pass_rate_pct": 8.18, "passed": 55, "word": "Diagram"}, {"attempts": 910, "pass_rate_pct": 6.59, "passed": 60, "word": "Number"}, {"attempts": 928, "pass_rate_pct": 6.36, "passed": 59, "word": "Code"}, {"attempts": 934, "pass_rate_pct": 5.89, "passed": 55, "word": "Portal"}, {"attempts": 963, "pass_rate_pct": 5.09, "passed": 49, "word": "Status"}, {"attempts": 934, "pass_rate_pct": 4.82, "passed": 45, "word": "List"}, {"attempts": 937, "pass_rate_pct": 4.8, "passed": 45, "word": "Map"}, {"attempts": 698, "pass_rate_pct": 4.44, "passed": 31, "word": "Calculator"}, {"attempts": 929, "pass_rate_pct": 4.2, "passed": 39, "word": "Rate"}]
+
+== pattern_tag_performance (24 tags) ==
+  type_category_noun: 361시도 30통과 8.31%
+  performance_measure_noun: 28시도 1통과 3.57%
+  dimension_measure_noun: 851시도 22통과 2.59%
+  searchable_content_format_noun: 906시도 22통과 2.43%
+  time_reference_noun: 85시도 2통과 2.35%
+  everyday_travel_leisure_noun: 573시도 12통과 2.09%
+  everyday_digital_life_noun: 194시도 4통과 2.06%
+  everyday_wellness_noun: 147시도 3통과 2.04%
+  capacity_rating_noun: 210시도 4통과 1.9%
+  everyday_money_transaction_noun: 136시도 2통과 1.47%
+  range_band_noun: 82시도 1통과 1.22%
+  everyday_household_noun: 3741시도 31통과 0.83%
+  computation_tool: 1806시도 11통과 0.61%
+  operational_asset_noun: 192시도 1통과 0.52%
+  concrete_identifiable_record: 859시도 3통과 0.35%
+  trade_insider_term: 2427시도 3통과 0.12%
+  arrival_processing_noun: 41시도 0통과 0.0%
+  ceremony_memorial_noun: 45시도 0통과 0.0%
+  claim_request_noun: 10시도 0통과 0.0%
+  compatibility_support_noun: 78시도 0통과 0.0%
+  device_rating_noun: 24시도 0통과 0.0%
+  outbound_communication_noun: 1시도 0통과 0.0%
+  process_stage_noun: 51시도 0통과 0.0%
+  visual_structure_document: 1717시도 0통과 0.0%
+
