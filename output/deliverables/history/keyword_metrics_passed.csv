@@ -1191,6 +1191,7 @@ Licensing Status,18100.0,0.0,success,True,2026-08-19T20:44:29.865338+09:00
 Licensing Verification,33100.0,0.0,success,True,2026-08-31T04:08:30.196889+09:00
 Lien Balance,6600.0,0.0,success,True,2026-08-23T13:48:17.793072+09:00
 Lighting Field,5400.0,0.0,success,True,2026-08-23T13:08:58.766460+09:00
+Lighting Frequency,6600.0,0.0,success,True,2026-09-07T16:45:07.069050+09:00
 Lighting Map,673000.0,0.0,success,True,2026-08-19T12:24:48.425289+09:00
 Lighting Note,2400.0,0.0,success,True,2026-08-19T13:32:13.743565+09:00
 Lighting Reference,4400.0,0.0,success,True,2026-08-28T21:12:00.819160+09:00
@@ -1432,6 +1433,7 @@ Parking Portal,5400.0,0.0,success,True,2026-08-19T21:55:34.064895+09:00
 Parking Size,14800.0,0.0,success,True,2026-09-06T09:00:39.220624+09:00
 Parking Type,5400.0,0.0,success,True,2026-09-06T09:00:39.220624+09:00
 Parking Validation,3600.0,0.0,success,True,2026-08-30T23:55:18.343863+09:00
+Password Status,2400.0,0.0,success,True,2026-09-07T16:45:19.969833+09:00
 Patch Note,60500.0,0.0,success,True,2026-08-19T13:37:14.131003+09:00
 Patient Gate,201000.0,0.0,success,True,2026-08-17T20:35:59.491401+09:00
 Patient History,2900.0,0.0,success,True,2026-08-19T20:46:13.766068+09:00
@@ -2167,6 +2169,7 @@ Toilet Diagram,4400.0,0.0,success,True,2026-09-01T00:58:32.506822+09:00
 Toilet Finder,2400.0,0.0,success,True,2026-09-01T00:58:32.506822+09:00
 Tourist Tracker,1000.0,0.0,success,True,2026-09-05T22:58:02.430058+09:00
 Tourist Type,14800.0,0.0,success,True,2026-09-06T09:01:29.681085+09:00
+Tractor Status,1300.0,0.0,success,True,2026-09-07T16:45:44.594103+09:00
 Trade Badge,1000.0,0.0,success,True,2026-08-21T00:27:55.902205+09:00
 Trade Deadline,22200.0,0.0,success,True,2026-08-28T20:51:40.153805+09:00
 Trade Quota,3600.0,0.0,success,True,2026-08-21T00:28:42.115555+09:00
@@ -2211,8 +2214,10 @@ Trim Generator,1300.0,0.0,success,True,2026-08-29T14:52:53.855091+09:00
 Trim Level,1900.0,0.0,success,True,2026-08-29T15:06:40.368283+09:00
 Trip Checker,165000.0,0.0,success,True,2026-09-06T02:18:11.458140+09:00
 Trip Record,1300.0,0.0,success,True,2026-09-06T02:18:11.458140+09:00
+Truck Height,1900.0,0.0,success,True,2026-09-07T16:45:48.603933+09:00
 Truck Status,2900.0,0.0,success,True,2026-08-19T20:45:10.019254+09:00
 Truck Trial,2900.0,0.0,success,True,2026-08-27T21:14:54.146372+09:00
+Truck Width,1900.0,0.0,success,True,2026-09-07T16:45:48.603933+09:00
 Tuition Cost,4400.0,0.0,success,True,2026-08-21T02:11:23.948204+09:00
 Tuition Fee,40500.0,0.0,success,True,2026-08-21T01:55:44.868962+09:00
 Tuition Feed,40500.0,0.0,success,True,2026-08-19T20:37:52.054454+09:00
