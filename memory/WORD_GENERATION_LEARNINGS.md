@@ -469,6 +469,37 @@ candidate; 최소 반복 근거와 QA를 통과해야 validated로 승격한다"
     Capacity — 미시도 확인 후 소량)를 독립 시도해 상위권 재현되면
     `validated`.
 
+16. `candidate` (2026-09-07, RUN-20260907-165913-KST — 1차 판정 운영 규칙)
+    **동일 앵커 도메인어의 Frequency 후보와 Load 후보가 같은 라운드 후보군에
+    함께 나오면, 1차 판정(review_titles) 시점에 Load를 앵커로 승인하고
+    Frequency는 즉시 의미중복 처리한다.** 근거: 청크 선례 30건 이상 전부
+    "X Frequency dup X Load"(Callback/Application/Mosquito/Welding/
+    Donation/Recall/Mailroom/Hydration/Overtime/Mortgage/Docket/Dividend/
+    Invoice/Triage/Meeting/Ticketing/Wash/Port/Records/Subrogation/
+    Investigation/Certificate/Settlement/Severity/Deposition/Refill/
+    Inquiry/Resume/Vulnerability — 역방향 귀속 0건), 그리고 이번 라운드에서
+    1차 판정이 쌍을 둘 다 승인한 50쌍을 재검증에서 소급 귀속하며 105건
+    반박 중 50건이 이 유형이었다. 귀속을 1차에서 미적용하면 재검증 소급
+    비용과 양방향 승인(최종 산출물의 근접 중복)이 발생한다.
+    **승격 조건**: 다음 라운드에서 1차 판정이 이 규칙을 즉시 적용해
+    동일 앵커 F/L 양방향 승인이 재발하지 않으면 `validated`.
+    예외(귀속하지 않음): Frequency가 물리 수량·주기 설정 의미인 경우 —
+    Grid Frequency(전기 주파수 Hz), 급이/수거/교대/지급/갱신 주기
+    (Amortization/Greenhouse/Compost/Crew/Payroll/Renewal Frequency) 등
+    "발생 빈도"가 아닌 조합, 그리고 앵커의 Load가 물리 부하(Voltage/
+    Temperature 계열 텔레메트리)로 다른 수량일 때는 별개 판정.
+
+17. `candidate` (2026-09-07, RUN-20260907-165913-KST — 응답 기록 절차)
+    **1차 판정 응답을 기록하기 전에 각 승인 사유가 해당 행의 title·industry를
+    실제로 서술하는지 대조한다. 불일치 승인은 그 자체로 무효이며, 제목은
+    사유를 버리고 독립 재판정한다.** 근거: 이번 라운드 1차 승인 813건 중
+    최소 31건의 사유가 전혀 다른 제목(다른 업계·다른 조합)의 내용을
+    서술 — 수작업 대량 청크 판정에서 행이 어긋난 결함. 31건을 독립
+    재판정한 결과 절반 이상(Airflow Depth, Snake Pressure, Terminal
+    Brightness 등)이 의미 불명·사양으로 뒤집혔다. 대조만으로 걸러진다.
+    **승격 조건**: 다음 라운드에서 대조 절차를 적용해 불일치 승인이
+    재발하지 않으면 `validated`.
+
 ## 라운드별 로그
 
 ### RUN-20260819-201533-KST (2026-08-19, 도메인어 22 + 기능어 재사용 10)
@@ -2204,3 +2235,60 @@ Model/Lot/Availability/Eligibility))
   (분류·규격 Type/Size)보다 시장 적합이 약한 방향이었기 때문. 통과 5개
   중 3개가 여전히 신규 기능어 조합인 점은 확장 자체가 무효였음을
   의미하지 않는다.
+
+### RUN-20260907-165913-KST (production, round-size 10000, 2026-09-07)
+
+- **라운드 숫자**: 생성 10,000 / 1차 승인 813(8.13%) / 레드팀 재검증 반박
+  성립 105건 뒤집기(12.9%) → 최종 승인 708(7.08%) / KP통과 14(0.14%).
+  정체 점검 `improving`(직전 0.05% 대비 +180%). 골든셋 4/7(불일치 3건 —
+  이번 트리거 경로), 승인율 이상탐지 z=-2.17 정상.
+- **재검증 트리거 실측(2번째 경로 발동)**: 직전 라운드가 confidence 경로였다면
+  이번엔 **골든셋 카나리아 경로**(불일치 3건)가 트리거했다. 불일치 내용은
+  양방향이었다 — ① "Data Thing"을 승인(추상 조합 기각 기준선 미적용 —
+  대량 청크 후반부 판정 기준이 느슨해진 흔적), ② "Ledger Sentinel"·
+  "Quantum Notary"를 기각(낯선 도메인어 조합에 의미 불명 판정을 과적용 —
+  과잉 엄격). 즉 1차 판정이 동시에 양방향으로 표류했다.
+- **반박 105건의 구성(1차 판정 결함 유형별)**:
+  - **사유-제목 불일치 31건(신규 결함 유형)**: 1차 승인 사유가 전혀 다른
+    제목(다른 업계·다른 조합)의 내용을 서술 — 수작업 청크 판정에서 행이
+    어긋난 흔적. 불일치 승인은 그 자체로 무효이며 제목을 독립 재판정해
+    절반 이상이 의미 불명·사양으로 뒤집혔다(Airflow Depth, Equipment
+    Width, Snake Pressure, Terminal Brightness 등). 교훈: 응답 기록 전
+    사유가 해당 title·industry를 실제로 서술하는지 대조할 것.
+  - **동일 앵커 Frequency→Load 소급 귀속 50건**: 1차 판정에서 동일 앵커의
+    Frequency+Load 쌍을 둘 다 승인한 것이 뒤늦게 발각 — 청크48 Callback
+    선례(30건 이상 전부 "Frequency가 Load로 귀속", 역방향 0건)를 재검증에서
+    일괄 적용. Admission/Doctor/Custodian/Orchard/Underwriting 등 50쌍.
+    교훈: 귀속 규칙은 1차 판정 때 즉시 적용해야 재검증 소급 비용이
+    발생하지 않는다(후보 목록 순서상 Load가 대개 먼저 나옴).
+  - **가족 앵커·상표 뒤집기 24건**: Dumbbell/Ferry Planner→Scheduler,
+    Inquiry Load→Request Load, Medicine 3종→Medication 앵커,
+    Toddler 2종→Infant 앵커, Cloud/Heater Temperature→기존 온도 앵커,
+    Tractor/Welding Guarantee→Warranty, Volume→Load(3건),
+    Phishing Simulator→Lab, Truck Frequency→Haul Frequency(동일 업계
+    동일 의미), Marina Lookup→Availability. 상표 2건(Cloud Forecast→
+    CloudForecast 동명 서비스, Phishing Lab→PhishLabs — Cloud Trail
+    선례와 같은 동명 서비스 기준 적용).
+- **확장 단어 실측(이번 라운드 신규 확장 없음 — 기존 풀로 생성)**:
+  KP통과 14개 = Breathing Frequency **90,500**(최대) / Distribution
+  Frequency 27,100 / Response Frequency 6,600 / Donation Progress 3,600 /
+  Commute Time 2,900 / Marina Appointment 2,900 / Hotspot Tracker 2,400 /
+  Snow Depth 2,400 / Amortization Expense 1,900 / Transfer Load 1,600 /
+  Hotspot Status 1,300 / Rodent Type 1,300 / Ticket Load 1,300 /
+  Utility Frequency 1,000. 패턴: 재검증에서 앵커로 남은 Load(F Ticket/
+  Transfer)가 통과하고 소급 귀속된 Frequency 조합은 통과 없음 — Load
+  앵커 우위가 이번에도 재관측됨. 임상·환경 측정(Breathing/Snow)과
+  상태·약속 조회(Status/Appointment)가 큰 폭을 기록.
+- **핵심 원칙 평가**:
+  - **"동일 앵커 F/L은 Load를 앵커로 즉시 귀속"을 신규 `candidate`로
+    등재**(1차 판정 시점 적용 — 재검증 소급 50건 1회 관측 + 기존 청크
+    선례 30건 이상이 같은 방향, 반례 없음. 소급 비용 관점의 신규 운영
+    교훈이므로 다음 라운드 1차 적용 재관측 후 validated 검토).
+  - 원칙 15 `candidate` 유지 — 이번 라운드는 Depth를 특별 시험하지 않음
+    (Hold Depth 등 대기열 문맥 승인은 기존 관측과 동일 방향).
+  - "사유-제목 불일치 = 무효 후 독립 재판정" 절차도 1회 관측 `candidate`.
+- **improving 해석**: +180%는 ① 재검증으로 승인 풀 순도를 높인 결과가
+  2라운드 연속 관측(직전 declining 때도 순도 선택), ② 임상·환경 측정
+  (Breathing Frequency 90,500) 등 대형 검색량 조합이 운에 의해서라도
+  포함된 효과가 크다. 5건 이하였던 직전 2라운드 대비 14건 — 승인 풀
+  순도 가설(승인 적을수록 통과율 높음)이 3째 라운드 연속 같은 방향.
