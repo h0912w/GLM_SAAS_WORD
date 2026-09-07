@@ -469,7 +469,8 @@ candidate; 최소 반복 근거와 QA를 통과해야 validated로 승격한다"
     Capacity — 미시도 확인 후 소량)를 독립 시도해 상위권 재현되면
     `validated`.
 
-16. `candidate` (2026-09-07, RUN-20260907-165913-KST — 1차 판정 운영 규칙)
+16. `validated` (2026-09-07, RUN-20260907-165913-KST 최초 등재 — 1차 판정 운영
+    규칙; 같은 날 RUN-20260907-230010-KST에서 승격)
     **동일 앵커 도메인어의 Frequency 후보와 Load 후보가 같은 라운드 후보군에
     함께 나오면, 1차 판정(review_titles) 시점에 Load를 앵커로 승인하고
     Frequency는 즉시 의미중복 처리한다.** 근거: 청크 선례 30건 이상 전부
@@ -481,15 +482,24 @@ candidate; 최소 반복 근거와 QA를 통과해야 validated로 승격한다"
     1차 판정이 쌍을 둘 다 승인한 50쌍을 재검증에서 소급 귀속하며 105건
     반박 중 50건이 이 유형이었다. 귀속을 1차에서 미적용하면 재검증 소급
     비용과 양방향 승인(최종 산출물의 근접 중복)이 발생한다.
-    **승격 조건**: 다음 라운드에서 1차 판정이 이 규칙을 즉시 적용해
-    동일 앵커 F/L 양방향 승인이 재발하지 않으면 `validated`.
+    **2026-09-07 승격(candidate→validated, RUN-20260907-230010-KST)**:
+    승격 조건대로 다음 라운드 1차 판정에서 이 규칙을 즉시 적용 — F/L 쌍이
+    함께 나온 앵커(Adjustment/Donor/Silo/Reefer/Throughput/Production/
+    Transmission/Freight/Financing) 9건 전부 Load 방향 즉시 귀속,
+    Frequency 쪽 승인 0건, 양방향 승인 재발 0건이었다(직전 라운드는 1차가
+    쌍을 둘 다 승인해 재검증에서 50쌍 소급 귀속 — 이번엔 소급 비용 0).
+    예외 조항도 설계대로 작동: Immunization Frequency는 Load가 아니라
+    동의어 Vaccination Frequency로 귀속, Story/Waiter/Sightseeing
+    Frequency는 발행·교대·운행 주기 설정 의미로 독립 승인 — 과잉 귀속
+    없음. 같은 방향 관측 2라운드 연속 + 반례 없음.
     예외(귀속하지 않음): Frequency가 물리 수량·주기 설정 의미인 경우 —
     Grid Frequency(전기 주파수 Hz), 급이/수거/교대/지급/갱신 주기
     (Amortization/Greenhouse/Compost/Crew/Payroll/Renewal Frequency) 등
     "발생 빈도"가 아닌 조합, 그리고 앵커의 Load가 물리 부하(Voltage/
     Temperature 계열 텔레메트리)로 다른 수량일 때는 별개 판정.
 
-17. `candidate` (2026-09-07, RUN-20260907-165913-KST — 응답 기록 절차)
+17. `validated` (2026-09-07, RUN-20260907-165913-KST 최초 등재 — 응답 기록
+    절차; 같은 날 RUN-20260907-230010-KST에서 승격)
     **1차 판정 응답을 기록하기 전에 각 승인 사유가 해당 행의 title·industry를
     실제로 서술하는지 대조한다. 불일치 승인은 그 자체로 무효이며, 제목은
     사유를 버리고 독립 재판정한다.** 근거: 이번 라운드 1차 승인 813건 중
@@ -497,8 +507,11 @@ candidate; 최소 반복 근거와 QA를 통과해야 validated로 승격한다"
     서술 — 수작업 대량 청크 판정에서 행이 어긋난 결함. 31건을 독립
     재판정한 결과 절반 이상(Airflow Depth, Snake Pressure, Terminal
     Brightness 등)이 의미 불명·사양으로 뒤집혔다. 대조만으로 걸러진다.
-    **승격 조건**: 다음 라운드에서 대조 절차를 적용해 불일치 승인이
-    재발하지 않으면 `validated`.
+    **2026-09-07 승격(candidate→validated, RUN-20260907-230010-KST)**:
+    승격 조건대로 다음 라운드에서 전 청크 응답 기록 전 사유-제목 대조를
+    수행한 결과 1차 승인 234건 중 불일치 0건, 레드팀 재검증에서도 사유
+    불일치 뒤집기 0건이었다. 결함 발각 관측(RUN-20260907-165913, 31건)과
+    절차 적용 무재발 관측(RUN-20260907-230010) 2라운드.
 
 ## 라운드별 로그
 
@@ -2292,3 +2305,63 @@ Model/Lot/Availability/Eligibility))
   (Breathing Frequency 90,500) 등 대형 검색량 조합이 운에 의해서라도
   포함된 효과가 크다. 5건 이하였던 직전 2라운드 대비 14건 — 승인 풀
   순도 가설(승인 적을수록 통과율 높음)이 3째 라운드 연속 같은 방향.
+
+### RUN-20260907-230010-KST (2026-09-07, 확장 없음 — 조합공간 잔량 소진
+라운드, 원칙 16·17 승격)
+
+- **제안**: 확장 없음 — 기존 풀(원본+확장 누적)의 미시도 잔여 조합만
+  생성됐다. round-size 10,000 요청에 실제 생성 1,476개 — 조합공간이 거의
+  소진됐다는 신호이며 다음 라운드는 `expand_word_bank` 판정이 열릴
+  가능성이 높다.
+- **라운드 숫자**: 생성 1,476 / 1차 승인 238(실제 234 + 골든셋 카나리아
+  4) / 레드팀 재검증 234건 유지·0 뒤집기 / KP통과 4(라운드 통과율
+  0.271%). 정체 점검 `improving`(직전 0.14% 대비 +93.6%). 골든셋 6/7
+  (불일치 1건 — 세션 오판정, 아래 참고), 승인율 이상탐지 정상(z=-1.83,
+  이번 15.8% vs 기준선 71.9%±30.6 — 극단 아님).
+- **재검증 트리거 실측**: 이번 트리거는 **골든셋 카나리아 경로**(불일치
+  1건)였다. 원인은 파이프라인 결함이 아니라 세션의 판정 실수 —
+  "Ledger Watchman"을 승인했지만 골든 정답은 기각(Ledger Sentinel과
+  감시자라는 같은 개념 의미중복 거절 기준선)이었다. 카나리아는 ledger에
+  기록되지 않아 산출물 영향 없음. **향후 라운드부터 Ledger Watchman은
+  의미중복 기각으로 판정한다.** 재검증 234건 전항목 반박 시도 후 유지 —
+  1차 승인 풀 결함 0이며, 이것이 원칙 16·17의 1차 적용 효과다.
+- **원칙 16의 1차 판정 실시간 적용(이번 라운드 핵심)**: F/L 쌍이 함께
+  나온 앵커(Adjustment/Donor/Silo/Reefer/Throughput/Production/
+  Transmission/Freight/Financing) 9건 전부 1차 판정에서 Load 방향 즉시
+  귀속 — 직전 라운드는 1차가 쌍을 둘 다 승인해 재검증에서 50쌍을 소급
+  귀속해야 했던 것과 정확히 대비된다. 소급 비용 0, 양방향 승인 0. 예외
+  조항도 설계대로 작동: Immunization Frequency는 Load가 아닌 동의어
+  Vaccination Frequency로 귀속, Story/Waiter/Sightseeing Frequency는
+  발행·교대·운행 주기 설정 의미로 독립 승인 — 과잉 귀속 없음.
+- **원칙 17의 적용**: 전 청크에서 응답 기록 전 사유-제목 대조를 수행 →
+  불일치 승인 0건. 직전 라운드의 31건 결함이 절차 도입 한 번으로 0이
+  됐다. 두 원칙 모두 사전 등록된 승격 조건을 충족해 `validated`로
+  승격(핵심 원칙 섹션 갱신 완료).
+- **가족 앵커·동의어 귀속(원칙 16 외)**: Kayak Cost/Price/Fare→Kayak
+  Fee, Hangar Cost/Fare/Price→Hangar Fee, Headstone Cost/Price→
+  Headstone Fee(Fee 앵커의 비용 동의어 흡수), Router/Carpool/Donation/
+  Tractor/Welding Finder→Locator, Bulk Load→Freight Load(동일 업계
+  동일 의미), Backorder Load→Backorder Depth. 청크 간 귀속 방향 일관성이
+  유지됐다.
+- **확장 단어 실측(이번 라운드 신규 확장 없음)**: KP통과 4개 = Password
+  Monitor **33,100**(최대) / Story Load 14,800 / Occupant Load 1,300 /
+  Mosquito Alert 1,000. 패턴: 소비자가 실제로 검색하는 보안 감시
+  도구(Monitor)와 물량·수용 인원(Load) 앵커가 통과 — Load 앵커 우위
+  재관측(4개 중 2개), Alert 앵커는 원칙 11(소통/알림 계열 강세)과 일치.
+- **핵심 원칙 평가**:
+  - 원칙 16 `candidate`→`validated` 승격(2라운드 연속 같은 방향 +
+    반례 없음).
+  - 원칙 17 `candidate`→`validated` 승격(결함 발각 관측 + 절차 적용
+    무재발 관측).
+  - 원칙 15 `candidate` 유지 — 이번 라운드는 Count/Level/Capacity를
+    독립 시험하지 않음(Skiing Depth 적설·Policy/Story/Vocabulary Depth
+    문맥 승인은 기존 관측과 동일 방향일 뿐 독립 시험이 아님). 다음
+    라운드 `expand_word_bank`가 열리면 소량 동반 시험 기회.
+- **improving 해석**: +93.6%는 승인 풀 순도(1차 결함 0, 재검증 뒤집기
+  0)와 소비자 검색어형 조합(Password Monitor 33,100)이 함께 작용한
+  결과. 승인율 15.8%는 기준선 대비 낮지만(엄격 판정의 반영) 통과율은
+  올랐다 — "승인 적을수록 통과율 높음" 가설 4째 라운드 연속 같은 방향.
+- **다음 라운드 예고**: 생성 1,476 < 요청 10,000 — 조합공간 잔량이 얼마
+  남지 않았다. 다음 실행은 `expand_word_bank` 판정 라운드가 될 가능성이
+  높다(원칙 1·6·13 준수 + 원칙 15 인접 속성 명사 소량 시험 기회 +
+  dead_pattern_tags 회피).
