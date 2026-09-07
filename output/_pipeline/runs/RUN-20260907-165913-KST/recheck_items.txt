@@ -1,0 +1,814 @@
+fields: ['industry', 'original_reason', 'title']
+1 Access Frequency (cybersecurity) | 접속 발생 빈도 추적은 실제 보안 운영 지표 - 명확
+2 Accreditation Frequency (interpreter_translation_services) | 자격 인증 갱신 주기 관리는 실제 전문직 운영 항목 - 명확
+3 Accreditation Pressure (interpreter_translation_services) | 심야 이사 처리 물량 관리는 실제 운영 항목 - 명확
+4 Accrual Frequency (finance) | 적립 발생 주기 관리는 실제 회계 운영 항목 - 명확
+5 Admission Compatibility (senior_care) | 입소 요건 적합 확인은 실제 시니어 케어 운영 항목 - 명확
+6 Admission Frequency (senior_care) | 입소 발생 빈도 추적은 실제 시니어 케어 운영 지표 - 명확
+7 Admission Load (senior_care) | 입소 처리 물량 관리는 실제 시니어 케어 운영 지표 - 명확
+8 Advisor Frequency (education) | 정기 상담 주기 관리는 실제 학사 운영 항목 - 명확
+9 Advisor Load (education) | 학생 상담 배정 부하 관리는 실제 교육 운영 지표 - 명확
+10 Airflow Depth (hvac_services) | 덕트 풍량 측정·관리는 실제 HVAC 설계·진단 지표 - 명확
+11 Airflow Frequency (hvac_services) | 급배기 가동 빈도 추적은 실제 HVAC 운영 지표 - 명확
+12 Airflow Temperature (hvac_services) | 덕트 송풍 온도 관리는 실제 HVAC 제어 지표 - 명확
+13 Alarm Compatibility (property_management_services) | 경보 기기 호환 조회는 실제 시설 설비 참조 - 명확
+14 Alarm Frequency (property_management_services) | 경보 발생 빈도 추적은 실제 시설 보안 지표 - 명확
+15 Alarm Load (property_management_services) | 경보 이벤트 대응 물량 관리는 실제 시설 감시 운영 지표 - 명확
+16 Album Load (photography_services) | 앨범 제작 처리 물량 관리는 실제 사진 스튜디오 운영 지표 - 명확
+17 Alignment Frequency (automotive) | 휠 얼라인먼트 점검 주기 관리는 실제 차량 정비 항목 - 명확
+18 Amortization Appointment (finance) | 석고보드 시공 보증·하자 보수 관리로 추론 가능
+19 Amortization Barcode (finance) | 석고보드 시공 견적 계산은 실제 건설 견적 업무 - 명확
+20 Amortization Expense (finance) | 상각 비용 계정 추적으로 추론 가능
+21 Amortization Frequency (finance) | 상환 납입 주기 관리는 실제 금융 소비자 수요 - 명확
+22 Amortization Invoice (finance) | 리스·할부 상각 청구서 자동 생성으로 추론 가능
+23 Amortization Length (finance) | 대출 상환 기간 비교·관리는 실제 금융 소비자 수요 - 명확
+24 Amortization Limit (finance) | 대출 한도 계산·관리는 실제 금융 소비자 수요 - 명확
+25 Amortization Planner (finance) | 대출 상환(상각) 계획 수립은 실제 금융 소비자 수요 - 명확
+26 Amortization Simulator (finance) | 대출 상환 시나리오 시뮬레이션은 실제 금융 카테고리 - 명확
+27 Amortization Tracker (finance) | 상환·상각 진행 추적은 실제 금융 소비자 수요 - 명확
+28 Amortization Type (finance) | 상각 방식별 계산 지원으로 추론 가능
+29 Amortization Verification (finance) | 상각 스케줄 검증은 실제 회계 검토 업무 - 명확
+30 Applicant Frequency (recruiting) | 지원자 유입 빈도 추적은 실제 채용 운영 지표 - 명확
+31 Applicant Load (recruiting) | 지원서 검토 부하 관리는 실제 채용 운영 지표 - 명확
+32 Application Load (insurance) | 보험금 신청 처리 물량 관리는 실제 보험 운영 지표 - 명확
+33 Aquarium Brightness (travel_tourism) | 수조 조명 밝기 제어는 실제 수족관 운영 항목 - 명확
+34 Aquarium Compatibility (travel_tourism) | 어종 혼영 호환성 조회는 실제 수족관 관리 수요 - 명확
+35 Aquarium Frequency (travel_tourism) | 수조 급이·관리 주기 관리는 실제 수족관 운영 항목 - 명확
+36 Aquarium Load (travel_tourism) | 수조 생물 수용 부하 관리로 추론 가능
+37 Aquarium Temperature (travel_tourism) | 수조 온도 모니터링은 실제 수족관 운영 항목 - 명확
+38 Aquarium Wattage (travel_tourism) | 수조 장비 전력 관리는 실제 수족관 운영 항목 - 명확
+39 Arbitration Frequency (insurance) | 분쟁 발생 빈도 추적은 실제 보험 운영 지표 - 명확
+40 Arbitration Load (insurance) | 분쟁 중재 처리 물량 관리는 실제 보험 운영 지표 - 명확
+41 Assignment Frequency (insurance) | 사고 배정 발생 빈도 추적은 실제 보험 운영 지표 - 명확
+42 Assignment Load (insurance) | 사고 처리 배정 물량 관리는 실제 보험 운영 지표 - 명확
+43 Attendee Load (events) | 행사 참가자 등록 물량 관리는 실제 행사 운영 지표 - 명확
+44 Attic Temperature (property_management_services) | 다락방 온도 모니터링은 실제 주택 단열·에너지 정비 항목 - 명확
+45 Audience Frequency (marketing) | 오디언스 노출 빈도 관리는 실제 광고 운영 지표 - 명확
+46 Babysitter Compatibility (childcare) | 베이비시터-가정 적합성 매칭으로 추론 가능
+47 Babysitter Load (childcare) | 보육 인력 배치 비율 관리는 실제 돌봄 규제 지표 - 명확
+48 Backwash Frequency (pool_maintenance_services) | 여과기 역세척 주기 관리는 실제 수영장 정비 항목 - 명확
+49 Backwash Pressure (pool_maintenance_services) | 여과기 역세척 압력 모니터링은 실제 수영장 정비 항목 - 명확
+50 Banquet Load (hospitality) | 연회 준비 부하·인원 계산은 실제 케이터링 운영 업무 - 명확
+51 Basement Temperature (property_management_services) | 지하실 온도 모니터링은 실제 주택 습기·에너지 정비 항목 - 명확
+52 Batch Frequency (manufacturing) | 배치 생산 주기 추적은 실제 제조 운영 지표 - 명확
+53 Battery Compatibility (automotive) | 배터리-차량 모델 호환성 조회는 실제 부품 적합성 업무 - 명확
+54 Battery Depth (automotive) | 배터리 방전 깊이(DOD) 관리는 실제 EV 운영 지표 - 명확
+55 Battery Frequency (automotive) | EV 충전 패턴 빈도 분석은 실제 차량 운영 지표 - 명확
+56 Battery Load (automotive) | 배터리 부하 모니터링은 실제 BMS 운영 지표 - 명확
+57 Battery Temperature (automotive) | 배터리 온도 모니터링은 실제 EV 안전 운영 항목 - 명확
+58 Battery Voltage (automotive) | 배터리 전압 모니터링은 실제 BMS 운영 지표 - 명확
+59 Battery Wattage (automotive) | 배터리 충전 출력 모니터링은 실제 BMS 운영 지표 - 명확
+60 Bike Frequency (property_management_services) | 자전거 보관소 이용 빈도 추적은 실제 시설 운영 지표 - 명확
+61 Bike Load (property_management_services) | 자전거 보관소 수용 물량 관리는 실제 시설 운영 항목 - 명확
+62 Bilingual Depth (interpreter_translation_services) | 이중언어 능력 수준 평가는 실제 통번역 인력 관리 수요 - 명확
+63 Bilingual Load (interpreter_translation_services) | 통역·번역 처리 물량 관리는 실제 언어서비스 운영 지표 - 명확
+64 Boarding Frequency (veterinary) | 정기 위탁 이용 주기 관리는 실제 반려동물 케어 항목 - 명확
+65 Boarding Load (veterinary) | 위탁 수용 물량 관리는 실제 애견 호텔 운영 지표 - 명확
+66 Brake Compatibility (automotive) | 브레이크 부품 호환 조회는 실제 정비 참조 - 명확
+67 Brake Frequency (automotive) | 급제동 횟수 추적은 실제 차량 텔레매틱스 지표 - 명확
+68 Brake Pressure (automotive) | 제동 유압 압력 모니터링은 실제 차량 텔레매틱스 항목 - 명확
+69 Brake Temperature (automotive) | 브레이크 과열 감시는 실제 차량 텔레매틱스 항목 - 명확
+70 Breach Compatibility (cybersecurity) | 용접 품질 검사 관리는 실제 제조 QA 업무 - 명확
+71 Breathing Depth (healthcare) | 호흡 깊이(호흡량) 추적은 실제 호흡기 건강 관리 항목 - 명확
+72 Breathing Frequency (healthcare) | 호흡수 추적은 실제 호흡기 건강 관리 항목 - 명확
+73 Buffet Compatibility (hospitality) | 알레르기·식단 제한 호환 확인은 실제 외식 운영 항목 - 명확
+74 Buffet Expense (hospitality) | 뷔페 식자재 비용 추적은 실제 외식 경영 항목 - 명확
+75 Buffet Inventory (hospitality) | 뷔페 식자재 재고 관리는 실제 외식 운영 항목 - 명확
+76 Buffet Load (hospitality) | 뷔페 수용·배식 부하 관리는 실제 외식 운영 지표 - 명확
+77 Buffet Locator (hospitality) | 뷔페 식당 검색은 실제 외식 소비자 수요 - 명확
+78 Buffet Predictor (hospitality) | 뷔페 수요 예측은 실제 식자재 낭비 절감 카테고리 - 명확
+79 Buffet Review (hospitality) | 외식 업소 리뷰 평판 관리 도구로 추론 가능
+80 Buffet Temperature (hospitality) | 뷔페 보온 온도 모니터링은 실제 HACCP 위생 항목 - 명확
+81 Buffet Tracker (hospitality) | 뷔페 식재료 소진·보충 추적은 실제 외식 운영 항목 - 명확
+82 Buffet Warranty (hospitality) | 시제품 인증·컴플라이언스 관리로 명확
+83 Buyer Frequency (real_estate) | 매수 상담 유입 빈도 추적은 실제 부동산 영업 지표 - 명확
+84 Cage Load (veterinary) | 입원 케이지 수용 부하 관리는 실제 동물병원 운영 지표 - 명확
+85 Cage Temperature (veterinary) | 사육 케이지 온도 모니터링은 실제 동물병원 운영 항목 - 명확
+86 Callback Load (customer_support) | 콜백 처리 대기 물량 관리는 실제 콜센터 운영 지표 - 명확
+87 Camera Compatibility (property_management_services) | CCTV 기기·시스템 호환 조회로 추론 가능
+88 Camera Load (property_management_services) | CCTV 영상 관제 부하 관리는 실제 시설 보안 운영 지표 - 명확
+89 Career Compatibility (recruiting) | 직무-후보 적합성 매칭으로 추론 가능
+90 Carpool Agreement (transportation) | 카풀 약정·규칙 관리로 추론 가능
+91 Carpool Appointment (transportation) | 카풀 동승 약속 예약은 실제 카풀 서비스 기능 - 명확
+92 Carpool Availability (transportation) | 카풀 동승 자리 가용 조회는 실제 카풀 서비스 기능 - 명확
+93 Carpool Certification (transportation) | 카풀 운전자 신원 인증은 실제 카풀 서비스 기능 - 명확
+94 Carpool Eligibility (transportation) | 카풀 차선(HOV) 자격 확인은 실제 소비자 수요 - 명확
+95 Carpool Expense (transportation) | 카풀 연료·운행 비용 관리는 실제 카풀 운영 수요 - 명확
+96 Carpool Invoice (transportation) | 연료비 분담 청구 관리는 실제 카풀 소비자 수요 - 명확
+97 Carpool Match (transportation) | 카풀 매칭은 실제 카풀 서비스 핵심 기능 - 명확
+98 Carpool Quote (transportation) | 동승 비용 견적은 실제 카풀 소비자 수요 - 명확
+99 Carpool Record (transportation) | 카풀 운행 기록 관리로 추론 가능
+100 Carpool Workshop (transportation) | 네트워크 보호·이상 차단 도구로 추론 가능
+101 Cart Predictor (retail_ecommerce) | 장바구니 구매 예측은 실제 이커머스 분석 카테고리 - 명확
+102 Cart Tracker (retail_ecommerce) | 장바구니 담기·이탈 추적은 실제 전자상거래 지표 - 명확
+103 Cart Warranty (retail_ecommerce) | 단체 뷔페 예약금 관리로 추론 가능
+104 Cavity Depth (dental) | 치과 차트 충치 등급 기록으로 추론 가능
+105 Cavity Frequency (dental) | 충치 발생 빈도 추적은 실제 치과 진료 지표 - 명확
+106 Certificate Load (insurance) | 보험증권 발급 처리 물량 관리는 실제 보험 운영 지표 - 명확
+107 Checklist Frequency (cleaning_services) | 청소 점검 주기 관리는 실제 시설 위생 운영 항목 - 명확
+108 Checkout Compatibility (retail_ecommerce) | 결제수단 호환 확인은 실제 전자상거래 참조 - 명확
+109 Checkout Frequency (retail_ecommerce) | 구매 완료 빈도 분석은 실제 전자상거래 지표 - 명확
+110 Checkout Load (retail_ecommerce) | 체크아웃 처리 물량 관리는 실제 전자상거래 운영 지표 - 명확
+111 Chef Load (food_service) | 주방 조리 물량 관리는 실제 외식 운영 지표 - 명확
+112 Chore Load (childcare) | 가사 업무 물량 관리는 실제 가사서비스 운영 지표 - 명확
+113 Clearance Alert (retail_ecommerce) | 세일 시작·가격 하락 알림은 실제 소비자 쇼핑 수요 - 명확
+114 Clearance Beacon (retail_ecommerce) | 매장 근접 할인 알림 비콘으로 추론 가능
+115 Clearance Compass (retail_ecommerce) | 클리어런스 상품 탐색 나침반으로 추론 가능
+116 Clearance Finder (retail_ecommerce) | 세일·할인 상품 검색은 실제 소비자 쇼핑 수요 - 명확
+117 Clearance History (retail_ecommerce) | 세일 가격 이력 조회는 실제 쇼핑 소비자 수요 - 명확
+118 Clearance Hub (retail_ecommerce) | 스마트폰 보안 볼트는 실제 카테고리 - 명확
+119 Clearance Map (retail_ecommerce) | 세일 매장 위치 지도로 추론 가능
+120 Clearance Monitor (retail_ecommerce) | 세일·가격 하락 모니터링은 실제 소비자 쇼핑 수요 - 명확
+121 Clearance Planner (retail_ecommerce) | 세일 예산·일정 계획은 실제 소비자 쇼핑 수요 - 명확
+122 Clearance Rate (retail_ecommerce) | 세일 할인율 조회는 실제 쇼핑 소비자 수요 - 명확
+123 Client Frequency (cleaning_services) | 고객별 방문 빈도 관리는 실제 청소 운영 지표 - 명확
+124 Client Load (cleaning_services) | 청소 고객 배정 부하 관리는 실제 청소 운영 지표 - 명확
+125 Cloud Agreement (it_devops) | 클라우드 서비스 계약·SLA 관리로 추론 가능
+126 Cloud Appointment (it_devops) | 클라우드 도입 상담 예약 관리로 추론 가능
+127 Cloud Authorization (it_devops) | 클라우드 접근 권한 관리(IAM)는 실제 보안 운영 - 명확
+128 Cloud Availability (it_devops) | 클라우드 서비스 가용성 추적은 실제 운영 지표 - 명확
+129 Cloud Certification (it_devops) | 클라우드 자격증 준비 관리로 추론 가능
+130 Cloud Clock (it_devops) | 클라우드 시간 동기화는 실제 IT 운영 수요 - 명확
+131 Cloud Compatibility (it_devops) | 클라우드 이전 호환 진단은 실제 IT 도입 수요 - 명확
+132 Cloud Diagnostic (it_devops) | 클라우드 인프라 진단은 실제 DevOps 카테고리 - 명확
+133 Cloud Expense (it_devops) | 클라우드 비용 관리는 실제 DevOps 운영 수요 - 명확
+134 Cloud Forecast (it_devops) | 클라우드 비용·용량 예측은 실제 FinOps 카테고리 - 명확
+135 Cloud Inventory (it_devops) | 클라우드 자산·리소스 인벤토리는 실제 DevOps 운영 수요 - 명확
+136 Cloud Invoice (it_devops) | 클라우드 사용료 청구서 관리로 추론 가능
+137 Cloud Load (it_devops) | 클라우드 부하 모니터링은 실제 IT 인프라 운영 지표 - 명확
+138 Cloud Monitor (it_devops) | 클라우드 상태 감시는 실제 IT 운영 항목 - 명확
+139 Cloud Ping (it_devops) | 클라우드 지연 시간 측정 모니터링은 실제 운영 지표 - 명확
+140 Cloud Predictor (it_devops) | 클라우드 비용 예측은 실제 DevOps 운영 수요 - 명확
+141 Cloud Progress (it_devops) | 클라우드 이전 진행 상황 추적으로 추론 가능
+142 Cloud Proposal (it_devops) | 클라우드 이전·도입 제안서 작성 도구로 추론 가능
+143 Cloud Quote (it_devops) | 클라우드 비용 견적은 실제 구매 수요 - 명확
+144 Cloud Renewal (it_devops) | 클라우드 구독 갱신 관리로 추론 가능
+145 Cloud Stage (it_devops) | 러닝 운동 기록 관리 도구로 추론 가능
+146 Cloud Temperature (it_devops) | 데이터센터·서버 온도 모니터링은 실제 IT 인프라 운영 항목 - 명확
+147 Cloud Template (it_devops) | 클라우드 인프라 템플릿(IaC) 관리로 추론 가능
+148 Cloud Type (it_devops) | 클라우드 모델 유형 비교 조회는 실제 IT 도입 참조 - 명확
+149 Cloud Verification (it_devops) | 클라우드 설정·배포 검증은 실제 DevOps 운영 항목 - 명확
+150 Cloud Warranty (it_devops) | 클라우드 SLA·서비스 보증 관리로 추론 가능
+151 Column Frequency (media_publishing) | 칼럼 연재 빈도 관리는 실제 출판 운영 지표 - 명확
+152 Commute Distance (transportation) | 통근 거리 기록·수당 계산으로 추론 가능
+153 Commute Time (transportation) | 통근 시간 기록·수당 계산은 실제 복리후생 항목 - 명확
+154 Commute Tracker (transportation) | 통근 기록 추적은 실제 복리후생 항목 - 명확
+155 Compensation Frequency (insurance) | 클레임 발생 빈도 추적은 실제 보험 운영 지표 - 명확
+156 Compensation Load (insurance) | 보상 처리 물량 관리는 실제 보험 운영 지표 - 명확
+157 Compost Frequency (property_management_services) | 퇴비 수거 주기 관리는 실제 도시 퇴비화 운영 항목 - 명확
+158 Compost Load (property_management_services) | 퇴비 수거·처리 물량 관리는 실제 도시 퇴비화 운영 지표 - 명확
+159 Compost Temperature (property_management_services) | 퇴비 발효 온도 모니터링은 실제 퇴비화 운영 항목 - 명확
+160 Condenser Frequency (hvac_services) | 콘덴서 가동 빈도 추적은 실제 냉난방 정비 항목 - 명확
+161 Condenser Pressure (hvac_services) | 콘덴서 압력 모니터링은 실제 냉난방 정비 항목 - 명확
+162 Condenser Temperature (hvac_services) | 콘덴서 온도 모니터링은 실제 냉난방 정비 항목 - 명확
+163 Courier Load (logistics) | 기사 배송 물량 관리는 실제 물류 운영 지표 - 명확
+164 Crate Load (moving_relocation_services) | 이사 짐 물량·적재 산출은 실제 이사 운영 업무 - 명확
+165 Cremation Agreement (funeral_services) | 사전 화장 계약 관리는 실제 장례 산업 계약 - 명확
+166 Cremation Appointment (funeral_services) | 화장 일정 예약 관리는 실제 장례 운영 항목 - 명확
+167 Cremation Authorization (funeral_services) | 화장 동의서·허가 관리는 실제 장례 절차 - 명확
+168 Cremation Availability (funeral_services) | 화장 슬롯 가용 조회는 실제 장례 운영 수요 - 명확
+169 Cremation Certification (funeral_services) | 화장 확인서·장례 서류 발급 관리는 실제 장례 행정 - 명확
+170 Cremation Claim (funeral_services) | 상조금·장례 보험 청구 처리는 실제 장례 운영 항목 - 명확
+171 Cremation Deposit (funeral_services) | 사전 장례 계약 예약금 관리는 실제 장례 산업 계약 - 명확
+172 Cremation Expense (funeral_services) | 장례 비용 관리는 실제 장례 경영 항목 - 명확
+173 Cremation Inventory (funeral_services) | 장례 물품 재고 관리는 실제 장례 운영 항목 - 명확
+174 Cremation Invoice (funeral_services) | 장례 비용 청구서 관리는 실제 장례 운영 업무 - 명확
+175 Cremation Limit (funeral_services) | 화장 시설 수용 한도 관리는 실제 장례 운영 항목 - 명확
+176 Cremation Load (funeral_services) | 화장 처리 물량 관리는 실제 장례 시설 운영 지표 - 명확
+177 Cremation Lookup (funeral_services) | 화장·장례 서비스 조회 도구로 추론 가능
+178 Cremation Planner (funeral_services) | 화장 일정 계획은 실제 장례 운영 수요 - 명확
+179 Cremation Quote (funeral_services) | 장례 비용 견적은 실제 소비자 수요 - 명확
+180 Cremation Temperature (funeral_services) | 화장로 온도 모니터링은 실제 장례 시설 정비 항목 - 명확
+181 Cremation Volume (funeral_services) | 마리나 계류권·출입 인가 관리로 추론 가능
+182 Crew Compatibility (aviation) | 승무 자격-노선 적합성 매칭은 실제 항공 운영 업무 - 명확
+183 Crew Frequency (aviation) | 승무 교대 주기 관리는 실제 항공 스케줄링 항목 - 명확
+184 Crew Load (aviation) | 승무 인력 배치 부하 관리는 실제 항공 운영 지표 - 명확
+185 Crew Temperature (aviation) | 채굴 장비 압력 텔레메트리는 실제 예지 정비 항목 - 명확
+186 Crew Width (aviation) | 채굴 장비 온도 텔레메트리는 실제 예지 정비 항목 - 명확
+187 Custodian Frequency (property_management_services) | 시설 관리 작업 빈도 추적은 실제 시설 운영 지표 - 명확
+188 Custodian Load (property_management_services) | 시설 관리 작업 부하 관리는 실제 시설 운영 지표 - 명확
+189 Damper Frequency (hvac_services) | 댐퍼 개폐 사이클 추적은 실제 HVAC 장비 정비 항목 - 명확
+190 Database Check (it_devops) | 데이터베이스 상태 점검은 실제 IT 운영 항목 - 명확
+191 Database Compatibility (it_devops) | 데이터베이스 버전·마이그레이션 호환성 확인은 실제 DevOps - 명확
+192 Database Expense (it_devops) | 데이터베이스 지출 추적은 실제 FinOps 카테고리 - 명확
+193 Database Flow (it_devops) | 데이터 흐름(ETL) 관리·모니터링은 실제 DevOps 카테고리 - 명확
+194 Database Frequency (it_devops) | 쿼리 발생 빈도 분석은 실제 DBA 운영 지표 - 명확
+195 Database History (it_devops) | 데이터베이스 변경 이력 조회는 실제 IT 운영 항목 - 명확
+196 Database Inventory (it_devops) | 데이터베이스 자산 인벤토리는 실제 데이터 거버넌스 업무 - 명확
+197 Database Load (it_devops) | 데이터베이스 부하 모니터링은 실제 운영 지표 - 명확
+198 Database Monitor (it_devops) | 데이터베이스 성능 모니터링은 실제 IT 운영 수요 - 명확
+199 Database Onboarding (it_devops) | 신규 데이터 소스 온보딩 관리는 실제 데이터 엔지니어링 업무 - 명확
+200 Database Planner (it_devops) | 데이터베이스 용량·증설 계획은 실제 IT 운영 수요 - 명확
+201 Database Review (it_devops) | 데이터베이스 구성·성능 리뷰 도구로 추론 가능 - 실제 검색 쿼리 패턴
+202 Database Seal (it_devops) | 요가 용품 소매 재고 관리로 추론 가능
+203 Database Status (it_devops) | 데이터베이스 상태 조회는 실제 IT 운영 항목 - 명확
+204 Database Temperature (it_devops) | 서버실·데이터센터 온도 모니터링은 실제 인프라 운영 항목 - 명확
+205 Database Tracker (it_devops) | 데이터베이스 변경 추적은 실제 DevOps 카테고리 - 명확
+206 Daycare Frequency (childcare) | 보육 이용 빈도 추적은 실제 보육 운영 지표 - 명확
+207 Daycare Load (childcare) | 아동 수용 인원 부하 관리는 실제 보육 운영 지표 - 명확
+208 Daycare Temperature (childcare) | 보육 시설 온도 모니터링은 실제 보육 컴플라이언스 항목 - 명확
+209 Declarations Load (insurance) | 보험 신고 처리 물량 관리는 실제 보험 운영 지표 - 명확
+210 Deployment Frequency (it_devops) | 배포 횟수 추적은 실제 개발 운영 지표 - 명확
+211 Deposition Load (legal) | 증언 취득 사건 물량 관리는 실제 법률 운영 지표 - 명확
+212 Detailing Frequency (car_wash_detailing_services) | 세차 발생 빈도 추적은 실제 세차 운영 지표 - 명확
+213 Detailing Load (car_wash_detailing_services) | 세차 접수 물량 관리는 실제 세차 운영 지표 - 명확
+214 Diagnosis Frequency (healthcare) | 검사·진단 발생 빈도 추적은 실제 의료 운영 지표 - 명확
+215 Diagnosis Load (healthcare) | 진단 업무 부하 관리는 실제 의료 운영 지표 - 명확
+216 Disclosure Frequency (insurance) | 공시 발생 빈도 추적은 실제 컴플라이언스 운영 지표 - 명확
+217 Disclosure Load (insurance) | 공시 처리 물량 관리는 실제 컴플라이언스 운영 지표 - 명확
+218 Distribution Frequency (media_publishing) | 콘텐츠 발행 빈도 관리는 실제 편집 운영 항목 - 명확
+219 Dividend Load (finance) | 배당 지급 처리 물량은 실제 금융 운영 지표 - 명확
+220 Docket Load (legal) | 사건 처리 물량 관리는 실제 법률 운영 지표 - 명확
+221 Doctor Frequency (healthcare) | 진료 발생 빈도 추적은 실제 병원 운영 지표 - 명확
+222 Doctor Load (healthcare) | 의사 진료 배정 부하 관리는 실제 병원 운영 지표 - 명확
+223 Donation Agreement (nonprofit) | 기부 약정(플렛지) 관리는 실제 모금 운영 항목 - 명확
+224 Donation Appointment (nonprofit) | 기부 상담·헌혈 예약 관리는 실제 모금 운영 항목 - 명확
+225 Donation Authorization (nonprofit) | 기부 결제 승인 관리로 추론 가능
+226 Donation Case (nonprofit) | 기부 사연·케이스 관리는 실제 모금 CRM 운영 항목 - 명확
+227 Donation Certification (nonprofit) | 기부 확인서 발급은 실제 모금 운영 항목 - 명확
+228 Donation Claim (nonprofit) | 기부금 세액공제 청구 관리는 실제 기부자·비영리 수요 - 명확
+229 Donation Deadline (nonprofit) | 캠페인·모금 마감 관리로 추론 가능
+230 Donation Eligibility (nonprofit) | 기부금 세액공제 자격 확인은 실제 모금 운영 수요 - 명확
+231 Donation Forecast (nonprofit) | 모금액 예측 분석은 실제 비영리 운영 지표 - 명확
+232 Donation Guardian (nonprofit) | 기부 사기 방지·자금 감시 도구로 추론 가능
+233 Donation Inventory (nonprofit) | 기부 물품 재고 관리는 실제 비영리 물류 운영 수요 - 명확
+234 Donation Invoice (nonprofit) | 기부금 영수증 발급은 실제 모금 운영 항목 - 명확
+235 Donation Limit (nonprofit) | 기부금 세액공제 한도 조회는 실제 기부자 수요 - 명확
+236 Donation Load (nonprofit) | 기부 접수 물량 관리는 실제 비영리 운영 지표 - 명확
+237 Donation Match (nonprofit) | 기업 매칭 기부 관리는 실제 모금 운영 항목 - 명확
+238 Donation Progress (nonprofit) | 캠페인 목표 진행 추적은 실제 모금 운영 항목 - 명확
+239 Donation Record (nonprofit) | 기부 이력 대장 관리로 추론 가능
+240 Donation Renewal (nonprofit) | 정기 후원 갱신 관리는 실제 모금 운영 항목 - 명확
+241 Donation Template (nonprofit) | 기부 영수증 양식 관리로 추론 가능
+242 Donation Timer (nonprofit) | 카풀 매칭 도우미로 추론 가능
+243 Donation Tracker (nonprofit) | 기부 내역·사용처 추적은 실제 기부자·비영리 수요 - 명확
+244 Donation Trend (nonprofit) | 모금 추세 분석은 실제 비영리 운영 지표 - 명확
+245 Donation Volume (nonprofit) | 기부 처리 물량 관리는 실제 비영리 운영 지표 - 명확
+246 Drywall Deposit (construction) | 석고보드 시공 계약금 수납 관리로 추론 가능
+247 Drywall Expense (construction) | 건자재·공사비 비용 추적은 실제 건설 경영 항목 - 명확
+248 Drywall Inventory (construction) | 석고보드 자재 재고 관리는 실제 건설 자재 업무 - 명확
+249 Drywall Load (construction) | 석고보드 시공 작업 물량 관리는 실제 건설 운영 지표 - 명확
+250 Drywall Planner (construction) | 석고보드 시공 일정 계획은 실제 건설 운영 수요 - 명확
+251 Drywall Renewal (construction) | B2B 장바구니 견적 변환은 실제 이커머스 기능 - 명확
+252 Drywall Tracker (construction) | 석고보드 시공 진행 추적은 실제 건설 운영 항목 - 명확
+253 Drywall Verification (construction) | 석고보드 시공 품질 검수는 실제 건설 QC 업무 - 명확
+254 Dumbbell Counter (fitness_wellness) | 덤벨 운동 반복 횟수 카운터는 실제 홈트레이닝 수요 - 명확
+255 Dumbbell Finder (fitness_wellness) | 헬스장·기구 검색은 실제 피트니스 소비자 수요 - 명확
+256 Dumbbell Planner (fitness_wellness) | 운동 계획 도구로 추론 가능
+257 Dumbbell Scheduler (fitness_wellness) | 운동 일정 관리 도구로 추론 가능
+258 Editing Load (photography_services) | 보정 작업 물량 관리는 실제 사진 스튜디오 운영 지표 - 명확
+259 Election Frequency (government) | 선거 실시 주기 관리는 실제 선거 행정 항목 - 명확
+260 Election Load (government) | 선거 업무 처리 물량 관리는 실제 선거 행정 지표 - 명확
+261 Elevator Frequency (property_management_services) | 승강기 운행 빈도 추적은 실제 시설 운영 지표 - 명확
+262 Emergency Frequency (healthcare) | 응급 내원 빈도 추적은 실제 의료 운영 지표 - 명확
+263 Emergency Load (healthcare) | 응급실 혼잡 부하 관리는 실제 병원 운영 지표 - 명확
+264 Emission Load (automotive) | 차량 배출량 집계 관리는 실제 차량 운영·규제 대응 수요 - 명확
+265 Emission Temperature (automotive) | 배기가스 온도 모니터링은 실제 차량 정비 항목 - 명확
+266 Endorsement Frequency (insurance) | 특약 발행 빈도 추적은 실제 보험 운영 지표 - 명확
+267 Endorsement Load (insurance) | 특약 처리 물량 관리는 실제 보험 운영 지표 - 명확
+268 Endpoint Frequency (cybersecurity) | 단말 보안 점검 빈도 추적은 실제 보안 운영 지표 - 명확
+269 Endpoint Load (cybersecurity) | 단말 보안 점검 물량 관리는 실제 보안 운영 지표 - 명확
+270 Engagement Depth (marketing) | 고객 참여 깊이 측정은 실제 마케팅 운영 지표 - 명확
+271 Equipment Compatibility (mining) | 채굴 장비 부품 호환성 조회는 실제 정비 업무 - 명확
+272 Equipment Frequency (mining) | 채굴 장비 가동 빈도는 실제 예지 정비 지표 - 명확
+273 Equipment Load (mining) | 채굴 장비 가동 부하 텔레메트리는 실제 예지 정비 항목 - 명확
+274 Equipment Temperature (mining) | 냉매 압력 모니터링은 실제 HVAC 진단 지표 - 명확
+275 Equipment Voltage (mining) | 채굴 장비 전압 텔레메트리는 실제 예지 정비 항목 - 명확
+276 Equipment Wattage (mining) | 채굴 장비 전력 텔레메트리는 실제 예지 정비 항목 - 명확
+277 Equipment Width (mining) | 냉매 온도 원격 모니터링은 실제 HVAC 장비 운영 항목 - 명확
+278 Escalation Depth (customer_support) | 에스컬레이션 단계 분석은 실제 고객지원 운영 지표 - 명확
+279 Evaporator Compatibility (hvac_services) | 냉매-증발기 호환성 조회는 실제 냉동 정비 참조 업무 - 명확
+280 Evaporator Frequency (hvac_services) | 증발기 제상 주기 관리는 실제 냉동 정비 항목 - 명확
+281 Evaporator Load (hvac_services) | 증발기 냉방 부하 계산은 실제 HVAC 설계 업무 - 명확
+282 Evaporator Pressure (hvac_services) | 증발기 압력 모니터링은 실제 냉동 진단 지표 - 명확
+283 Evaporator Temperature (hvac_services) | 증발기 온도 모니터링은 실제 냉동·HVAC 진단 지표 - 명확
+284 Evaporator Wattage (hvac_services) | 증발기 소비 전력 텔레메트리는 실제 냉동 정비 항목 - 명확
+285 Excursion Frequency (travel_tourism) | 투어 발생 빈도 추적은 실제 여행 운영 지표 - 명확
+286 Excursion Load (travel_tourism) | 투어 예약 처리 물량 관리는 실제 여행 운영 지표 - 명확
+287 Exhibitor Frequency (events) | 행사 참가 발생 빈도 추적은 실제 이벤트 운영 지표 - 명확
+288 Exhibitor Load (events) | 행사 참가 운영 물량 관리는 실제 이벤트 운영 지표 - 명확
+289 Extraction Frequency (dental) | 발치 발생 빈도 추적은 실제 치과 진료 지표 - 명확
+290 Extraction Load (dental) | 발치 처리 물량 관리는 실제 치과 운영 지표 - 명확
+291 Feedback Frequency (customer_support) | 고객 피드백 발생 빈도 추적은 실제 CX 운영 지표 - 명확
+292 Feedback Load (customer_support) | 고객 피드백 처리 물량 관리는 실제 CX 운영 지표 - 명확
+293 Ferry Alert (maritime_shipping) | 페리 출발·지연 알림은 실제 여객 이용 수요 - 명확
+294 Ferry Journal (maritime_shipping) | 운항 일지 관리는 실제 해운 행정 항목 - 명확
+295 Ferry Ledger (maritime_shipping) | 페리 예약·운항 대장 관리로 추론 가능
+296 Ferry Monitor (maritime_shipping) | 페리 운항 현황 모니터링으로 추론 가능
+297 Ferry Ops (maritime_shipping) | 페리 운영 통합 관리로 추론 가능
+298 Ferry Planner (maritime_shipping) | 페리 여행 일정 계획 도구로 추론 가능
+299 Ferry Portal (maritime_shipping) | 페리 예약·시간표 통합 포털로 추론 가능
+300 Ferry Rate (maritime_shipping) | 페리 요금 조회는 실제 여행자 수요 - 명확
+301 Ferry Register (maritime_shipping) | 페리 예약 등록 명부 관리로 추론 가능
+302 Ferry Roster (maritime_shipping) | 승무원 배정 명부 관리는 실제 해운 행정 항목 - 명확
+303 Ferry Scheduler (maritime_shipping) | 페리 배차 스케줄 관리는 실제 운영 항목 - 명확
+304 Ferry Status (maritime_shipping) | 페리 운항 상태 조회는 실제 여행자 수요 - 명확
+305 Ferry Ticket (maritime_shipping) | 페리 승선권 예매는 실제 여행자 수요 - 명확
+306 Ferry Timeline (maritime_shipping) | 페리 운항 시간표 조회는 실제 여행자 수요 - 명확
+307 Filing Frequency (legal) | 사건 접수 빈도 추적은 실제 법무 운영 지표 - 명확
+308 Filing Load (legal) | 사건 접수 처리 물량 관리는 실제 법무 운영 지표 - 명확
+309 Filter Compatibility (pool_maintenance_services) | 여과기·펌프 장비 호환 조회는 실제 수영장 정비 참조 - 명확
+310 Filter Frequency (pool_maintenance_services) | 여과기 역세·교체 주기 추적은 실제 수영장 정비 항목 - 명확
+311 Filter Pressure (pool_maintenance_services) | 여과기 압력 모니터링은 실제 시설 정비 항목 - 명확
+312 Filter Temperature (pool_maintenance_services) | 수영장 수온·가열 관리는 실제 시설 운영 항목 - 명확
+313 Fitness Load (property_management_services) | 헬스장 이용 물량 관리는 실제 시설 운영 지표 - 명확
+314 Fitness Temperature (property_management_services) | 헬스장 온도 모니터링은 실제 시설 운영 항목 - 명확
+315 Flue Pressure (hvac_services) | 굴뚝 통풍 압력 모니터링은 실제 난방 정비 항목 - 명확
+316 Flue Temperature (hvac_services) | 굴뚝 배기 온도 모니터링은 실제 난방 효율 정비 항목 - 명확
+317 Fluency Frequency (interpreter_translation_services) | 통역 배정 횟수 추적은 실제 언어 서비스 운영 지표 - 명확
+318 Fluency Load (interpreter_translation_services) | 통역 배정 물량 관리는 실제 언어 서비스 운영 지표 - 명확
+319 Fraud Frequency (insurance) | 보험 사기 발생 빈도 추적은 실제 리스크 운영 지표 - 명확
+320 Fuel Compatibility (transportation) | 차량-연료 호환성 조회는 실제 차량 운영 참조 - 명확
+321 Fuel Frequency (transportation) | 차량 급유·연료 보충 주기 추적은 실제 차량 운영 항목 - 명확
+322 Funnel Depth (marketing) | 전환 퍼널 단계 분석은 실제 마케팅 분석 카테고리 - 명확
+323 Funnel Frequency (marketing) | 퍼널 전환 발생 빈도 추적은 실제 마케팅 지표 - 명확
+324 Funnel Load (marketing) | 퍼널 유입 물량 관리는 실제 마케팅 운영 지표 - 명확
+325 Furnace Frequency (hvac_services) | 보일러 가동 빈도 추적은 실제 난방 정비 항목 - 명확
+326 Furnace Pressure (hvac_services) | 보일러 압력 모니터링은 실제 난방 정비 항목 - 명확
+327 Furnace Temperature (hvac_services) | 보일러 온도 모니터링은 실제 난방 정비 항목 - 명확
+328 Garage Frequency (property_management_services) | 차고문 개폐 빈도 추적은 실제 주택 정비 항목 - 명확
+329 Garage Temperature (property_management_services) | 차고 온도 모니터링은 실제 주택 공간 관리 항목 - 명확
+330 Garden Frequency (property_management_services) | 정원 관리 주기 추적은 실제 조경 운영 항목 - 명확
+331 Gasket Compatibility (pool_maintenance_services) | 수영장 장비 개스킷 호환성 조회는 실제 자재 업무 - 명확
+332 Gasket Frequency (pool_maintenance_services) | 배관 피팅 호환성 조회는 실제 자재 업무 - 명확
+333 Gate Frequency (property_management_services) | 게이트 출입 빈도 추적은 실제 시설 보안 지표 - 명확
+334 Generic Compatibility (pharmacy) | 의약품 제네릭 대체 가능성 조회는 실제 약국 참조 업무 - 명확
+335 Generic Width (pharmacy) | 실내 환기·온도 모니터링은 실제 시설 운영 항목 - 명확
+336 Grazing Frequency (agriculture) | 방목 구역 이동 빈도 추적은 실제 목축 운영 항목 - 명확
+337 Grazing Load (agriculture) | 방목 두수 부하 관리는 실제 목축 운영 항목 - 명확
+338 Greenhouse Brightness (agriculture) | 온실 광량·식물등 밝기 제어는 실제 통제 환경 농업 항목 - 명확
+339 Greenhouse Compatibility (agriculture) | 온실 시스템 부품 호환성 조회는 실제 정비 업무 - 명확
+340 Greenhouse Frequency (agriculture) | 온실 급수·환기 주기 관리는 실제 농업 운영 항목 - 명확
+341 Greenhouse Temperature (agriculture) | 온실 온도 모니터링·제어는 실제 농업 운영 항목 - 명확
+342 Greenhouse Wattage (agriculture) | 온실 조명·설비 전력 관리는 실제 통제 환경 농업 항목 - 명확
+343 Grid Compatibility (energy_utilities) | 계통연계 호환·자격 확인은 실제 에너지 운영 항목 - 명확
+344 Grid Frequency (energy_utilities) | 그리드 주파수 안정도 모니터링은 실제 에너지 운영 지표 - 명확
+345 Grid Load (energy_utilities) | 전력망 수요 부하 관리는 실제 에너지 운영 지표 - 명확
+346 Grid Temperature (energy_utilities) | 변압기·전력망 온도 모니터링은 실제 에너지 운영 항목 - 명확
+347 Grid Voltage (energy_utilities) | 전력망 전압 모니터링은 실제 에너지 운영 지표 - 명확
+348 Grid Wattage (energy_utilities) | 전력망 발전·소비 전력 관리는 실제 에너지 운영 지표 - 명확
+349 Hangar Check (aviation) | 격납고 시설 점검은 실제 항공 운영 항목 - 명확
+350 Hangar History (aviation) | 격납고 점검·사용 이력 조회는 실제 항공 운영 항목 - 명확
+351 Hangar Hub (aviation) | 격납고 운영 통합 관리 허브로 추론 가능
+352 Hangar Locator (aviation) | 격납고 위치 검색은 실제 항공 운영 참조 - 명확
+353 Hangar Map (aviation) | 기체 배치도 관리는 실제 격납고 운영 항목 - 명확
+354 Hangar Planner (aviation) | 격납고 배치·사용 계획은 실제 항공 시설 운영 수요 - 명확
+355 Hangar Status (aviation) | 격납고 사용 상태 조회는 실제 항공 운영 항목 - 명확
+356 Hangar Temperature (aviation) | 격납고 온도 모니터링은 실제 항공기 보관 운영 항목 - 명확
+357 Hangar Tracker (aviation) | 격납고 수용·항공기 보관 현황 추적으로 추론 가능
+358 Haul Frequency (moving_relocation_services) | 이사 운행 발생 빈도 추적은 실제 이사 서비스 운영 지표 - 명확
+359 Headcount Depth (hr_payroll) | 조직 보고 깊이 분석은 실제 HR 운영 지표 - 명확
+360 Headcount Frequency (hr_payroll) | 인원 변동 빈도 추적은 실제 HR 운영 지표 - 명확
+361 Headcount Load (hr_payroll) | 조직 인원 수용 부하 관리는 실제 HR 운영 지표 - 명확
+362 Headstone Check (funeral_services) | 묘비·묘지 시설 점검은 실제 묘지 관리 운영 항목 - 명확
+363 Headstone Grid (funeral_services) | 묘지 구획 배치도 관리는 실제 묘지 운영 항목 - 명확
+364 Headstone History (funeral_services) | 묘비 점검 이력 조회는 실제 묘지 관리 운영 항목 - 명확
+365 Headstone Locator (funeral_services) | 묘 위치 검색은 실제 묘지 방문자 수요 - 명확
+366 Headstone Size (funeral_services) | 패들링 거리 기록(액티비티 트래킹)으로 추론 가능
+367 Headstone Status (funeral_services) | 묘비 상태 조회는 실제 묘지 관리 운영 항목 - 명확
+368 Headstone Type (funeral_services) | 묘비 형식 선택은 실제 구매 결정 속성 - 명확
+369 Heater Frequency (pool_maintenance_services) | 수영장 히터 가동 빈도 추적은 실제 수영장 운영 항목 - 명확
+370 Heater Temperature (pool_maintenance_services) | 수영장 히터 수온 설정 관리는 실제 수영장 운영 항목 - 명확
+371 Highlight Height (photography_services) | 여과 펌프 압력 모니터링은 실제 수영장 정비 지표 - 명확
+372 Hold Depth (customer_support) | 대기열 깊이(queue depth) 분석은 실제 콜센터 운영 지표 - 명확
+373 Hold Frequency (customer_support) | 대기 발생 빈도 추적은 실제 콜센터 운영 지표 - 명확
+374 Hotel Temperature (travel_tourism) | 객실 온도 모니터링은 실제 숙박 운영 항목 - 명확
+375 Hotspot Check (telecom) | 핫스팟 연결 점검은 실제 통신 운영 항목 - 명확
+376 Hotspot Compatibility (telecom) | 핫스팟 기기 연결 호환성 조회로 추론 가능
+377 Hotspot Frequency (telecom) | 핫스팟 접속 빈도 추적은 실제 통신 운영 지표 - 명확
+378 Hotspot History (telecom) | 핫스팟 연결 이력 조회는 실제 통신 운영 항목 - 명확
+379 Hotspot Locator (telecom) | 와이파이 핫스팟 위치 검색은 실제 소비자 수요 - 명확
+380 Hotspot Map (telecom) | 공개 와이파이 핫스팟 위치 지도는 실제 소비자 수요 - 명확
+381 Hotspot Monitor (telecom) | 핫스팟 연결 상태 감시는 실제 네트워크 관리 수요 - 명확
+382 Hotspot Planner (telecom) | 와이파이 핫스팟 설치 위치 계획은 실제 네트워크 구축 수요 - 명확
+383 Hotspot Simulator (telecom) | 피싱 위험 예측은 실제 보안 카테고리 - 명확
+384 Hotspot Speed (telecom) | 핫스팟 속도 측정·모니터링으로 추론 가능
+385 Hotspot Status (telecom) | 핫스팟 연결 상태 조회는 실제 통신 운영 항목 - 명확
+386 Hotspot Tracker (telecom) | 핫스팟 사용·접속 기기 추적은 실제 통신 운영 항목 - 명확
+387 Hotspot Verification (telecom) | 피싱 훈련 시뮬레이션은 실제 보안 인식 교육 카테고리 - 명확
+388 Hotspot Wattage (telecom) | 핫스팟 기기 전력 관리로 추론 가능
+389 Housekeeping Load (hospitality) | 객실 청소 배정 물량 관리는 실제 호텔 운영 지표 - 명확
+390 Hydration Load (healthcare) | 수분 섭취량 관리는 실제 건강 관리 수요 - 명확
+391 Infant Frequency (childcare) | 수유 주기 추적은 실제 육아 카테고리 - 명확
+392 Infant Height (childcare) | 영아 성장 기록 도구로 추론 가능
+393 Infant Temperature (childcare) | 영아 체온 모니터링은 실제 육아 케어 카테고리 - 명확
+394 Inquiry Load (customer_support) | 고객 문의 접수 물량 관리는 실제 고객지원 운영 지표 - 명확
+395 Interaction Frequency (pharmacy) | 병용 경고 발생 빈도 추적은 실제 약국 운영 지표 - 명확
+396 Interaction Load (pharmacy) | 병용 상호작용 검사 물량 관리는 실제 약국 운영 지표 - 명확
+397 Intercom Compatibility (locksmith_security_services) | 인터콤 시스템 부품 호환성 조회는 실제 설치 정비 업무 - 명확
+398 Internship Frequency (education) | 인턴 모집 발생 빈도 추적은 실제 채용 운영 지표 - 명확
+399 Internship Load (education) | 실습 인원 배정 물량 관리는 실제 채용 운영 지표 - 명확
+400 Interview Frequency (recruiting) | 면접 진행 횟수 추적은 실제 채용 운영 지표 - 명확
+401 Interview Load (recruiting) | 면접 스케줄 부하 관리는 실제 채용 운영 지표 - 명확
+402 Investigation Load (insurance) | 보험 조사 사건 물량 관리는 실제 보험 운영 지표 - 명확
+403 Invoice Load (finance) | 청구서 발행 물량 관리는 실제 회계 운영 지표 - 명확
+404 Job Frequency (recruiting) | 채용 공고 발생 빈도 추적은 실제 채용 운영 지표 - 명확
+405 Job Load (recruiting) | 채용 공고 처리 물량 관리는 실제 채용 운영 지표 - 명확
+406 Jogging Frequency (healthcare) | 조깅 횟수 추적은 실제 운동 관리 수요 - 명확
+407 Kayak Check (maritime_shipping) | 카약 장비 안전 점검은 실제 대여 운영 항목 - 명확
+408 Kayak History (maritime_shipping) | 카약 대여·점검 이력 조회는 실제 대여 운영 항목 - 명확
+409 Kayak Locator (maritime_shipping) | 카약 대여소 검색은 실제 해양 레저 소비자 수요 - 명확
+410 Kayak Map (maritime_shipping) | 카약 코스 지도는 실제 레저 소비자 수요 - 명확
+411 Kayak Planner (maritime_shipping) | 카약 투어·대여 일정 계획은 실제 해양 레저 운영 수요 - 명확
+412 Kayak Status (maritime_shipping) | 카약 대여 가능 상태 조회는 실제 대여 운영 항목 - 명확
+413 Kennel Load (veterinary) | 켄넬 수용 마릿수 부하 관리는 실제 반려동물 숙소 운영 지표 - 명확
+414 Kennel Temperature (veterinary) | 켄넬 실내 온도 관리는 실제 반려동물 숙소 운영 항목 - 명확
+415 Kitchen Temperature (cleaning_services) | 상업 주방 냉장 온도 감시는 실제 HACCP 컴플라이언스 - 명확
+416 Latency Brightness (telecom) | 침해사고 발생 빈도 추적은 실제 보안 운영 지표 - 명확
+417 Laundry Temperature (property_management_services) | 세탁실 온도 모니터링은 실제 주택 공간 관리 항목 - 명확
+418 Lease Frequency (property_management_services) | 임대 계약 갱신 주기 관리는 실제 자산 운영 항목 - 명확
+419 Lease Load (property_management_services) | 임대 계약 처리 물량 관리는 실제 자산 운영 지표 - 명확
+420 Licensing Frequency (media_publishing) | 콘텐츠 라이선스 계약 발생 빈도 추적은 실제 미디어 운영 지표 - 명확
+421 Licensing Load (media_publishing) | 콘텐츠 라이선스 계약 처리 물량 관리는 실제 미디어 운영 지표 - 명확
+422 Litter Frequency (veterinary) | 모래 교체 주기 추적은 실제 반려동물 관리 항목 - 명확
+423 Livestock Temperature (agriculture) | 축사·가축 온도 모니터링은 실제 축산 운영 항목 - 명확
+424 Loading Frequency (logistics) | 상차 발생 빈도 추적은 실제 물류 운영 지표 - 명확
+425 Loading Temperature (logistics) | 냉장 화물 적재 온도 관리는 실제 콜드체인 운영 항목 - 명확
+426 Localization Load (interpreter_translation_services) | 현지화 작업 물량 관리는 실제 번역 서비스 운영 지표 - 명확
+427 Locksmith Compatibility (property_management_services) | 열쇠-자물쇠 호환성 조회는 실제 열쇠 수리 참조 업무 - 명확
+428 Locksmith Frequency (property_management_services) | 열쇠 출동 서비스 빈도 추적은 실제 현장 서비스 지표 - 명확
+429 Locksmith Load (property_management_services) | 잠금 수리 작업 물량 관리는 실제 현장 서비스 운영 지표 - 명확
+430 Mailroom Load (property_management_services) | 우편물 처리 물량 관리는 실제 건물 관리 운영 지표 - 명확
+431 Marina Account (maritime_shipping) | 계류권 임대 계정·청구 관리로 추론 가능
+432 Marina Agreement (maritime_shipping) | 마리나 계류권 계약 관리로 추론 가능
+433 Marina Appointment (maritime_shipping) | 계류권 예약 관리는 실제 마리나 운영 항목 - 명확
+434 Marina Availability (maritime_shipping) | 계류권 가용 조회는 실제 보트 이용자 수요 - 명확
+435 Marina Expense (maritime_shipping) | 마리나 운영 비용 추적은 실제 마리나 경영 항목 - 명확
+436 Marina Inventory (maritime_shipping) | 계류 슬립 가용 재고 관리는 실제 마리나 운영 항목 - 명확
+437 Marina Limit (maritime_shipping) | 계류 수용 한도 관리는 실제 마리나 운영 항목 - 명확
+438 Marina Locator (maritime_shipping) | 마리나 위치 검색은 실제 보트 이용자 수요 - 명확
+439 Marina Lookup (maritime_shipping) | 마리나·계류권 검색 조회로 추론 가능
+440 Marina Map (maritime_shipping) | 마리나 선석 배치 지도는 실제 항만 운영 참조 - 명확
+441 Marina Monitor (maritime_shipping) | 마리나 정박 상태 감시는 실제 마리나 운영 항목 - 명확
+442 Marina Planner (maritime_shipping) | 마리나 정박 일정 계획은 실제 마리나 운영 수요 - 명확
+443 Marina Quote (maritime_shipping) | 계류권 임대 견적은 실제 마리나 판매 업무 - 명확
+444 Marina Renewal (maritime_shipping) | 계류권 계약 갱신 관리는 실제 마리나 운영 항목 - 명확
+445 Material Compatibility (construction) | 건축 자재 상호 호환 조회는 실제 시공 참조 - 명확
+446 Medication Compatibility (senior_care) | 약물 병용 호환(상호작용) 조회는 실제 요양·의료 수요 - 명확
+447 Medication Frequency (senior_care) | 투약 빈도·복용 일정 관리는 실제 요양 운영 항목 - 명확
+448 Medication Load (senior_care) | 투약 관리 물량은 실제 요양 운영 지표 - 명확
+449 Medication Temperature (senior_care) | 의약품 보관 온도 관리는 실제 요양 운영 항목 - 명확
+450 Medicine Compatibility (pharmacy) | 약물 병용 호환성 확인은 실제 약국 핵심 업무 - 명확
+451 Medicine Frequency (pharmacy) | 복약 주기 관리로 추론 가능
+452 Medicine Temperature (pharmacy) | 의약품 보관 온도 감시는 실제 파마 콜드체인 운영 항목 - 명확
+453 Meditation Frequency (healthcare) | 명상 세션 횟수 추적은 실제 마음챙김 관리 수요 - 명확
+454 Meeting Load (government) | 회의 부하 관리는 실제 조직 운영 수요 - 명확
+455 Menu Frequency (food_service) | 메뉴 교체 주기 관리는 실제 외식 운영 항목 - 명확
+456 Menu Load (food_service) | 메뉴별 주문 처리 물량 관리는 실제 외식 운영 지표 - 명확
+457 Microchip Compatibility (veterinary) | 마이크로칩-스캐너 호환 조회는 실제 동물병원 참조 - 명확
+458 Monitoring Frequency (it_devops) | 모니터링 알림 발생 빈도 추적은 실제 IT 운영 지표 - 명확
+459 Monitoring Load (it_devops) | 모니터링 알림 처리 부하 관리는 실제 IT 운영 지표 - 명확
+460 Mortgage Load (real_estate) | 대출 처리 물량 관리는 실제 대출 운영 지표 - 명확
+461 Mosquito Appointment (pest_control) | 방제 방문 예약 관리는 실제 서비스 스케줄링 - 명확
+462 Mosquito Expense (pest_control) | 방제 비용 관리는 실제 방제 경영 항목 - 명확
+463 Mosquito Inventory (pest_control) | 방제 약품·장비 재고 관리는 실제 방제 운영 항목 - 명확
+464 Mosquito Invoice (pest_control) | 방제 시공 청구서 관리로 추론 가능
+465 Mosquito Load (pest_control) | 모기 발생 밀도 관리는 실제 방제 운영 지표 - 명확
+466 Mosquito Map (pest_control) | 모기 발생 분포 지도는 실제 방제·보건 참조 - 명확
+467 Mosquito Monitor (pest_control) | 모기 발생 감시는 실제 방제 운영 항목 - 명확
+468 Mosquito Planner (pest_control) | 모기 방제 일정 계획은 실제 방제 운영 수요 - 명확
+469 Mosquito Predictor (pest_control) | 모기 발생 예측은 실제 방제 계획 수요 - 명확
+470 Mosquito Quote (pest_control) | 방제 비용 견적은 실제 소비자 수요 - 명확
+471 Mosquito Reference (pest_control) | 멀칭 시즌 수요 예보로 추론 가능
+472 Mosquito Renewal (pest_control) | 방제 계약 갱신 관리는 실제 서비스 운영 항목 - 명확
+473 Mosquito Type (pest_control) | 모기 종 분류 조회는 실제 방제 운영 참조 - 명확
+474 Mosquito Warranty (pest_control) | 방제 재발 보증 관리는 실제 서비스 계약 항목 - 명확
+475 Motor Compatibility (pool_maintenance_services) | 펌프 모터 부품 호환성 조회는 실제 수영장 정비 참조 - 명확
+476 Motor Frequency (pool_maintenance_services) | 펌프 가동 빈도 추적은 실제 수영장 정비 지표 - 명확
+477 Motor Load (pool_maintenance_services) | 펌프 부하 모니터링은 실제 수영장 장비 정비 지표 - 명확
+478 Motor Temperature (pool_maintenance_services) | 펌프 모터 과열 감시는 실제 수영장 장비 보호 항목 - 명확
+479 Motor Voltage (pool_maintenance_services) | 펌프 전압 텔레메트리는 실제 장비 정비 항목 - 명확
+480 Motor Wattage (pool_maintenance_services) | 펌프 소비 전력 텔레메트리는 실제 장비 정비 항목 - 명확
+481 Move Load (moving_relocation_services) | 이사 처리 물량 관리는 실제 이사 업체 운영 지표 - 명확
+482 Mulch Duration (landscaping) | 세탁 얼룩 식별·처리 진단 도구로 추론 가능
+483 Mulch Expense (landscaping) | 조경 자재 비용 관리는 실제 조경 경영 항목 - 명확
+484 Mulch Frequency (landscaping) | 멀칭 보충 주기 추적은 실제 조경 운영 항목 - 명확
+485 Mulch Inventory (landscaping) | 조경 자재 재고 관리는 실제 조경 운영 항목 - 명확
+486 Mulch Invoice (landscaping) | 조경 시공 청구서 관리로 추론 가능
+487 Mulch Simulator (landscaping) | 조경 배치 시뮬레이션은 실제 소비자 설계 도구 - 명확
+488 Mulch Type (landscaping) | 멀칭 자재 유형 분류는 실제 조경 운영 참조 - 명확
+489 Mulch Volume (landscaping) | 멀칭 자재 물량 계산은 실제 조경 견적 업무 - 명확
+490 Museum Frequency (travel_tourism) | 관람객 방문 빈도 추적은 실제 시설 운영 지표 - 명확
+491 Museum Load (travel_tourism) | 관람객 수용 부하 관리는 실제 시설 운영 지표 - 명확
+492 Network Load (telecom) | 네트워크 부하 관리는 실제 통신 운영 지표 - 명확
+493 Offboarding Frequency (hr_payroll) | 퇴사 발생 빈도 추적은 실제 HR 운영 지표 - 명확
+494 Offboarding Load (hr_payroll) | 퇴사 프로세스 부하 관리는 실제 HR 운영 항목 - 명확
+495 Orchard Check (agriculture) | 과수원 상태 점검은 실제 농장 운영 항목 - 명확
+496 Orchard Compatibility (agriculture) | 과수 품종 수분 수분 호환성 조회는 실제 농업 참조 - 명확
+497 Orchard Expense (agriculture) | 농장 비용 추적은 실제 농장 경영 항목 - 명확
+498 Orchard Frequency (agriculture) | 과수원 관리 작업 빈도 추적은 실제 농장 운영 지표 - 명확
+499 Orchard History (agriculture) | 과수원 점검·작업 이력 조회는 실제 농장 운영 항목 - 명확
+500 Orchard Hub (agriculture) | 과수원 운영 통합 관리로 추론 가능
+501 Orchard Inventory (agriculture) | 수확량·농산물 재고 관리는 실제 농장 운영 항목 - 명확
+502 Orchard Load (agriculture) | 수확 처리 물량 관리는 실제 농장 운영 지표 - 명확
+503 Orchard Map (agriculture) | 과수원 구획·수목 배치 지도는 실제 농업 운영 항목 - 명확
+504 Orchard Monitor (agriculture) | 과수원 환경·병해충 모니터링은 실제 농업 운영 수요 - 명확
+505 Orchard Nomination (agriculture) | 통근비 지원·정산 관리로 추론 가능
+506 Orchard Planner (agriculture) | 과수원 재배·작업 계획은 실제 농업 운영 수요 - 명확
+507 Orchard Predictor (agriculture) | 과수원 수확량·병해 예측은 실제 정밀 농업 카테고리 - 명확
+508 Orchard Status (agriculture) | 과수원 상태 조회는 실제 농장 운영 항목 - 명확
+509 Orchard Temperature (agriculture) | 과수원 서리·기온 모니터링은 실제 농장 운영 항목 - 명확
+510 Orchard Time (agriculture) | 수확 적기 관리는 실제 농장 계획 항목 - 명확
+511 Orchard Tracker (agriculture) | 과수원 상태·수확 추적은 실제 농장 운영 항목 - 명확
+512 Orchard Type (agriculture) | 과수 품종 기록 관리로 추론 가능
+513 Orchard Verification (agriculture) | 과수원 농산물 인증 검증은 실제 인증 감사 업무 - 명확
+514 Outage Frequency (telecom) | 통신 장애 발생 빈도 추적은 실제 통신 운영 지표 - 명확
+515 Overtime Load (hr_payroll) | 초과근무 총량 관리는 실제 인사·급여 운영 지표 - 명확
+516 Parking Frequency (property_management_services) | 주차 회전율·점유 빈도 추적은 실제 주차 운영 지표 - 명확
+517 Password Deadline (cybersecurity) | 비밀번호 만기·교체 주기 관리는 실제 보안 운영 항목 - 명확
+518 Password Diagnostic (cybersecurity) | 비밀번호 강도 진단은 실제 보안 카테고리 - 명확
+519 Password Vault (cybersecurity) | 비밀번호 금고(패스워드 관리)는 실제 소비자·기업 수요 - 명확
+520 Password Verification (cybersecurity) | 비밀번호 강도·일치 검증은 실제 보안 도구 - 명확
+521 Patient Load (dental) | 진료 환자 처리 물량 관리는 실제 클리닉 운영 지표 - 명확
+522 Paycheck Alert (finance) | 급여 지급일 알림은 실제 소비자 수요 - 명확
+523 Paycheck Beacon (finance) | 급여 입금 알림은 실제 소비자 금융 카테고리 - 명확
+524 Paycheck Brightness (finance) | 위탁 화물 처리 빈도는 실제 물류 운영 지표 - 명확
+525 Paycheck Estimate (finance) | 실수령액 예측 계산은 실제 직원 수요 - 명확
+526 Paycheck History (finance) | 급여 지급 이력 조회는 실제 직원 수요 - 명확
+527 Paycheck Hub (finance) | 급여·복리후생 통합 포털로 추론 가능
+528 Paycheck Ledger (finance) | 급여 지급 대장 관리는 실제 인사·급여 운영 항목 - 명확
+529 Paycheck Monitor (finance) | 월급 입금·소득 변동 모니터링은 실제 소비자 재정 수요 - 명확
+530 Paycheck Planner (finance) | 월급 기준 예산·청구 일정 계획은 실제 소비자 재정 수요 - 명확
+531 Paycheck Rate (finance) | 급여 요율 조회는 실제 직원 수요 - 명확
+532 Paycheck Status (finance) | 급여 지급 상태 확인은 실제 직원 수요 - 명확
+533 Paycheck Tracker (finance) | 급여 수령·소비 추적은 실제 소비자 금융 카테고리 - 명확
+534 Payload Frequency (logistics) | 화물 운송 빈도 추적은 실제 물류 운영 항목 - 명확
+535 Payload Temperature (logistics) | 화물 냉장·보관 온도 모니터링은 실제 물류 수요 - 명확
+536 Payroll Compatibility (finance) | 급여-근태 시스템 호환 확인은 실제 인사 참조 - 명확
+537 Payroll Frequency (finance) | 급여 지급 주기 관리는 실제 인사 운영 항목 - 명확
+538 Payroll Load (finance) | 급여 처리 물량 관리는 실제 인사 운영 지표 - 명확
+539 Phishing Check (cybersecurity) | 피싱 보안 점검은 실제 보안 운영 항목 - 명확
+540 Phishing Desk (cybersecurity) | 피싱 신고 접수·대응 데스크는 실제 보안 운영 - 명확
+541 Phishing Frequency (cybersecurity) | 피싱 사고 발생 빈도 추적은 실제 보안 운영 지표 - 명확
+542 Phishing History (cybersecurity) | 피싱 훈련·대응 이력 조회는 실제 보안 운영 항목 - 명확
+543 Phishing Lab (cybersecurity) | 피싱 시뮬레이션·분석 환경은 실제 보안 훈련 수요 - 명확
+544 Phishing Load (cybersecurity) | 피싱 신고·대응 처리 물량 관리는 실제 보안 운영 지표 - 명확
+545 Phishing Map (cybersecurity) | 피싱 발생 분포 지도는 실제 보안 운영 항목 - 명확
+546 Phishing Monitor (cybersecurity) | 피싱 사이트·메일 감시는 실제 보안 운영 수요 - 명확
+547 Phishing Onboarding (cybersecurity) | 신규 입사자 피싱 교육 온보딩으로 추론 가능
+548 Phishing Review (cybersecurity) | 피싱 의심 메일 검토·분석 워크플로우로 추론 가능
+549 Phishing Simulator (cybersecurity) | DB 용량·성장 예측 도구로 추론 가능
+550 Phishing Tracker (cybersecurity) | 피싱 캠페인 추적은 실제 보안 운영 항목 - 명확
+551 Phishing Type (cybersecurity) | 피싱 유형 분류·식별 도구로 추론 가능
+552 Pipe Compatibility (plumbing_services) | 배관 부품·재질 호환 조회는 실제 설비 정비 참조 - 명확
+553 Pipe Pressure (plumbing_services) | 배관 수압 모니터링은 실제 설비 정비 항목 - 명확
+554 Pipe Temperature (plumbing_services) | 배관 온도 모니터링은 실제 난방·급수 정비 항목 - 명확
+555 Pipeline Depth (recruiting) | 채용 파이프라인 단계 분석은 실제 채용 운영 지표 - 명확
+556 Plumbing Compatibility (property_management_services) | 배관 부품 호환성 조회는 실제 시설 정비 참조 업무 - 명확
+557 Plumbing Frequency (property_management_services) | 배관 고장 발생 빈도 추적은 실제 시설 유지보수 지표 - 명확
+558 Plumbing Load (property_management_services) | 배관 작업 물량 관리는 실제 현장 서비스 운영 지표 - 명확
+559 Port Load (maritime_shipping) | 항만 처리 물량 관리는 실제 항만 운영 지표 - 명확
+560 Property Load (real_estate) | 관리 매물·세대 물량 관리는 실제 부동산 운영 지표 - 명확
+561 Prototype Check (manufacturing) | 시제품 검수 점검은 실제 제조 QA 수요 - 명확
+562 Prototype Expense (manufacturing) | 시제품 개발 비용 추적은 실제 R&D 경영 항목 - 명확
+563 Prototype Frequency (manufacturing) | 시제품 반복 제작 횟수 추적은 실제 R&D 운영 지표 - 명확
+564 Prototype History (manufacturing) | 시제품 시험·변경 이력 조회는 실제 제조 운영 항목 - 명확
+565 Prototype Hub (manufacturing) | 시제품 관리 통합으로 추론 가능
+566 Prototype Inventory (manufacturing) | 시제품 부품 재고 관리는 실제 하드웨어 R&D 운영 항목 - 명확
+567 Prototype Load (manufacturing) | 시제품 하중 시험 관리는 실제 R&D QC 항목 - 명확
+568 Prototype Planner (manufacturing) | 시제품 제작 일정 계획은 실제 제조 개발 운영 수요 - 명확
+569 Prototype Pressure (manufacturing) | 시제품 압력 환경 시험은 실제 R&D QC 항목 - 명확
+570 Prototype Review (manufacturing) | 시제품 설계 검토 관리는 실제 공학 게이트 절차 - 명확
+571 Prototype Revision (manufacturing) | 시제품 설계 변경 이력 관리로 추론 가능
+572 Prototype Simulator (manufacturing) | 가상 프로토타이핑 시뮬레이션은 실제 공학 카테고리 - 명확
+573 Prototype Status (manufacturing) | 시제품 진행 상태 조회는 실제 제조 운영 항목 - 명확
+574 Prototype Temperature (manufacturing) | 시제품 환경 시험 온도 관리는 실제 R&D QC 항목 - 명확
+575 Prototype Tracker (manufacturing) | 시제품 시험 상태 추적은 실제 R&D 운영 항목 - 명확
+576 Prototype Verification (manufacturing) | 시제품 검증·테스트 관리는 실제 제품 개발 절차 - 명확
+577 Prototype Voltage (manufacturing) | 시제품 전기 시험 관리는 실제 R&D QC 항목 - 명확
+578 Punchlist Frequency (construction) | 결함 발생 빈도 추적은 실제 건설 품질 지표 - 명확
+579 Punchlist Load (construction) | 남은 결함 작업량 관리는 실제 건설 진행 지표 - 명확
+580 Quarry Claim (mining) | 채굴권 신청·청구 관리는 실제 광업 행정 항목 - 명확
+581 Quarry Expense (mining) | 채석 비용 추적은 실제 채굴 경영 항목 - 명확
+582 Quarry Inventory (mining) | 채굴량·광물 재고 관리는 실제 채굴 운영 항목 - 명확
+583 Quarry Limit (mining) | 채굴 허용량 한도 관리는 실제 광업 규제 준수 항목 - 명확
+584 Quarry Lookup (mining) | 채굴권 조회 도구로 추론 가능
+585 Quarry Map (mining) | 채석 구획 지도는 실제 채석 운영 참조 - 명확
+586 Quarry Planner (mining) | 채굴 일정 계획은 실제 채굴 운영 수요 - 명확
+587 Quarry Quote (mining) | 채석 자재 견적 계산으로 추론 가능
+588 Quarry Renewal (mining) | 채굴권 만기·갱신 관리로 추론 가능
+589 Quarry Type (mining) | 채굴 품목 분류 관리는 실제 광업 운영 항목 - 명확
+590 Quarry Warranty (mining) | 채굴 장비 보증 관리는 실제 중장비 정비 항목 - 명확
+591 Recall Load (automotive) | 리콜 처리 물량 관리는 실제 정비 운영 지표 - 명확
+592 Reception Load (wedding_planning_services) | 하객 수용 부하 관리는 실제 웨딩 기획 항목 - 명확
+593 Recipe Temperature (food_service) | 레시피 조리 온도 관리는 실제 위생 운영 항목 - 명확
+594 Reconciliation Load (finance) | 계정 대사 처리 물량 관리는 실제 회계 운영 지표 - 명확
+595 Records Load (government) | 기록물 처리 물량 관리는 실제 공공 행정 운영 지표 - 명확
+596 Recruiting Load (hr_payroll) | 채용 처리 물량 관리는 실제 인사 운영 지표 - 명확
+597 Refill Load (pharmacy) | 재고약 접수 물량 관리는 실제 약국 운영 지표 - 명확
+598 Refrigerant Compatibility (hvac_services) | 냉매-장비 호환성 조회는 실제 HVAC 참조 업무 - 명확
+599 Refrigerant Frequency (hvac_services) | 냉매 보충 주기 관리는 실제 HVAC 정비 항목 - 명확
+600 Reimbursement Frequency (insurance) | 환급 발생 빈도 추적은 실제 보험 운영 지표 - 명확
+601 Reimbursement Load (insurance) | 보험금 환급 처리 물량 관리는 실제 보험 운영 지표 - 명확
+602 Rekey Frequency (locksmith_security_services) | 키 재설정 발생 빈도 추적은 실제 보안 서비스 운영 지표 - 명확
+603 Rekey Load (locksmith_security_services) | 키 재설정 작업 물량 관리는 실제 보안 서비스 운영 지표 - 명확
+604 Relocation Frequency (moving_relocation_services) | 이사 수요 발생 빈도 추적은 실제 이사 운영 지표 - 명확
+605 Renewal Frequency (insurance) | 보험 갱신 주기 관리는 실제 보험 운영 항목 - 명확
+606 Renewal Load (insurance) | 보험 갱신 시즌 처리 물량 관리는 실제 보험 운영 항목 - 명확
+607 Rent Frequency (real_estate) | 임대료 납부 주기 관리는 실제 자산 운영 항목 - 명확
+608 Request Frequency (customer_support) | 문의 발생 빈도 추적은 실제 고객지원 운영 지표 - 명확
+609 Request Load (customer_support) | 고객 문의 처리 물량 관리는 실제 고객지원 운영 지표 - 명확
+610 Resolution Compatibility (customer_support) | 용접 작업 기록(weld log) 도구로 추론 가능
+611 Resort Frequency (travel_tourism) | 리조트 이용 빈도·회원 투숙 추적로 추론 가능
+612 Resort Load (travel_tourism) | 투숙 수용 부하 관리는 실제 리조트 운영 지표 - 명확
+613 Response Frequency (customer_support) | 상담 응답 처리 빈도 추적은 실제 고객지원 운영 지표 - 명확
+614 Resume Load (recruiting) | 이력서 접수 물량 관리는 실제 채용 운영 지표 - 명확
+615 Rodent Check (pest_control) | 설치류 발생 점검은 실제 방제 운영 항목 - 명확
+616 Rodent History (pest_control) | 설치류 발생 이력 조회는 실제 방제 운영 항목 - 명확
+617 Rodent Map (pest_control) | 설치류 발생 구역 분석 지도는 실제 방제 운영 항목 - 명확
+618 Rodent Onboarding (pest_control) | 묘비 규격 선택·묘지 규정 대조는 실제 판매 결정 속성 - 명확
+619 Rodent Path (pest_control) | 설치류 활동 동선 분석은 실제 방제 배치 최적화 항목 - 명확
+620 Rodent Planner (pest_control) | 설치류 방제 처리 계획은 실제 방제 운영 수요 - 명확
+621 Rodent Status (pest_control) | 설치류 발생 상태 조회는 실제 방제 운영 항목 - 명확
+622 Rodent Tracker (pest_control) | 설치류 활동 추적·모니터링은 실제 방제 운영 항목 - 명확
+623 Rodent Type (pest_control) | 설치류 종 식별 도구는 실제 방제 진단 업무 - 명확
+624 Roof Compatibility (property_management_services) | 지붕 태양광 등 설비 호환 조회는 실제 주택 개보수 수요 - 명확
+625 Roof Temperature (property_management_services) | 지붕 온도 모니터링은 실제 주택 단열·정비 항목 - 명확
+626 Router Appointment (telecom) | 인터넷 설치 예약 관리는 실제 통신 서비스 스케줄링 - 명확
+627 Router Availability (telecom) | 공유기 상태 가용성 모니터링으로 추론 가능
+628 Router Compatibility (telecom) | 공유기·인터넷 회선 호환 조회는 실제 소비자 수요 - 명확
+629 Router Deposit (telecom) | 공유기 장비 보증금 관리로 추론 가능
+630 Router Diagnostic (telecom) | 공유기·네트워크 진단은 실제 통신 장비 점검 - 명확
+631 Router Expense (telecom) | 네트워크 장비·회선 비용 관리는 실제 IT 자산 운영 수요 - 명확
+632 Router Guardian (telecom) | 비밀번호 생성·관리 도구로 명확
+633 Router Inventory (telecom) | 네트워크 장비 재고·자산 관리는 실제 IT 운영 항목 - 명확
+634 Router Invoice (telecom) | 인터넷 회선 요금 청구서 관리로 추론 가능
+635 Router Load (telecom) | 공유기 트래픽 부하 모니터링은 실제 네트워크 관리 항목 - 명확
+636 Router Quote (telecom) | 인터넷 설치 견적은 실제 통신 소비자 수요 - 명확
+637 Router Renewal (telecom) | 인터넷 계약 갱신 관리는 실제 통신 소비자 수요 - 명확
+638 Router Temperature (telecom) | 공유기 발열 모니터링은 실제 네트워크 장비 관리 항목 - 명확
+639 Router Type (telecom) | 공유기 유형 비교 조회는 실제 소비자 구매 참조 - 명확
+640 Router Warranty (telecom) | 공유기 보증·수리 관리는 실제 통신 기기 수요 - 명확
+641 Royalty Frequency (media_publishing) | 로열티 지급 주기 관리는 실제 미디어 운영 항목 - 명확
+642 Royalty Load (media_publishing) | 저작권료 정산 물량 관리는 실제 미디어 운영 지표 - 명확
+643 Runway Availability (aviation) | 활주로 가용 상태 관리는 실제 공항 운영 항목 - 명확
+644 Runway Expense (aviation) | 활주로 보수 비용 추적은 실제 공항 유지보수 항목 - 명확
+645 Runway Flow (aviation) | 활주로 교통 흐름 관리는 실제 공항 운영 항목 - 명확
+646 Runway Frequency (aviation) | 활주로 이착륙 빈도 추적은 실제 공항 운영 지표 - 명확
+647 Runway Monitor (aviation) | 활주로 상태 감시는 실제 공항 운영 항목 - 명확
+648 Runway Rating (aviation) | 채석권 계약 관리로 추론 가능
+649 Runway Renewal (aviation) | 활주로 포장 갱신 주기 관리는 실제 공항 유지보수 - 명확
+650 Runway Review (aviation) | 활주로 상태 점검·검토는 실제 공항 유지보수 항목 - 명확
+651 Runway Scheduler (aviation) | 활주로 이용 스케줄 관리는 실제 공항 운영 수요 - 명확
+652 Runway Temperature (aviation) | 활주로 온도 모니터링은 실제 공항 운영 항목 - 명확
+653 Screening Load (automotive) | 차량 검사 처리 물량 관리는 실제 정비 운영 지표 - 명확
+654 Seller Compatibility (real_estate) | 클리어런스 상품 통합 포털로 추론 가능
+655 Semester Compatibility (education) | 학점 인정 호환 확인은 실제 학생 계획 수요 - 명확
+656 Semester Load (education) | 수강 학점 부하 관리는 실제 학생 계획 도구 - 명확
+657 Settlement Load (insurance) | 보험금 지급 처리 물량 관리는 실제 보험 운영 지표 - 명확
+658 Severity Load (customer_support) | 심각도별 접수 물량 관리는 실제 고객지원 운영 지표 - 명확
+659 Shipment Temperature (logistics) | 콜드체인 운송 온도 모니터링은 실제 물류 운영 수요 - 명확
+660 Shoot Load (photography_services) | 촬영 일정 물량 관리는 실제 사진 스튜디오 운영 지표 - 명확
+661 Sleep Depth (healthcare) | 수면 단계(깊은 잠) 추적은 실제 건강 관리 수요 - 명확
+662 Sleep Temperature (healthcare) | 수면 적정 침실 온도 관리는 실제 건강·수면 관리 수요 - 명확
+663 Slideshow Voltage (photography_services) | 주차장 충전 인프라 전력 모니터링은 실제 시설 운영 항목 - 명확
+664 Slideshow Wattage (photography_services) | 주차장 조명 밝기·조도 관리는 실제 시설 운영 항목 - 명확
+665 Smartphone Beacon (telecom) | 매장 근접 마케팅 비콘 운영 도구로 추론 가능
+666 Smartphone Bill (telecom) | 통신요금 청구 관리는 실제 소비자 수요 - 명확
+667 Smartphone Bridge (telecom) | 폰-PC 연결 브리지는 실제 소프트웨어 카테고리 - 명확
+668 Smartphone Locator (telecom) | 분실 기기 위치 조회는 실제 소비자 수요 - 명확
+669 Smartphone Monitor (telecom) | 스크린타임·자녀 기기 모니터링은 실제 가정 관리 수요 - 명확
+670 Smartphone Planner (telecom) | 요금제 비교·선택 플래너는 실제 통신 소비자 수요 - 명확
+671 Smartphone Quota (telecom) | 단말 데이터 한도 관리는 실제 MDM 운영 항목 - 명확
+672 Smartphone Scheduler (telecom) | 기기 사용 시간 예약 관리로 추론 가능
+673 Smartphone Update (telecom) | 스마트폰 OS 업데이트 배포 관리는 실제 기업 IT 운영 수요 - 명확
+674 Snake Pressure (plumbing_services) | 해변 방문객 부하 관리는 실제 시설 운영 지표 - 명확
+675 Snow Depth (property_management_services) | 적설 깊이 측정은 실제 제설·시설 관리 수요 - 명확
+676 Sprinkler Frequency (property_management_services) | 관수 빈도 관리는 실제 조경 운영 항목 - 명확
+677 Sprinkler Pressure (property_management_services) | 스프링클러 압력 모니터링은 실제 소방 정비 항목 - 명확
+678 Stain Diagnostic (laundry_dry_cleaning) | 화장 진행 상태 추적은 실제 장례 운영 항목 - 명확
+679 Stain Duration (laundry_dry_cleaning) | 화장 처리량 관리는 실제 화장장 운영 지표 - 명확
+680 Stain Expense (laundry_dry_cleaning) | 세탁 비용 관리는 실제 생활 재정 수요 - 명확
+681 Stain Inventory (laundry_dry_cleaning) | 세탁물 재고·수거 상태 관리는 실제 세탁 운영 항목 - 명확
+682 Stain Refund (laundry_dry_cleaning) | 세탁 손상 환불 처리는 실제 세탁 운영 항목 - 명확
+683 Stain Temperature (laundry_dry_cleaning) | 얼룩별 권장 세탁 온도 조회는 실제 세탁 소비자 참조 - 명확
+684 Stain Type (laundry_dry_cleaning) | 얼룩 유형 분류·처리 조회는 실제 세탁 운영 참조 - 명확
+685 Storage Temperature (property_management_services) | 창고 보관 온도 모니터링은 실제 물류·보관 운영 수요 - 명확
+686 Stretch Depth (healthcare) | 스트레칭 깊이 기록은 실제 유연성 관리 수요 - 명확
+687 Stretch Load (healthcare) | 스트레칭 운동량 관리는 실제 운동 관리 수요 - 명확
+688 Stylist Load (salon_spa) | 스타일리스트 예약 부하 관리는 실제 살롱 운영 지표 - 명확
+689 Subrogation Load (insurance) | 구상권 회수 사건 물량 관리는 실제 보험 운영 지표 - 명확
+690 Substation Load (energy_utilities) | 변전소 부하 관리는 실제 전력 운영 지표 - 명확
+691 Subtitling Compatibility (interpreter_translation_services) | 자막 파일 형식 호환성 검증은 실제 로컬라이제이션 QC - 명확
+692 Subtitling Load (interpreter_translation_services) | 자막 프로젝트 작업 부하 관리는 실제 로컬라이제이션 운영 항목 - 명확
+693 Technician Load (pest_control) | 방제 기술자 작업 물량 관리는 실제 방제 운영 지표 - 명확
+694 Terminal Brightness (transportation) | 네트워크 지연 발생 빈도 모니터링은 실제 운영 지표 - 명확
+695 Terminal Frequency (transportation) | 터미널 물동 처리 빈도는 실제 운송 운영 지표 - 명확
+696 Thermostat Compatibility (property_management_services) | 온도조절기 시스템 호환 조회는 실제 소비자 수요 - 명확
+697 Ticket Load (laundry_dry_cleaning) | 세탁 접수 물량 관리는 실제 세탁소 운영 지표 - 명확
+698 Ticketing Load (events) | 티켓 발매 물량 관리는 실제 이벤트 운영 지표 - 명확
+699 Tire Compatibility (automotive) | 타이어·휠 규격 호환 조회는 실제 소비자 수요 - 명확
+700 Tire Frequency (automotive) | 타이어 교체·점검 빈도 추적은 실제 차량 정비 항목 - 명확
+701 Tire Temperature (automotive) | 타이어 온도 모니터링은 실제 차량 정비·모터스포츠 항목 - 명확
+702 Toddler Height (childcare) | 유아 성장 기록은 실제 육아 소비자 수요 - 명확
+703 Toddler Temperature (childcare) | 유아 체온 기록은 실제 육아 소비자 수요 - 명확
+704 Tractor Agreement (agriculture) | 농기계 임대 약정 관리는 실제 농장 운영 항목 - 명확
+705 Tractor Appointment (agriculture) | 농기계 대여 예약 관리는 실제 장비 운영 수요 - 명확
+706 Tractor Availability (agriculture) | 농기계 대여 가용 조회는 실제 장비 운영 수요 - 명확
+707 Tractor Certification (agriculture) | 농기계 안전검사 인증 관리는 실제 농업 행정 항목 - 명확
+708 Tractor Deadline (agriculture) | 농작업 시즌 마감 관리로 추론 가능
+709 Tractor Deposit (agriculture) | 농기계 임대 보증금 관리는 실제 장비 임대 항목 - 명확
+710 Tractor Diagnostic (agriculture) | 농기계 상태 진단은 실제 장비 정비 업무 - 명확
+711 Tractor Eligibility (agriculture) | 농기계 보조금 자격 확인은 실제 농업 행정 수요 - 명확
+712 Tractor Estimator (agriculture) | 기부 적격성·영수증 확인 도구로 추론 가능
+713 Tractor Expense (agriculture) | 농기계 연료·유지비 관리는 실제 농업 운영 수요 - 명확
+714 Tractor Frequency (agriculture) | 농기계 가동 빈도 추적은 실제 농기계 정비 항목 - 명확
+715 Tractor Guarantee (agriculture) | 농기계 보증·정비 이력 관리로 추론 가능
+716 Tractor Guardian (agriculture) | 농기계 도난 방지·장비 보호는 실제 농가 수요 - 명확
+717 Tractor Inventory (agriculture) | 농기계 자산·재고 관리는 실제 농업 운영 항목 - 명확
+718 Tractor Invoice (agriculture) | 농기계 임대료 청구서는 실제 장비 임대 운영 항목 - 명확
+719 Tractor Lookup (agriculture) | 농기계 부품·정비 정보 조회로 추론 가능
+720 Tractor Match (agriculture) | 농기계 공유·대여 매칭으로 추론 가능
+721 Tractor Progress (agriculture) | 농작업 진행 추적은 실제 농장 운영 항목 - 명확
+722 Tractor Quote (agriculture) | 농기계 임대 견적은 실제 장비 임대 수요 - 명확
+723 Tractor Renewal (agriculture) | 농기계 임대 계약 갱신 관리는 실제 장비 운영 항목 - 명확
+724 Tractor Timer (agriculture) | 트랙터 작업 시간 기록으로 추론 가능
+725 Tractor Tracker (agriculture) | 농기계 위치·운행 추적은 실제 농기계 운영 수요 - 명확
+726 Tractor Type (agriculture) | 농기계 유형 비교 조회는 실제 농업 구매 참조 - 명확
+727 Tractor Warranty (agriculture) | 농기계 보증·수리 관리는 실제 장비 운영 항목 - 명확
+728 Trainer Frequency (fitness_wellness) | 훈련 세션 주기 관리는 실제 피트니스 운영 항목 - 명확
+729 Trainer Load (fitness_wellness) | 트레이너 배정 부하 관리는 실제 스튜디오 운영 지표 - 명확
+730 Transfer Frequency (customer_support) | 상담 이관 발생 빈도 추적은 실제 콜센터 운영 지표 - 명확
+731 Transfer Load (customer_support) | 상담 이관 처리 부하 관리는 실제 고객지원 운영 지표 - 명확
+732 Treadmill Availability (fitness_wellness) | 헬스장 기기 사용 가능 현황 추적은 실제 시설 운영 항목 - 명확
+733 Treadmill Diagnostic (fitness_wellness) | 러닝머신 상태 진단은 실제 헬스장 장비 정비 업무 - 명확
+734 Treadmill Expense (fitness_wellness) | 운동 비용 관리는 실제 생활 재정 수요 - 명확
+735 Treadmill Frequency (fitness_wellness) | 러닝머신 사용·점검 빈도 추적은 실제 헬스장 운영 항목 - 명확
+736 Treadmill Predictor (fitness_wellness) | 러닝 기록·페이스 예측은 실제 피트니스 소비자 수요 - 명확
+737 Treadmill Quote (fitness_wellness) | 헬스 기기 구매 견적은 실제 시설 운영 수요 - 명확
+738 Treadmill Renewal (fitness_wellness) | 연결형 피트니스 기기 구독 갱신 관리로 추론 가능
+739 Treadmill Simulator (fitness_wellness) | 실내 러닝 가상 코스 훈련 도구로 추론 가능
+740 Treadmill Type (fitness_wellness) | 러닝머신 유형 비교 조회는 실제 피트니스 소비자 수요 - 명확
+741 Treadmill Warranty (fitness_wellness) | 피트니스 기기 보증·수리 관리로 추론 가능
+742 Triage Load (healthcare) | 응급 분류 처리 물량은 실제 의료 운영 지표 - 명확
+743 Truck Frequency (moving_relocation_services) | 트럭 운행 빈도 관리는 실제 차량 운영 지표 - 명확
+744 Underwriting Frequency (insurance) | 인수 심사 발생 빈도 추적은 실제 보험 운영 지표 - 명확
+745 Underwriting Load (insurance) | 인수 심사 처리 부하 관리는 실제 보험 운영 지표 - 명확
+746 Unloading Frequency (logistics) | 하역 처리 빈도 추적은 실제 물류 운영 지표 - 명확
+747 Uptime Frequency (it_devops) | 장애 발생 빈도 추적은 실제 SRE 운영 지표 - 명확
+748 Urn Locator (funeral_services) | 안치 위치 조회는 실제 장례 소비자 수요 - 명확
+749 Urn Register (funeral_services) | 안치 명부 관리는 실제 장례 운영 항목 - 명확
+750 Urn Wave (funeral_services) | 페리 노선·시간 지도 서비스로 명확
+751 Utility Frequency (property_management_services) | 펌프-부품 호환성 조회 도구로 추론 가능
+752 Vacancy Frequency (property_management_services) | 공실 발생 빈도 추적은 실제 자산 운영 지표 - 명확
+753 Vacancy Temperature (property_management_services) | 공실 동파·온도 이상 감시는 실제 자산 관리 항목 - 명확
+754 Vacancy Wattage (property_management_services) | 공실 전력 감시(무단 사용·동파 방지)는 실제 자산 관리 항목 - 명확
+755 Vaccination Frequency (veterinary) | 접종 주기·일정 관리는 실제 동물병원 운영 항목 - 명확
+756 Vaccination Load (veterinary) | 접종 접수 물량 관리는 실제 동물병원 운영 지표 - 명확
+757 Vaccination Temperature (veterinary) | 백신 보관 온도 관리는 실제 동물병원 운영 항목 - 명확
+758 Ventilation Compatibility (hvac_services) | 환기 장비 부품 호환성 조회는 실제 정비 업무 - 명확
+759 Ventilation Frequency (hvac_services) | 환기 시스템 가동 주기 관리는 실제 시설 운영 항목 - 명확
+760 Ventilation Load (hvac_services) | 환기 부하 계산은 실제 HVAC 설계 업무 - 명확
+761 Ventilation Pressure (hvac_services) | 덕트 정압 모니터링은 실제 HVAC 진단 지표 - 명확
+762 Ventilation Wattage (hvac_services) | 환기 설비 전력 모니터링은 실제 시설 운영 항목 - 명확
+763 Venue Frequency (events) | 대관 이용 빈도 관리는 실제 행사장 운영 지표 - 명확
+764 Venue Load (events) | 장소 수용 부하 관리는 실제 행사 운영 지표 - 명확
+765 Vesting Frequency (hr_payroll) | 주식 베스팅 일정 주기 관리는 실제 인사·주식 보상 운영 항목 - 명확
+766 Vet Frequency (veterinary) | 동물병원 진료 빈도 추적은 실제 진료 운영 지표 - 명확
+767 Vet Load (veterinary) | 진료 건수 부하 관리는 실제 동물병원 운영 지표 - 명확
+768 Vet Temperature (veterinary) | 진료 동물 체온 기록·모니터링은 실제 수의 진료 항목 - 명확
+769 Vitals Frequency (senior_care) | 활력징후 측정 주기 관리는 실제 요양 운영 항목 - 명확
+770 Vitals Pressure (senior_care) | 요양 대상자 혈압 측정·추적은 실제 요양 관리 항목 - 명확
+771 Vitals Temperature (senior_care) | 요양 대상자 체온 측정·추적은 실제 요양 관리 항목 - 명확
+772 Voyage Frequency (maritime_shipping) | 항차 운항 횟수 추적은 실제 해상 물류 지표 - 명확
+773 Voyage Load (maritime_shipping) | 항차 화물 적재 물량 관리는 실제 해상 물류 지표 - 명확
+774 Vulnerability Load (cybersecurity) | 취약점 처리 물량 관리는 실제 보안 운영 지표 - 명확
+775 Wash Load (car_wash_detailing_services) | 세차 처리 물량 관리는 실제 세차장 운영 지표 - 명확
+776 Waybill Frequency (logistics) | 운송장 발행 빈도 추적은 실제 물류 운영 지표 - 명확
+777 Waybill Load (logistics) | 운송장 발행·처리 물량 관리는 실제 물류 운영 지표 - 명확
+778 Welding Appointment (manufacturing) | 용접 작업 예약 관리는 실제 제조 스케줄링 - 명확
+779 Welding Authorization (manufacturing) | 용접사 자격 승인 관리는 실제 제조 컴플라이언스 - 명확
+780 Welding Availability (manufacturing) | 용접사 배정 가능 현황 조회는 실제 제조 스케줄링 - 명확
+781 Welding Certification (manufacturing) | 용접 자격·검사 인증 관리는 실제 제조 품질 항목 - 명확
+782 Welding Deadline (manufacturing) | 용접 작업 마감 관리로 추론 가능
+783 Welding Deposit (manufacturing) | 용접 도급 선급금 관리는 실제 도급 운영 항목 - 명확
+784 Welding Detector (manufacturing) | 용접 결함 탐지는 실제 제조 QC 카테고리 - 명확
+785 Welding Diagnostic (manufacturing) | 용접 품질 진단은 실제 제조 QC 업무 - 명확
+786 Welding Expense (manufacturing) | 용접 작업비·자재비 관리는 실제 제조·용접 업체 운영 수요 - 명확
+787 Welding Guarantee (manufacturing) | 용접 품질 보증 관리는 실제 제조 품질 항목 - 명확
+788 Welding Guardian (manufacturing) | 용접 안전·흄 보호 모니터링은 실제 산업 안전 카테고리 - 명확
+789 Welding Inventory (manufacturing) | 용접 소모품 재고 관리는 실제 제조 운영 항목 - 명확
+790 Welding Invoice (manufacturing) | 용접 작업비 청구서는 실제 도급 운영 항목 - 명확
+791 Welding Load (manufacturing) | 용접 작업 물량 관리는 실제 제조 운영 지표 - 명확
+792 Welding Progress (manufacturing) | 용접 작업 진행 추적은 실제 제조 운영 항목 - 명확
+793 Welding Quote (manufacturing) | 용접 작업 견적은 실제 도급 수요 - 명확
+794 Welding Recorder (manufacturing) | 트랙터 작업 비용 견적으로 추론 가능
+795 Welding Template (manufacturing) | 용접 절차서(WPS) 양식 관리는 실제 용접 문서 업무 - 명확
+796 Welding Timer (manufacturing) | 용접 아크 시간 추적은 실제 용접 생산성 지표 - 명확
+797 Welding Tracker (manufacturing) | 용접 작업 로그 추적은 실제 제조 품질 관리 항목 - 명확
+798 Welding Trend (manufacturing) | 용접 품질·성과 추세 분석은 실제 제조 QC 지표 - 명확
+799 Welding Volume (manufacturing) | 용접 생산 물량 관리는 실제 제조 운영 지표 - 명확
+800 Welding Warranty (manufacturing) | 용접 시공 보증 관리는 실제 제조 품질 항목 - 명확
+801 Wheelchair Pressure (senior_care) | 휠체어 좌석 압력 분포 모니터링(욕창 예방)은 실제 시니어 케어 - 명확
+802 Workout Frequency (healthcare) | 운동 횟수 추적은 실제 운동 관리 수요 - 명확
+803 Writer Load (media_publishing) | 집필·기고 배정 부하 관리는 실제 출판 운영 지표 - 명확
+804 Yoga Check (fitness_wellness) | 요가 자세 점검은 실제 홈트레이닝 수요 - 명확
+805 Yoga Checkin (fitness_wellness) | 요가 수업 체크인은 실제 스튜디오 운영 기능 - 명확
+806 Yoga History (fitness_wellness) | 요가 운동 이력 조회는 실제 운동 관리 수요 - 명확
+807 Yoga Hub (fitness_wellness) | 요가 스튜디오 수업·회원 통합 관리 허브로 추론 가능
+808 Yoga Locator (fitness_wellness) | 요가 스튜디오 검색은 실제 수강생 수요 - 명확
+809 Yoga Map (fitness_wellness) | 요가 클래스·스튜디오 위치 지도는 실제 소비자 수요 - 명확
+810 Yoga Onboarding (fitness_wellness) | 요가 스튜디오 신규 회원 온보딩 관리로 추론 가능
+811 Yoga Planner (fitness_wellness) | 요가 수업 일정 계획은 실제 스튜디오·수강생 수요 - 명확
+812 Yoga Tracker (fitness_wellness) | 요가 연습 추적 도구로 추론 가능
+813 Training Load (hr_payroll) | 직원 교육 처리 물량 관리는 실제 인사 운영 지표 - 명확
