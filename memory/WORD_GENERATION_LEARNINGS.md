@@ -2365,3 +2365,66 @@ Model/Lot/Availability/Eligibility))
   남지 않았다. 다음 실행은 `expand_word_bank` 판정 라운드가 될 가능성이
   높다(원칙 1·6·13 준수 + 원칙 15 인접 속성 명사 소량 시험 기회 +
   dead_pattern_tags 회피).
+
+### RUN-20260908-000042-KST (2026-09-08, expand_word_bank 라운드 — 기능어 12종
++ 금융·건축 도메인어 44종 확장의 첫 실측)
+
+- **확장 내용**: 조합공간 소진(전 라운드 생성 1,476 < 10,000)으로 열린
+  `expand_word_bank`에서 원칙 1·6·13과 dead_pattern_tags 회피 하에 56개
+  제안 승인 — 기능어 12종(Capacity/Usage/Condition/Humidity/Episode/
+  Cycle/Breakdown/Sensor/Reception/Followup/Approval/Matrix) + 금융
+  소비자 금융 도메인어 22종(Credit/Debit/Savings/Withdrawal/Remittance/
+  Wire/Trading/Stock/Portfolio/Bond/Insurance/Mortgage/Installment/
+  Foreclosure/Bankruptcy/Inheritance/Creditor/Debtor/Payee/Insolvency/
+  Trust/Wealth) + 건축 인테리어 도메인어 22종(Remodel/Electrical/
+  Plumbing/Roofing/Flooring/Painting/Siding/Gutter/Foundation/Framing/
+  Concrete/Demolition/Excavation/Paving/Insulation/Waterproofing/Deck/
+  Patio/Cabinetry/Countertop/Masonry/Carpentry).
+- **라운드 숫자**: 생성 10,000 / 1차 승인 1,752(17.5%, 청크 50개 판정) /
+  재검증 트리거 없음(골든셋 7/7, 승인율 z=-1.69 정상, 저신뢰 승인 0) /
+  KP조회 1,864(backlog 포함) / KP통과 12(라운드 통과율 0.12%). 정체
+  점검 `declining`(직전 0.27% 대비 -55.7%).
+- **확장 단어 실측(핵심)**: 기능어 12종은 예상대로 대부분 도메인어와
+  결합 시 명확성 기각(회전 저빈도 가족: Humidity/Episode/Breakdown/
+  Matrix/Cycle/Sensor/Reception/Followup 조합)이었지만, **실제 문맥에서
+  승인된 조합이 KP에서 강세** — Contingency Matrix **18,100**(이번 라운드
+  최대), Photo Usage 5,400, Audit Cycle 1,900, Story Episode 1,600,
+  Algae Usage 1,000, Channel Capacity 1,000. 즉 일상 명사 기능어는
+  '무조건 기각'이 아니라 **문맥 의존 후보원**이다 — Usage/Episode/Matrix/
+  Cycle은 실제 소비자 검색어로 유효하며, 승인 판정은 앞 단어가 실제
+  운영·소비 개념인지가 기준이 됐다(Algae Usage=조류 관리 사용량, Photo
+  Usage=사진 사용 권).
+- **Capacity 정원 규칙 확립(이번 라운드 최대 수확)**: 실제 정원·수용·처리
+  개념이면 승인(예약·검사·입양·퇴원·졸업식·학점·치료·클리닉·카니발·캐빈·
+  매물·하객·하도급·귀공차·광산운반·반품·보너스예산·해지 정원 — 25건+),
+  물리·물건·불분명이면 기각(대역폭·전기용량·소비량·수확량·오버플로·덴트·
+  엘보·호스·사다리·수도꼭지·벙커·진공청소기·우회). KP 실측: Reserve
+  Capacity 1,300 / Channel Capacity 1,000 / Bid Capacity 590 / Contract
+  Capacity 140 통과 — 정원 관리 검색 수요 실존 확인. 원칙 15(candidate,
+  Count/Level/Depth/Capacity 인접 속성 명사)에 대한 대규모 단일 라운드
+  관측이지만 승격은 다음 라운드 재관측 후.
+- **동의어 접기(DUP fold) 가족 신규 확립**: Charge→Fee 10건(Wire/
+  Cabinetry/Debtor/Masonry/Countertop/Payee/Siding/Trust/Insolvency/
+  Carpentry), Note→Log 3건(Bankruptcy/Waterproofing/Flooring), File→Log
+  2건(Flooring/Waterproofing), Registry→Register 1건(Savings). Calendar→
+  Scheduler 접기의 승인 방향도 유지(Roofing/Savings Calendar 승인).
+- **앵커 분할 규칙 확립**: Bill은 건축 결제서 승인·금융 기각(Deck/Patio/
+  Painting Bill 승인 vs Inheritance Bill 기각), Assistant/Companion은
+  금융만 승인(Savings Assistant/Companion 승인 vs Paving/Roofing 기각),
+  Monitor는 금융 승인·건축 기각 유지(Savings Monitor 승인).
+- **거절 확장**: 예측기·형식 UI 잔여물 계열 불성립 재확인(Remodel
+  Predictor/Recipe/Diary, Concrete Onboarding/Newsletter), 물리 사양
+  명사(Size/Weight/Length/Distance/Range/Wattage/Frequency/Brightness)
+  전부 SaaS 불일치 기각.
+- **declining 해석(원인 분석)**: 통과율 -55.7%이지만 절대 통과는 4→12로
+  증가. 왜곡 요인 2가지 — ① 직전 라운드가 1,476개 소규모(남은 잔량이
+  강한 조합이었다) ② 이번 라운드는 확장 56종이 조합 풀에 처음 투입된
+  라운드로 신규 조합 분산이 컸다. 다음 라운드(확장 종이 앵커와 본격
+  결합)에서 회복 여부를 관측하고, 거기서도 declining이면 확장 방향 자체
+  재검토. 게이트 임계값은 건드리지 않는다.
+- **은퇴**: 신규 은퇴 대상 0건(95개 기존 유지) — 은퇴 목록 재적용
+  불필요.
+- **다음 라운드 예고**: 확장 56종의 2차 결합 라운드. 강세 앵커(Log/Sheet/
+  Statement/Tracker/Planner/Calendar/Scheduler/Journal/Directory/Capacity
+  정원/Fee) × 신규 도메인어 조합이 통과 후보군. Usage/Episode/Matrix/
+  Cycle은 "실제 운영·소비 개념 앞단어"와 결합할 때만 제안·승인 방향 유지.
