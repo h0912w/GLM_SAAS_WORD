@@ -2428,3 +2428,37 @@ Model/Lot/Availability/Eligibility))
   Statement/Tracker/Planner/Calendar/Scheduler/Journal/Directory/Capacity
   정원/Fee) × 신규 도메인어 조합이 통과 후보군. Usage/Episode/Matrix/
   Cycle은 "실제 운영·소비 개념 앞단어"와 결합할 때만 제안·승인 방향 유지.
+
+### RUN-20260908-034755-KST (2026-09-08) — 카나리아 불일치 정정 + 대규모 재검증 첫 전면 실시
+- **라운드 숫자**: 생성 10,000 / 1차 승인 1,152(청크 50개) / 레드팀 재검증 1,150건
+  전면 반박 검토 → **45건 반박 성립으로 뒤집음(3.9%)** → 최종 승인 1,105 /
+  KP조회 1,105 / KP통과 13(라운드 통과율 0.13%). 정체 점검 `stagnant`
+  (직전 0.12% 대비 +8.3%). 승인율 이상탐지 정상(z=-1.87).
+- **골든셋 카나리아 불일치 원인(판정 프로토콜 정정)**: `Ledger Sentinel`을
+  첫 청크에서 "Sentinel은 Monitor/Tracker와 의미 중복"으로 기각해 골든셋
+  정답(승인)과 어긋났다. 원인은 **의미중복 기준 오적용** — 의미중복은 배치·
+  ledger 내 실제 기존 승인 제목과의 실질 중복으로 판정해야 하고, 추상적
+  유의어 관계(Sentinel≈Monitor≈Tracker)만으로 기각하면 안 된다. Sentinel은
+  파수·감시 도구 은유로 독립 성립(Microsoft Sentinel 등 실제 제품명 관례).
+  향후 Sentinel/Watcher/Guardian 계열은 동의어 접기(DUP fold) 대상이 아니라
+  독립 도구 은유로 판정한다. (재검증 자체는 canary가 1차에서 이미 거절돼
+  재검증 요청에 미포함 — 구조상 canary는 1차 판정 품질 신호로만 작동함을 확인)
+- **재검증 45건 반박 내역(초기 청크 판정의 정정)**: 자격증명군(Biometric
+  Capacity/Usage — Password 준용), 건축 Account/Agreement/Eligibility 앵커
+  미확정 9건(Cabinetry/Carpentry/Countertop/Gutter/Masonry/Patio/Siding),
+  증상군(Cavity — Toothache 준용), 구조물(Column — Stairs 준용), 수식
+  형용사(Consecutive/Prior/Public), 기간 개념(Quarter/Excess — Grace 준용),
+  해충군(Rodent — Mosquito 준용), 문서 산출물(Obituary/Syllabus),
+  정크 패턴(Igniter Followup), 물질군(Oil/Refrigerant/Refill),
+  follower 위반(Gate/Recipe/Ticket Usage — 승인된 Capacity 없음),
+  Flow 앵커(Stock Flow). 반박 관점이 라운드 초반부의 느슨한 승인을
+  후반부 확립 규칙으로 정정 — **재검증 구조의 실측 효과 첫 확인**.
+- **KP통과 13건**: Debit Note **33,100**(이번 라운드 최대, 실제 회계 문서),
+  Debit Memo 5,400, Application Usage 5,400, Electrical History 3,600,
+  Concrete History 2,400, Formula Capacity 2,400, Loading Capacity 2,900,
+  Payload Capacity 2,900, Remittance Tax 2,900, Prior Approval 1,300,
+  Ceramic Usage 1,300, Class Usage 1,300, Material Usage 1,900. 금융
+  서류 앵커(Note/Memo)와 처리 정원 라인의 검색 수요 재확인.
+- **은퇴**: 신규 은퇴 대상 0건(95개 기존 유지).
+- **다음 라운드 예고**: 일반 생성 라운드. Sentinel 계열 판정 정렬 유지,
+  금융 서류 앵커(Note/Memo/Tax/History)와 정원 라인이 강세 후보군.
