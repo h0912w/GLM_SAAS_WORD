@@ -2509,3 +2509,60 @@ Model/Lot/Availability/Eligibility))
   구체적 장소·사물·서비스 명사) 준수 + 의도적 반대 방향 대조 실험 1개 포함
   (코드 강제 요구). 금융 시세 도구(Alert/Chart/Ticker)의 KP 실측 확인이
   다음 라운드 핵심 검증 과제.
+
+### RUN-20260908-214143-KST (2026-09-08~09) — 병합 풀 완전 고갈 → 자가확장 트리거 + 대규모 레드팀 재검증 첫 전면 실시
+- **라운드 숫자**: 생성 10,000(청크 51개: 200×50+7) / 1차 AI 승인 1,697 / 레드팀
+  재검증 109건 반박 성립 → 최종 승인 1,588 / KP조회 1,588 / KP통과 1(라운드 통과율
+  0.01%). 정체 점검 `declining`(직전 0.16% 대비 -93.6%). 골든셋 6/7(불일치 1건 →
+  재검증 트리거 요인). 승인율 이상탐지 정상(z=-1.49). 신규 은퇴 0건. 누적 80라운드
+  도달로 principle_reverification 주기 도래 — 실행 완료, 보고서는
+  output/_pipeline/analysis/principle_reverification_RUN-20260908-214143-KST.json.
+- **병합 풀 완전 고갈 → expand_word_bank 트리거(설계된 자가확장 진입)**: 신규 74건
+  확장(dental 22 + food_service 22 + travel_tourism 20 + 기능어 10) 후 10,000 생성
+  성공. dental에서 코드가 강제하는 의도적 대조 실험으로 원칙 13의 B2C 역전 단서를
+  직접 시험하는 두 축 분할: 일상 웰니스 12건(everyday_wellness_noun:
+  Toothbrush/Smile/Floss 등) vs B2C 임상 검색어 10건(b2c_clinical_search_term:
+  Tartar/Fluoride/Gingivitis 등) — 양축의 KP 실측 비교가 다음 라운드 핵심 검증
+  과제.
+- **대규모 레드팀 재검증(golden mismatch 트리거) — 1,697건 중 109건(6.4%) 반박
+  성립**: 기각이 뚜렷한 결합 불성립 라인에 집중됐다 — Booth(가구·좌석 결합, 12건),
+  Registry(6), 여행·음식 Journal(6), Summary(8), List(5), Tracker 추상(5),
+  Tournament 불성립(Bilingual/Editing/Gallery/Latte/Snorkeling — Workout
+  Tournament만 생존), Fee 속성(Desert/Winery/Endodontics 등 6), 여행
+  Log/Monitor/Chart/Planner/Scheduler 추상, Commission/Minor/Tour/Test/Dine
+  다의어, 음식점 Table 다의어. **교훈: 1차 판정 승인의 ~6%가 결합 불성립을
+  놓쳤고 재검증 구조가 실제로 걸러냈다 — 이번 라운드 유일 KP 통과가 재검증 생존군에서
+  나왔다.** 단, 반박 109건 전부가 1차 판정 결함은 아니고 재검증 지침(적극 반박)이
+  엄격한 쪽으로 당긴 효과도 섞여 있다.
+- **이번 라운드 신규 기능어 중 Gift/Retreat/Tournament는 1차 승인 상당수가
+  재검증에서 뒤집혔다**: 세 기능어의 결합 대부분이 실제 서비스를 지시하지 못함으로
+  기각(예외: Workout Tournament, 체험 선물권 성립). 이 3종의 KP 실측 기대치는
+  하향 조정할 것. 반면 Tutorial/Handbook(searchable_content_format_noun)은
+  logistics/legal/finance/recruiting/hr_payroll/customer_support/healthcare/
+  music_lessons/real_estate/media_publishing/construction/plumbing/car_wash로
+  대량 승인 — 신규 기능어 10종 중 양극화가 뚜렷했다.
+- **KP통과 1건**: Immunization Handbook **6,600**(경쟁지수 0) — 신규 기능어
+  Tutorial/Handbook 라인의 첫 KP 실측이 즉시 통과. searchable_content_format_noun
+  패턴의 강한 초기 신호이며 원칙 14(소비자 실검색 콘텐츠 형식 명사)와 정합.
+- **저하 신호 해석(능력 저하 아님, 3요인 복합)**: (1) 이번 승인 1,588건이 신규
+  확장어(niche B2C 여행·음식·임상) 조합에 쏠려 수요 분포 자체가 희박, (2) 재검증이
+  109건을 걸러 통과 후보군 감소, (3) 직전 라운드가 금융 실검색어(Stock Assistant
+  246,000 포함 8통과)의 이상 고점이라 대비가 극단화. 후보 구성 변화 + 재검증 강화의
+  기계적 결과로 해석하며, dental 양축 실측과 Tutorial/Handbook 후속 실측으로 판단
+  갱신.
+- **원칙 재검증 결과(다음 세션 문서 갱신 과제로 HANDOFF 등재)**: 원칙
+  1/3/4/5/6/8/9/10/11/12/13/17 유지·반박 불성립. (a) 원칙 14 → validated 승격
+  검토(Questionnaire 재현 2회, 승격 조건 사실상 충족). (b) 원칙 2 교란 지적(실패
+  라운드의 도메인어가 일상어/전문용어로 통제 안 됨 — 원칙 13과 논리 충돌, 일상어
+  한정 재시험 전 확정 근거 인용 금지). (c) 원칙 7/15 순환성(판정 라인이 속성 조합
+  114건 전부 기각해 반증 경로 차단 — 실재 도구를 지시하는 속성 결합 승인 경로
+  복원 여부 판단 필요). (d) 원칙 16 문구 결함(Load 명확성 전제 누락 — Load가
+  명확성 판정을 통과하는 경우에 한해 귀속한다는 전제 명시 개정 필요). (e) 코드
+  권고: 핵심 원칙 증분 수정 대신 전체 실측 데이터로 재도출 고려(드리프트 방지).
+- **판정 정합 유지**: 여행 Log 기각(Backpacker/Parasailing)과 dental 기록 Log 유지
+  구분, Booth/Registry/Journal 등 위 라인 전체 일관 적용, Carrier(보험/운송)·
+  Minor(미성년/부전공) 다의어 기각 확립.
+- **다음 라운드 예고(사용자 중단 지시로 다음 세션 과제)**: dental 양축(everyday
+  vs clinical) KP 실측 비교, Tutorial/Handbook·Timetable/Opinion/Recommendation/
+  Seminar 후속 실측, Gift/Retreat/Tournament 실측(기대치 하향), 원칙 재검증 보고서
+  5건 반영 갱신.
