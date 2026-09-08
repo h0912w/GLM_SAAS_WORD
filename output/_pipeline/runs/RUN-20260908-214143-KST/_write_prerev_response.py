@@ -1,0 +1,132 @@
+import json, os
+from datetime import datetime, timezone, timedelta
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+JDIR = os.path.join(HERE, "judgment")
+REQ = os.path.join(JDIR, "principle_reverification_round1_request.json")
+RESP = os.path.join(JDIR, "principle_reverification_round1_response.json")
+
+with open(REQ, encoding="utf-8") as f:
+    req = json.load(f)
+
+D = [
+    {
+        "title": "원칙1: 일상 흔한 명사 조건 불충분 — 금융거래 표면형 기본전략 강등, 속성/식별 축으로 대체",
+        "approve": True,
+        "confidence": 0.65,
+        "reason": "강등 결정 자체는 반례 없이 유지된다(금융 축 20시도 4적중, Profit 0% 은퇴 vs 속성 축 Type 9.91%). 반박 시도: 강등 후 첫 대형 라운드(RUN-20260908-193920)에서 속성/식별 축 KP 통과가 0이었다 — 새 기본전략도 직접 이득은 미입증. 다만 같은 라운드에서 속성 조합 114건이 1차 판정 전부 기각돼 시장 도달 자체가 없었으므로 교란된 관측이다. 결론: 강등은 유지하되 '속성/식별 축이 새 기본전략'도 확정이 아니라 가설로 기록할 것.",
+    },
+    {
+        "title": "원칙2: 도메인어 단독 확장 우선순위 하향 — 2회 독립 실패(무확장 기준 하회)",
+        "approve": False,
+        "confidence": 0.6,
+        "reason": "재검증 필요 — 결론이 원칙13(validated)과 논리적으로 충돌한다. 원칙2의 2회 실패 라운드(RUN-20260821-003914 0.67%, RUN-20260821-012932 0.96%)의 도메인어는 일상어/전문용어로 통제되지 않았고(Realtor 상표 사례 포함), 이후 승격된 원칙13은 '일상어 도메인어는 통하고 내부자 전문용어는 죽는다'를 2라운드 단어 단위 대조로 증명했다(logistics 일상 3개만 통과, healthcare 일상 팔 평균 4.1% vs 내부자 0.6%). 즉 '도메인어 확장이 무효'가 아니라 '전문용어 도메인어 확장이 무효'일 가능성을 배제하지 못했다 — 일상어 한정 도메인어 단독 확장을 한 번 재시험하기 전까지 '확장 우선순위 하향'을 확정 근거로 인용하지 말 것.",
+    },
+    {
+        "title": "원칙3: 실제 상표·등록 증명표장 도메인어 사전 회피(validated)",
+        "approve": True,
+        "confidence": 0.85,
+        "reason": "반례 없음. 직전 라운드에서도 Bass Tracker(TRACKER Boats) 상표 기각이 발생해 패턴이 계속 실재함 확인. Realtor류 멤버십 증명표장 경계 조언도 유효.",
+    },
+    {
+        "title": "원칙4: 한 배치 기능어끼리 뜻이 겹치지 않게(validated)",
+        "approve": True,
+        "confidence": 0.75,
+        "reason": "반례 없음. 동의어 공존이 승인률을 흔드는 메커니즘에 대한 반박 근거는 이번에도 없었다.",
+    },
+    {
+        "title": "원칙5: 은퇴 패턴(SaaS 전문용어풍 합성어) 재제안 금지",
+        "approve": True,
+        "confidence": 0.7,
+        "reason": "반면교사(은퇴 계열 신조어 재제안 실패) 미발생 — candidate 유지가 정당하고 반증 시도도 실패했다. 승격 조건 그대로 대기.",
+    },
+    {
+        "title": "원칙6: 제안 전 주입된 전체 풀(전 업계 도메인어+기능어) 실제 대조",
+        "approve": True,
+        "confidence": 0.75,
+        "reason": "2026-09-06 정정(코드가 이미 목록을 주입하므로 판정자 대조 절차 고정) 이후 중복등록 재발 없음. 반박 불성립. 저장 시점 중복 경고 코드화 검토(HANDOFF 등재분)는 여전히 미처리 과제.",
+    },
+    {
+        "title": "원칙7: 범용 결합력 중에서도 구체적 식별/정보 대상이 추상 스키마 용어를 이김(validated)",
+        "approve": True,
+        "confidence": 0.65,
+        "reason": "기존 시장 근거(Identifier 2.19% vs Category/Attribute/Field 0.4~0.8%, Type 31통과)는 반례 없이 유지. 그러나 구조적 결함 발견: 직전 라운드에서 속성/식별 기능어 조합 114건(Number 7, Type 10, Identifier 8 등)이 1차 판정에서 전부 기각됐다 — 재정렬 판정 라인이 이 원칙의 시장 재검증 경로를 차단해 원칙이 반증 불가능한 순환 구조에 빠졌다. 원칙 유지하되 다음 세션이 판정 라인과의 관계를 재정리할 것: '실재 도구(사이즈 선택기, 타입 분류기 등)를 지시하는 속성 결합은 승인' 경로가 실제로 작동하는지 다음 청크부터 점검.",
+    },
+    {
+        "title": "원칙8: 판촉/인센티브 명사 기능어 금지(validated)",
+        "approve": True,
+        "confidence": 0.85,
+        "reason": "신규 시험 없음, 반례 없음. 시장 구조 설명(광고 경쟁 포화 카테고리)에 대한 반박 근거 없음.",
+    },
+    {
+        "title": "원칙9: 회계 상태/차액 추상 명사(Overdue/Payoff/Overage류) 기능어 금지",
+        "approve": True,
+        "confidence": 0.7,
+        "reason": "반면교사 미발생, candidate 유지 정당. 경계 확인: 직전 라운드에서 Furniture Depreciation이 KP 통과했지만 이는 '상태/차액'이 아니라 자산 세무의 실제 검색 쿼리로 원칙 범위 밖 — 오히려 원칙이 '회계 추상 명사 전반'으로 확대 해석되지 않도록 범위 한정('두 값의 차이나 시간적 상태')을 명시할 것.",
+    },
+    {
+        "title": "원칙10: 시각 구조화 문서(Diagram/Graph) 승자 — 단일어 관용구 한정, Flowchart류 제외",
+        "approve": True,
+        "confidence": 0.7,
+        "reason": "Diagram 누적 상위권 유지, Flowchart 은퇴 경계 규칙도 반례 없음. 반박 시도(시각 문서 카테고리 자체 반증) 불성립.",
+    },
+    {
+        "title": "원칙11: 소통/알림 계열(Notification/Message) 강한 기능어 후보(validated)",
+        "approve": True,
+        "confidence": 0.65,
+        "reason": "직접 반례 없음. 다만 근거가 RUN-20260827 두 라운드에 머물러 있고 직전 대형 라운드의 소통 계열 KP 통과는 0건 — 재현 관측이 축적되지 않아 근거가 노후화 중이다. 다음 기능어 확장 시 잔여 조합 통과 여부를 성과 리포트로 확인할 것.",
+    },
+    {
+        "title": "원칙12: 산출값을 알려주는 도구(Calculator) 강한 기능어 후보",
+        "approve": True,
+        "confidence": 0.7,
+        "reason": "직전 라운드에서 Chord Calculator KP 통과 — Calculator 자체의 강함 재확인. 반박 시도: 인접어 확장(Estimator/Converter/Generator)은 이번 라운드 KP 통과 0으로 승격 조건(인접어 독립 시도 상위권 재현)은 여전히 미충족 — 표면형(-or/-er)이 아니라 '계산해서 숫자를 알려줌'이라는 기능 명세가 본체라는 본문 해석이 오히려 강화됨.",
+    },
+    {
+        "title": "원칙13: 업계 내부자 전문용어 도메인어 저조 — 일상어 우세(validated, B2C 역전 단서 포함)",
+        "approve": True,
+        "confidence": 0.8,
+        "reason": "반례 없음. 직전 라운드 도메인어도 일상 사물·악기 명사 중심으로 운영돼 원칙과 정합. B2C 소비자 직접 검색 업계(Escrow류) 역전 단서는 여전히 미시험 — 해당 유형 업계 확장 시 우선 확인할 것.",
+    },
+    {
+        "title": "원칙14: 소비자 실검색 콘텐츠 형식 명사(Review류) 강한 기능어 후보",
+        "approve": True,
+        "confidence": 0.75,
+        "reason": "승격 조건이 사실상 충족됐다 — 직전 라운드에서 Method Questionnaire·Screening Questionnaire가 KP 통과했고 이는 Review 다음으로 '소비자가 그대로 검색하는 콘텐츠 형식 명사'가 사전기각 오염 없이 시장에서 재현된 두 번째 관측이다. 반박 시도(일회성 우연) 불성립. 다음 세션이 문서 갱신 시 candidate→validated 승격을 검토할 것.",
+    },
+    {
+        "title": "원칙15: 규격·분류·측정 속성 관용구(Size/Type류) 강한 기능어 후보",
+        "approve": True,
+        "confidence": 0.6,
+        "reason": "기존 근거(Type 22통과, Size follows Type 승인 규칙)는 유지. 그러나 원칙7과 동일한 순환성이 확인됐다: 직전 라운드에서 Size 7·Type 10·Length 7·Range 9 등 속성 조합 114건이 전부 1차 기각돼 승격 조건(Count/Level/Depth/Capacity 독립 시도)이 현재 판정 라인 아래에서 원리적으로 시험 불가다. 원칙 자체는 반증 안 됐지만 승격 경로가 끊긴 상태 — 다음 세션이 '실재 구매 판단 도구를 지시하는 속성 결합'의 승인 경로를 복원할지 판단할 것.",
+    },
+    {
+        "title": "원칙16: 동일 앵커의 Frequency/Load 쌍이 함께 나오면 Load 승인·Frequency 중복처리(validated)",
+        "approve": False,
+        "confidence": 0.7,
+        "reason": "문구 결함으로 재검증 필요 — 직전 라운드에 F/L 공유 앵커 9개(Accompanist/Accordion/Bass/Deed/Ensemble/Mandolin/Metronome/Songbook/Ukulele)가 있었고 18건 전부 'Load 불성립'·'Frequency 불성립' 양측 기각으로 마무리됐다. 귀속 규칙을 적용하지 않은 이유는 Load 자체가 그 앵커에서 실재 서비스를 형성하지 않기 때문이고(중복 산출도 없어 원칙의 목적은 지켜짐), 그 판정 자체는 옳다. 문제는 원칙 문구가 'Load를 앵커로 승인'을 무조건문으로 쓰고 있어 'Load가 명확성 판정을 통과하는 경우에 한해 귀속한다'는 전제가 없으면 저지능 모델이 불성립 Load를 무조건 승인할 수 있다는 점이다. 원칙 16에 전제 조건을 명시하는 개정이 필요(예외 조항: Frequency 물리량·주기 설정과 대칭되는 Load 측 명확성 전제).",
+    },
+    {
+        "title": "원칙17: 응답 기록 전 승인 사유가 해당 행의 title·industry를 서술하는지 대조(validated)",
+        "approve": True,
+        "confidence": 0.8,
+        "reason": "직전 라운드 26청크에서 인덱스 순 전사+전체 커버리지 assert로 기록했고 사유-제목 불일치 0건, 재검증 뒤집기도 0건이었다(승격 후 2라운드째 무재발). 절차 유효.",
+    },
+]
+
+assert len(req["items"]) == 1 and "accumulated_learnings" in req["items"][0]
+assert len(D) == 17, len(D)
+kst = timezone(timedelta(hours=9))
+resp = {
+    "decisions": D,
+    "judged_at": datetime.now(kst).isoformat(),
+    "judged_by": "main-orchestrator",
+    "request_hash": req["request_hash"],
+    "round": req["round"],
+    "run_id": req["run_id"],
+    "stage": req["stage"],
+}
+with open(RESP, "w", encoding="utf-8", newline="\n") as f:
+    json.dump(resp, f, ensure_ascii=False, indent=2)
+print(f"written: {RESP}")
+print(f"approve={sum(1 for d in D if d['approve'])} refute={sum(1 for d in D if not d['approve'])} of {len(D)}")

@@ -1,0 +1,11 @@
+request_hash: 0461e14b62c558c1e79d2deaa8084018d6c1c54ec0592edc16f26c0ac274eb3e
+keys: generated_at, instructions, items, request_hash, round, run_id, stage
+round: 1  run_id: RUN-20260908-214143-KST  stage: expand_word_bank
+generated_at: 2026-09-08T21:52:23.765831+09:00
+instructions: [누적 노하우 - 반드시 먼저 읽을 것] 입력에 포함된 accumulated_learnings는 과거 라운드들의 시행착오를 현재 세션(들)이 memory/WORD_GENERATION_LEARNINGS.md에 직접 기록해 쌓아온 핵심 원칙이다. 각 원칙에는 candidate 또는 validated 표시가 있다 - validated 원칙은 반드시 지켜라. candidate 원칙(관측 1건뿐이거나 여러 변수가 동시에 바뀐 라운드로만 뒷받침됨)은 참고하되 맹신하지 말고, 가능하면 이번 제안이 그 원칙 하나만(다른 변수는 그대로 두고) 독립
+round: 1
+run_id: RUN-20260908-214143-KST
+stage: expand_word_bank
+items len: 61
+item keys: existing_domain_words, industry
+=== instructions ===
