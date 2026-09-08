@@ -482,6 +482,13 @@ candidate; 최소 반복 근거와 QA를 통과해야 validated로 승격한다"
     실검색 콘텐츠 형식 명사 계열이 서로 다른 두 라운드(RUN-20260905,
     RUN-20260908)에서 같은 방향으로 재현됐고 반례는 없다. 재검증 전담
     판정도 "승격 조건이 사실상 충족"으로 확정했다.
+    **2026-09-09 후속 재현(RUN-20260909-024709-KST)**: 같은 계열의
+    Timetable(Exam 22,200·Test 22,200)·Tutorial(Saxophone 8,100)이
+    KP 통과 — 세 번째·네 번째 독립 단어 재현. 반면 같은 라운드에서
+    추상 상호작용 명사 Recommendation·Seminar는 AI 승인 대량(A 승인율
+    28.6%의 주요 기여분)이었음에도 KP 통과 0 → 은퇴 확정. "소비자 실검색
+    콘텐츠 형식" vs "추상 상호작용 명사"의 대비가 이 원칙의 예측력을
+    다시 확인했다.
 
 15. `candidate` (2026-09-06, RUN-20260906-022120-KST — 이 문서 최초 관측,
     Type이 등장 즉시 전체 기능어 1위로 등극)
@@ -2621,3 +2628,41 @@ Model/Lot/Availability/Eligibility))
   vs clinical) KP 실측 비교, Tutorial/Handbook·Timetable/Opinion/Recommendation/
   Seminar 후속 실측, Gift/Retreat/Tournament 실측(기대치 하향), 원칙 재검증 보고서
   5건 반영 갱신.
+
+### RUN-20260909-024709-KST (2026-09-09) — Timetable/Tutorial 첫 통과 + Recommendation/Seminar 은퇴 (expand_word_bank 없음)
+- **라운드 숫자**: 생성 10,000(청크 51개: 200×50+7) / AI 승인 2,855(28.6%,
+  직전 1,588 대비 +80%) / backlog 0 / KP조회 2,855 / KP통과 8(라운드 통과율
+  0.08%). 정체 점검 `improving`(직전 0.01% 대비 +700%). 골든셋 7/7(트리거
+  없음), 승인율 이상탐지 정상(z=-1.12), 재검증 미실시. 이전 라운드 자가확장
+  풀(74단어)로 생성 — expand_word_bank 미발동.
+- **KP통과 8건**: Exam Timetable 22,200 / Test Timetable 22,200 / Saxophone
+  Tutorial 8,100 / Desert Review 5,400 / Sealant Video 2,400 / Desert Quote
+  1,900 / Espresso Log 1,900 / Pastry Portal 1,600 — 모두 경쟁지수 0.
+- **원칙 14 계열 3·4번째 독립 재현**: Timetable(시험·수업 일정 콘텐츠,
+  22,200 상위 검색량)·Tutorial(악기 튜토리얼) 통과. Handbook은 이번 0건
+  (누적 Immunization Handbook 6,600 단건). Opinion 통과 0. searchable
+  콘텐츠 형식 vs 그 외 형식의 양극화가 계속 확인됨.
+- **Recommendation·Seminar 은퇴(신규 2, 누적 97)**: 세션의 family extension
+  판정 라인으로 대량 AI 승인됐으나(AI 승인율 +80%의 주요 기여분) KP 통과 0
+  확정 → `--apply-retirement` 적용. **교훈: AI 승인율 상승과 시장 통과는
+  분리된 지표다** — 이번 승인율 급등(+80%)은 능력 향상이 아니라 세션이
+  승인 기준을 느슨히 적용한 결합군(추상 상호작용 명사)의 조합 구성 변화
+  효과였고, 승인율 이상탐지(z=-1.12 "정상")는 이를 잡아내지 못했다. 추상
+  상호작용 명사(Recommendation/Seminar/Opinion류) 결합은 AI 승인되더라도
+  검색 수요가 없다는 실측이 원칙 1 본문의 "승인≠통과" 논의를 재확인.
+- **dental 양축 첫 실측(부분 신호, 결정 유보)**: b2c_clinical 축
+  Sealant Video 2,400 통과, everyday 축(Toothbrush/Smile/Floss) 통과 0.
+  단 이번 라운드는 10,000개 전 업계 혼합이라 양축 표본이 격리돼 있지 않음
+  — 결정적 비교는 별도 격리 라운드 과제로 유지.
+- **Gift/Retreat/Tournament: 통과 0** — 직전 라운드 예고대로 기대치 하향
+  유지. 이 3종 결합은 다음 expand_word_bank에서 재제안 금지 후보.
+- **상표 거절 라인 선례 확립**: 유명 SaaS 상품명 Intercom 결합 7건
+  전부 `R F T F`(상표 열만 F, confidence 0.75) — 청크 내 일관 적용.
+  다른 유명 SaaS 브랜드 결합도 동일 라인 적용할 것.
+- **도메인어 확장 실측**: Desert(travel 지형어) Review/Quote 통과(5,400/
+  1,900), Saxophone(music_lessons) Tutorial 8,100 — 소비자 실검색 도메인어
+  + 콘텐츠 형식 결합이 이번 라운드 통과 8건 중 5건을 차지(Desert×2,
+  Saxophone, Exam/Test는 Exam·Test 도메인어).
+- **다음 라운드 과제**: dental 양축 격리 비교, Gift/Retreat/Tournament
+  재확장 금지 유지, Handbook 후속 실측(누적 1건 — 결론 유보), 추상 상호작용
+  명사 재제안 금지(Recommendation/Seminar 은퇴 완료, Opinion은 시도 미달).
