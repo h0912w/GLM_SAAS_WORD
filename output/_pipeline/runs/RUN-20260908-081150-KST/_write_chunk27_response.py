@@ -1,0 +1,265 @@
+import json, os
+from datetime import datetime, timezone, timedelta
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+JDIR = os.path.join(HERE, "judgment")
+REQ = os.path.join(JDIR, "review_titles_chunk27_round1_request.json")
+RESP = os.path.join(JDIR, "review_titles_chunk27_round1_response.json")
+
+with open(REQ, encoding="utf-8") as f:
+    req = json.load(f)
+
+APPROVE = {
+    7: (0.6, "중개사 성과 평가는 실제 부동산 운영 항목 - Evaluation 라인 실재"),
+    38: (0.6, "인프라 프로비저닝 성능 평가는 실제 DevOps 운영 항목 - Evaluation 라인 실재"),
+    52: (0.6, "교실 수업 효과 평가는 실제 교육 운영 항목 - Evaluation 라인 실재"),
+    61: (0.6, "검인 재산 매각 관리는 실제 법률·부동산 운영 항목(법원 감독 매각) - Sale 라인 실재"),
+    66: (0.6, "영상 콘텐츠 성과 평가는 실제 미디어 운영 항목 - Evaluation 라인 실재"),
+    87: (0.6, "드레이지 운송 성과 평가는 실제 물류 운영 항목 - Evaluation 라인 실재"),
+    118: (0.6, "보안 위협 평가는 실제 보안 운영 표준 항목 - Evaluation 라인 실재"),
+    132: (0.6, "셔틀 서비스 성과 평가는 실제 숙박 운영 항목 - Evaluation 라인 실재"),
+    166: (0.6, "압류 재산 평가는 실제 금융·부동산 운영 항목 - Evaluation 라인 실재"),
+}
+
+DUP_REJECT = {
+    67: "Survey와 Questionnaire는 동일한 설문 개념의 동의어 - 의미 중복",
+}
+
+REJECT_REASON = {
+    1: "연습 기한 결합은 Due 금전·기한 항목 불성립",
+    2: "발표회 변환기 결합은 Converter 불성립",
+    3: "오디션 승인 결합은 Authorization 불성립",
+    4: "조율 임명 결합은 Nomination 불성립",
+    5: "이론 유형 결합은 Type 속성 불성립",
+    6: "코드 수신 결합은 Reception 불성립",
+    8: "보험사 설문 결합은 Questionnaire 결합 대상 불분명(Carrier Evaluation 기각 준용)",
+    9: "노조 가동률 결합은 Utilization 불성립",
+    10: "단열 수당 결합은 Benefit 결합 불성립",
+    11: "과외 요건 결합은 Requirement 결합 대상 불분명",
+    12: "포트홀 감가상각 결합은 Depreciation 결합 불성립",
+    13: "뉴스레터 사직 결합은 Resignation 결합 불성립",
+    14: "복리후생 위험 결합은 Hazard 결합 불성립",
+    15: "불만 보증인 결합은 Guarantor 결합 불성립",
+    16: "범퍼 조율기 결합은 Tuner 결합 불성립",
+    17: "템포 대장간 결합은 Forge 불성립",
+    18: "레퍼토리 구역 결합은 Zone 기각 계열 불성립",
+    19: "합주단 등록부 결합은 Register 결합 대상 불분명",
+    20: "반주자 로비 결합은 Lobby 기각 계열 불성립",
+    21: "메트로놈 노트 결합은 Note 결합 대상 불분명",
+    22: "증서 조회 결합은 View 불성립",
+    23: "곡집 갱신 결합은 Update 불성립",
+    24: "교본 티켓 결합은 Ticket 물건 불성립",
+    25: "캠프 목록 결합은 List 결합 대상 불분명",
+    26: "성가대 통행권 결합은 Pass 불성립",
+    27: "은퇴 배지 결합은 Badge 물건 불성립",
+    28: "합주단 메모 결합은 Memo 결합 대상 불분명",
+    29: "상속 탭 결합은 Tab 물건 불성립",
+    30: "멜로디 회람 결합은 Circular 불성립",
+    31: "리듬 요약 재전달 결합은 Recap 앵커 불성립",
+    32: "비트 단위 결합은 Unit 물건 불성립",
+    33: "음정 요금 결합은 Fare 금전 항목 불성립",
+    34: "피아노 몫 결합은 Quota 불성립",
+    35: "기타 선급금 결합은 Advance 금전 항목 불성립",
+    36: "바이올린 템플릿 결합은 Template 콘텐츠 불성립",
+    37: "드럼 높이 결합은 Height 속성 불성립",
+    39: "대기열 설문 결합은 Questionnaire 결합 대상 불분명(Queue Evaluation 기각 준용)",
+    40: "소싱 가동률 결합은 Utilization 불성립",
+    41: "배지 수당 결합은 Benefit 결합 불성립",
+    42: "트레이드 요건 결합은 Requirement 결합 대상 불분명",
+    43: "처방 사직 결합은 Resignation 결합 불성립",
+    44: "치료 위험 결합은 Hazard 결합 불성립",
+    45: "청구 조율기 결합은 Tuner 결합 불성립",
+    46: "보컬 기반 결합은 Base 불성립",
+    47: "우쿨렐레 라인 결합은 Line 불성립",
+    48: "플루트 품목 결합은 Item 물건 불성립",
+    49: "첼로 도식 결합은 Schematic 불성립",
+    50: "색소폰 모델 결합은 Model 속성 불성립",
+    51: "트럼펫 사용량 결합은 Usage 속성 불성립",
+    53: "윤작 가동률 결합은 Utilization 불성립",
+    54: "스튜어드십 요건 결합은 Requirement 결합 대상 불분명",
+    55: "콘텐츠 사직 결합은 Resignation 결합 불성립",
+    56: "발행 부수 위험 결합은 Hazard 결합 불성립",
+    57: "개통 조율기 결합은 Tuner 결합 불성립",
+    58: "클라리넷 포털 결합은 Portal 기각 계열 불성립",
+    59: "베이스 태그 결합은 Tag 물건 불성립",
+    60: "오르간 채무 결합은 Debt 불성립",
+    62: "하프 개요 결합은 Outline 콘텐츠 불성립",
+    63: "오보에 승인 결합은 Authorization 불성립",
+    64: "비올라 조리법 결합은 Recipe 불성립",
+    65: "트롬본 상태 결합은 Condition 속성 불성립",
+    68: "커버 가동률 결합은 Utilization 불성립",
+    69: "녹화 수당 결합은 Benefit 결합 불성립",
+    70: "캘리브레이션 요건 결합은 Requirement 결합 대상 불분명",
+    71: "식사 감가상각 결합은 Depreciation 결합 불성립",
+    72: "중절 사직 결합은 Resignation 결합 불성립",
+    73: "미백 위험 결합은 Hazard 결합 불성립",
+    74: "기저귀 보증인 결합은 Guarantor 결합 불성립",
+    75: "의류 조율기 결합은 Tuner 결합 불성립",
+    76: "타악기 감시 결합은 Watch 불성립",
+    77: "만돌린 관리자 결합은 Manager 불성립",
+    78: "아코디언 롤 결합은 Roll 결합 불성립",
+    79: "하모니카 표 결합은 Table 콘텐츠 불성립",
+    80: "레슨 펀드 결합은 Fund 불성립",
+    81: "연습 보조금 결합은 Subsidy 금전 항목 불성립",
+    82: "발표회 생성기 결합은 Generator 불성립",
+    83: "오디션 템플릿 결합은 Template 콘텐츠 불성립",
+    84: "조율 정정 결합은 Correction 불성립 - 조율 자체와 의미 중첩",
+    85: "이론 시계 결합은 Clock 불성립",
+    86: "코드 후속 결합은 Followup 불성립",
+    88: "중개사 설문 결합은 Questionnaire 결합 대상 불분명(Realtor Evaluation 기각 준용)",
+    89: "보험사 가동률 결합은 Utilization 불성립",
+    90: "노조 수당 결합은 Benefit 결합 불성립",
+    91: "단열 요건 결합은 Requirement 결합 대상 불분명",
+    92: "과외 감가상각 결합은 Depreciation 결합 불성립",
+    93: "포트홀 사직 결합은 Resignation 결합 불성립",
+    94: "뉴스레터 위험 결합은 Hazard 결합 불성립",
+    95: "복리후생 보증인 결합은 Guarantor 결합 불성립",
+    96: "불만 조율기 결합은 Tuner 결합 불성립",
+    97: "템포 캐스케이드 결합은 Cascade 불성립",
+    98: "레퍼토리 포털 결합은 Portal 기각 계열 불성립",
+    99: "합주단 운영 결합은 Ops 불성립 - 결합 대상 너무 일반적",
+    100: "반주자 전광판 결합은 Ticker 기각 계열 불성립",
+    101: "메트로놈 태그 결합은 Tag 물건 불성립",
+    102: "증서 이력 결합은 History 불성립",
+    103: "곡집 피드 결합은 Feed 불성립",
+    104: "교본 추정 결합은 Estimate 결합 대상 불분명 - 교본 대상 추정 불성립",
+    105: "캠프 표 결합은 Table 콘텐츠 불성립",
+    106: "성가대 바우처 결합은 Voucher 물건 불성립",
+    107: "은퇴 스텁 결합은 Stub 물건 불성립",
+    108: "합주단 몫 결합은 Quota 불성립",
+    109: "상속 게시판 결합은 Bulletin 불성립",
+    110: "멜로디 권고 결합은 Advisory 결합 대상 불분명",
+    111: "리듬 기재 결합은 Entry 결합 대상 불분명",
+    112: "비트 계획 결합은 Plan 결합 대상 불분명 - 계획 대상 불성립",
+    113: "음정 세금 결합은 Tax 금전 항목 불성립",
+    114: "피아노 탭 결합은 Tab 결합 대상 불분명 - 타브악기보·브라우저 탭 중 불명확",
+    115: "기타 과다금 결합은 Penalty 금전 항목 불성립",
+    116: "바이올린 가이드 결합은 Guide 콘텐츠 불성립",
+    117: "드럼 폭 결합은 Width 속성 불성립",
+    119: "프로비저닝 설문 결합은 Questionnaire 결합 대상 불분명(Provisioning Evaluation 기각 준용)",
+    120: "대기열 가동률 결합은 Utilization 불성립",
+    121: "소싱 수당 결합은 Benefit 결합 불성립",
+    122: "배지 요건 결합은 Requirement 결합 대상 불분명",
+    123: "트레이드 감가상각 결합은 Depreciation 결합 불성립",
+    124: "처방 위험 결합은 Hazard 결합 불성립",
+    125: "치료 보증인 결합은 Guarantor 결합 불성립",
+    126: "보컬 핵심 결합은 Core 불성립",
+    127: "우쿨렐레 창 결합은 Window 불성립",
+    128: "플루트 단위 결합은 Unit 물건 불성립",
+    129: "첼로 레이아웃 결합은 Layout 불성립",
+    130: "색소폰 가용성 결합은 Availability 속성 불성립",
+    131: "트럼펫 상태 결합은 Condition 속성 불성립",
+    133: "교실 설문 결합은 Questionnaire 결합 대상 불분명(Classroom Evaluation 기각 준용)",
+    134: "윤작 수당 결합은 Benefit 결합 불성립",
+    135: "스튜어드십 감가상각 결합은 Depreciation 결합 불성립",
+    136: "콘텐츠 위험 결합은 Hazard 결합 불성립",
+    137: "발행 부수 보증인 결합은 Guarantor 결합 불성립",
+    138: "클라리넷 콘솔 결합은 Console 불성립",
+    139: "베이스 프로필 결합은 Profile 불성립",
+    140: "오르간 펀드 결합은 Fund 불성립",
+    141: "검인 요금 결합은 Charge 금전 항목 불성립",
+    142: "하프 렌더링 결합은 Rendering 불성립",
+    143: "오보에 템플릿 결합은 Template 콘텐츠 불성립",
+    144: "비올라 영상 결합은 Video 콘텐츠 불성립",
+    145: "트롬본 습도 결합은 Humidity 속성 불성립",
+    146: "영상 설문 결합은 Questionnaire 결합 대상 불분명(Video Evaluation 기각 준용)",
+    147: "설문 가동률 결합은 Utilization 불성립",
+    148: "커버 수당 결합은 Benefit 결합 불성립",
+    149: "녹화 요건 결합은 Requirement 결합 대상 불분명",
+    150: "캘리브레이션 감가상각 결합은 Depreciation 결합 불성립",
+    151: "식사 사직 결합은 Resignation 결합 불성립",
+    152: "중절 위험 결합은 Hazard 결합 불성립",
+    153: "미백 보증인 결합은 Guarantor 결합 불성립",
+    154: "기저귀 조율기 결합은 Tuner 결합 불성립",
+    155: "타악기 범위 결합은 Scope 불성립",
+    156: "만돌린 엔진 결합은 Engine 불성립",
+    157: "아코디언 보고서 결합은 Report 결합 대상 불분명",
+    158: "하모니카 전표 결합은 Slip 물건 불성립",
+    159: "레슨 현금 결합은 Cash 불성립",
+    160: "연습 할인 결합은 Discount 금전 항목 불성립",
+    161: "발표회 녹음기 결합은 Recorder 결합 대상 불분명 - 기기·행위 중 불명확",
+    162: "오디션 가이드 결합은 Guide 콘텐츠 불성립",
+    163: "조율 개정 결합은 Revision 불성립 - 조율 자체와 의미 중첩",
+    164: "이론 시간 결합은 Time 속성 불성립",
+    165: "코드 승인 결합은 Approval 불성립",
+    167: "드레이지 설문 결합은 Questionnaire 결합 대상 불분명(Drayage Evaluation 기각 준용)",
+    168: "중개사 가동률 결합은 Utilization 불성립",
+    169: "보험사 수당 결합은 Benefit 결합 불성립",
+    170: "노조 요건 결합은 Requirement 결합 대상 불분명",
+    171: "단열 감가상각 결합은 Depreciation 결합 불성립",
+    172: "과외 사직 결합은 Resignation 결합 불성립",
+    173: "포트홀 위험 결합은 Hazard 결합 불성립",
+    174: "뉴스레터 보증인 결합은 Guarantor 결합 불성립",
+    175: "복리후생 조율기 결합은 Tuner 결합 불성립",
+    176: "템포 브리지 결합은 Bridge 불성립",
+    177: "레퍼토리 콘솔 결합은 Console 불성립",
+    178: "합주단 플레이북 결합은 Playbook 콘텐츠 불성립",
+    179: "반주자 라인 결합은 Line 불성립",
+    180: "메트로놈 프로필 결합은 Profile 불성립",
+    181: "증서 파일 결합은 File 물건 불성립",
+    182: "곡집 초안 결합은 Draft 불성립",
+    183: "교본 주문 결합은 Order 결합 대상 불분명",
+    184: "캠프 전표 결합은 Slip 물건 불성립",
+    185: "성가대 배지 결합은 Badge 물건 불성립",
+    186: "은퇴 내역서 결합은 Statement 결합 대상 불분명",
+    187: "합주단 탭 결합은 Tab 결합 대상 불분명",
+    188: "상속 브리프 결합은 Brief 결합 대상 불분명",
+    189: "멜로디 청원 결합은 Petition 법원 문서 라인 불성립",
+    190: "리듬 수수료 결합은 Fee 금전 항목 불성립",
+    191: "비트 비용 결합은 Cost 불성립",
+    192: "음정 대출 결합은 Loan 불성립",
+    193: "피아노 게시판 결합은 Bulletin 불성립",
+    194: "기타 마크업 결합은 Markup 금전 항목 불성립",
+    195: "바이올린 등급 결합은 Rating 속성 불성립",
+    196: "드럼 온도 결합은 Temperature 속성 불성립",
+    197: "위협 설문 결합은 Questionnaire 결합 대상 불분명(Threat Evaluation 기각 준용)",
+    198: "프로비저닝 가동률 결합은 Utilization 불성립",
+    199: "대기열 수당 결합은 Benefit 결합 불성립",
+    200: "소싱 요건 결합은 Requirement 결합 대상 불분명",
+}
+
+n = len(req["items"])
+assert n == 200, n
+assert len(APPROVE) == 9, len(APPROVE)
+assert len(DUP_REJECT) == 1, len(DUP_REJECT)
+assert len(REJECT_REASON) == 190, len(REJECT_REASON)
+covered = set(APPROVE) | set(DUP_REJECT) | set(REJECT_REASON)
+missing = sorted(set(range(1, n + 1)) - covered)
+extra = sorted(covered - set(range(1, n + 1)))
+assert covered == set(range(1, n + 1)), f"missing={missing} extra={extra}"
+overlap = (set(APPROVE) & set(DUP_REJECT)) | (set(APPROVE) & set(REJECT_REASON)) | (set(DUP_REJECT) & set(REJECT_REASON))
+assert not overlap, f"overlapping indices: {sorted(overlap)}"
+
+decisions = []
+for i, item in enumerate(req["items"], 1):
+    title = item["title"]
+    if i in APPROVE:
+        conf, reason = APPROVE[i]
+        decisions.append({"title": title, "approve": True,
+                          "checks": {"clarity": True, "duplication": True, "trademark": True},
+                          "confidence": conf, "reason": reason})
+    elif i in DUP_REJECT:
+        decisions.append({"title": title, "approve": False,
+                          "checks": {"clarity": True, "duplication": False, "trademark": True},
+                          "confidence": 0.7, "reason": DUP_REJECT[i]})
+    else:
+        decisions.append({"title": title, "approve": False,
+                          "checks": {"clarity": False, "duplication": True, "trademark": True},
+                          "confidence": 0.7, "reason": REJECT_REASON[i]})
+
+assert len(decisions) == n
+approved = sum(1 for d in decisions if d["approve"])
+kst = timezone(timedelta(hours=9))
+resp = {
+    "decisions": decisions,
+    "judged_at": datetime.now(kst).isoformat(),
+    "judged_by": "main-orchestrator",
+    "request_hash": req["request_hash"],
+    "round": req["round"],
+    "run_id": req["run_id"],
+    "stage": req["stage"],
+}
+with open(RESP, "w", encoding="utf-8", newline="\n") as f:
+    json.dump(resp, f, ensure_ascii=False, indent=2)
+print(f"written: {RESP}")
+print(f"approve={approved} reject={len(decisions)-approved} (dup={len(DUP_REJECT)})")

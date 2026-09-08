@@ -1,0 +1,875 @@
+INSTRUCTIONS:
+아래 후보들은 1차 판정에서 이미 approve=true를 받았다. 당신의 역할은 그 판정에 동의하는 게 아니라 반박(refute)을 시도하는 것이다 - 명확성·의미중복·상표유사 세 기준을 다시 처음부터 독립적으로 적용하고, 1차 판정이 놓쳤을 만한 결함을 적극적으로 찾아라. 결함을 찾지 못하면(정말로 반박할 근거가 없으면)만 approve=true를 유지하고, 조금이라도 근거 있는 의심이 들면 approve=false로 뒤집고 reason에 무엇을 반박했는지 남겨라. original_reason 필드는 1차 판정자가 남긴 근거(있다면)이니 그것도 비판적으로 검토하라.
+
+ITEM0: {"industry": "music_lessons", "original_reason": "반주 준비·합주 계획 관리는 실제 음악 학습 운영 항목 - Plan 라인(Bass Plan 정합)", "title": "Accompanist Plan"}
+
+ALL 869 TITLES:
+1 Accompanist Plan [music_lessons] || 반주 준비·합주 계획 관리는 실제 음악 학습 운영 항목 - Plan 라인(Bass Plan 정합)
+2 Accompanist Scheduler [music_lessons] || 반주자 예약 일정 관리는 실제 음악 교육 운영 항목 - Scheduler 라인 정합
+3 Accompanist Score [music_lessons] || 반주자 악보 관리는 실제 음악 학습 도구 - Score 라인(Piano Score 정합)
+4 Accordion Plan [music_lessons] || 아코디언 레슨 연습 계획 관리는 실제 음악 학습 운영 항목 - Plan 라인(Bass Plan 정합)
+5 Accordion Scheduler [music_lessons] || 아코디언 레슨 일정 관리는 실제 학원 운영 항목 - Scheduler 라인(Method·Bass Scheduler 정합)
+6 Accordion Score [music_lessons] || 아코디언 악보 관리는 실제 음악 학습 도구 - Score 라인(Piano Score 정합)
+7 Activation Evaluation [telecom] || 회선 개통 상태 평가는 실제 통신 운영 항목 - Evaluation 라인 실재
+8 Adherence Evaluation [pharmacy] || 복약 순응도 평가는 실제 약국 표준 서비스 - Evaluation 라인 실재
+9 Adherence Questionnaire [pharmacy] || 복약 순응도 문진은 실제 약국 표준 문서 - Questionnaire 라인(Adherence Evaluation 정합)
+10 Adjuster Evaluation [insurance] || 손해사정사 성과 평가는 실제 보험 운영 항목 - Evaluation 라인 실재
+11 Adjustment Requirement [insurance] || 보상 조정 요건 관리는 실제 보험 운영 항목 - Requirement 라인 실재 결합
+12 Algae Evaluation [pool_maintenance_services] || 녹조·수질 평가는 실제 수영장 관리 표준 항목 - Evaluation 라인 실재
+13 Allergen Evaluation [food_service] || 알레르기 유발 물질 평가는 실제 외식업 식품안전 표준 항목 - Evaluation 라인 실재
+14 Allergen Questionnaire [food_service] || 고객 알레르기 문진은 실제 외식업 표준 문서 - Questionnaire 라인(Allergen Evaluation 정합)
+15 Allergen Requirement [food_service] || 알레르기 표시 요건 관리는 실제 외식업 규제 준수 항목 - Requirement 라인(Allergen Evaluation 정합)
+16 Alumni Evaluation [education] || 동문 네트워크 평가는 실제 교육 운영 항목 - Evaluation 라인 실재
+17 Alumni Questionnaire [education] || 동문 동향 설문은 실제 교육 운영 문서 - Questionnaire 라인 실재(alumni survey)
+18 Amenity Evaluation [hospitality] || 부대시설 성과 평가는 실제 숙박 운영 항목 - Evaluation 라인 실재
+19 Anesthesia Evaluation [dental] || 마취 전 환자 평가는 실제 치과 표준 절차 - Evaluation 라인 실재
+20 Anesthesia Questionnaire [dental] || 마취 전 환자 문진은 실제 치과 표준 문서 - Questionnaire 라인(Anesthesia Evaluation 정합)
+21 Anesthesia Requirement [dental] || 마취 전 금식·건강 요건 관리는 실제 치과 규제 준수 항목 - Requirement 라인(Anesthesia Evaluation 정합)
+22 Apostille Evaluation [interpreter_translation_services] || 아포스티유 문서 처리 서비스 평가는 실제 통번역 운영 항목 - Evaluation 라인 실재
+23 Appointment Evaluation [veterinary] || 진료 예약 평가는 실제 수의원 운영 항목 - Evaluation 라인 실재
+24 Appraisal Evaluation [real_estate] || 부동산 감정 평가는 실제 부동산 운영 항목 - Evaluation 라인 실재(appraisal)
+25 Appraisal Requirement [automotive] || 차량 감정 요건 관리는 실제 자동차 운영 항목 - Requirement 라인 실재 결합
+26 Archive Evaluation [media_publishing] || 아카이브 보존 상태 평가는 실제 출판 운영 항목 - Evaluation 라인 실재
+27 Archive Requirement [media_publishing] || 기록 보존 요건 관리는 실제 출판 운영 항목 - Requirement 라인 실재(retention requirements)
+28 Attendance Evaluation [events] || 행사 출석 평가는 실제 이벤트 운영 항목 - Evaluation 라인 실재(attendance)
+29 Attendance Requirement [events] || 출석 요건 관리는 실제 이벤트 운영 항목 - Requirement 라인 실재
+30 Attraction Evaluation [travel_tourism] || 관광 명소 성과 평가는 실제 여행 운영 항목 - Evaluation 라인 실재
+31 Audit Evaluation [cybersecurity] || 보안 감사 평가는 실제 보안 운영 항목 - Evaluation 라인 실재(security audit)
+32 Audit Questionnaire [cybersecurity] || 보안 감사 점검 설문은 실제 보안 운영 문서 - Questionnaire 라인 실재(audit questionnaire)
+33 Audit Requirement [cybersecurity] || 보안 감사 요건 관리는 실제 보안 운영 항목 - Requirement 라인 실재(audit requirement)
+34 Audition Appointment [music_lessons] || 오디션 예약 관리는 실제 음악 학습 운영 항목 - Appointment 라인(Violin Appointment 정합)
+35 Audition Certification [music_lessons] || 오디션 합격·급수 인증 관리는 실제 음악 학습 운영 항목 - Certification 라인(Drum Certification 정합)
+36 Audition Manual [music_lessons] || 오디션 준비 매뉴얼은 실제 학습 문 - Guide 라인(Drum Guide 정합)
+37 Audition Workshop [music_lessons] || 오디션 대비 워크숍은 실제 음악 교육 운영 항목 - Workshop 라인(Violin Workshop 정합)
+38 Author Questionnaire [media_publishing] || 저자 프로필·마케팅 문진은 출판 표준 문서 - Questionnaire 라인 실재
+39 Author Requirement [media_publishing] || 투고 요건(분량·형식) 관리는 실제 출판 운영 항목 - Requirement 라인 실재
+40 Background Evaluation [events] || 행사 인력·공연자 배경 조사 평가는 실제 이벤트 운영 항목 - Evaluation 라인 실재
+41 Backorder Evaluation [logistics] || 미출고 주문 평가는 실제 물류 운영 항목 - Evaluation 라인 실재(backorder)
+42 Backorder Requirement [logistics] || 미출고 주문 처리 요건 관리는 실제 물류 운영 항목 - Requirement 라인(Backorder Evaluation 정합)
+43 Backup Evaluation [it_devops] || 백업 무결성·복구 평가는 실제 IT 운영 항목 - Evaluation 라인 실재
+44 Balcony Evaluation [property_management_services] || 발코니 상태·안전 평가는 실제 자산관리 운영 항목 - Evaluation 라인 실재
+45 Ballot Evaluation [government] || 투표 용지 평가는 실제 선거 운영 항목 - Evaluation 라인(Ballot Capacity 정합)
+46 Ballot Requirement [government] || 투표 용지 요건 관리는 실제 선거 운영 항목 - Requirement 라인(Ballot Capacity 정합)
+47 Bandage Evaluation [healthcare] || 상처 드레싱 상태 평가는 실제 의료 표준 절차 - Evaluation 라인 실재
+48 Bandage Questionnaire [healthcare] || 상처 상태 문진은 실제 의료 표준 문서 - Questionnaire 라인(Bandage Evaluation 정합)
+49 Bandage Requirement [healthcare] || 드레싱 교체 요건(주기·방법) 관리는 실제 의료 표준 절차 - Requirement 라인(Bandage Evaluation 정합)
+50 Bandwidth Evaluation [telecom] || 대역폭 용량·성능 평가는 실제 통신 운영 항목 - Evaluation 라인 실재
+51 Bankruptcy Evaluation [finance] || 파산 적합성 평가(means test 등)는 실제 금융·법무 표준 절차 - Evaluation 라인 실재
+52 Bankruptcy Questionnaire [finance] || 파산 상담 사전 문진은 실제 금융·법무 표준 문서 - Questionnaire 라인(Bankruptcy Evaluation 정합)
+53 Bankruptcy Requirement [finance] || 파산 신청 요건(상담 이수·서류) 관리는 실제 법무 운영 항목 - Requirement 라인(Bankruptcy Questionnaire 정합)
+54 Barbecue Evaluation [travel_tourism] || 바비큐 시설·행사 품질 평가는 실제 여행·숙박 운영 항목 - Evaluation 라인 실재
+55 Bass Assistant [music_lessons] || 베이스 연습 보조 도구는 실제 학습 보조 항목 - Assistant 라인(Harmonica Assistant 정합)
+56 Bass Plan [music_lessons] || 베이스 레슨 연습 계획 관리는 실제 음악 학습 운영 항목 - Plan 라인(Piano Plan 정합)
+57 Bass Planner [music_lessons] || 베이스 연습 계획 도구는 실제 학습 준비 항목 - Planner 라인(Harmonica Planner 정합)
+58 Bass Playbook [music_lessons] || 연습 플레이북(루틴·훈련 절차) 관리는 실제 학습 운영 항목 - Playbook 라인(Estate Playbook 정합)
+59 Bass Scheduler [music_lessons] || 베이스 연습 일정 관리는 실제 학습 준비 항목 - Scheduler 라인(Method Scheduler 정합)
+60 Bass Score [music_lessons] || 베이스 악보 관리는 실제 음악 학습 도구 - Score 라인(Piano Score 정합)
+61 Beneficiary Evaluation [insurance] || 수익자 지정 검토는 실제 보험 운영 표준 절차 - Evaluation 라인 실재
+62 Beneficiary Questionnaire [insurance] || 수익자 지정 문진은 실제 보험 표준 문서 - Questionnaire 라인(Beneficiary Evaluation 정합)
+63 Beneficiary Requirement [insurance] || 수익자 지정 요건(보험 이해관계 등) 관리는 실제 보험 운영 항목 - Requirement 라인(Beneficiary Evaluation 정합)
+64 Benefits Evaluation [recruiting] || 복리후생 제도 평가는 실제 인사 운영 표준 항목 - Evaluation 라인 실재
+65 Benefits Questionnaire [recruiting] || 복리후생 만족도 문진은 실제 인사 운영 문서 - Questionnaire 라인(Benefits Evaluation 정합)
+66 Berth Evaluation [maritime_shipping] || 선석 상태 평가는 실제 항만 운영 점검 항목 - Evaluation 라인 실재
+67 Berth Utilization [maritime_shipping] || 선석 가동률은 실제 항만 운영 지표 - Utilization 라인(Container Utilization 정합)
+68 Bid Evaluation [construction] || 입찰·견적 비교 평가는 실제 건설 조달 표준 항목 - Evaluation 라인 실재
+69 Billing Evaluation [childcare] || 요금 청구 정확성 평가는 실제 육아 운영 항목 - Evaluation 라인 실재
+70 Binder Evaluation [insurance] || 보험 바인더 인수 평가는 실제 보험 운영 항목 - Evaluation 라인 실재(insurance binder)
+71 Binder Requirement [insurance] || 보험 바인더 발급 요건은 실제 보험 운영 항목 - Requirement 라인(Binder Evaluation 정합)
+72 Blast Evaluation [mining] || 발파 설계·진동 결과 평가는 실제 광산 운영 항목 - Evaluation 라인 실재
+73 Bloodwork Evaluation [veterinary] || 혈액검사 결과 평가는 실제 수의 표준 항목 - Evaluation 라인 실재
+74 Bloodwork Questionnaire [veterinary] || 혈액검사 사전 문진 설문은 실제 수의 표준 문서 - Questionnaire 라인(Bloodwork Evaluation 정합)
+75 Bloodwork Requirement [veterinary] || 마취 전 혈액검사 요건 프로토콜은 실제 수의 표준 절차 - Requirement 라인(Bloodwork Questionnaire 정합)
+76 Blower Evaluation [hvac_services] || 송풍기 성능 평가는 실제 HVAC 정비 표준 항목 - Evaluation 라인 실재
+77 Blower Requirement [hvac_services] || 송풍 풍량 요건(CFM 사양) 관리는 실제 HVAC 설비 표준 항목 - Requirement 라인(Blower Evaluation 정합)
+78 Bolt Evaluation [locksmith_security_services] || 데드볼트 등급 평가는 실제 보안 하드웨어 점검 항목 - Evaluation 라인 실재
+79 Bolt Requirement [locksmith_security_services] || 데드볼트 사양 요건(등급) 관리는 실제 보안 운영 항목 - Requirement 라인(Cylinder Requirement 정합)
+80 Booking Evaluation [photography_services] || 촬영 예약 처리·이행 평가는 실제 사진 운영 항목 - Evaluation 라인 실재
+81 Braces Evaluation [dental] || 교정 장치 상태·진행 평가는 실제 치과 운영 항목 - Evaluation 라인 실재
+82 Brand Evaluation [marketing] || 브랜드 건강도 평가는 실제 마케팅 표준 항목 - Evaluation 라인 실재
+83 Broker Evaluation [insurance] || 보험 브로커 성과·적합성 평가는 실제 보험 운영 항목 - Evaluation 라인 실재
+84 Budget Evaluation [government] || 예산 평가는 실제 행정 운영 항목 - Evaluation 라인 실재 결합
+85 Budget Questionnaire [government] || 예산 의견 수렴 설문은 실제 행정 운영 문서 - Questionnaire 라인 실재
+86 Budget Requirement [government] || 예산 요건 관리는 실제 행정 운영 항목 - Requirement 라인 실재(budget requirements)
+87 Budget Utilization [government] || 예산 집행률 관리는 실제 행정 운영 지표 - Utilization 라인 실재(budget utilization)
+88 Buff Evaluation [car_wash_detailing_services] || 도장 광택·버핑 품질 평가는 실제 디테일링 운영 항목 - Evaluation 라인 실재
+89 Bulk Evaluation [logistics] || 벌크 운송 평가는 실제 물류 운영 항목 - Evaluation 라인 실재(bulk shipping)
+90 Bumper Evaluation [automotive] || 범퍼 손상 평가는 실제 자동차 수리 표준 항목 - Evaluation 라인 실재
+91 Bundle Evaluation [retail_ecommerce] || 묶음 상품 성과 평가는 실제 이커머스 운영 항목 - Evaluation 라인 실재(bundle analysis)
+92 Calibration Evaluation [automotive] || 차량 센서 캘리브레이션 점검 평가는 실제 정비 표준 항목 - Evaluation 라인 실재
+93 Callback Evaluation [customer_support] || 콜백 처리 평가는 실제 고객지원 운영 항목 - Evaluation 라인(Maintenance Evaluation 정합)
+94 Callback Questionnaire [customer_support] || 콜백 만족도 설문은 실제 고객지원 운영 문서 - Questionnaire 라인 실재 결합
+95 Camp Assistant [music_lessons] || 음악 캠프 운영 보조 도구는 실제 단체 운영 항목 - Assistant 라인(Choir Assistant 정합)
+96 Camp Calendar [music_lessons] || 음악 캠프 일정 캘린더는 실제 단체 운영 항목 - Calendar 라인(Orchestra Calendar 정합)
+97 Camp Confirmation [music_lessons] || 캠프 참가 예약 확정은 실제 음악 학습 운영 항목 - Confirmation 라인(Choir Confirmation 정합)
+98 Camp Finder [music_lessons] || 음악 캠프 검색기는 실제 프로그램 검색 도구 - Finder 라인(Choir Finder 정합)
+99 Camp Form [music_lessons] || 캠프 등록 양식 관리는 실제 음악캠프 운영 문서 - Form 라인(Choir Form 정합)
+100 Camp Plan [music_lessons] || 캠프 일정·프로그램 계획 관리는 실제 음악 운영 항목 - Plan 라인(Choir Plan 정합)
+101 Camp Planner [music_lessons] || 음악 캠프 일정 계획은 실제 단체 운영 항목 - Planner 라인(Trading Planner 정합)
+102 Camp Register [music_lessons] || 캠프 참가자 등록 명부는 실제 단체 운영 문서 - Register 라인(Choir Register 정합)
+103 Camp Registry [music_lessons] || 캠프 참가자 등록부는 실제 단체 운영 문서 - Registry 라인(Camp Register 정합)
+104 Camp Scheduler [music_lessons] || 음악 캠프 일정 관리는 실제 단체 운영 항목 - Scheduler 라인(Trading Scheduler 정합)
+105 Campsite Evaluation [travel_tourism] || 캠핑장 상태·시설 평가는 실제 여행 운영 항목 - Evaluation 라인 실재
+106 Candidate Evaluation [hr_payroll] || 채용 후보자 평가는 실제 리쿠루팅 표준 항목 - Evaluation 라인 실재
+107 Capacitor Evaluation [hvac_services] || 커패시터 상태 평가는 실제 HVAC 정비 항목 - Evaluation 라인 실재
+108 Capacitor Requirement [hvac_services] || 콘덴서 규격 요건(정용량·전압) 관리는 실제 HVAC 부품 운영 항목 - Requirement 라인
+109 Capsule Evaluation [pharmacy] || 캡슐 제제 조제 상태 평가는 실제 약국 조제 운영 항목 - Evaluation 라인 실재
+110 Caption Evaluation [media_publishing] || 자막 품질 평가는 실제 미디어 운영 항목 - Evaluation 라인(Callback Evaluation 정합)
+111 Caption Requirement [media_publishing] || 자막 제공 요건 관리는 실제 미디어 운영 항목 - Requirement 라인 실재(접근성 자막 요건)
+112 Care Evaluation [senior_care] || 거주자 케어 상태 평가는 실제 시니어케어 표준 항목 - Evaluation 라인 실재
+113 Care Questionnaire [senior_care] || 거주자 케어 사정 문진은 실제 시니어케어 표준 문서 - Questionnaire 라인(Care Evaluation 정합)
+114 Care Utilization [senior_care] || 케어 서비스 이용률은 실제 시니어케어 운영 지표 - Utilization 라인(Schedule Utilization 정합)
+115 Cargo Evaluation [transportation] || 화물 상태·적재 평가는 실제 운송 운영 항목 - Evaluation 라인 실재
+116 Carrier Evaluation [insurance] || 보험사(캐리어) 재무 안정성 평가는 실제 보험 운영 표준 항목 - Evaluation 라인 실재
+117 Casino Evaluation [travel_tourism] || 카지노 규정 평가는 실제 관광 운영 항목 - Evaluation 라인 실재
+118 Catering Evaluation [events] || 케이터링 서비스·업체 평가는 실제 이벤트 운영 항목 - Evaluation 라인 실재
+119 Cello Reference [music_lessons] || 첼로 학습·연주 참고자료 관리는 실제 음악 학습 운영 항목 - Reference 라인(Saxophone Reference 정합)
+120 Cemetery Requirement [funeral_services] || 묘지 이용 요건 관리는 실제 장례 운영 항목 - Requirement 라인 실재 결합
+121 Certification Evaluation [aviation] || 자격 인증 평가(쳌크라이드 등)는 실제 항공 표준 절차 - Evaluation 라인 실재
+122 Certification Requirement [aviation] || 조종사 자격 요건(Part 61 등) 관리는 실제 항공 훈련 표준 항목 - Requirement 라인(Certification Evaluatio
+123 Change Evaluation [construction] || 공사 변경(change order) 평가는 실제 건설 표준 관행 - Evaluation 라인 실재
+124 Change Requirement [construction] || 공사 변경 절차 요건 관리는 실제 건설 운영 항목 - Requirement 라인(Change Evaluation 정합)
+125 Channel Evaluation [customer_support] || 지원 채널 성과·품질 평가는 실제 고객지원 운영 항목 - Evaluation 라인 실재
+126 Chargeback Evaluation [finance] || 지불 거절(chargeback) 분석 평가는 실제 금융 운영 항목 - Evaluation 라인 실재
+127 Charter Guarantor [maritime_shipping] || 용선 계약 보증인 관리는 실제 해운 운영 항목 - Guarantor 신규 기능어 실재(charterparty guarantor)
+128 Charter Hazard [maritime_shipping] || 용선 계약 위험 조항은 실제 해운 운영 항목 - Hazard 라인 실재(charterparty hazard)
+129 Chat Evaluation [customer_support] || 채팅 응대 품질 평가는 실제 고객지원 표준 항목 - Evaluation 라인 실재
+130 Chat Utilization [customer_support] || 채팅 응대 가동률은 실제 고객지원 운영 지표 - Utilization 라인(Technician Utilization 정합)
+131 Checkup Evaluation [healthcare] || 건강검진 결과 평가는 실제 의료 표준 항목 - Evaluation 라인 실재
+132 Checkup Questionnaire [healthcare] || 건강검진 전 문진은 실제 의료 표준 문서 - Questionnaire 라인(Checkup Evaluation 정합)
+133 Checkup Requirement [automotive] || 차량 점검 요건 관리는 실제 자동차 운영 항목 - Requirement 라인(Franchise Requirement 정합)
+134 Chemical Evaluation [pest_control] || 방역 약품 평가는 실제 방역 운영 항목 - Evaluation 라인 실재 결합
+135 Chemical Hazard [pest_control] || 약품 위해성 관리는 실제 방역 운영 항목 - Hazard 라인 실재(chemical hazard)
+136 Chiller Evaluation [hvac_services] || 냉동기 상태·성능 평가는 실제 HVAC 운영 항목 - Evaluation 라인 실재
+137 Choir Assistant [music_lessons] || 성가대 운영 도우미는 실제 음악 단체 관리 항목 - Assistant 라인(Stock Assistant 정합)
+138 Choir Calendar [music_lessons] || 성가대 연주 일정은 실제 음악 단체 운영 항목 - Calendar 라인(Orchestra Calendar 정합)
+139 Choir Confirmation [music_lessons] || 합창단 리허설·공연 예약 확정은 실제 음악 운영 항목 - Confirmation 라인(Piano Confirmation 정합)
+140 Choir Finder [music_lessons] || 성가대 검색기는 실제 음악 검색 도구 - Finder 라인(Melody Finder 정합)
+141 Choir Form [music_lessons] || 성가대 등록 양식 관리는 실제 합창단 운영 문서 - Form 라인(Retirement Form 정합)
+142 Choir Log [music_lessons] || 성가대 출석·운영 기록은 실제 합창단 운영 항목 - Log 라인(Estate Log 정합)
+143 Choir Plan [music_lessons] || 합창단 프로그램·연주 계획 관리는 실제 음악 운영 항목 - Plan 라인(Orchestra Plan 정합)
+144 Choir Planner [music_lessons] || 성가대 일정 플래너는 실제 음악 단체 도구 - Planner 라인(Trading Planner 정합)
+145 Choir Register [music_lessons] || 성가대 명부는 실제 음악 단체 운영 문서 - Register 라인(Immunization Register 정합)
+146 Choir Registry [music_lessons] || 성가대 명부 등록부는 실제 음악 단체 운영 문서 - Registry 라인(Choir Register 정합)
+147 Choir Report [music_lessons] || 성가대 운영 보고서는 실제 합창단 운영 항목 - Report 라인(Estate Report 정합)
+148 Choir Scheduler [music_lessons] || 성가대 일정 관리기는 실제 음악 단체 도구 - Scheduler 라인(Trading Scheduler 정합)
+149 Choir Score [music_lessons] || 합창 악보 관리는 실제 합창단 운영 항목 - Score 라인(Piano·Orchestra Score 정합)
+150 Chord Lookup [music_lessons] || 코드 조회기는 실제 음악 학습 도구 - Lookup 라인 실재(chord lookup 도구)
+151 Chord Tracker [music_lessons] || 코드 연습 진도 추적은 실제 음악 학습 운영 항목 - Tracker 라인(Tempo Tracker 정합)
+152 Churn Evaluation [telecom] || 고객 이탈 평가는 실제 통신 운영 항목 - Evaluation 라인 실재
+153 Circulation Evaluation [media_publishing] || 발행 부수 감사 평가는 실제 출판업 표준 항목 - Evaluation 라인 실재
+154 Cistern Evaluation [plumbing_services] || 저수조(cistern) 상태 평가는 실제 배관 운영 항목 - Evaluation 라인 실재
+155 Clarinet Humidity [music_lessons] || 클라리넷 목관 습도 관리는 실제 악기 관리 항목 - Humidity 라인(Mandolin Humidity 정합)
+156 Clarinet Score [music_lessons] || 클라리넷 악보 관리는 실제 음악 학습 운영 항목 - Score 라인(Mandolin Score 정합)
+157 Clarinet Tracker [music_lessons] || 클라리넷 연습 기록 추적은 실제 학습 운영 항목 - Tracker 라인(Viola Progress 정합)
+158 Clarinet Tuner [music_lessons] || 관악기 조율 참조 앱은 실제 음악 학습 도구 카테고리 - Tuner 라인 실재(clarinet tuner app)
+159 Classroom Evaluation [education] || 교실 수업 효과 평가는 실제 교육 운영 항목 - Evaluation 라인 실재
+160 Cleaning Evaluation [dental] || 치아 세정·스케일링 결과 평가는 실제 치과 운영 항목 - Evaluation 라인 실재
+161 Clubhouse Evaluation [property_management_services] || 클럽하우스 시설 평가는 실제 자산 관리 항목 - Evaluation 라인 실재
+162 Coloring Evaluation [salon_spa] || 염색 시술 결과 평가는 실제 미용 운영 항목 - Evaluation 라인 실재(color assessment)
+163 Combination Evaluation [locksmith_security_services] || 조합 잠금장치 평가는 실제 보안 운영 항목 - Evaluation 라인 실재(lock combination)
+164 Comparable Evaluation [real_estate] || 비교 매물(comps) 평가는 실제 부동산 감정 관행 - Evaluation 라인 실재
+165 Complaint Evaluation [events] || 참가자 불만 접수 평가는 실제 이벤트 운영 항목 - Evaluation 라인 실재
+166 Compliance Evaluation [food_service] || 위생 규정 준수 평가는 실제 외식 운영 항목 - Evaluation 라인 실재(compliance evaluation)
+167 Compliance Questionnaire [food_service] || 규정 준수 자체 점검 설문은 실제 외식 운영 문서 - Questionnaire 라인 실재(compliance checklist)
+168 Compliance Requirement [food_service] || 위생 규정 준수 요건 관리는 실제 외식 운영 항목 - Requirement 라인 실재(compliance requirement)
+169 Compressor Evaluation [hvac_services] || 압축기 성능 진단 평가는 실제 HVAC 정비 표준 항목 - Evaluation 라인 실재
+170 Compressor Requirement [hvac_services] || 압축기 사양 요건(용량·냉매) 관리는 실제 HVAC 운영 항목 - Requirement 라인(Blower Requirement 정합)
+171 Concierge Evaluation [hospitality] || 컨시어지 서비스 평가는 실제 숙박 운영 항목 - Evaluation 라인 실재
+172 Conditioner Evaluation [salon_spa] || 헤어 컨디셔너 제품 성능 평가는 실제 미용 운영 항목 - Evaluation 라인 실재
+173 Configuration Evaluation [it_devops] || 시스템 설정 상태 평가는 실제 IT 운영 표준 항목 - Evaluation 라인 실재
+174 Consent Evaluation [healthcare] || 환자 동의 적격성 평가는 실제 의료 운영 항목 - Evaluation 라인 실재(informed consent)
+175 Consent Questionnaire [healthcare] || 환자 동의 설문은 실제 의료 운영 문서 - Questionnaire 라인(Consent Evaluation 정합)
+176 Consent Requirement [healthcare] || 환자 동의 요건 관리는 실제 의료 규정 항목 - Requirement 라인 실재(informed consent requirements)
+177 Consolidation Evaluation [logistics] || 화물 통합 효과 평가는 실제 물류 운영 항목 - Evaluation 라인 실재
+178 Consolidation Requirement [logistics] || 화물 통합 요건(최소 물량·납기) 관리는 실제 물류 운영 항목 - Requirement 라인(Consolidation Evaluation 정합)
+179 Constituent Evaluation [government] || 주민 민원·서비스 평가는 실제 정부 운영 항목 - Evaluation 라인 실재
+180 Consultation Evaluation [pharmacy] || 복약 상담 평가는 실제 약국 표준 항목 - Evaluation 라인(Counseling Evaluation 정합)
+181 Consultation Questionnaire [pharmacy] || 상담 전 환자 문진 설문은 실제 약국 표준 문서 - Questionnaire 라인(Consultation Evaluation 정합)
+182 Consultation Requirement [pharmacy] || 복약 상담 법정 요건 관리는 실제 약국 규제 준수 항목 - Requirement 라인(Consultation Evaluation 정합)
+183 Contact Evaluation [customer_support] || 고객 문의 접점·처리 품질 평가는 실제 CS 운영 항목 - Evaluation 라인 실재
+184 Container Evaluation [maritime_shipping] || 컨테이너 상태 검사(survey)는 실제 해상 운송 표준 절차 - Evaluation 라인 실재
+185 Container Requirement [maritime_shipping] || 컨테이너 규격·검사 요건(CSC 등) 관리는 실제 해상 운송 표준 항목 - Requirement 라인(Container Evaluation 정합
+186 Container Utilization [maritime_shipping] || 컨테이너 가동률(적재율)은 실제 해상 운송 표준 지표 - Utilization 라인 실재
+187 Content Evaluation [marketing] || 마케팅 콘텐츠 성과 평가는 실제 마케팅 운영 항목 - Evaluation 라인 실재
+188 Contingency Evaluation [real_estate] || 계약 조건부 평가는 실제 부동산 운영 항목 - Evaluation 라인 실재(contingency)
+189 Contingency Requirement [real_estate] || 계약 조건부 요건 관리는 실제 부동산 운영 항목 - Requirement 라인(contingency clause)
+190 Contract Questionnaire [photography_services] || 촬영 계약 전 고객 요구 문진은 실제 포토그래피 표준 문서 - Questionnaire 라인 실재
+191 Coping Evaluation [pool_maintenance_services] || 수영장 코핑(가장자리) 상태 평가는 실제 수영장 관리 운영 항목 - Evaluation 라인 실재
+192 Counseling Evaluation [pharmacy] || 복약 상담 평가는 실제 약국 운영 항목 - Evaluation 라인 실재(medication counseling)
+193 Counseling Questionnaire [pharmacy] || 복약 상담 실태 설문은 실제 약국 운영 문서 - Questionnaire 라인(Counseling Evaluation 정합)
+194 Counseling Requirement [pharmacy] || 복약 상담 요건 이행 관리는 실제 약국 규제 준수 항목 - Requirement 라인(Counseling Evaluation 정합)
+195 Counteroffer Evaluation [real_estate] || 부동산 반제안 검토·평가는 실제 부동산 운영 항목 - Evaluation 라인 실재
+196 Coverage Evaluation [insurance] || 보험 보장 범위 평가는 실제 보험 표준 관행 - Evaluation 라인 실재(coverage)
+197 Coverage Questionnaire [insurance] || 보장 필요도 설문은 실제 보험 상담 문서 - Questionnaire 라인(Coverage Evaluation 정합)
+198 Coverage Requirement [insurance] || 보장 요건 관리는 실제 보험 표준 항목 - Requirement 라인 실재
+199 Craft Hazard [childcare] || 공작 활동 위험 관리는 실제 육아 안전 운영 항목 - Hazard 라인(Fuel Hazard 정합)
+200 Creative Evaluation [marketing] || 광고 크리에이티브 평가는 실제 마케팅 운영 항목 - Evaluation 라인 실재(ad creative)
+201 Credential Evaluation [cybersecurity] || 자격증명·인증서 평가는 실제 사이버보안 운영 항목 - Evaluation 라인 실재
+202 Creditor Evaluation [finance] || 채권자 신용 평가는 실제 금융 심사 운영 항목 - Evaluation 라인 실재 결합
+203 Crop Evaluation [agriculture] || 작물 수량·생육 평가는 실제 농업 표준 항목 - Evaluation 라인 실재
+204 Crossdock Evaluation [logistics] || 크로스도킹 운영 성과 평가는 실제 물류 운영 항목 - Evaluation 라인 실재
+205 Curfew Evaluation [government] || 통금 정책 효과 평가는 실제 공공 정책 운영 항목 - Evaluation 라인 실재
+206 Curfew Questionnaire [government] || 통금 정책 여론 조사는 실제 공공 의견 수렴 문서 - Questionnaire 라인(Curfew Evaluation 정합)
+207 Curriculum Evaluation [childcare] || 교육과정 품질 평가는 실제 육아·교육 운영 항목 - Evaluation 라인 실재
+208 Curtain Evaluation [cleaning_services] || 커튼 세탁·상태 평가는 실제 청소 운영 항목 - Evaluation 라인 실재
+209 Customs Evaluation [maritime_shipping] || 통관 절차·신고 품목 평가는 실제 해상 운송 운영 항목 - Evaluation 라인 실재
+210 Cylinder Evaluation [locksmith_security_services] || 자물쇠 실린더 상태 평가는 실제 잠금 업계 표준 항목 - Evaluation 라인 실재
+211 Cylinder Requirement [locksmith_security_services] || 자물쇠 실린더 사양 요건(등급·키웨이) 관리는 실제 보안 운영 항목 - Requirement 라인(Padlock Requirement 정합)
+212 Damage Evaluation [moving_relocation_services] || 이사 파손 상태 평가는 실제 이사 운영 항목 - Evaluation 라인 실재
+213 Damage Questionnaire [moving_relocation_services] || 파손 접수 문진은 실제 이사 보상 처리 문서 - Questionnaire 라인(Damage Evaluation 정합)
+214 Deck Evaluation [construction] || 데크 시공 상태 평가는 실제 건설 운영 항목 - Evaluation 라인 실재
+215 Deck Requirement [construction] || 데크 건축 규정 요건 관리는 실제 건설 운영 항목 - Requirement 라인 실재(deck code requirements)
+216 Deed Assistant [real_estate] || 증서 준비 보조 도구는 실제 부동산 법무 보조 항목 - Assistant 라인(Songbook Assistant 정합)
+217 Deed Calendar [real_estate] || 등기·마감 일정 관리는 실제 부동산 법무 운영 항목 - Calendar 라인(Songbook Calendar 정합)
+218 Deed Journal [real_estate] || 증서 등기 장부는 실제 부동산 법무 기록 - Journal 라인(Deed Register 정합)
+219 Deed Playbook [real_estate] || 증서 절차 플레이북은 실제 부동산 법무 문서 - Playbook 라인(Estate Playbook 정합)
+220 Deed Portal [real_estate] || 등기부 조회 포털은 실제 부동산 검색 도구 - Portal 라인 실재(deed search)
+221 Deed Register [real_estate] || 증서 등록부는 실제 부동산 등기 관행 - Register 라인 실재(deed register)
+222 Delivery Evaluation [pharmacy] || 배송 상태·시간 평가는 실제 약국 배송 운영 항목 - Evaluation 라인 실재
+223 Denture Evaluation [dental] || 틀니 적합도 평가는 실제 치과 표준 항목 - Evaluation 라인 실재
+224 Denture Questionnaire [dental] || 틀니 만족도 설문은 실제 치과 표준 문서 - Questionnaire 라인(Denture Evaluation 정합)
+225 Denture Requirement [dental] || 틀니 시술 요건(기록·시행 절차) 관리는 실제 치과 운영 항목 - Requirement 라인
+226 Detention Evaluation [education] || 학생 근신·행동 관리 평가는 실제 교육 운영 항목 - Evaluation 라인 실재
+227 Deworming Evaluation [veterinary] || 구충 치료 평가는 실제 수의 운영 항목 - Evaluation 라인 실재(deworming)
+228 Deworming Requirement [veterinary] || 구충 프로토콜 요건 관리는 실제 수의 표준 항목 - Requirement 라인 실재
+229 Diagnosis Evaluation [automotive] || 차량 진단 결과 평가는 실제 정비 운영 항목 - Evaluation 라인 실재(diagnostic)
+230 Diagnosis Requirement [automotive] || 차량 진단 요건 관리는 실제 정비 운영 항목 - Requirement 라인(Diagnostic Evaluation 정합)
+231 Diaper Evaluation [childcare] || 기저귀 발진 등 피부 상태 평가는 실제 육아 표준 항목 - Evaluation 라인 실재
+232 Dine Evaluation [food_service] || 매장 내 식사 경험 평가는 실제 외식업 운영 항목 - Evaluation 라인 실재
+233 Discovery Evaluation [legal] || 증거개시(discovery) 성과·비용 평가는 실제 법률 운영 항목 - Evaluation 라인 실재
+234 Dispatch Evaluation [transportation] || 배차 성과 평가는 실제 운송 운영 항목 - Evaluation 라인 실재
+235 Dispensing Hazard [pharmacy] || 약품 조제 위험 관리는 실제 약국 안전 운영 항목 - Hazard 라인 실재 결합
+236 Downtime Evaluation [manufacturing] || 설비 가동 중단(downtime) 분석 평가는 실제 제조 운영 항목 - Evaluation 라인 실재
+237 Drainpipe Evaluation [plumbing_services] || 배수관 점검·검사는 실제 배관 표준 항목 - Evaluation 라인 실재
+238 Drainpipe Requirement [plumbing_services] || 배수관 시공 요건(구경·구배 기준) 관리는 실제 배관 운영 항목 - Requirement 라인(Sink Requirement 정합)
+239 Drayage Evaluation [logistics] || 드레이지 운송 성과 평가는 실제 물류 운영 항목 - Evaluation 라인 실재
+240 Driver Evaluation [transportation] || 운전자 안전 평가는 실제 운수 운영 항목 - Evaluation 라인 실재(driver safety)
+241 Driver Questionnaire [transportation] || 운전자 의견 설문은 실제 운수 운영 문서 - Questionnaire 라인(Driver Evaluation 정합)
+242 Driver Requirement [transportation] || 운전자 자격 요건 관리는 실제 운수 운영 항목 - Requirement 라인 실재(DOT driver requirements)
+243 Drum Certification [music_lessons] || 드럼 급수 인증 시험 관리는 실제 음악 교육 표준 항목 - Certification 라인 실재(Trinity 등 급수제)
+244 Drum Guarantee [music_lessons] || 드럼 악기 보증 관리는 실제 악기 판매 운영 항목 - Guarantee 라인(Roofing Guarantee 정합)
+245 Drum Guide [music_lessons] || 드럼 연습 가이드는 실제 음악 학습 문 - Guide 라인(Trombone Guide 정합)
+246 Drum Inventory [music_lessons] || 드럼 스틱·부품 재고 관리는 실제 음악 교실 운영 항목 - Inventory 라인(Trombone Inventory 정합)
+247 Drum Lookup [music_lessons] || 드럼 레슨 검색기는 실제 강사 검색 도구 - Lookup 라인(Chord Lookup 정합)
+248 Drum Record [music_lessons] || 드럼 연습 기록 관리는 실제 음악 학습 운영 항목 - Record 라인(Roofing Record 정합)
+249 Drum Simulator [music_lessons] || 전자 연습 시뮬레이터는 실제 드럼 학습 도구 카테고리 - 실재 제품군
+250 Drum Tracker [music_lessons] || 드럼 연습 진도 추적은 실제 음악 학습 운영 항목 - Tracker 라인(Percussion Tracker 정합)
+251 Ductless Evaluation [hvac_services] || 덕트리스 시스템 적합성 평가는 실제 HVAC 운영 항목 - Evaluation 라인 실재
+252 Ductwork Evaluation [hvac_services] || 덕트 배관 상태·누설 평가는 실제 HVAC 운영 항목 - Evaluation 라인 실재
+253 Editor Evaluation [media_publishing] || 편집 품질·편집자 성과 평가는 실제 미디어 운영 항목 - Evaluation 라인 실재
+254 Elective Evaluation [education] || 선택 과목 평가는 실제 교육 표준 항목 - Evaluation 라인 실재
+255 Elective Questionnaire [education] || 선택 과목 설문은 실제 교육 표준 문서 - Questionnaire 라인(Elective Evaluation 정합)
+256 Elective Requirement [education] || 선택 이수 요건 관리는 실제 교육 운영 항목 - Requirement 라인(Elective Evaluation 정합)
+257 Ensemble Evaluation [music_lessons] || 합주단 연주 평가는 실제 음악 교육 운영 항목 - Evaluation 라인 실재
+258 Ensemble Scheduler [music_lessons] || 합주 리허설 일정 관리는 실제 합주단 운영 항목 - Scheduler 라인(Accompanist Scheduler 정합)
+259 Ensemble Score [music_lessons] || 합주단 악보·파트보 관리는 실제 음악 운영 항목 - Score 라인(Accompanist Score 정합)
+260 Equity Evaluation [real_estate] || 부동산 지분 평가는 실제 부동산 운영 항목 - Evaluation 라인 실재
+261 Escrow Evaluation [finance] || 에스크로 계좌 검토 평가는 실제 금융 운영 항목 - Evaluation 라인 실재(escrow review)
+262 Escrow Requirement [finance] || 에스크로 개설 요건 관리는 실제 금융 운영 항목 - Requirement 라인(Escrow Evaluation 정합)
+263 Estate Calendar [finance] || 검인 기한 캘린더는 실제 상속 운영 도구 - Calendar 라인 실재(probate 기한 관리)
+264 Estate Estimate [finance] || 상속 재산 가치 추정은 실제 검인 절차 표준 항목 - Estimate 라인 실재
+265 Estate Finder [finance] || 부동산 상속 매물 검색은 실제 금융 검색 도구 - Finder 라인(Estate Sale Finder)
+266 Estate Log [finance] || 유산 관리 기록은 실제 금융 장부 항목 - Log 라인(Probate Log 정합)
+267 Estate Note [finance] || 상속 재산 내 약정어음 관리는 실제 금융 문서 - Note 라인 실재(estate note)
+268 Estate Plan [finance] || 유산 계획(estate planning) 관리는 실제 금융·법률 표준 항목 - Plan 라인(Probate Plan 정합)
+269 Estate Playbook [finance] || 상속 재산 정리 플레이북은 실제 금융·법률 문서 - Playbook 라인(Estate Playbook 법률 문맥 성립)
+270 Estate Registry [finance] || 상속 재산 등록부는 실제 금융·법률 문서 - Registry 라인 실재(estate registry 등기 관행)
+271 Estate Report [finance] || 상속 재산 보고서는 실제 금융 문서 - Report 라인(Probate Report 정합)
+272 Estate Sale [finance] || 유산·유품 매각 진행 관리는 실제 상속 운영 항목 - Sale 라인(Probate Sale 정합, 법원 매각과 구분되는 유품 판매)
+273 Euthanasia Evaluation [veterinary] || 안락사 판단 평가는 실제 수의 운영 항목 - Evaluation 라인 실재(quality of life 평가)
+274 Eviction Evaluation [property_management_services] || 퇴거 사안 검토·평가는 실제 임대 운영 표준 절차 - Evaluation 라인 실재
+275 Eviction Requirement [property_management_services] || 퇴거 법정 요건(통지 기간·사유) 관리는 실제 임대 규제 준수 항목 - Requirement 라인(Eviction Evaluation 정합)
+276 Exam Evaluation [veterinary] || 동물 검진·시험 결과 평가는 실제 수의 운영 항목 - Evaluation 라인 실재
+277 Excavation Evaluation [construction] || 굴착 공사·토질 평가는 실제 건설 운영 항목 - Evaluation 라인 실재
+278 Exclusion Evaluation [insurance] || 보상 제외 항목 평가는 실제 보험 운영 항목 - Evaluation 라인 실재
+279 Exhaust Evaluation [automotive] || 배기 가스 검사 평가는 실제 정비 표준 항목 - Evaluation 라인 실재(emissions inspection)
+280 Exhaust Requirement [automotive] || 배기 배출 요건(규제 기준) 관리는 실제 정비·차량 운영 항목 - Requirement 라인(Exhaust Evaluation 정합)
+281 Expiration Evaluation [pharmacy] || 약품 유효기간 평가는 실제 약국 운영 항목 - Evaluation 라인 실재
+282 Facial Evaluation [salon_spa] || 피부 상태·시술 결과 평가는 실제 뷰티 운영 항목 - Evaluation 라인 실재
+283 Family Evaluation [senior_care] || 보호 가족 만족 평가는 실제 시니어 케어 운영 항목 - Evaluation 라인 실재 결합
+284 Family Guarantor [senior_care] || 가족 보증인 관리는 실제 시니어 케어 운영 항목 - Guarantor 라인(Charter Guarantor 정합)
+285 Family Questionnaire [senior_care] || 보호 가족 만족 설문은 실제 시니어 케어 운영 문서 - Questionnaire 라인 실재
+286 Feedback Evaluation [hospitality] || 투숙객 피드백 평가는 실제 숙박 운영 항목 - Evaluation 라인 실재(guest feedback)
+287 Feedback Questionnaire [hospitality] || 투숙객 피드백 설문은 실제 숙박 운영 문서 - Questionnaire 라인 실재(guest survey)
+288 Fence Evaluation [property_management_services] || 울타리 상태 평가는 실제 자산 관리 운영 항목 - Evaluation 라인 실재
+289 Fertilizer Evaluation [agriculture] || 비료 적합성·효과 평가는 실제 농업 운영 항목 - Evaluation 라인 실재
+290 Fieldtrip Evaluation [childcare] || 견학 활동 평가는 실제 육아·교육 운영 항목 - Evaluation 라인 실재
+291 Fieldtrip Questionnaire [childcare] || 견학 참가 아동 사전 문진(알레르기·비상연락)은 실제 육아 운영 문서 - Questionnaire 라인(Fieldtrip Evaluation 정
+292 Financing Evaluation [automotive] || 구매 자금 조달 평가는 실제 자동차 금융 운영 항목 - Evaluation 라인 실재
+293 Financing Requirement [automotive] || 구매 자금 조달 요건 관리는 실제 자동차 금융 운영 항목 - Requirement 라인 실재
+294 Firewall Evaluation [cybersecurity] || 방화벽 설정·성능 평가는 실제 사이버보안 운영 항목 - Evaluation 라인 실재
+295 Fleet Evaluation [aviation] || 항공 기단 상태·운항 성과 평가는 실제 항공 운영 항목 - Evaluation 라인 실재
+296 Flooring Evaluation [construction] || 바닥 하부·수분 평가는 실제 마감재 시공 표준 항목 - Evaluation 라인 실재
+297 Flooring Questionnaire [construction] || 마감재 고객 요구 설문은 실제 인테리어 운영 문서 - Questionnaire 라인(Flooring Evaluation 정합)
+298 Flooring Requirement [construction] || 마감재 시공 요건(수분·하부 기준) 관리는 실제 건설 운영 항목 - Requirement 라인(Flooring Evaluation 정합)
+299 Flossing Evaluation [dental] || 치실 사용 습관 평가는 실제 치과 운영 항목 - Evaluation 라인 실재(oral hygiene)
+300 Flossing Questionnaire [dental] || 치실 사용 실태 설문은 실제 치과 운영 문서 - Questionnaire 라인(Flossing Evaluation 정합)
+301 Flute Confirmation [music_lessons] || 플루트 레슨 예약 확정 통지 관리는 실제 음악 교실 운영 항목 - Confirmation 라인(Lesson Confirmation 정합)
+302 Flute Log [music_lessons] || 플루트 연습 기록은 실제 악기 관리 문서 - Log 라인(Organ Log 정합)
+303 Fob Evaluation [locksmith_security_services] || 도어 접근 키(fob) 사용 평가는 실제 보안 운영 항목 - Evaluation 라인 실재
+304 Foreclosure Evaluation [finance] || 압류 재산 평가는 실제 금융·부동산 운영 항목 - Evaluation 라인 실재
+305 Forwarder Evaluation [logistics] || 포워더 운송 성과 평가는 실제 물류 운영 항목 - Evaluation 라인 실재
+306 Franchise Evaluation [government] || 가맹 사업 평가는 실제 프랜차이즈 운영 표준 항목 - Evaluation 라인 실재
+307 Franchise Guarantor [food_service] || 프랜차이즈 계약 보증인 관리는 실제 외식 운영 항목 - Guarantor 라인(Charter Guarantor 정합)
+308 Franchise Requirement [food_service] || 프랜차이즈 가맹 요건 관리는 실제 외식 운영 항목 - Requirement 신규 기능어 실재 결합
+309 Freon Evaluation [hvac_services] || 냉매 상태·충전 평가는 실제 HVAC 운영 항목 - Evaluation 라인 실재
+310 Fuel Hazard [aviation] || 연료 위험 관리는 실제 항공 안전 운영 항목 - Hazard 신규 기능어 실재 결합
+311 Fulfillment Evaluation [retail_ecommerce] || 주문 이행(fulfillment) 성과 평가는 실제 이커머스 표준 항목 - Evaluation 라인 실재
+312 Fundraising Evaluation [nonprofit] || 기금 모금 캠페인 성과 평가는 실제 비영리 운영 항목 - Evaluation 라인 실재
+313 Garment Evaluation [laundry_dry_cleaning] || 의류 상태·세탁 결과 평가는 실제 세탁 운영 항목 - Evaluation 라인 실재
+314 Garnishment Evaluation [hr_payroll] || 압류 명령 검토·평가는 실제 급여 운영 표준 절차 - Evaluation 라인 실재
+315 Garnishment Questionnaire [hr_payroll] || 압류 관련 근로자 문진(면제 신청 등)은 실제 급여 운영 문서 - Questionnaire 라인(Garnishment Evaluation 정합)
+316 Garnishment Requirement [hr_payroll] || 압류 처리 법정 요건(통지·상한) 관리는 실제 급여 규제 준수 항목 - Requirement 라인(Garnishment Evaluation 정합
+317 Gauge Evaluation [hvac_services] || 냉매 게이지·계기 점검 평가는 실제 HVAC 운영 항목 - Evaluation 라인 실재
+318 Grading Evaluation [education] || 과제 채점 평가는 실제 교육 운영 항목 - Evaluation 라인 실재(grading)
+319 Grievance Evaluation [hr_payroll] || 고충처리 제도·사례 평가는 실제 노무 운영 항목 - Evaluation 라인 실재
+320 Grooming Evaluation [veterinary] || 반려동물 미용 상태 평가는 실제 동물병원 운영 항목 - Evaluation 라인 실재
+321 Guitar Reference [music_lessons] || 기타 학습 참고자료 관리는 실제 음악 학습 운영 항목 - Reference 라인(Violin Reference 정합)
+322 Guitar Sample [music_lessons] || 기타 사운드 샘플 관리는 실제 음악 제작 자산 - Sample 라인(Framing Sample 정합)
+323 Hallway Evaluation [property_management_services] || 복도 상태·안전 평가는 실제 건물 관리 운영 항목 - Evaluation 라인 실재
+324 Harmonica Assistant [music_lessons] || 하모니카 연습 도우미는 실제 학습 보조 도구 - Assistant 라인(Choir Assistant 정합)
+325 Harmonica Confirmation [music_lessons] || 하모니카 레슨 예약 확정은 실제 음악 학습 운영 항목 - Confirmation 라인(Piano Confirmation 정합)
+326 Harmonica Finder [music_lessons] || 하모니카 악기 검색기는 실제 악기 검색 도구 - Finder 라인(Piano Finder 정합)
+327 Harmonica Plan [music_lessons] || 하모니카 수업·연습 계획 관리는 실제 음악 학습 운영 항목 - Plan 라인(Organ Plan 정합)
+328 Harmonica Planner [music_lessons] || 하모니카 연습 계획 관리는 실제 학습 운영 항목 - Planner 라인(Choir Planner 정합)
+329 Harmonica Register [music_lessons] || 하모니카 등록 대장은 실제 악기 관리 문서 - Register 라인(Piano Registry 정합)
+330 Harmonica Registry [music_lessons] || 하모니카 등록 대장은 실제 악기 관리 문서 - Registry 라인(Harmonica Register 정합)
+331 Harmonica Scheduler [music_lessons] || 하모니카 연습 일정 관리는 실제 학습 운영 항목 - Scheduler 라인(Choir Scheduler 정합)
+332 Harmonica Score [music_lessons] || 하모니카 악보 관리는 실제 연주 운영 항목 - Score 라인(Piano·Choir Score 정합)
+333 Harp Appointment [music_lessons] || 하프 레슨 시간 예약 관리는 실제 음악 학습 운영 항목 - Appointment 라인(Violin Appointment 정합)
+334 Harp Reference [music_lessons] || 하프 학습·연주 참고자료 관리는 실제 음악 학습 운영 항목 - Reference 라인(Saxophone Reference 정합)
+335 Headlight Evaluation [automotive] || 전조등 밝기·정렬 검사 평가는 실제 자동차 운영 항목 - Evaluation 라인 실재
+336 Hearing Evaluation [government] || 공청회 의견 평가는 실제 행정 운영 항목 - Evaluation 라인 실재(public hearing)
+337 Hearing Questionnaire [government] || 공청회 의견 설문은 실제 행정 운영 문서 - Questionnaire 라인(Hearing Evaluation 정합)
+338 Hearing Requirement [government] || 공청회 개최 요건 관리는 실제 행정 운영 항목 - Requirement 라인(Hearing Evaluation 정합)
+339 Hiking Evaluation [travel_tourism] || 등산로 상태·난이도 평가는 실제 여행 운영 항목 - Evaluation 라인 실재
+340 Hinge Evaluation [locksmith_security_services] || 도어 힌지 상태·시공 평가는 실제 보안 도어 유지관리 항목 - Evaluation 라인 실재
+341 Honeymoon Evaluation [wedding_planning_services] || 허니문 계획·업체 평가는 실제 웨딩 운영 항목 - Evaluation 라인 실재
+342 Hospital Evaluation [healthcare] || 병원 서비스 평가는 실제 의료 운영 항목 - Evaluation 라인 실재(hospital evaluation)
+343 Hospital Questionnaire [healthcare] || 병원 환자 만족도 설문은 실제 의료 운영 문서 - Questionnaire 라인(Hospital Evaluation 정합)
+344 Hospital Requirement [healthcare] || 병원 인가 요건 관리는 실제 의료 운영 항목 - Requirement 라인(Hospital Evaluation 정합)
+345 Hospital Utilization [healthcare] || 병원 자원 가동률은 실제 의료 표준 지표 - Utilization 라인 실재(bed utilization)
+346 Humidifier Evaluation [hvac_services] || 가습기 성능 평가는 실제 HVAC 운영 항목 - Evaluation 라인 실재
+347 Hygiene Evaluation [dental] || 구강 위생 평가는 실제 치과 운영 항목 - Evaluation 라인 실재
+348 Immunization Evaluation [childcare] || 접종 효과 평가는 실제 육아·보건 운영 항목 - Evaluation 라인 실재
+349 Immunization Questionnaire [childcare] || 접종 사전 설문은 실제 육아·보건 운영 문서 - Questionnaire 라인 실재
+350 Immunization Requirement [childcare] || 입학 접종 요건 관리는 실제 육아 운영 항목 - Requirement 라인 실재(immunization requirements)
+351 Implant Evaluation [dental] || 임플란트 상태 평가는 실제 치과 운영 항목 - Evaluation 라인(Implant Capacity 정합)
+352 Implant Questionnaire [dental] || 임플란트 사전 설문은 실제 치과 운영 문서 - Questionnaire 라인 실재
+353 Implant Requirement [dental] || 임플란트 대상 요건 관리는 실제 치과 운영 항목 - Requirement 라인 실재(candidacy criteria)
+354 Impressioning Evaluation [locksmith_security_services] || 키 제작 임프레셔닝 기법 평가는 실제 잠금 보안 운영 항목 - Evaluation 라인 실재
+355 Incident Evaluation [senior_care] || 돌발 사고·사건 평가는 실제 요양 운영 항목 - Evaluation 라인 실재
+356 Indemnity Evaluation [insurance] || 배상 책임 평가는 실제 보험 운영 항목 - Evaluation 라인 실재(indemnity assessment)
+357 Indemnity Requirement [insurance] || 배상 조항 요건 관리는 실제 보험 운영 항목 - Requirement 라인 실재(indemnity provision)
+358 Inheritance Evaluation [finance] || 상속 재산 평가는 실제 금융 운영 항목 - Evaluation 라인 실재(inheritance valuation)
+359 Inheritance Requirement [finance] || 상속 절차 요건 관리는 실제 금융 운영 항목 - Requirement 라인(Inheritance Evaluation 정합)
+360 Injury Evaluation [healthcare] || 부상 평가는 실제 의료 운영 항목 - Evaluation 라인 실재 결합
+361 Injury Hazard [healthcare] || 부상 위험 요인 관리는 실제 의료 운영 항목 - Hazard 라인 실재(injury hazard)
+362 Injury Questionnaire [healthcare] || 부상 경위 설문은 실제 의료 운영 문서 - Questionnaire 라인 실재
+363 Injury Requirement [healthcare] || 부상 보고 요건 관리는 실제 의료 운영 항목 - Requirement 라인 실재(injury reporting requirement)
+364 Inspection Evaluation [real_estate] || 부동산 검사 상태 평가는 실제 부동산 표준 관행 - Evaluation 라인 실재(inspection)
+365 Inspection Questionnaire [cleaning_services] || 점검용 설문 양식은 실제 청소 운영 문서 - Questionnaire 신규 기능어 실재 결합
+366 Inspection Requirement [cleaning_services] || 점검 항목 요건 관리는 실제 청소 운영 항목 - Requirement 라인 실재
+367 Insulation Evaluation [construction] || 단열 상태 평가는 실제 건설·에너지 절감 표준 항목 - Evaluation 라인 실재
+368 Insurance Evaluation [pharmacy] || 약국 보험 청구 적합성·처리 평가는 실제 약국 운영 항목 - Evaluation 라인 실재
+369 Intake Evaluation [laundry_dry_cleaning] || 수거 접수 시 의류 상태 검사는 실제 세탁 표준 절차 - Evaluation 라인 실재
+370 Intake Questionnaire [laundry_dry_cleaning] || 접수 시 의류·오염 문진은 실제 세탁 운영 문서 - Questionnaire 라인(Intake Evaluation 정합)
+371 Intake Requirement [laundry_dry_cleaning] || 의류 취급 요건(케어 라벨 등) 관리는 실제 세탁 규제 준수 항목 - Requirement 라인(Intake Evaluation 정합)
+372 Intermodal Evaluation [logistics] || 복합운송 효율·운영 평가는 실제 물류 운영 항목 - Evaluation 라인 실재
+373 Internship Evaluation [recruiting] || 인턴십 수행 평가는 실제 채용 운영 항목 - Evaluation 라인 실재
+374 Interpreter Evaluation [interpreter_translation_services] || 통역 품질 평가는 실제 통역 운영 항목 - Evaluation 라인 실재
+375 Interpreter Questionnaire [interpreter_translation_services] || 통역 품질 피드백 설문은 실제 통역 운영 문서 - Questionnaire 라인(Interpreter Evaluation 정합)
+376 Interpreter Requirement [interpreter_translation_services] || 통역사 자격 요건 관리는 실제 통역 운영 항목 - Requirement 라인(Interviewer Requirement 정합)
+377 Interpreter Utilization [interpreter_translation_services] || 통역사 가동률은 실제 통역 운영 지표 - Utilization 라인(Technician Utilization 정합)
+378 Interviewer Evaluation [recruiting] || 면접 평가는 실제 채용 표준 항목 - Evaluation 라인 실재
+379 Interviewer Questionnaire [recruiting] || 면접 질문지 관리는 실제 채용 표준 문서 - Questionnaire 라인 실재
+380 Interviewer Requirement [recruiting] || 면접관 자격 요건 관리는 실제 채용 운영 항목 - Requirement 라인(Interviewer Evaluation 정합)
+381 Interviewer Utilization [recruiting] || 면접관 가동률은 실제 채용 운영 지표 - Utilization 라인(Technician Utilization 정합)
+382 Inventory Evaluation [logistics] || 재고 정확성 평가는 실제 물류 운영 항목 - Evaluation 라인 실재
+383 Invitation Questionnaire [wedding_planning_services] || 청첩장 문구 문진은 실제 웨딩 문구 업계 표준 문서 - Questionnaire 라인 실재
+384 Invitation Requirement [wedding_planning_services] || 청첩장 제작 요건(문구·수량·형식) 관리는 실제 웨딩 문구 운영 항목 - Requirement 라인
+385 Invite Evaluation [wedding_planning_services] || 웨딩 초대장 문구·디자인 평가는 실제 웨딩 플래닝 운영 항목 - Evaluation 라인 실재
+386 Irrigation Evaluation [landscaping] || 관수 시설 점검 평가는 실제 조경 운영 표준 항목 - Evaluation 라인 실재
+387 Irrigation Requirement [landscaping] || 구역별 관수 요건(주기·수량) 관리는 실제 조경 운영 항목 - Requirement 라인(Mowing Requirement 정합)
+388 Itinerary Evaluation [hospitality] || 여정 구성·만족 평가는 실제 호텔·숙박 운영 항목 - Evaluation 라인 실재
+389 Jobsite Evaluation [construction] || 현장 안전·진행 평가는 실제 건설 운영 항목 - Evaluation 라인 실재
+390 Keyless Evaluation [locksmith_security_services] || 키리스 출입 시스템 평가는 실제 보안 운영 항목 - Evaluation 라인 실재(keyless entry)
+391 Knowledge Evaluation [customer_support] || 지식베이스 품질·활용 평가는 실제 CS 운영 항목 - Evaluation 라인 실재
+392 Landscaping Evaluation [property_management_services] || 조경 시공 품질 평가는 실제 시설 운영 항목 - Evaluation 라인 실재
+393 Landscaping Requirement [property_management_services] || 조경 시공 요건 관리는 실제 자산 관리 항목 - Requirement 라인 실재(landscaping requirements)
+394 Lane Evaluation [logistics] || 운송 레인 분석·평가는 실제 물류 조달 표준 항목 - Evaluation 라인 실재
+395 Lane Requirement [logistics] || 레인별 운송 요건(리드타임·장비) 관리는 실제 물류 조달 항목 - Requirement 라인(Lane Evaluation 정합)
+396 Lane Utilization [logistics] || 레인별 물량·적재 가동률은 실제 물류 표준 지표 - Utilization 라인(Route Utilization 정합)
+397 Leak Evaluation [plumbing_services] || 누수 원인·상태 평가는 실제 배관 운영 항목 - Evaluation 라인 실재
+398 Leave Evaluation [hr_payroll] || 휴가 신청 심사 평가는 실제 인사 운영 항목 - Evaluation 라인 실재(leave review)
+399 Leave Requirement [hr_payroll] || 휴가 신청 요건 관리는 실제 인사 운영 항목 - Requirement 라인 실재(leave eligibility)
+400 Leave Utilization [hr_payroll] || 휴가 사용률은 실제 인사 표준 지표 - Utilization 라인 실재(leave utilization)
+401 Ledger Evaluation [nonprofit] || 장부 감사 평가는 실제 비영리 회계 운영 항목 - Evaluation 라인 실재
+402 Lesson Bill [music_lessons] || 레슨 청구서 관리는 실제 음악학원 운영 항목 - Bill 라인 실재(lesson billing)
+403 Lesson Confirmation [music_lessons] || 레슨 예약 확정 통지 관리는 실제 음악 교실 운영 항목 - Confirmation 라인(Probate Confirmation 정합)
+404 Lesson Form [music_lessons] || 레슨 등록 양식은 실제 음악 교육 운영 문서 - Form 라인(Probate Form 정합)
+405 Lesson List [music_lessons] || 레슨 과목 목록 관리는 실제 학원 운영 항목 - List 라인(Probate List 정합)
+406 Lesson Log [music_lessons] || 레슨 진행 기록은 실제 음악 교육 운영 문서 - Log 라인(Foundation Log 정합)
+407 Lesson Memo [music_lessons] || 레슨 후 강사 메모(수업 노트)는 실제 음악 교육 운영 문서 - Memo/Note 라인 실재
+408 Lesson Note [music_lessons] || 레슨 수업 기록은 실제 음악 교육 운영 문서 - Note 라인(Foundation Note 정합)
+409 Lesson Plan [music_lessons] || 레슨 수업 계획은 실제 음악 교육 표준 문서 - Plan 라인 실재
+410 Lesson Receipt [music_lessons] || 레슨 결제 영수증은 실제 음악학원 운영 문서 - Receipt 라인(Lesson Bill 정합)
+411 Lesson Report [music_lessons] || 레슨 진도 보고서는 실제 음악 교육 운영 문서 - Report 라인 실재
+412 Lesson Statement [music_lessons] || 레슨 거래 명세서는 실제 학원 청구 운영 문서 - Lesson Bill·Receipt와 별개 산출물(Statement)
+413 Liability Evaluation [insurance] || 책임 위험 평가는 실제 보험 인수 표준 항목 - Evaluation 라인 실재
+414 Liability Questionnaire [insurance] || 책임 보험 인수 문진은 실제 보험 표준 문서 - Questionnaire 라인(Liability Evaluation 정합)
+415 Liability Requirement [insurance] || 책임 배상 가입 요건 관리는 실제 보험 운영 항목 - Requirement 라인(Liability Evaluation 정합)
+416 License Evaluation [photography_services] || 이미지 라이선스 평가는 실제 사진 운영 항목 - Evaluation 라인 실재
+417 License Requirement [photography_services] || 이미지 라이선스 요건 관리는 실제 사진 운영 항목 - Requirement 라인(License Evaluation 정합)
+418 Lien Evaluation [construction] || 유치권 유효 평가는 실제 건설 운영 항목 - Evaluation 라인 실재(lien analysis)
+419 Lien Requirement [construction] || 유치권 성립 요건 관리는 실제 건설 법무 항목 - Requirement 라인 실재(lien requirements)
+420 Lighting Evaluation [photography_services] || 촬영 조명 평가는 실제 사진 운영 항목 - Evaluation 라인 실재
+421 Lighting Requirement [photography_services] || 행사·촬영 조명 요건(전력·설비) 관리는 실제 제작 운영 항목 - Requirement 라인(Wifi Evaluation 정합)
+422 Linguist Evaluation [interpreter_translation_services] || 통역사 언어 능력 평가는 실제 통번역 운영 표준 항목 - Evaluation 라인 실재
+423 Linguist Questionnaire [interpreter_translation_services] || 통역사 검증 문진은 실제 통번역 운영 문서 - Questionnaire 라인(Linguist Evaluation 정합)
+424 Linguist Requirement [interpreter_translation_services] || 통역사 자격 요건(인증·언어쌍) 관리는 실제 통번역 운영 항목 - Requirement 라인(Staffing Requirement 정합)
+425 Linguist Utilization [interpreter_translation_services] || 통역사 가동률은 실제 통번역 운영 지표 - Utilization 라인(Interpreter Utilization 정합)
+426 Livestream Evaluation [events] || 라이브스트림 품질·성과 평가는 실제 행사 운영 항목 - Evaluation 라인 실재
+427 Lockout Evaluation [locksmith_security_services] || 잠김 대응·개방 서비스 평가는 실제 보안 도어 운영 항목 - Evaluation 라인 실재
+428 Logistics Evaluation [events] || 행사 물류 운영 평가는 실제 이벤트 운영 항목 - Evaluation 라인 실재
+429 Logistics Questionnaire [events] || 행사 물류 요구 사전 문진은 실제 이벤트 운영 문서 - Questionnaire 라인(Logistics Evaluation 정합)
+430 Loyalty Evaluation [laundry_dry_cleaning] || 고객 충성도 프로그램 성과 평가는 실제 세탁 운영 항목 - Evaluation 라인 실재
+431 Maintenance Evaluation [landscaping] || 유지보수 상태 평가는 실제 조경 운영 항목 - Evaluation 신규 기능어 실재 결합
+432 Maintenance Hazard [landscaping] || 유지보수 작업 위험 관리는 실제 조경 운영 항목 - Hazard 라인 실재(maintenance hazard)
+433 Maintenance Questionnaire [landscaping] || 유지보수 만족도 설문은 실제 조경 운영 문서 - Questionnaire 라인 실재 결합
+434 Maintenance Requirement [landscaping] || 유지보수 요건 관리는 실제 조경 운영 항목 - Requirement 라인 실재(maintenance requirements)
+435 Mandolin Humidity [music_lessons] || 만돌린 보관 습도 관리는 실제 목제 악기 관리 항목 - Humidity 라인 실재(목악기 습도 관리)
+436 Mandolin Score [music_lessons] || 만돌린 악보 관리는 실제 음악 학습 운영 항목 - Score 라인(Accordion Score 정합)
+437 Manuscript Evaluation [media_publishing] || 원고 심사 평가는 실제 출판 운영 항목 - Evaluation 라인 실재
+438 Markdown Evaluation [retail_ecommerce] || 재고 마크다운·할인 시점 평가는 실제 소매 운영 항목 - Evaluation 라인(Quote Evaluation 정합)
+439 Massage Evaluation [salon_spa] || 마사지 시술 상태·만족 평가는 실제 살롱 운영 항목 - Evaluation 라인(Grooming Evaluation 정합)
+440 Mattress Evaluation [cleaning_services] || 매트리스 청소 상태·위생 평가는 실제 세탁 운영 항목 - Evaluation 라인 실재
+441 Meal Evaluation [childcare] || 급식 품질·영양 평가는 실제 육아 운영 항목 - Evaluation 라인 실재
+442 Melody Finder [music_lessons] || 멜로디 검색기는 실제 음악 검색 도구 - Finder 라인 실재(melody finder)
+443 Membership Evaluation [salon_spa] || 미용실 회원권 프로그램·이용 평가는 실제 뷰티 운영 항목 - Evaluation 라인 실재
+444 Mentorship Evaluation [education] || 멘토링 프로그램 평가는 실제 교육 운영 항목 - Evaluation 라인 실재
+445 Mentorship Questionnaire [education] || 멘토-멘티 매칭 문진은 실제 멘토링 운영 문서 - Questionnaire 라인(Mentorship Evaluation 정합)
+446 Mentorship Requirement [education] || 멘토 자격·프로그램 요건 관리는 실제 멘토링 운영 항목 - Requirement 라인(Mentorship Evaluation 정합)
+447 Method Assistant [music_lessons] || 교본 학습 도우미는 실제 연습 보조 도구 - Assistant 라인(Harmonica Assistant 정합)
+448 Method Calendar [music_lessons] || 교본 학습 일정 관리는 실제 교육 운영 항목 - Calendar 라인(Method Scheduler 정합)
+449 Method Finder [music_lessons] || 교육법 검색기는 실제 강습법 검색 도구 - Finder 라인(Choir Finder 정합)
+450 Method Planner [music_lessons] || 교본 학습 계획 관리는 실제 연습 운영 항목 - Planner 라인(Trading Planner 정합)
+451 Method Scheduler [music_lessons] || 교본 학습 일정 관리는 실제 연습 운영 항목 - Scheduler 라인(Choir Scheduler 정합)
+452 Migration Evaluation [it_devops] || 시스템·데이터 이전 결과 평가는 실제 IT 운영 항목 - Evaluation 라인 실재
+453 Mileage Evaluation [automotive] || 리스 반납 주행거리 평가는 실제 자동차 운영 항목 - Evaluation 라인 실재
+454 Mileage Utilization [automotive] || 주행거리 기반 차량 가동률은 실제 플릿 운영 지표 - Utilization 라인(Route Utilization 정합)
+455 Mortgage Evaluation [finance] || 주택담보대출 심사·평가는 실제 금융 운영 항목 - Evaluation 라인 실재
+456 Mowing Evaluation [landscaping] || 잔디 상태 평가는 실제 조경 표준 항목 - Evaluation 라인 실재
+457 Mowing Requirement [landscaping] || 구역별 예초 요건(주기·높이) 관리는 실제 조경 운영 항목 - Requirement 라인(Mowing Evaluation 정합)
+458 Nap Evaluation [childcare] || 아동 낮잠·수면 패턴 평가는 실제 육아 운영 항목 - Evaluation 라인 실재
+459 Naptime Evaluation [childcare] || 낮잠 상태 평가는 실제 육아 운영 항목 - Evaluation 라인 실재
+460 Network Evaluation [telecom] || 네트워크 상태 평가는 실제 통신 운영 항목 - Evaluation 라인 실재
+461 Network Requirement [telecom] || 네트워크 요건 관리는 실제 통신 운영 항목 - Requirement 라인 실재(network requirements)
+462 Network Utilization [telecom] || 네트워크 사용률은 표준 기술 지표 - Utilization 라인 실재(network utilization)
+463 Neuter Evaluation [veterinary] || 중절 수술 전 평가는 실제 수의학 표준 절차 - Evaluation 라인 실재
+464 Newsletter Evaluation [media_publishing] || 뉴스레터 성과 평가는 실제 미디어 운영 항목 - Evaluation 라인 실재
+465 Notarization Evaluation [interpreter_translation_services] || 공증 처리·서류 평가는 실제 통번역 운영 항목 - Evaluation 라인 실재
+466 Notice Requirement [events] || 행사 공고·통지 요건(인허가 고지 등) 관리는 실제 행사 운영 항목 - Requirement 라인
+467 Nozzle Evaluation [plumbing_services] || 노즐 상태·분사 성능 평가는 실제 배관 운영 항목 - Evaluation 라인 실재
+468 Nutrition Evaluation [fitness_wellness] || 영양 상태 평가는 실제 피트니스·웰니스 표준 항목 - Evaluation 라인 실재
+469 Nutrition Questionnaire [fitness_wellness] || 식이 섭취 문진은 실제 피트니스·영양 표준 문서 - Questionnaire 라인(Nutrition Evaluation 정합)
+470 Nutrition Requirement [fitness_wellness] || 고객별 식단 요건(제한·목표) 관리는 실제 피트니스 운영 항목 - Requirement 라인(Nutrition Evaluation 정합)
+471 Oboe Appointment [music_lessons] || 오보에 레슨·수리 예약 관리는 실제 음악 학습 운영 항목 - Appointment 라인(Violin Appointment 정합)
+472 Oboe Certification [music_lessons] || 오보에 급수·자격 관리는 실제 음악 학습 운영 항목 - Certification 라인(Violin Certification 정합)
+473 Oboe Diagnostic [music_lessons] || 오보에 상태 진단은 실제 악기 수리 운영 항목 - Diagnostic 라인(Violin Diagnostic 정합)
+474 Oboe Manual [music_lessons] || 오보에 연주 매뉴얼은 실제 학습 문 - Guide 라인(Violin Manual 정합)
+475 Oboe Reference [music_lessons] || 운지법 참조표 조회 도구는 실제 목관 학습 도구 - Reference 라인(Violin Reference 정합)
+476 Oboe Renewal [music_lessons] || 오보에 수강·계약 연장 관리는 실제 음악 학습 운영 항목 - Renewal 라인(Violin Renewal 정합)
+477 Oboe Timer [music_lessons] || 연습 시간 측정 타이머는 실제 학습 도구 - Timer 라인(Saxophone·Violin Timer 정합)
+478 Oboe Workshop [music_lessons] || 오보에 리드 제작 워크숍 등은 실제 음악 교육 운영 항목 - Workshop 라인 정합
+479 Occupant Benefit [property_management_services] || 거주자 혜택 패키지는 실제 자산관리 표준 프로그램(resident benefits package) - Benefit 라인 실재
+480 Occupant Evaluation [property_management_services] || 거주자 만족도 평가는 실제 자산 관리 항목 - Evaluation 라인 실재(occupant survey)
+481 Occupant Questionnaire [property_management_services] || 거주자 만족도 설문은 실제 자산 관리 문서 - Questionnaire 라인(Occupant Evaluation 정합)
+482 Occupant Requirement [property_management_services] || 입주자 자격 요건 관리는 실제 자산관리 표준 항목 - Requirement 라인
+483 Offer Evaluation [recruiting] || 채용 오퍼 조건 심사·평가는 실제 채용 운영 항목 - Evaluation 라인 실재
+484 Officiant Evaluation [wedding_planning_services] || 결혼 집전자(officiant) 선정·성과 평가는 실제 웨딩 플래닝 운영 항목 - Evaluation 라인 실재
+485 Ointment Evaluation [pharmacy] || 연고 제제 평가는 실제 약국 운영 항목 - Evaluation 라인 실재
+486 Opening Evaluation [pool_maintenance_services] || 수영장 개장 점검 평가는 실제 풀 관리 운영 항목 - Evaluation 라인 실재
+487 Orchestra Calendar [music_lessons] || 연주단 시즌 일정은 실제 음악 단체 운영 항목 - Calendar 라인(Estate Calendar 정합)
+488 Orchestra Confirmation [music_lessons] || 합주단 공연·리허설 예약 확정은 실제 음악 운영 항목 - Confirmation 라인(Organ/Piano Confirmation 정합)
+489 Orchestra Finder [music_lessons] || 연주단 검색기는 실제 음악 검색 도구 - Finder 라인(Melody Finder 정합)
+490 Orchestra Log [music_lessons] || 오케스트라 운영 기록은 실제 단체 기록 항목 - Log 라인(Organ Log 정합)
+491 Orchestra Plan [music_lessons] || 합주단 리허설·시즌 계획 관리는 실제 음악 운영 항목 - Plan 라인(Organ Plan 정합)
+492 Orchestra Register [music_lessons] || 오케스트라 단원 명부는 실제 음악 단체 운영 문서 - Register 라인(Immunization Register 정합)
+493 Orchestra Registry [music_lessons] || 연주단 명부 등록은 실제 음악 단체 운영 문서 - Registry 라인(Piano Registry 정합)
+494 Orchestra Score [music_lessons] || 오케스트라 악보 관리는 실제 합주 운영 항목(오케스트라 사서 실재) - Score 라인
+495 Organ Confirmation [music_lessons] || 오르간 레슨 예약 확정 통지 관리는 실제 음악 교실 운영 항목 - Confirmation 라인(Lesson Confirmation 정합)
+496 Organ Log [music_lessons] || 오르간 정비 기록은 실제 악기 관리 문서 - Log 라인(Lesson Log 정합)
+497 Organ Note [music_lessons] || 오르간 정비 메모는 실제 악기 관리 문서 - Note 라인(Lesson Note 정합)
+498 Organ Plan [music_lessons] || 오르간 레슨 수업 계획은 실제 음악 교육 표준 문서 - Plan 라인(Lesson Plan 정합)
+499 Outreach Evaluation [nonprofit] || 아웃리치 프로그램 평가는 실제 비영리 운영 항목 - Evaluation 라인 실재
+500 Packing Evaluation [moving_relocation_services] || 이사 짐 포장 품질·상태 평가는 실제 이사 운영 항목 - Evaluation 라인 실재
+501 Padding Evaluation [moving_relocation_services] || 이사 포장재 상태·사용 평가는 실제 이사 운영 항목 - Evaluation 라인 실재
+502 Padlock Evaluation [locksmith_security_services] || 자물쇠 보안 등급 평가는 실제 잠금 업계 표준 항목 - Evaluation 라인 실재
+503 Padlock Questionnaire [locksmith_security_services] || 보안 실태 설문(security survey)은 실제 잠금 업계 표준 문서 - Questionnaire 라인 실재
+504 Padlock Requirement [locksmith_security_services] || 시설별 자물쇠 사양 요건 관리는 실제 잠금 보안 운영 항목 - Requirement 라인(Padlock Questionnaire 정합)
+505 Painting Evaluation [construction] || 도장 품질 평가는 실제 시공 운영 항목 - Evaluation 라인 실재
+506 Painting Hazard [construction] || 도장 작업 유해 위험 관리는 실제 건설 운영 항목 - Hazard 라인 실재(용제 증기)
+507 Painting Requirement [construction] || 도장 시방 요건 관리는 실제 건설 운영 항목 - Requirement 라인 실재(painting specification)
+508 Pallet Evaluation [logistics] || 팔레트 상태 평가는 실제 물류 운영 항목 - Evaluation 라인 실재
+509 Pallet Requirement [logistics] || 팔레트 규격·처리 요건(ISPM 등) 관리는 실제 물류 표준 항목 - Requirement 라인 실재
+510 Pallet Utilization [logistics] || 팔레트 적재율은 실제 물류 표준 지표 - Utilization 라인 실재(pallet utilization)
+511 Patch Evaluation [cybersecurity] || 패치 적용 상태 평가는 실제 보안 운영 표준 항목 - Evaluation 라인 실재
+512 Paving Evaluation [construction] || 포장 상태 평가는 실제 건설 운영 항목 - Evaluation 라인 실재
+513 Payment Evaluation [finance] || 결제 검토·이상 평가는 실제 금융 운영 통제 항목 - Evaluation 라인 실재
+514 Payment Requirement [finance] || 지급 조건·요건 관리는 실제 금융 운영 항목 - Requirement 라인(Payment Evaluation 정합)
+515 Payout Evaluation [insurance] || 보험금 지급 평가는 실제 보험 운영 항목 - Evaluation 라인 실재(payout)
+516 Payout Requirement [insurance] || 보험금 지급 요건 관리는 실제 보험 운영 항목 - Requirement 라인(Payout Evaluation 정합)
+517 Percussion Evaluation [music_lessons] || 타악기 연주 평가(배치·오디션)는 실제 음악 교육 항목 - Evaluation 라인 실재
+518 Percussion Inventory [music_lessons] || 타악기 보유 재고 관리는 실제 악기 운영 항목 - Inventory 라인(Flooring Inventory 정합)
+519 Percussion Requirement [music_lessons] || 타악기 준비물 요건(말렛·연습패드) 관리는 실제 음악 교육 운영 항목 - Requirement 라인
+520 Percussion Tracker [music_lessons] || 타악 연습 추적은 실제 음악 학습 도구 - Tracker 라인(Clarinet Tracker 정합)
+521 Peril Evaluation [insurance] || 보험 담보 위험 평가는 실제 보험 운영 항목 - Evaluation 라인 실재
+522 Perimeter Evaluation [cybersecurity] || 경계 보안 평가는 실제 보안 운영 항목 - Evaluation 라인 실재(perimeter security evaluation)
+523 Permit Evaluation [transportation] || 허가 심사 평가는 실제 운수 운영 항목 - Evaluation 라인 실재(permit evaluation)
+524 Permit Requirement [transportation] || 인허가 요건 관리는 실제 운수 운영 항목 - Requirement 라인 실재(permit requirements)
+525 Photo Evaluation [media_publishing] || 사진 품질 검수는 실제 미디어 운영 항목 - Evaluation 라인 실재
+526 Photo Questionnaire [media_publishing] || 촬영 전 고객 요구 파악 설문은 실제 미디어 운영 문서 - Questionnaire 라인 실재
+527 Photo Requirement [media_publishing] || 촬영 요구사항(컷·용도·규격) 관리는 실제 미디어 운영 항목 - Requirement 라인(Photo Questionnaire 정합)
+528 Piano Confirmation [music_lessons] || 피아노 레슨·조율 예약 확정은 실제 음악 학습 운영 항목 - Confirmation 라인(Organ Confirmation 정합)
+529 Piano Finder [music_lessons] || 피아노 매물 검색기는 실제 악기 검색 도구 - Finder 라인(Melody Finder 정합)
+530 Piano Level [music_lessons] || 피아노 급수 배정·추적은 실제 음악 교육 표준 항목 - Level 라인 실재
+531 Piano Log [music_lessons] || 피아노 연습 기록은 실제 학습 기록 항목 - Log 라인(Flute Log 정합)
+532 Piano Plan [music_lessons] || 피아노 연습·수업 계획 관리는 실제 음악 학습 운영 항목 - Plan 라인(Organ/Lesson Plan 정합)
+533 Piano Register [music_lessons] || 피아노 음역 레지스터 관리는 실제 음악 용어 - register 실제 음악 의미
+534 Piano Registry [music_lessons] || 피아노 등록 대장은 실제 악기 관리 문서 - Registry 라인 실재(악기 일련번호 등록)
+535 Piano Score [music_lessons] || 피아노 악보 관리는 실제 음악 학습 운영 항목 - Score 라인 실재(sheet music)
+536 Pickup Evaluation [pharmacy] || 처방 수령 프로세스 평가는 실제 약국 운영 항목 - Evaluation 라인 실재
+537 Picnic Evaluation [travel_tourism] || 피크닉·야외 행사 서비스 평가는 실제 여행 운영 항목 - Evaluation 라인 실재
+538 Pipeline Evaluation [it_devops] || 배포 파이프라인 평가는 실제 개발 운영 항목 - Evaluation 라인 실재
+539 Pipeline Requirement [it_devops] || 배포 파이프라인 요건 관리는 실제 개발 운영 항목 - Requirement 라인 실재
+540 Pipeline Utilization [it_devops] || 배포 파이프라인 가동률은 실제 개발 운영 지표 - Utilization 라인 실재
+541 Placement Evaluation [marketing] || 광고 배치 평가는 실제 마케팅 운영 항목 - Evaluation 라인 실재(ad placement)
+542 Placement Requirement [marketing] || 채용 배치 요건 관리는 실제 마케팅 운영 항목 - Requirement 라인 실재
+543 Playground Evaluation [property_management_services] || 놀이터 안전 평가는 실제 시설 운영 항목 - Evaluation 라인 실재(playground safety evaluation)
+544 Playground Hazard [property_management_services] || 놀이터 안전 위험 관리는 실제 시설 운영 항목 - Hazard 라인 실재(playground hazard)
+545 Playground Requirement [property_management_services] || 놀이터 안전 기준 요건 관리는 실제 시설 운영 항목 - Requirement 라인 실재(CPSC 기준)
+546 Playtime Evaluation [childcare] || 놀이 기반 발달 평가는 실제 육아·아동 교육 운영 항목 - Evaluation 라인 실재
+547 Pledge Evaluation [nonprofit] || 기부 약정 평가는 실제 모금 운영 항목 - Evaluation 라인 실재
+548 Pledge Requirement [nonprofit] || 기부 약정 이행 요건 관리는 실제 모금 운영 항목 - Requirement 라인(Pledge Evaluation 정합)
+549 Plumbing Evaluation [construction] || 배관 시공·상태 평가는 실제 건설 운영 항목 - Evaluation 라인 실재
+550 Podcast Evaluation [media_publishing] || 팟캐스트 성과·콘텐츠 품질 평가는 실제 미디어 운영 항목 - Evaluation 라인 실재
+551 Pool Evaluation [property_management_services] || 수영장 상태 평가는 실제 시설 관리 표준 항목 - Evaluation 라인 실재
+552 Pool Utilization [property_management_services] || 수영장 이용률 추적은 실제 시설 운영 지표 - Utilization 라인(Schedule Utilization 정합)
+553 Portfolio Evaluation [recruiting] || 지원자 포트폴리오 평가는 실제 채용 운영 항목 - Evaluation 라인 실재
+554 Pothole Evaluation [government] || 포트홀 도로 손상 평가는 실제 공공 운영 표준 항목 - Evaluation 라인 실재
+555 Potty Evaluation [childcare] || 배변 훈련 진행 평가는 실제 육아 운영 항목 - Evaluation 라인 실재(potty training)
+556 Potty Questionnaire [childcare] || 배변 훈련 준비도 설문은 실제 육아 운영 문서 - Questionnaire 라인(Potty Evaluation 정합)
+557 Potty Requirement [childcare] || 배변 훈련 완료 요건(반 배정 기준) 관리는 실제 육아 운영 항목 - Requirement 라인(Potty Evaluation 정합)
+558 Practice Reference [music_lessons] || 연습 참고자료 관리는 실제 음악 학습 운영 항목 - Reference 라인(Guitar Reference 정합)
+559 Preplanning Evaluation [funeral_services] || 사전 장례 계획 상담 평가는 실제 장례 서비스 표준 항목 - Evaluation 라인 실재
+560 Preplanning Questionnaire [funeral_services] || 사전 장례 계획 문진은 실제 장례 서비스 표준 문서 - Questionnaire 라인(Preplanning Evaluation 정합)
+561 Preplanning Requirement [funeral_services] || 사전 장례 계약 요건 관리는 실제 장례 서비스 운영 항목 - Requirement 라인(Preplanning Evaluation 정합)
+562 Prescription Evaluation [veterinary] || 처방약 복용 평가는 실제 수의학 표준 항목 - Evaluation 라인 실재
+563 Probate Asset [legal] || 검인 대상 유산 자산 목록·관리는 실제 법률 운영 항목 - Probate 라인(Probate Sale 정합)
+564 Probate Brief [legal] || 검인 사건 법률 의견서(브리프)는 실제 법무 표준 문서 - Brief 라인 실재
+565 Probate Confirmation [legal] || 검인 법원 확정(상속 부동산 매각 승인) 절차 관리는 실제 법무 운영 항목 - Confirmation 라인 실재
+566 Probate Form [legal] || 검인 신청서는 실제 법률 문서 - Form 라인 실재(probate form)
+567 Probate List [legal] || 상속 재산 목록 관리는 실제 검인 표준 문서 - List 라인(Probate Report 정합)
+568 Probate Log [legal] || 검인 사건 진행 기록은 실제 법률 운영 문서 - Log 라인 실재
+569 Probate Petition [legal] || 검인 신청서는 실제 검인 절차의 핵심 법원 문서 - Petition 라인 실재
+570 Probate Plan [legal] || 검인 진행 계획은 실제 법무 운영 항목 - Plan 라인 실재
+571 Probate Report [legal] || 검인 보고서는 실제 법률 문서 - Report 라인 실재(probate report)
+572 Probate Sale [legal] || 검인 재산 매각 관리는 실제 법률·부동산 운영 항목(법원 감독 매각) - Sale 라인 실재
+573 Probate Statement [legal] || 검인 재산 내역서(유산 정산 보고서)는 실제 법무 표준 문서 - Statement 라인 실재
+574 Probation Evaluation [hr_payroll] || 신입 수습 평가는 실제 인사 운영 항목 - Evaluation 라인 실재(probation review)
+575 Probation Questionnaire [hr_payroll] || 수습 기간 평가 설문은 실제 인사 운영 문서 - Questionnaire 라인(Probation Evaluation 정합)
+576 Probation Requirement [hr_payroll] || 수습 기간 요건 관리는 실제 인사 운영 항목 - Requirement 라인(Probation Evaluation 정합)
+577 Program Evaluation [fitness_wellness] || 운동 프로그램 효과·참여 평가는 실제 피트니스 운영 항목 - Evaluation 라인 실재
+578 Proof Evaluation [photography_services] || 교정쇄(프루프) 검수는 실제 사진 인화 표준 절차 - Evaluation 라인 실재
+579 Proofing Evaluation [interpreter_translation_services] || 번역 교정 검수 평가는 실제 통번역 표준 절차 - Evaluation 라인 실재
+580 Proofing Requirement [interpreter_translation_services] || 번역 검수 요건(스타일 가이드·품질 기준) 관리는 실제 통번역 운영 항목 - Requirement 라인(Proofing Evaluation 정합
+581 Provider Evaluation [healthcare] || 의료서비스 제공자 성과·자격 평가는 실제 의료 운영 항목 - Evaluation 라인 실재
+582 Provisioning Evaluation [it_devops] || 인프라 프로비저닝 성능 평가는 실제 DevOps 운영 항목 - Evaluation 라인 실재
+583 Publisher Evaluation [media_publishing] || 출판사 성과·적합성 평가는 실제 미디어 운영 항목 - Evaluation 라인 실재
+584 Queue Evaluation [customer_support] || 대기열 처리 성능 평가는 실제 고객지원 운영 항목 - Evaluation 라인 실재
+585 Quote Evaluation [insurance] || 보험 견적 적정성·심사 평가는 실제 보험 운영 항목 - Evaluation 라인 실재
+586 Radiator Evaluation [hvac_services] || 라디에이터 상태·성능 평가는 실제 HVAC 운영 항목 - Evaluation 라인 실재
+587 Rating Evaluation [customer_support] || CS 평점 분석은 실제 고객지원 표준 지표 - Evaluation 라인 실재
+588 Rating Questionnaire [customer_support] || 만족도 평점 설문(CSAT)은 실제 고객지원 표준 문서 - Questionnaire 라인
+589 Realtor Evaluation [real_estate] || 중개사 성과 평가는 실제 부동산 운영 항목 - Evaluation 라인 실재
+590 Recall Evaluation [dental] || 정기 검진 평가는 실제 치과 운영 항목 - Evaluation 라인 실재(dental recall exam)
+591 Recall Questionnaire [dental] || 정기 검진 사전 설문은 실제 치과 운영 문서 - Questionnaire 라인 실재
+592 Recall Requirement [dental] || 정기 검진 주기 요건 관리는 실제 치과 운영 항목 - Requirement 라인 실재
+593 Recital Appointment [music_lessons] || 발표회 참가 예약 관리는 실제 음악 학습 운영 항목 - Appointment 라인(Audition Appointment 정합)
+594 Recital Reference [music_lessons] || 발표회 곡목·진행 참고자료 관리는 실제 음악 운영 항목 - Reference 라인(Saxophone Reference 정합)
+595 Recording Evaluation [events] || 행사 녹화 품질 평가는 실제 이벤트 운영 항목 - Evaluation 라인 실재
+596 Recovery Evaluation [healthcare] || 환자 회복·재활 평가는 실제 의료 운영 항목 - Evaluation 라인 실재
+597 Recruiter Utilization [recruiting] || 리크루터 가동률 관리는 실제 채용 운영 지표 - Utilization 신규 기능어 실재 결합
+598 Redline Evaluation [legal] || 계약서 수정(redline) 검토 평가는 실제 법무 표준 관행 - Evaluation 라인 실재
+599 Redline Requirement [legal] || 계약 수정 요건(필수 조항) 관리는 실제 법무 운영 항목 - Requirement 라인(Redline Evaluation 정합)
+600 Reefer Requirement [logistics] || 냉장 운송 요건 관리는 실제 물류 운영 항목 - Requirement 라인 실재(cold chain requirement)
+601 Reefer Utilization [logistics] || 냉장 컨테이너 가동률은 실제 물류 운영 지표 - Utilization 라인 실재 결합
+602 Reference Evaluation [recruiting] || 추천 검증 평가는 실제 채용 운영 항목 - Evaluation 라인 실재(reference check)
+603 Reference Questionnaire [recruiting] || 추천 확인 설문은 실제 채용 운영 문서 - Questionnaire 라인 실재(reference check form)
+604 Referendum Evaluation [government] || 국민투표 결과 평가는 실제 선거 운영 항목 - Evaluation 라인 실재
+605 Referendum Requirement [government] || 국민투표 절차 요건 관리는 실제 선거 운영 항목 - Requirement 라인 실재
+606 Referral Benefit [recruiting] || 추천 채용 혜택은 실제 인사 운영 항목 - Benefit 라인 실재(employee referral benefit)
+607 Referral Evaluation [veterinary] || 전원·의뢰 케이스 및 의뢰 병원 평가는 실제 동물병원 운영 항목 - Evaluation 라인 실재
+608 Referral Questionnaire [recruiting] || 추천 후보 설문은 실제 채용 운영 문서 - Questionnaire 라인(Inspection Questionnaire 정합)
+609 Referral Requirement [recruiting] || 추천 프로그램 요건 관리는 실제 채용 운영 항목 - Requirement 라인 실재
+610 Refrigeration Evaluation [pharmacy] || 약품 냉장보관 장비·온도 평가는 실제 약국 운영 항목 - Evaluation 라인 실재
+611 Refund Evaluation [customer_support] || 환불 처리 평가는 실제 고객지원 운영 항목 - Evaluation 라인 실재
+612 Registrar Evaluation [wedding_planning_services] || 혼인 등록 절차 평가는 실제 웨딩 운영 항목 - Evaluation 라인 실재
+613 Reimbursement Evaluation [moving_relocation_services] || 이사 비용 정산 평가는 실제 이사 운영 항목 - Evaluation 라인 실재(reimbursement)
+614 Reimbursement Requirement [moving_relocation_services] || 이사 비용 정산 요건 관리는 실제 이사 운영 항목 - Requirement 라인(Reimbursement Evaluation 정합)
+615 Rekeying Evaluation [locksmith_security_services] || 재키잉 시공·서비스 평가는 실제 보안 도어 운영 항목 - Evaluation 라인 실재
+616 Remittance Evaluation [finance] || 해외 송금 수수료 평가는 실제 금융 운영 항목 - Evaluation 라인(Remittance Capacity 정합)
+617 Remittance Requirement [finance] || 해외 송금 요건 관리는 실제 금융 운영 항목 - Requirement 라인(Remittance Capacity 정합)
+618 Renovation Benefit [real_estate] || 리모델링 세제 혜택 관리는 실제 부동산 운영 항목 - Benefit 라인 실재 결합
+619 Renovation Depreciation [real_estate] || 리모델링 자본화 감가상각은 실제 부동산 회계 항목 - Depreciation 라인 실재(개선공사 감가상각)
+620 Renovation Hazard [real_estate] || 리모델링 공사 위험 관리는 실제 부동산 운영 항목 - Hazard 라인 실재(석면 노출 등)
+621 Renovation Requirement [real_estate] || 리모델링 시공 요건 관리는 실제 부동산 운영 항목 - Requirement 라인 실재
+622 Rental Evaluation [photography_services] || 장비 대여 서비스·상태 평가는 실제 사진 운영 항목 - Evaluation 라인 실재
+623 Repertoire Score [music_lessons] || 레퍼토리 악보 관리는 실제 음악 학습 운영 항목 - Score 라인(Mandolin Score 정합)
+624 Repertoire Tracker [music_lessons] || 레퍼토리 학습 추적은 실제 학습 운영 항목 - Tracker 라인(Clarinet Tracker 정합)
+625 Reservation Evaluation [food_service] || 예약 처리·이행 평가는 실제 외식 운영 항목 - Evaluation 라인 실재
+626 Reserve Evaluation [mining] || 광상 매장량 평가는 실제 광업 핵심 표준 항목(JORC 등) - Evaluation 라인 실재
+627 Reserve Requirement [mining] || 매장량 보고 요건(JORC·NI 43-101) 관리는 실제 광업 규제 준수 항목 - Requirement 라인(Reserve Evaluation
+628 Resident Evaluation [government] || 주민 프로그램 평가는 실제 공공 운영 항목 - Evaluation 라인 실재
+629 Resident Questionnaire [government] || 주민 만족도 설문은 실제 공공 표준 문서 - Questionnaire 라인
+630 Restock Evaluation [retail_ecommerce] || 재입고 판단 평가는 실제 리테일 운영 항목 - Evaluation 라인 실재
+631 Retirement Calendar [finance] || 은퇴 준비 기한 캘린더는 실제 금융 운영 도구 - Calendar 라인(Estate Calendar 정합)
+632 Retirement Estimate [finance] || 은퇴 자금 필요액 추정은 실제 은퇴 설계 표준 항목 - Estimate 라인(Estate Estimate 정합)
+633 Retirement Finder [finance] || 은퇴 플랜 검색기는 실제 금융 검색 도구 - Finder 라인(Estate Finder 정합)
+634 Retirement Form [finance] || 은퇴 계좌 가입·인출 양식 관리는 실제 금융 표준 문서 - Form 라인 실재
+635 Retirement Log [finance] || 은퇴 자산 기록은 실제 금융 장부 항목 - Log 라인(Estate Log 정합)
+636 Retirement Monitor [finance] || 은퇴 자금 감시 도구는 실제 금융 도구 - Monitor 금융 라인(Stock Monitor 정합)
+637 Retirement Note [finance] || 은퇴 자문 고객 메모 기록은 실제 금융 상담 운영 문서 - Note 라인(Estate Note 정합)
+638 Retirement Plan [finance] || 은퇴 계획(retirement planning) 관리는 실제 금융 표준 항목 - Plan 라인(Estate Plan 정합)
+639 Retirement Playbook [finance] || 은퇴 준비 플레이북은 실제 금융 가이드 장르 - Playbook 라인(Estate Playbook 정합)
+640 Retirement Register [finance] || 은퇴 대상자 명부는 실제 인사·금융 운영 문서 - Register 라인(Immunization Register 정합)
+641 Retirement Registry [finance] || 은퇴 플랜 등록부는 실제 금융 운영 문서 - Registry 라인(Retirement Register 정합)
+642 Retirement Report [finance] || 은퇴 자산 보고서는 실제 금융 문서 - Report 라인(Probate Report 정합)
+643 Retirement Score [finance] || 은퇴 준비도 점수는 실제 금융 표준 지표(retirement readiness score) - Score 라인 실재
+644 Review Evaluation [hr_payroll] || 성과 리뷰 평가는 실제 인사 운영 항목 - Evaluation 라인 실재(performance review)
+645 Review Questionnaire [hr_payroll] || 성과 리뷰 설문은 실제 인사 운영 문서 - Questionnaire 라인 실재(review form)
+646 Rhythm Counter [music_lessons] || 리듬 박자 카운터는 실제 음악 연습 도구 - Counter 라인 실재 결합
+647 Rider Evaluation [insurance] || 보험 특약 평가는 실제 보험 운영 항목 - Evaluation 라인 실재
+648 Rights Evaluation [media_publishing] || 저작권·라이선스 권리 평가는 실제 미디어 운영 항목 - Evaluation 라인 실재
+649 Roaming Evaluation [telecom] || 로밍 서비스 평가는 실제 통신 운영 항목 - Evaluation 라인 실재
+650 Roofing Evaluation [construction] || 지붕 상태 평가는 실제 건설 운영 항목 - Evaluation 라인 실재
+651 Rotation Evaluation [agriculture] || 작물 윤작 평가는 실제 농업 표준 항목 - Evaluation 라인 실재
+652 Route Evaluation [moving_relocation_services] || 이사 경로 평가는 실제 이사 운영 항목 - Evaluation 라인 실재(route planning)
+653 Route Requirement [moving_relocation_services] || 이사 경로·현장 접근 요건(계단·주차 허가) 관리는 실제 이사 운영 항목 - Requirement 라인
+654 Route Utilization [moving_relocation_services] || 차량 경로 적재율은 실제 이사 운영 지표 - Utilization 라인(fleet utilization)
+655 Rubric Evaluation [education] || 채점 기준 평가는 실제 교육 운영 항목 - Evaluation 라인 실재(rubric)
+656 Runbook Evaluation [it_devops] || 런북 품질 평가는 실제 IT 운영 항목 - Evaluation 라인 실재 결합
+657 Safety Evaluation [mining] || 광산 안전 상태·위험 평가는 실제 광산 운영 항목 - Evaluation 라인 실재
+658 Salary Evaluation [recruiting] || 급여 구조·벤치마크 평가는 실제 인사 운영 항목 - Evaluation 라인 실재
+659 Satisfaction Evaluation [customer_support] || 고객 만족도 평가는 실제 CS 운영 항목 - Evaluation 라인 실재
+660 Savings Evaluation [finance] || 저축 상품·계획 성과 평가는 실제 금융 운영 항목 - Evaluation 라인 실재
+661 Saxophone Appointment [music_lessons] || 색소폰 레슨·수리 예약 관리는 실제 음악 학습 운영 항목 - Appointment 라인(Viola Appointment 정합)
+662 Saxophone Certification [music_lessons] || 색소폰 급수·자격 인증 관리는 실제 음악 학습 운영 항목 - Certification 라인(Viola Certification 정합)
+663 Saxophone Diagnostic [music_lessons] || 색소폰 누기·수리 진단은 실제 악기 수리 운영 항목 - Diagnostic 라인(Tuning Diagnostic 정합)
+664 Saxophone Reference [music_lessons] || 운지법 참조표 조회 도구는 실제 관악 학습 도구 - Reference 라인(Tuning Reference 정합)
+665 Saxophone Renewal [music_lessons] || 색소폰 수강·계약 연장 관리는 실제 음악 학습 운영 항목 - Renewal 라인(Viola Renewal 정합)
+666 Saxophone Timer [music_lessons] || 색소폰 연습 타이머는 실제 연습 운영 항목 - Timer 라인(Scheduler 라인 정합)
+667 Schedule Utilization [salon_spa] || 예약 가동률(의자 점유율)은 실제 미용실 표준 지표 - Utilization 라인 실재
+668 Scheduling Evaluation [funeral_services] || 장례 일정 조정 운영 평가는 실제 장례 서비스 운영 항목 - Evaluation 라인 실재
+669 Scholarship Evaluation [education] || 장학금 심사·수혜 평가는 실제 교육 운영 항목 - Evaluation 라인(Quote Evaluation 정합)
+670 Scratch Evaluation [car_wash_detailing_services] || 도장 스크래치 상태 평가는 실제 디테일링 운영 항목 - Evaluation 라인 실재
+671 Season Evaluation [landscaping] || 시즌별 정기 관리·작업 평가는 실제 조경 운영 항목 - Evaluation 라인 실재
+672 Seating Evaluation [wedding_planning_services] || 웨딩 좌석 배치·동선 평가는 실제 웨딩 플래닝 운영 항목 - Evaluation 라인 실재
+673 Sedation Evaluation [dental] || 진정(세데이션) 적합성 평가는 실제 치과 운영 표준 항목 - Evaluation 라인 실재
+674 Segment Evaluation [marketing] || 고객 세그먼트 평가는 실제 마케팅 운영 항목 - Evaluation 라인 실재
+675 Seniority Benefit [hr_payroll] || 근속연수별 급여·휴가 등급 관리는 실제 인사 운영 항목 - Benefit 라인 실재
+676 Seniority Evaluation [hr_payroll] || 근속 연수 평가·등급 판정은 실제 인사 표준 절차 - Evaluation 라인 실재
+677 Seniority Requirement [hr_payroll] || 승진·등급 근속 요건 관리는 실제 인사 운영 항목 - Requirement 라인(Seniority Evaluation 정합)
+678 Server Evaluation [food_service] || 서빙 직원 성과·서비스 평가는 실제 외식 운영 항목 - Evaluation 라인 실재
+679 Severance Benefit [hr_payroll] || 퇴직급여 혜택 관리는 실제 인사 운영 항목 - Benefit 라인 실재(severance benefit)
+680 Severance Evaluation [hr_payroll] || 퇴직 정리금 평가는 실제 인사 운영 항목 - Evaluation 라인 실재
+681 Severance Questionnaire [hr_payroll] || 퇴직 경위 설문은 실제 인사 운영 문서 - Questionnaire 라인 실재(exit questionnaire)
+682 Severance Requirement [hr_payroll] || 퇴직급여 산정 요건 관리는 실제 인사 운영 항목 - Requirement 라인 실재
+683 Shampoo Evaluation [salon_spa] || 두피·모발 상태 및 샴푸 시술 결과 평가는 실제 뷰티 운영 항목 - Evaluation 라인 실재
+684 Shelter Evaluation [veterinary] || 동물보호소 운영·동물 상태 평가는 실제 동물병원 운영 항목 - Evaluation 라인 실재
+685 Shift Evaluation [hr_payroll] || 교대 근무 운영 평가는 실제 급여·인력 운영 항목 - Evaluation 라인 실재
+686 Shine Evaluation [car_wash_detailing_services] || 세차 광택 결과 평가는 실제 세차·디테일링 운영 항목 - Evaluation 라인 실재
+687 Shipper Evaluation [logistics] || 화주·발송인 평가는 실제 물류 운영 항목 - Evaluation 라인 실재
+688 Showing Evaluation [real_estate] || 매물 방문(쇼잉) 반응 평가는 실제 부동산 운영 항목 - Evaluation 라인 실재
+689 Shuttle Evaluation [hospitality] || 셔틀 서비스 성과 평가는 실제 숙박 운영 항목 - Evaluation 라인 실재
+690 Sidewalk Evaluation [government] || 보도 상태·파손 평가는 실제 공공 운영 항목 - Evaluation 라인 실재
+691 Sightseeing Evaluation [travel_tourism] || 관광 코스 평가는 실제 여행 운영 항목 - Evaluation 라인 실재(tour review)
+692 Sightseeing Questionnaire [travel_tourism] || 관광 만족도 설문은 실제 여행 운영 문서 - Questionnaire 라인(Sightseeing Evaluation 정합)
+693 Silo Evaluation [agriculture] || 사일로 저장 상태 평가는 실제 농업 운영 항목 - Evaluation 라인(Silo Capacity 정합)
+694 Silo Utilization [agriculture] || 사일로 저장 가동률은 실제 농업 운영 지표 - Utilization 라인(Silo Capacity 정합)
+695 Sink Evaluation [plumbing_services] || 싱크 배수·설치 점검 평가는 실제 배관 표준 항목 - Evaluation 라인 실재
+696 Sink Requirement [plumbing_services] || 싱크 설치 요건(건축 기준·배관 사양) 관리는 실제 배관 운영 항목 - Requirement 라인(Sink Evaluation 정합)
+697 Skiing Evaluation [travel_tourism] || 스키 강습 평가는 실제 레저 운영 항목 - Evaluation 라인 실재
+698 Skillset Evaluation [recruiting] || 후보자 역량·스킬 평가는 실제 채용 운영 항목 - Evaluation 라인 실재
+699 Skimmer Evaluation [pool_maintenance_services] || 스키머 상태·성능 평가는 실제 수조 운영 항목 - Evaluation 라인 실재
+700 Snack Evaluation [childcare] || 간식 급식·영양 평가는 실제 육아 운영 항목 - Evaluation 라인 실재
+701 Sofa Evaluation [cleaning_services] || 소파 청소 상태 평가는 실제 청소 운영 항목 - Evaluation 라인 실재
+702 Softener Evaluation [plumbing_services] || 연수기 성능 평가는 실제 배관 운영 항목 - Evaluation 라인(Softener Capacity 정합)
+703 Soil Evaluation [agriculture] || 토양 평가는 실제 농업 운영 항목 - Evaluation 라인 실재(soil testing)
+704 Soil Requirement [agriculture] || 작물별 토양 요건 관리는 실제 농업 운영 항목 - Requirement 라인(Soil Evaluation 정합)
+705 Songbook Assistant [music_lessons] || 노래집 보조 도구는 실제 학습 보조 항목 - Assistant 라인(Harmonica Assistant 정합)
+706 Songbook Calendar [music_lessons] || 노래집 연습 일정 관리는 실제 공연 준비 항목 - Calendar 라인(Songbook Scheduler 정합)
+707 Songbook Plan [music_lessons] || 곡집 연습 계획 관리는 실제 음악 학습 운영 항목 - Plan 라인(Choir Plan 정합)
+708 Songbook Planner [music_lessons] || 노래집 선곡 계획 도구는 실제 공연 준비 항목 - Planner 라인(Camp Planner 정합)
+709 Songbook Portal [music_lessons] || 온라인 노래집 포털은 실제 음악 학습 문 - Portal 라인 실재
+710 Songbook Scheduler [music_lessons] || 노래집 연습 일정 관리는 실제 공연 준비 항목 - Scheduler 라인(Method Scheduler 정합)
+711 Sourcing Evaluation [recruiting] || 채용 소싱 채널 성과 평가는 실제 리쿠루팅 표준 항목 - Evaluation 라인 실재
+712 Souvenir Evaluation [travel_tourism] || 기념품 상품 구성 평가는 실제 여행 소매 운영 항목 - Evaluation 라인 실재
+713 Spay Evaluation [veterinary] || 중절 수술 대상·결과 평가는 실제 동물병원 운영 항목 - Evaluation 라인 실재
+714 Sponsor Evaluation [events] || 후원사·후원 관계 평가는 실제 이벤트 운영 항목 - Evaluation 라인 실재
+715 Staffing Evaluation [senior_care] || 요양 인력 배치 평가는 실제 시니어케어 규제·운영 표준 항목 - Evaluation 라인 실재
+716 Staffing Questionnaire [senior_care] || 요양 인력 가용·자격 문진은 실제 시니어케어 운영 문서 - Questionnaire 라인(Staffing Evaluation 정합)
+717 Staffing Requirement [senior_care] || 요양 인력 배치 기준(법정 인력 비율) 관리는 실제 시니어케어 규제 준수 항목 - Requirement 라인(Staffing Evaluation
+718 Staffing Utilization [senior_care] || 요양 인력 가동률은 실제 시니어케어 운영 지표 - Utilization 라인 정합
+719 Staging Evaluation [real_estate] || 홈스테이징 사전 평가는 실제 부동산 표준 절차 - Evaluation 라인 실재
+720 Staging Requirement [real_estate] || 스테이징 범위·요구사항(방별·예산) 관리는 실제 부동산 운영 항목 - Requirement 라인(Staging Evaluation 정합)
+721 Statute Evaluation [legal] || 법령 적합성 평가는 실제 법무 운영 항목 - Evaluation 라인 실재(statutory review)
+722 Statute Requirement [legal] || 법령상 요건 관리는 실제 법무 운영 항목 - Requirement 라인 실재(statutory requirements)
+723 Sterilization Evaluation [dental] || 치과 기구 멸균 검증 평가는 실제 치과 운영 항목 - Evaluation 라인 실재
+724 Stewardship Evaluation [nonprofit] || 기부자 관리(스튜어드십) 평가는 실제 비영리 운영 표준 항목 - Evaluation 라인 실재
+725 Story Evaluation [media_publishing] || 기획 스토리 평가는 실제 출판 운영 항목 - Evaluation 라인 실재(editorial review)
+726 Storytime Evaluation [childcare] || 동화 읽기 프로그램 평가는 실제 육아 운영 항목 - Evaluation 라인 실재(storytime)
+727 Streetlight Evaluation [government] || 가로등 유지관리·성능 평가는 실제 정부 운영 항목 - Evaluation 라인 실재
+728 Strike Evaluation [locksmith_security_services] || 도어 스트라이크 상태 평가는 실제 잠금 보안 운영 항목 - Evaluation 라인 실재
+729 Substitution Evaluation [pharmacy] || 약품 대체 평가는 실제 약국 운영 항목 - Evaluation 라인 실재(therapeutic substitution)
+730 Substitution Requirement [pharmacy] || 약품 대체 요건 관리는 실제 약국 운영 항목 - Requirement 라인 실재(substitution rule)
+731 Supplier Evaluation [manufacturing] || 공급사 품질·성과 평가는 실제 제조 운영 항목 - Evaluation 라인 실재
+732 Surfing Evaluation [travel_tourism] || 서핑 실력 평가(레벨 배정)는 실제 서핑 강습 표준 항목 - Evaluation 라인 실재
+733 Survey Evaluation [customer_support] || 고객 만족도 조사 성과 평가는 실제 고객지원 운영 항목 - Evaluation 라인 실재
+734 Suspension Evaluation [education] || 학생 정학(suspension) 정책·사례 평가는 실제 교육 운영 항목 - Evaluation 라인 실재
+735 Symptom Evaluation [healthcare] || 증상 평가는 실제 의료 운영 항목 - Evaluation 라인 실재
+736 Syndication Evaluation [media_publishing] || 콘텐츠 배급 성과 평가는 실제 미디어 운영 항목 - Evaluation 라인 실재
+737 Tablet Evaluation [pharmacy] || 정제 감별·품질 평가는 실제 약국 운영 항목 - Evaluation 라인 실재
+738 Technician Evaluation [pool_maintenance_services] || 수질 기술자 성과 평가는 실제 수영장 관리 운영 항목 - Evaluation 라인 실재
+739 Technician Requirement [pool_maintenance_services] || 수영장 기술자 자격 요건(CPO 등) 관리는 실제 현장 서비스 표준 항목 - Requirement 라인
+740 Technician Utilization [pool_maintenance_services] || 기술자 가동률은 실제 현장 서비스 표준 지표 - Utilization 라인 실재(technician utilization)
+741 Tempo Tracker [music_lessons] || 템포 연습 추적은 실제 음악 학습 도구 - Tracker 라인(Percussion Tracker 정합)
+742 Termination Evaluation [hr_payroll] || 근로계약 해지 처리·리스크 평가는 실제 HR 운영 항목 - Evaluation 라인 실재
+743 Termite Evaluation [pest_control] || 흰개미 검사는 실제 방역 업계 핵심 표준 항목 - Evaluation 라인 실재
+744 Termite Requirement [pest_control] || 흰개미 방제 시공 요건(토양 처리 기준) 관리는 실제 방제 운영 항목 - Requirement 라인(Mowing Requirement 정합)
+745 Test Evaluation [healthcare] || 검사 결과·품질 평가는 실제 헬스케어 운영 항목 - Evaluation 라인 실재
+746 Testimonial Evaluation [photography_services] || 고객 후기·만족 평가는 실제 사진 운영 항목 - Evaluation 라인 실재
+747 Theory Appointment [music_lessons] || 이론 수업 예약 관리는 실제 학원 운영 항목 - Appointment 라인(Calendar 라인 정합)
+748 Theory Certification [music_lessons] || 음악 이론 급수 인증(ABRSM 등)은 실제 음악 교육 표준 항목 - Certification 라인(Drum Certification 정합)
+749 Theory Evaluation [music_lessons] || 음악 이론 학습·시험 평가는 실제 음악 교육 운영 항목 - Evaluation 라인 실재
+750 Theory Guide [music_lessons] || 음악 이론 가이드는 실제 학습 문 - Guide 라인(Drum Guide 정합)
+751 Theory Lookup [music_lessons] || 이론 용어 검색기는 실제 학습 검색 도구 - Lookup 라인(Chord Lookup 정합)
+752 Theory Quote [music_lessons] || 이론 과목 견적서는 실제 학원 영업 문서 - Lesson Bill·Receipt와 별개 산출물(Quote)
+753 Theory Simulator [music_lessons] || 이론·청음 연습 시뮬레이터는 실제 음악 교육 도구 카테고리 - Drum Simulator 정합
+754 Theory Tracker [music_lessons] || 음악 이론 학습 진도 추적은 실제 음악 교육 운영 항목 - Tracker 라인(Chord Tracker 정합)
+755 Thermocouple Evaluation [hvac_services] || 열전대 센서 점검 평가는 실제 HVAC 정비 표준 항목 - Evaluation 라인 실재
+756 Threat Evaluation [cybersecurity] || 보안 위협 평가는 실제 보안 운영 표준 항목 - Evaluation 라인 실재
+757 Throughput Evaluation [manufacturing] || 생산 처리량 평가는 실제 제조 운영 항목 - Evaluation 라인 실재(throughput analysis)
+758 Throughput Utilization [manufacturing] || 생산 처리량 가동률은 실제 제조 운영 지표 - Utilization 라인 실재
+759 Thumbnail Evaluation [photography_services] || 썸네일 품질·선명도 검수는 실제 사진 서비스 품질 항목 - Evaluation 라인 실재
+760 Tile Evaluation [pool_maintenance_services] || 수영장 타일 상태·파손 평가는 실제 수영장 관리 운영 항목 - Evaluation 라인 실재
+761 Tour Evaluation [travel_tourism] || 투어 상품·가이드 평가는 실제 여행 운영 항목 - Evaluation 라인 실재
+762 Tourist Evaluation [travel_tourism] || 관광객 만족도 평가는 실제 여행 운영 항목 - Evaluation 라인 실재
+763 Tourist Questionnaire [travel_tourism] || 여행자 선호 문진은 실제 여행 운영 문서 - Questionnaire 라인(Trip Questionnaire 정합)
+764 Tourist Requirement [travel_tourism] || 관광객 입국 요건(비자·예방접종) 조회는 실제 여행 운영 항목 - Requirement 라인
+765 Trade Evaluation [automotive] || 중고차 트레이드인 감정 평가는 실제 자동차 판매 표준 항목 - Evaluation 라인 실재
+766 Trailer Evaluation [logistics] || 트레일러 상태 평가는 실제 물류 운영 항목 - Evaluation 라인 실재
+767 Trailer Utilization [logistics] || 트레일러 가동률은 실제 물류 운영 지표 - Utilization 라인 실재(fleet utilization)
+768 Training Requirement [hr_payroll] || 교육 이수 요건 관리는 실제 인사 운영 항목 - Requirement 라인 실재 결합
+769 Transmission Evaluation [automotive] || 변속기 상태 평가는 실제 정비 운영 항목 - Evaluation 라인(Transmission Capacity 정합)
+770 Transponder Evaluation [locksmith_security_services] || 트랜스폰더 키 상태·호환 평가는 실제 보안 도어 운영 항목 - Evaluation 라인 실재
+771 Traveler Evaluation [travel_tourism] || 여행객 만족 평가는 실제 관광 운영 항목 - Evaluation 라인(Traveler Usage 정합)
+772 Traveler Questionnaire [travel_tourism] || 여행객 만족 설문은 실제 관광 운영 문서 - Questionnaire 라인(Traveler Usage 정합)
+773 Treatment Evaluation [dental] || 치료 결과 평가는 실제 치과 표준 항목 - Evaluation 라인 실재
+774 Trim Evaluation [salon_spa] || 시술 다듬기 결과 평가는 실제 미용 운영 항목 - Evaluation 라인 실재
+775 Trim Requirement [salon_spa] || 고객 시술 요구사항 기록(스타일 티켓)은 실제 미용 운영 문서 - Requirement 라인(Trim Evaluation 정합)
+776 Trip Evaluation [travel_tourism] || 여행 만족도 평가는 실제 여행 운영 항목 - Evaluation 라인 실재
+777 Trip Questionnaire [travel_tourism] || 여행 전 고객 문진 설문은 실제 여행 운영 문서 - Questionnaire 라인(Trip Evaluation 정합)
+778 Trip Requirement [travel_tourism] || 여행지별 요건(여권·비자·예방접종) 관리는 실제 여행 운영 항목 - Requirement 라인(Trip Evaluation 정합)
+779 Trombone Guide [music_lessons] || 트롬본 선택 가이드는 실제 악기 안내 문서 - Guide 라인(Roofing Guide 정합)
+780 Trombone Inventory [music_lessons] || 악기 재고·대여 관리는 실제 음악 교육 운영 항목 - Inventory 라인 실재
+781 Trombone Tracker [music_lessons] || 트롬본 연습 진도 추적은 실제 음악 학습 운영 항목 - Tracker 라인(Percussion Tracker 정합)
+782 Trumpet Guide [music_lessons] || 트럼펫 선택 가이드는 실제 악기 안내 문서 - Guide 라인(Trombone Guide 정합)
+783 Trumpet Inventory [music_lessons] || 트럼펫 재고·대여 관리는 실제 음악 교육 운영 항목 - Inventory 라인(Trombone Inventory 정합)
+784 Trumpet Tracker [music_lessons] || 트럼펫 연습 진도 추적은 실제 음악 학습 운영 항목 - Tracker 라인(Trombone Tracker 정합)
+785 Tuition Evaluation [education] || 등록금 구조·지원 평가는 실제 교육 운영 항목 - Evaluation 라인 실재
+786 Tuneup Evaluation [automotive] || 엔진 튜닝·정비 결과 평가는 실제 자동차 운영 항목 - Evaluation 라인 실재
+787 Tuning Agreement [music_lessons] || 악기 조율 서비스 계약 관리는 실제 악기 유지보수 운영 항목 - Agreement 라인 실재
+788 Tuning Appointment [music_lessons] || 조율 예약 건 관리는 실제 조율 서비스 운영 항목 - Appointment 라인(Viola Appointment 정합)
+789 Tuning Certification [music_lessons] || 조율사 자격 인증 관리는 실제 조율 서비스 운영 항목 - Certification 라인(Drum Certification 정합)
+790 Tuning Deadline [music_lessons] || 악기 조율 기한 관리는 실제 악기 유지보수 운영 항목 - Deadline 라인(Calendar 라인 정합)
+791 Tuning Diagnostic [music_lessons] || 악기 음정 진단(피치 분석)은 실제 조율사 표준 절차 - Tuner 라인 정합
+792 Tuning Evaluation [music_lessons] || 조율 결과·품질 평가는 실제 음악 학습·조율 운영 항목 - Evaluation 라인(Cleaning Evaluation 정합)
+793 Tuning Reference [music_lessons] || 조율 기준음 참조 도구는 실제 음악 학습 도구 - Reference 라인(Tuner 라인 정합)
+794 Tuning Renewal [music_lessons] || 조율 계약 연장 관리는 실제 조율 서비스 운영 항목 - Renewal 라인(Viola Renewal 정합)
+795 Turnaround Evaluation [interpreter_translation_services] || 번역 납기·처리시간 성과 평가는 실제 통번역 운영 항목 - Evaluation 라인 실재
+796 Turnover Evaluation [cleaning_services] || 인력 이직률 평가는 실제 청소 운영 표준 지표 - Evaluation 라인 실재
+797 Turnover Questionnaire [cleaning_services] || 퇴사 사유 문진(이직률 관리)은 실제 운영 문서 - Questionnaire 라인(Turnover Evaluation 정합)
+798 Tutoring Evaluation [education] || 과외 학습 상태 평가는 실제 교육 운영 표준 항목 - Evaluation 라인 실재
+799 Tutoring Questionnaire [education] || 학습 목표·스타일 사전 문진은 실제 교육 운영 문서 - Questionnaire 라인(Tutoring Evaluation 정합)
+800 Ukulele Plan [music_lessons] || 우쿨렐레 레슨 연습 계획 관리는 실제 음악 학습 운영 항목 - Plan 라인(Bass Plan 정합)
+801 Ukulele Scheduler [music_lessons] || 우쿨렐레 레슨 일정 관리는 실제 학원 운영 항목 - Scheduler 라인 정합
+802 Ukulele Score [music_lessons] || 우쿨렐레 악보 관리는 실제 음악 학습 도구 - Score 라인(Piano Score 정합)
+803 Undercarriage Evaluation [car_wash_detailing_services] || 차량 하부 상태 평가는 실제 세차·정비 표준 항목 - Evaluation 라인 실재
+804 Union Evaluation [hr_payroll] || 노사 관계·단체 협약 평가는 실제 인사 운영 항목 - Evaluation 라인 실재
+805 Unpacking Evaluation [moving_relocation_services] || 이사 후 개봉·상태 확인 평가는 실제 이사 운영 절차 - Evaluation 라인 실재
+806 Unpacking Requirement [moving_relocation_services] || 개봉·배치 요건(파손 주의·방별 지시) 관리는 실제 이사 운영 항목 - Requirement 라인(Unpacking Evaluation 정합)
+807 Upholstery Evaluation [car_wash_detailing_services] || 시트·원단 상태 평가는 실제 디테일링 표준 항목 - Evaluation 라인 실재
+808 Vaccine Evaluation [healthcare] || 백신 접종 평가는 실제 의료 운영 항목 - Evaluation 라인 실재
+809 Vaccine Questionnaire [healthcare] || 접종 사전 문진 설문은 실제 의료 운영 문서 - Questionnaire 라인 실재
+810 Vaccine Requirement [healthcare] || 예방접종 요건 관리는 실제 의료 운영 항목 - Requirement 라인 실재(vaccine requirements)
+811 Valuation Evaluation [real_estate] || 부동산 감정평가 결과·품질 검증은 실제 부동산 금융 운영 항목 - Evaluation 라인 실재
+812 Vendor Evaluation [retail_ecommerce] || 공급업체 평가는 실제 조달 표준 관행 - Evaluation 라인 실재(vendor evaluation)
+813 Vendor Questionnaire [retail_ecommerce] || 공급업체 조사 설문은 실제 조달 운영 문서 - Questionnaire 라인(Vendor Evaluation 정합)
+814 Vendor Requirement [retail_ecommerce] || 공급업체 등록 요건 관리는 실제 조달 운영 항목 - Requirement 라인(Vendor Evaluation 정합)
+815 Vent Evaluation [hvac_services] || 환기구·덕트 상태 평가는 실제 HVAC 운영 항목 - Evaluation 라인 실재
+816 Video Evaluation [media_publishing] || 영상 콘텐츠 성과 평가는 실제 미디어 운영 항목 - Evaluation 라인 실재
+817 Viola Appointment [music_lessons] || 비올라 레슨 예약 건 관리는 실제 음악 교실 운영 항목 - Scheduler 라인(Bass Scheduler 정합)
+818 Viola Certification [music_lessons] || 비올라 급수 인증 준비 관리는 실제 음악 교육 운영 항목 - Certification 라인(Theory Certification 정합)
+819 Viola Match [music_lessons] || 비올라 학생-강사 매칭은 실제 레슨 운영 기능 - Match 라인 실재
+820 Viola Progress [music_lessons] || 비올라 연습 진도 관리는 실제 학습 운영 항목 - Progress 라인(Bass Scheduler 정합)
+821 Viola Renewal [music_lessons] || 비올라 레슨 수강 연장 관리는 실제 음악 교실 운영 항목 - Renewal 라인 실재
+822 Viola Tracker [music_lessons] || 비올라 연습 진도 추적은 실제 음악 학습 운영 항목 - Tracker 라인(Trombone Tracker 정합)
+823 Violin Appointment [music_lessons] || 바이올린 레슨·수리 예약 관리는 실제 음악 학습 운영 항목 - Appointment 라인(Saxophone Appointment 정합)
+824 Violin Certification [music_lessons] || 바이올린 급수·자격 관리는 실제 음악 학습 운영 항목 - Certification 라인(Viola Certification 정합)
+825 Violin Diagnostic [music_lessons] || 바이올린 상태 진단은 실제 악기 수리 운영 항목 - Diagnostic 라인(Saxophone Diagnostic 정합)
+826 Violin Manual [music_lessons] || 바이올린 연주 매뉴얼은 실제 학습 문 - Guide 라인(Drum Guide 정합)
+827 Violin Reference [music_lessons] || 운지법 참조표 조회 도구는 실제 현악 학습 도구 - Reference 라인(Saxophone Reference 정합)
+828 Violin Renewal [music_lessons] || 바이올린 수강·계약 연장 관리는 실제 음악 학습 운영 항목 - Renewal 라인(Saxophone Renewal 정합)
+829 Violin Subsidy [music_lessons] || 악기 구입 보조금 관리는 실제 음악 교육 운영 항목 - Subsidy 라인(Electrical Subsidy 정합)
+830 Violin Timer [music_lessons] || 연습 시간 측정 타이머는 실제 학습 도구 - Timer 라인(Saxophone Timer 정합)
+831 Violin Workshop [music_lessons] || 바이올린 워크숍(집단 수업) 관리는 실제 음악 교육 운영 항목 - Workshop 라인 실재
+832 Visit Evaluation [healthcare] || 내원·방문진료 결과 평가는 실제 의료 운영 항목 - Evaluation 라인 실재
+833 Vocabulary Evaluation [interpreter_translation_services] || 통번역 어휘 평가는 실제 교육 운영 항목 - Evaluation 라인 실재(vocabulary assessment)
+834 Vocabulary Questionnaire [interpreter_translation_services] || 어휘 평가 설문은 실제 교육 문서 - Questionnaire 라인(Vocabulary Evaluation 정합)
+835 Vocabulary Requirement [interpreter_translation_services] || 통번역 어휘 요건 관리는 실제 교육 운영 항목 - Requirement 라인(Vocabulary Evaluation 정합)
+836 Vocal Evaluation [music_lessons] || 발성 평가는 실제 보컬 레슨 표준 항목 - Evaluation 라인 실재
+837 Vocal Questionnaire [music_lessons] || 보컬 수강 문진 설문은 실제 레슨 운영 문서 - Questionnaire 라인
+838 Vocal Requirement [music_lessons] || 보컬 오디션·급수 요건 관리는 실제 음악 교육 운영 항목 - Requirement 라인(Certification 라인 정합)
+839 Vocal Tracker [music_lessons] || 발성·연습 추적은 실제 보컬 학습 운영 항목 - Tracker 라인(Repertoire Tracker 정합)
+840 Vow Questionnaire [wedding_planning_services] || 서원 작성용 커플 사연 문진은 실제 웨딩 서비스 문서 - Questionnaire 라인 실재
+841 Waiter Evaluation [food_service] || 웨이터 서비스 평가는 실제 외식 운영 항목 - Evaluation 라인 실재(Technician Evaluation 정합)
+842 Waiter Requirement [food_service] || 서빙 자격 요건(위생교육 이수 등) 관리는 실제 외식 운영 항목 - Requirement 라인
+843 Walkthrough Evaluation [real_estate] || 주택 워크스루 점검은 실제 부동산 표준 절차 - Evaluation 라인 실재
+844 Walkthrough Questionnaire [real_estate] || 워크스루 점검 문항표는 실제 부동산 표준 문서 - Questionnaire 라인(Walkthrough Evaluation 정합)
+845 Walkthrough Requirement [real_estate] || 마감 워크스루 확인 요건(수리·하자) 관리는 실제 부동산 운영 항목 - Requirement 라인(Walkthrough Evaluation 정합
+846 Ward Evaluation [healthcare] || 병동 운영 평가는 실제 헬스케어 운영 항목 - Evaluation 라인 실재
+847 Wardrobe Evaluation [cleaning_services] || 의류 상태·관리 평가는 실제 의류 관리 운영 항목 - Evaluation 라인 실재
+848 Warehouse Evaluation [logistics] || 창고 운영 성과 평가는 실제 물류 운영 항목 - Evaluation 라인 실재
+849 Warranty Evaluation [construction] || 보증 청구 평가는 실제 건설 운영 항목 - Evaluation 라인 실재
+850 Watermark Evaluation [photography_services] || 사진 워터마크 적용 상태·가독성 검수는 실제 사진 서비스 품질 항목 - Evaluation 라인 실재
+851 Waterproofing Evaluation [construction] || 방수 시공 검사·평가는 실제 건설 표준 항목 - Evaluation 라인 실재
+852 Waterproofing Requirement [construction] || 방수 시공 요건(기준·자재) 관리는 실제 건설 운영 항목 - Requirement 라인(Waterproofing Evaluation 정합)
+853 Wheel Evaluation [car_wash_detailing_services] || 휠 상태 평가는 실제 세차·디테일링 운영 항목 - Evaluation 라인 실재
+854 Whitening Evaluation [dental] || 치아 미백도 평가는 실제 치과 미용 표준 항목 - Evaluation 라인 실재
+855 Wifi Evaluation [events] || 행사장 와이파이 평가는 실제 행사 운영 항목 - Evaluation 라인 실재
+856 Wifi Questionnaire [events] || 행사 와이파이 만족도 설문은 실제 행사 피드백 항목 - Questionnaire 라인(Wifi Evaluation 정합)
+857 Wifi Requirement [events] || 행사장 와이파이 요건(대역·대수) 관리는 실제 행사 운영 항목 - Requirement 라인(Wifi Evaluation 정합)
+858 Wifi Utilization [events] || 행사 와이파이 대역 사용률은 실제 행사 운영 지표 - Utilization 라인(Wifi Evaluation 정합)
+859 Windshield Evaluation [automotive] || 윈드실드 상태 평가는 실제 자동차 운영 항목 - Evaluation 라인 실재
+860 Winterization Evaluation [pool_maintenance_services] || 동절기 월동 처리 점검 평가는 실제 수영장 관리 표준 항목 - Evaluation 라인 실재
+861 Withdrawal Evaluation [finance] || 출금 신청 검토(세부담·자격 등)는 실제 금융 운영 표준 절차 - Evaluation 라인 실재
+862 Withdrawal Questionnaire [finance] || 출금 신청 문진(사유·세무 확인)은 실제 금융 표준 절차 - Questionnaire 라인(Withdrawal Evaluation 정합)
+863 Withdrawal Requirement [finance] || 출금 자격 요건(연령·RMD 규정) 관리는 실제 금융 규제 준수 항목 - Requirement 라인(Withdrawal Evaluation 정합
+864 Withholding Evaluation [hr_payroll] || 원천징수 정확성 평가는 실제 급여 운영 표준 항목 - Evaluation 라인 실재
+865 Xray Evaluation [veterinary] || 방사선 판독 평가는 실제 수의학 표준 항목 - Evaluation 라인 실재
+866 Xray Hazard [dental] || X선 방사선 위험 관리는 실제 치과 안전 운영 항목 - Hazard 라인 실재 결합
+867 Xray Questionnaire [veterinary] || 촬영 전 안전 문진(임신 여부 등)은 실제 수의·의료 표준 문서 - Questionnaire 라인(Anesthesia Questionnaire 
+868 Zoning Evaluation [hvac_services] || 구역별 냉난방 성능 평가는 실제 HVAC 운영 항목 - Evaluation 라인 실재
+869 Mobility Evaluation [senior_care] || 어르신 이동성·거동 평가는 실제 시니어케어 운영 항목 - Evaluation 라인 실재
