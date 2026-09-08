@@ -1,0 +1,7 @@
+Snoring Nomination	R	F	T	T	0.65	추천 대상 불명
+Beachfront Revision	R	F	T	T	0.7	수정 대상 불명
+Noodle Predictor	A	T	T	T	0.6	판매 수요 예측으로 짐작 가능
+Bite Seal	R	F	T	T	0.65	Bite 다의어(교합 간식), 대상 불명
+Skyline Recipe	R	F	T	T	0.7	Recipe 다의어(요리법), 결합 불성립
+Seafood Expense	R	F	T	T	0.7	비용 결합 불성립
+Dentist Newsletter	A	T	T	T	0.6	환자 뉴스레터 발송으로 짐작 가능

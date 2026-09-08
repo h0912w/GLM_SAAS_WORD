@@ -1,0 +1,200 @@
+Massage Tutorial	A	T	T	T	0.65	마사지 테크닉 튜토리얼, 소비자 실검색
+Capsule Handbook	A	T	T	T	0.6	캡슐 제제 핸드북으로 짐작 가능
+Gauge Timetable	A	T	T	T	0.6	압력계 점검 일정표로 짐작 가능
+Strike Opinion	R	F	T	T	0.7	소견 결합 불성립
+Notarization Recommendation	A	T	T	T	0.6	공증 서비스 추천으로 짐작 가능
+Padding Seminar	A	T	T	T	0.6	포장 교육 세미나로 짐작 가능
+Booking Gift	R	F	T	T	0.7	선물 결합 불성립
+Honeymoon Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Tile Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Cafe Statement	R	F	T	T	0.65	Statement 다의어(명세 진술) 불명확
+Diner Fine	R	F	T	T	0.7	Fine 다의어(벌금) 불성립
+Bistro Worksheet	R	F	T	T	0.7	워크시트 결합 불성립
+Pizzeria Proposal	R	F	T	T	0.7	제안 결합 불성립
+Deli Invoice	A	T	T	T	0.6	매입 청구서 관리로 짐작 가능
+Dessert Limit	R	F	T	T	0.7	Limit 불명확
+Takeout Questionnaire	A	T	T	T	0.6	고객 선호 설문으로 짐작 가능
+Balcony Tutorial	A	T	T	T	0.6	발코니 유지관리 튜토리얼로 짐작 가능
+Picnic Handbook	A	T	T	T	0.65	피크닉 준비 핸드북, 소비자 실검색
+Tuning Timetable	A	T	T	T	0.6	조율 일정표로 짐작 가능
+Recovery Opinion	R	F	T	T	0.7	소견 결합 불성립
+Mortgage Recommendation	A	T	T	T	0.6	대출 상품 추천으로 짐작 가능
+Intermodal Seminar	A	T	T	T	0.6	복합운송 세미나로 짐작 가능
+Equity Gift	R	F	T	T	0.7	선물 결합 불성립
+Quote Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Termination Tournament	R	F	T	T	0.75	대회 결합 불성립
+Excavation Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Brunch Compass	R	F	T	T	0.7	Compass 불성립
+Bakery Zone	R	F	T	T	0.7	Zone 결합 불성립
+Pastry Journal	A	T	T	T	0.6	제작 기록 저널로 짐작 가능
+Bagel Log	A	T	T	T	0.6	주방 운영 로그 기록으로 짐작 가능
+Donut Order	A	T	T	T	0.6	주문 관리로 짐작 가능
+Espresso Confirmation	R	F	T	T	0.65	확인 결합 약함
+Latte Charge	R	F	T	T	0.7	요금 결합 불성립
+Toothbrush Allowance	R	F	T	T	0.7	수당 결합 불성립
+Snorkeling Stake	R	F	T	T	0.7	Stake 다의어(지분) 불성립
+Cocktail Identifier	R	F	T	T	0.7	식별자 대상 불명
+Toothpaste Category	R	F	T	T	0.7	분류 결합 불성립
+Kayaking Format	R	F	T	T	0.7	형식 결합 불성립
+Barista Interest	R	F	T	T	0.7	Interest 다의어(이자) 불성립
+Mouthwash Asset	R	F	T	T	0.7	자산 결합 불성립
+Waterfall Subsidy	R	F	T	T	0.7	보조금 결합 불성립
+Pub Redemption	R	F	T	T	0.7	상환 결합 불성립
+Mouthguard Extension	R	F	T	T	0.7	확장 결합 불성립
+Sunset Graph	R	F	T	T	0.7	그래프 대상 불명
+Steakhouse Schematic	R	F	T	T	0.7	도면 결합 불성립
+Smile Layout	R	F	T	T	0.7	레이아웃 결합 불성립
+Waterfront Outline	R	F	T	T	0.7	개요 결합 불성립
+Sushi Message	A	T	T	T	0.6	주문 안내 메시지로 짐작 가능
+Breath Total	R	F	T	T	0.7	합계 결합 불성립
+Boardwalk Repository	R	F	T	T	0.7	저장소 결합 불성립
+Taco Recorder	A	T	T	T	0.6	운영 기록 앱으로 짐작 가능
+Snoring Estimator	R	F	T	T	0.7	추정 대상 불명
+Beachfront Detector	R	F	T	T	0.7	탐지 대상 불명
+Noodle Helper	R	F	T	T	0.7	도우미 기능 불명
+Bite Stage	R	F	T	T	0.7	단계 결합 불성립
+Skyline Streak	R	F	T	T	0.7	연속 기록 결합 불성립
+Seafood Proposal	R	F	T	T	0.7	제안 결합 불성립
+Dentist Guarantee	R	F	T	T	0.7	보증 대상 불명
+Backpacker Copy	R	F	T	T	0.7	Copy 다의어(복사) 불성립
+Orthodontist Deadline	R	F	T	T	0.7	기한 결합 불성립
+Parasailing Volume	R	F	T	T	0.7	물량 결합 불성립
+Hygienist Template	R	F	T	T	0.7	서식 결합 불성립
+Wildlife Rating	A	T	T	T	0.6	투어 평점으로 짐작 가능
+Floss Account	R	F	T	T	0.7	계정 대상 불명
+Lagoon Match	R	F	T	T	0.7	매칭 대상 불명
+Tartar Ping	R	F	T	T	0.7	Ping 불성립
+Glacier Availability	A	T	T	T	0.6	투어 가능 일정 조회로 짐작 가능
+Fluoride Barcode	R	F	T	T	0.7	대상 불명
+Volcano Feedback	A	T	T	T	0.6	투어 후기 피드백 수집으로 짐작 가능
+Sealant Quote	A	T	T	T	0.6	치료 견적 발행으로 짐작 가능
+Daytrip Deposit	A	T	T	T	0.6	투어 예약금 관리로 짐작 가능
+Gingivitis Correction	R	F	T	T	0.7	대상 불명
+Yacht Payment	A	T	T	T	0.6	대여 결제 관리로 짐작 가능
+Bruxism Predictor	A	T	T	T	0.6	이갈이 발생 예측 도구로 짐작 가능
+Promenade Review	A	T	T	T	0.6	투어 후기 리뷰 수집으로 짐작 가능
+Halitosis Diary	A	T	T	T	0.6	치료 경과 일기로 짐작 가능
+Rainforest Expense	R	F	T	T	0.7	비용 결합 불성립
+Periodontitis Claim	A	T	T	T	0.6	치과 보험 청구 관리로 짐작 가능
+Desert Checkin	A	T	T	T	0.6	투어 체크인으로 짐작 가능
+Malocclusion Length	R	F	T	T	0.7	Length 불명확
+Winery Distance	R	F	T	T	0.7	Distance 불명확
+Endodontics Limit	R	F	T	T	0.7	Limit 불명확
+Periodontics Time	R	F	T	T	0.7	Time 불명확
+Cruise Tutorial	A	T	T	T	0.65	크루즈 계획 튜토리얼, 소비자 실검색
+Violin Handbook	A	T	T	T	0.65	바이올린 핸드북, 소비자 실검색
+Expense Opinion	R	F	T	T	0.7	소견 결합 불성립
+Clause Recommendation	A	T	T	T	0.6	계약 조항 개선안 추천으로 짐작 가능
+Listing Gift	R	F	T	T	0.7	선물 결합 불성립
+Claim Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Roster Tournament	R	F	T	T	0.75	대회 결합 불성립
+Subcontractor Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Overflow Tutorial	A	T	T	T	0.65	배수 넘침 대처 튜토리얼, 소비자 실검색
+Landmark Handbook	A	T	T	T	0.65	랜드마크 관광 핸드북, 소비자 실검색
+Saxophone Timetable	A	T	T	T	0.6	연습 일정표로 짐작 가능
+Retainer Seminar	A	T	T	T	0.6	착수금 계약 세미나로 짐작 가능
+Title Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Actuary Tournament	R	F	T	T	0.75	대회 결합 불성립
+Mattress Tutorial	A	T	T	T	0.7	매트리스 청소 튜토리얼, 소비자 실검색
+Massage Handbook	A	T	T	T	0.65	마사지 핸드북, 소비자 실검색
+Capsule Timetable	A	T	T	T	0.6	제제 제조 일정표로 짐작 가능
+Gauge Opinion	R	F	T	T	0.7	소견 결합 불성립
+Strike Recommendation	A	T	T	T	0.6	잠금 장비 제품 추천으로 짐작 가능
+Notarization Seminar	A	T	T	T	0.6	공증 절차 세미나로 짐작 가능
+Padding Gift	R	F	T	T	0.7	선물 결합 불성립
+Booking Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Honeymoon Tournament	R	F	T	T	0.75	대회 결합 불성립
+Cafe Memo	R	F	T	T	0.7	Memo 불성립
+Diner Number	R	F	T	T	0.7	번호 대상 불명
+Bistro Diagram	R	F	T	T	0.7	도면 결합 불성립
+Pizzeria Guarantee	R	F	T	T	0.7	보증 대상 불명
+Deli Renewal	A	T	T	T	0.6	단골 멤버십 갱신 관리로 짐작 가능
+Dessert Type	R	F	T	T	0.7	Type 불명확
+Takeout Utilization	R	F	T	T	0.7	Utilization 결합 불성립
+Testimonial Tutorial	A	T	T	T	0.6	후기 수집 활용 튜토리얼로 짐작 가능
+Balcony Handbook	A	T	T	T	0.6	발코니 유지관리 핸드북으로 짐작 가능
+Picnic Timetable	A	T	T	T	0.6	피크닉 준비 일정표로 짐작 가능
+Tuning Opinion	R	F	T	T	0.7	소견 결합 불성립
+Recovery Recommendation	A	T	T	T	0.6	재활 방법 추천으로 짐작 가능
+Mortgage Seminar	A	T	T	T	0.6	대출 세미나로 짐작 가능
+Intermodal Gift	R	F	T	T	0.7	선물 결합 불성립
+Equity Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Quote Tournament	R	F	T	T	0.75	대회 결합 불성립
+Termination Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Brunch Beacon	R	F	T	T	0.7	Beacon 불성립
+Bakery Portal	A	T	T	T	0.6	고객 주문 포털로 짐작 가능
+Pastry Registry	R	F	T	T	0.65	Registry 다의어(등록부) 결합 약함
+Bagel Form	R	F	T	T	0.65	Form 다의어(서식 모양) 불명확
+Donut Bill	A	T	T	T	0.6	매입 대금 청구 관리로 짐작 가능
+Espresso Recap	R	F	T	T	0.7	Recap 불성립
+Latte Duty	R	F	T	T	0.7	Duty 다의어(의무) 불성립
+Toothbrush Tariff	R	F	T	T	0.7	관세 결합 불성립
+Snorkeling Margin	R	F	T	T	0.7	마진 결합 불성립
+Cocktail Category	R	F	T	T	0.7	분류 결합 불성립
+Toothpaste Attribute	R	F	T	T	0.7	속성 결합 불성립
+Kayaking Serial	R	F	T	T	0.7	연번 결합 불성립
+Barista Asset	R	F	T	T	0.7	자산 결합 불성립
+Mouthwash Levy	R	F	T	T	0.7	부과금 결합 불성립
+Waterfall Discount	R	F	T	T	0.7	할인 결합, 판촉 계열
+Pub Extension	R	F	T	T	0.7	확장 결합 불성립
+Mouthguard Trial	R	F	T	T	0.7	Trial 다의어(시험 재판) 불명확
+Sunset Label	R	F	T	T	0.7	라벨 결합 불성립
+Steakhouse Layout	R	F	T	T	0.7	레이아웃 결합 불성립
+Smile Sketch	R	F	T	T	0.7	스케치 결합 불성립
+Waterfront Rendering	R	F	T	T	0.7	렌더링 결합 불성립
+Sushi Total	R	F	T	T	0.7	합계 결합 불성립
+Breath Widget	R	F	T	T	0.7	위젯 결합 불성립
+Boardwalk Announcement	R	F	T	T	0.7	공지 내용 불명
+Taco Estimator	A	T	T	T	0.6	판매 수요 추정기로 짐작 가능
+Snoring Checker	R	F	T	T	0.7	점검 대상 불명
+Beachfront Timer	R	F	T	T	0.7	타이머 대상 불명
+Noodle Stage	R	F	T	T	0.7	단계 결합 불성립
+Bite Result	R	F	T	T	0.7	결과 결합 불성립
+Skyline Rank	R	F	T	T	0.7	순위 결합 불성립
+Seafood Guarantee	R	F	T	T	0.7	보증 대상 불명
+Dentist Record	R	F	T	T	0.7	기록 대상 불명
+Backpacker Reading	R	F	T	T	0.7	Reading 다의어(측정값) 불명확
+Orthodontist Duration	R	F	T	T	0.7	기간 결합 불성립
+Parasailing Diagnostic	R	F	T	T	0.7	진단 결합 불성립
+Hygienist Guide	A	T	T	T	0.65	치위생 구강 관리 가이드, 소비자 실검색
+Wildlife Agreement	R	F	T	T	0.7	합의 대상 불명
+Floss Case	R	F	T	T	0.7	Case 다의어(가방) 불성립
+Lagoon Validation	R	F	T	T	0.7	검증 대상 불명
+Tartar Model	R	F	T	T	0.7	Model 다의어(모형) 불명확
+Glacier Eligibility	R	F	T	T	0.7	적격성 결합 불성립
+Fluoride Appointment	A	T	T	T	0.6	도포 예약 관리로 짐작 가능
+Volcano Invoice	A	T	T	T	0.6	투어 청구서 발행으로 짐작 가능
+Sealant Warranty	R	F	T	T	0.7	보증 대상 불명
+Daytrip Certification	R	F	T	T	0.7	인증 대상 불명
+Gingivitis Revision	R	F	T	T	0.7	수정 대상 불명
+Yacht Verification	R	F	T	T	0.7	검증 대상 불명
+Bruxism Seal	R	F	T	T	0.7	Seal 의미 불명확
+Promenade Recipe	R	F	T	T	0.7	Recipe 다의어(요리법) 불명확
+Halitosis Refund	A	T	T	T	0.6	치료비 환불 관리로 짐작 가능
+Rainforest Newsletter	A	T	T	T	0.6	투어 소식 뉴스레터 발송으로 짐작 가능
+Periodontitis Onboarding	A	T	T	T	0.6	신규 환자 등록 안내로 짐작 가능
+Desert Size	R	F	T	T	0.7	Size 불명확
+Malocclusion Weight	R	F	T	T	0.7	Weight 불명확
+Winery Range	R	F	T	T	0.7	Range 불명확
+Endodontics Type	R	F	T	T	0.7	Type 불명확
+Periodontics Speed	R	F	T	T	0.7	Speed 불명확
+Drain Tutorial	A	T	T	T	0.7	배수구 막힘 해결 튜토리얼, 소비자 실검색
+Cruise Handbook	A	T	T	T	0.65	크루즈 핸드북, 소비자 실검색
+Violin Timetable	A	T	T	T	0.6	연습 일정표로 짐작 가능
+Expense Recommendation	A	T	T	T	0.6	경비 절감 방안 추천으로 짐작 가능
+Clause Seminar	A	T	T	T	0.6	계약 조항 세미나로 짐작 가능
+Listing Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Claim Tournament	R	F	T	T	0.75	대회 결합 불성립
+Roster Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Dent Tutorial	A	T	T	T	0.65	움푹한 패널 복원 튜토리얼로 짐작 가능
+Overflow Handbook	A	T	T	T	0.65	배수 넘침 대처 핸드북으로 짐작 가능
+Landmark Timetable	A	T	T	T	0.6	랜드마크 방문 일정표로 짐작 가능
+Saxophone Opinion	R	F	T	T	0.7	소견 결합 불성립
+Retainer Gift	R	F	T	T	0.7	선물 결합 불성립
+Title Tournament	R	F	T	T	0.75	대회 결합 불성립
+Actuary Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Mobility Tutorial	A	T	T	T	0.65	시니어 이동 보행 튜토리얼로 짐작 가능
+Mattress Handbook	A	T	T	T	0.65	매트리스 청소 핸드북, 소비자 실검색
+Massage Timetable	A	T	T	T	0.6	마사지 예약 일정표로 짐작 가능
+Capsule Opinion	R	F	T	T	0.7	소견 결합 불성립
+Gauge Recommendation	A	T	T	T	0.6	압력계 제품 추천으로 짐작 가능
