@@ -1,0 +1,26 @@
+[keyword_metrics] 20/455 words checked
+[keyword_metrics] 40/455 words checked
+[keyword_metrics] 60/455 words checked
+[keyword_metrics] 80/455 words checked
+[keyword_metrics] 100/455 words checked
+[keyword_metrics] 120/455 words checked
+[keyword_metrics] 140/455 words checked
+[keyword_metrics] 160/455 words checked
+[keyword_metrics] 180/455 words checked
+[keyword_metrics] 200/455 words checked
+[keyword_metrics] 220/455 words checked
+[keyword_metrics] 240/455 words checked
+[keyword_metrics] 260/455 words checked
+[keyword_metrics] 280/455 words checked
+[keyword_metrics] 300/455 words checked
+[keyword_metrics] 320/455 words checked
+[keyword_metrics] 340/455 words checked
+[keyword_metrics] 360/455 words checked
+[keyword_metrics] 380/455 words checked
+[keyword_metrics] 400/455 words checked
+[keyword_metrics] 420/455 words checked
+[keyword_metrics] 440/455 words checked
+[keyword_metrics] 455/455 words checked
+[학습 정체 점검] 저하: 최근 1라운드(생성 10000개) 통과율 0.01% vs 이전 1라운드(생성 10000개) 0.11% (상대변화 -90.9%, 임계값 ±10%)
+[골든셋 카나리아] 4/7 일치 (57.1%), 불일치 3건 -> 레드팀 재검증 트리거
+[승인율 이상탐지] 정상: 이번 라운드 4.5% vs 기준선 평균 68.2%(표준편차 32.8, z=-1.94, 임계 ±3.0)
