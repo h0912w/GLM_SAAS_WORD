@@ -1,0 +1,200 @@
+Waterfront Lab	R	F	T	T	0.6	결합 불성립
+Sushi Portal	A	T	T	T	0.6	스시집 예약·주문 포털
+Breath Console	A	T	T	T	0.55	구취 진료 접수·운영 콘솔
+Boardwalk Scale	R	F	T	T	0.6	결합 불성립
+Taco Ring	R	F	T	T	0.6	결합 불성립
+Snoring Gate	R	F	T	T	0.6	결합 불성립
+Beachfront Atlas	A	T	T	T	0.55	해변 명소 지도·아틀라스
+Noodle Assistant	A	T	T	T	0.6	주방 운영 보조 도구
+Bite Planner	R	F	T	T	0.6	Bite 지칭 추상, 계획 대상 불분명
+Skyline Monitor	A	T	T	T	0.55	전망·투어 상태 모니터링
+Seafood Playbook	A	T	T	T	0.6	해산물 가게 운영 플레이북
+Dentist Journal	A	T	T	T	0.55	진료 케이스 기록 저널
+Backpacker Calendar	A	T	T	T	0.55	배낭여행 일정 캘린더
+Orthodontist Office	A	T	T	T	0.55	교정 진료실 운영 관리(dental office 표준 표현)
+Parasailing Booth	R	F	T	T	0.6	부스 결합 불성립
+Hygienist Harbor	R	F	T	T	0.6	결합 불성립
+Wildlife Alert	A	T	T	T	0.6	야생동물 출현·위험 알림
+Floss Passport	R	F	T	T	0.65	승인된 Floss Journal(치실 사용 기록)와 동일 이력 기록 의미 중복
+Lagoon Ticker	R	F	T	T	0.6	결합 불성립
+Tartar Roll	R	F	T	T	0.6	결합 불성립
+Glacier Log	A	T	T	T	0.6	빙하 투어 기록지
+Fluoride Sheet	R	F	T	T	0.6	시트 지칭 불명
+Volcano Score	R	F	T	T	0.6	점수 지칭 불분명, 승인된 Volcano Check(안전 점검)와 구분 모호
+Sealant Profile	R	F	T	T	0.6	프로필 대상 불분명
+Daytrip View	R	F	T	T	0.6	view 결합 불성립
+Gingivitis Level	A	T	T	T	0.55	잇몸염 중증도 단계 추적
+Yacht Update	A	T	T	T	0.55	요트 예약·상태 업데이트 공지
+Bruxism Summary	R	F	T	T	0.6	요약 대상 불분명
+Promenade Reminder	A	T	T	T	0.6	산책 일정 알림
+Halitosis Estimate	A	T	T	T	0.6	구취 치료 비용 견적
+Rainforest Bill	A	T	T	T	0.6	투어 청구서 관리
+Periodontitis List	R	F	T	T	0.6	목록 지칭 제품 불명
+Desert Slip	R	F	T	T	0.6	전표 의미 불분명
+Malocclusion Slot	R	F	T	T	0.6	슬롯 지칭 제품 불명
+Winery Voucher	A	T	T	T	0.55	시음권·바우처 관리
+Endodontics Stub	R	F	T	T	0.6	결합 불성립
+Periodontics Quota	R	F	T	T	0.6	할당량 대상 불분명
+Production Retreat	R	F	T	T	0.6	결합 불성립
+Harvest Tournament	R	F	T	T	0.6	결합 불성립
+Meter Flyer	A	T	T	T	0.55	검침 서비스 홍보 전단
+Deductible Timetable	A	T	T	T	0.55	자부담 한도·갱신 일정표
+Recruiting Opinion	A	T	T	T	0.55	지원자 평가 의견 기록
+Catalog Retreat	R	F	T	T	0.6	결합 불성립
+Occupancy Tournament	R	F	T	T	0.6	결합 불성립
+Cohort Flyer	A	T	T	T	0.55	교육 과정 모집 전단
+Triage Tutorial	A	T	T	T	0.6	분류 업무 튜토리얼
+Dividend Handbook	A	T	T	T	0.65	배당 실무 핸드북
+Paralegal Timetable	A	T	T	T	0.6	사건·기한 일정표
+Courier Opinion	A	T	T	T	0.55	택배 업체 이용 후기 수집
+Annuity Retreat	R	F	T	T	0.6	결합 불성립
+Overtime Tournament	R	F	T	T	0.6	결합 불성립
+Scaffold Flyer	A	T	T	T	0.55	비계 시공 업체 홍보 전단
+Cafe Time	R	F	T	T	0.6	시간 지칭 불명확
+Diner Guarantor	R	F	T	T	0.6	보증인 결합 불성립
+Molar Tutorial	A	T	T	T	0.55	어금니 시술 안내 튜토리얼
+Toy Handbook	A	T	T	T	0.55	장난감 선택·관리 핸드북
+Product Timetable	R	F	T	T	0.6	Product 대상 불명확
+Injection Opinion	R	F	T	T	0.6	의견 대상 불분명
+Igniter Gift	R	F	T	T	0.6	결합 불성립
+Rim Retreat	R	F	T	T	0.6	결합 불성립
+Idiom Tournament	R	F	T	T	0.6	결합 불성립
+Stairs Flyer	A	T	T	T	0.55	이사 서비스 홍보 전단
+Bistro Base	R	F	T	T	0.6	결합 불성립
+Pizzeria Ops	A	T	T	T	0.6	피자집 운영 도구
+Deli Score	R	F	T	T	0.6	점수 지칭 불분명
+Dessert Badge	R	F	T	T	0.6	배지 결합 불성립
+Takeout Duty	R	F	T	T	0.6	결합 불성립
+Brunch Subsidy	R	F	T	T	0.6	결합 불성립
+Bakery Repository	R	F	T	T	0.6	저장소 대상 불분명
+Pastry Reference	R	F	T	T	0.6	참고자료 지칭 불분명
+Bagel Appointment	A	T	T	T	0.6	베이글 가게 픽업 예약
+Donut Claim	A	T	T	T	0.55	고객 클레임 처리 도구
+Espresso Frequency	A	T	T	T	0.55	주문 빈도 분석
+Latte Benefit	R	F	T	T	0.6	결합 불성립
+Toothbrush Depreciation	R	F	T	T	0.6	결합 불성립
+Snorkeling Guarantor	R	F	T	T	0.6	보증인 결합 불성립
+Workout Tutorial	A	T	T	T	0.6	운동 프로그램 튜토리얼
+Payee Handbook	A	T	T	T	0.6	수취인·지급 실무 핸드북
+Tanker Timetable	A	T	T	T	0.6	선박 운항 일정표
+Deed Opinion	A	T	T	T	0.55	소유권 법률 의견서 관리
+Policyholder Gift	R	F	T	T	0.6	결합 불성립
+Countertop Retreat	R	F	T	T	0.6	결합 불성립
+Cocktail Tournament	R	F	T	T	0.6	결합 불성립
+Toothpaste Flyer	A	T	T	T	0.55	구강용품 추천 홍보 전단
+Kayaking Hub	A	T	T	T	0.6	카약 투어 탐색 허브
+Barista Beacon	R	F	T	T	0.6	알림 대상 불분명
+Mouthwash Forge	R	F	T	T	0.6	결합 불성립
+Waterfall Signal	R	F	T	T	0.6	신호 결합 불성립
+Pub Path	A	T	T	T	0.55	펍 크롤 코스 경로 안내
+Mouthguard Point	R	F	T	T	0.6	포인트 지칭 불명확
+Sunset Frame	R	F	T	T	0.6	결합 불성립
+Steakhouse Deck	R	F	T	T	0.6	결합 불성립
+Smile Studio	R	F	T	T	0.6	스튜디오 결합 부자연(의료 시설 지칭 비표준)
+Waterfront Station	R	F	T	T	0.6	station 결합 불성립
+Sushi Console	A	T	T	T	0.6	스시집 운영 콘솔
+Breath Panel	R	F	T	T	0.6	패널 결합 불성립
+Boardwalk Route	A	T	T	T	0.6	해변 산책 코스 안내
+Taco Gate	R	F	T	T	0.6	결합 불성립
+Snoring Nexus	R	F	T	T	0.6	결합 불성립
+Beachfront Keeper	R	F	T	T	0.6	keeper 지칭 불분명
+Noodle Planner	A	T	T	T	0.6	메뉴·재고 계획 도구
+Bite Scheduler	R	F	T	T	0.6	Bite 대상 불분명
+Skyline Companion	A	T	T	T	0.55	전망 투어 가이드 앱
+Seafood Journal	A	T	T	T	0.55	해산물 가게 기록 저널
+Dentist Registry	R	F	T	T	0.65	승인된 Dentist Register(예약 등록부)와 동의어 의미 중복
+Backpacker Directory	A	T	T	T	0.55	배낭여행 정보 디렉터리
+Orthodontist Counter	A	T	T	T	0.55	진료 접수 카운터
+Parasailing Kiosk	A	T	T	T	0.55	현장 체크인 키오스크
+Hygienist Roster	A	T	T	T	0.55	치위생 인력 근무표
+Wildlife Chart	A	T	T	T	0.55	관찰 기록 차트
+Floss Lobby	R	F	T	T	0.6	결합 불성립
+Lagoon Line	R	F	T	T	0.6	라인 결합 불성립
+Tartar Report	A	T	T	T	0.6	치석 검사 리포트
+Glacier Form	A	T	T	T	0.6	투어 신청·동의 폼
+Fluoride Check	A	T	T	T	0.55	도포 전 구강 점검
+Volcano Note	R	F	T	T	0.65	승인된 Volcano Log(투어 기록)와 동일 기록 의미 중복
+Sealant Status	A	T	T	T	0.55	시술 상태 추적
+Daytrip History	R	F	T	T	0.65	승인된 Daytrip Status(투어 상태 정보)와 의미 중복
+Gingivitis Rate	A	T	T	T	0.55	잇몸염 발생률 추적
+Yacht Feed	A	T	T	T	0.55	요트 투어 소식 피드
+Bruxism Timeline	A	T	T	T	0.6	이갈이 경과 타임라인
+Promenade Index	A	T	T	T	0.55	산책 코스 색인
+Halitosis Order	A	T	T	T	0.55	치료 처방 오더 관리
+Rainforest Receipt	A	T	T	T	0.6	투어 영수증 관리
+Periodontitis Table	R	F	T	T	0.6	테이블 의미 불분명
+Desert Sample	R	F	T	T	0.6	샘플 결합 불성립
+Malocclusion Pass	R	F	T	T	0.6	패스 의미 불분명
+Winery Badge	R	F	T	T	0.6	배지 결합 불성립
+Endodontics Statement	A	T	T	T	0.55	치료 진료 명세서 관리
+Periodontics Tab	R	F	T	T	0.6	결합 불성립
+Policy Tutorial	A	T	T	T	0.6	약관 이해 튜토리얼
+Production Tournament	R	F	T	T	0.6	결합 불성립
+Harvest Flyer	A	T	T	T	0.55	농산물 판매 홍보 전단
+Matter Tutorial	A	T	T	T	0.6	법률 사건 관리 튜토리얼
+Deductible Opinion	R	F	T	T	0.6	의견 대상 불분명
+Recruiting Gift	R	F	T	T	0.6	결합 불성립
+Catalog Tournament	R	F	T	T	0.6	결합 불성립
+Occupancy Flyer	A	T	T	T	0.55	숙박 운영 홍보 전단
+Bass Tutorial	A	T	T	T	0.65	베이스 레슨 튜토리얼
+Triage Handbook	A	T	T	T	0.6	분류 업무 핸드북
+Dividend Timetable	A	T	T	T	0.6	배당 지급 일정표
+Paralegal Opinion	R	F	T	T	0.6	의견 대상 불분명(보조 인력 의견서 개념 부자연)
+Courier Gift	R	F	T	T	0.6	결합 불성립
+Annuity Tournament	R	F	T	T	0.6	결합 불성립
+Overtime Flyer	A	T	T	T	0.55	초과근무 관리 솔루션 홍보 전단
+Cafe Speed	R	F	T	T	0.6	속도 지칭 불분명
+Diner Tuner	R	F	T	T	0.6	결합 불성립
+Tick Tutorial	A	T	T	T	0.55	진드기 예방 튜토리얼
+Molar Handbook	A	T	T	T	0.55	어금니 시술 핸드북
+Toy Timetable	A	T	T	T	0.55	장난감 대여·사용 일정표
+Product Opinion	R	F	T	T	0.6	Product 대상 불명확
+Injection Gift	R	F	T	T	0.6	결합 불성립
+Igniter Retreat	R	F	T	T	0.6	결합 불성립
+Rim Tournament	R	F	T	T	0.6	결합 불성립
+Idiom Flyer	A	T	T	T	0.55	통번역 서비스 홍보 전단
+Bistro Core	R	F	T	T	0.6	결합 불성립
+Pizzeria Playbook	A	T	T	T	0.6	피자집 운영 플레이북
+Deli Note	R	F	T	T	0.6	메모 대상 불분명
+Dessert Stub	R	F	T	T	0.6	결합 불성립
+Takeout Allowance	R	F	T	T	0.6	결합 불성립
+Brunch Discount	R	F	T	T	0.6	할인 지칭 불분명(쿠폰/가격 정책 모호)
+Bakery Announcement	R	F	T	T	0.6	승인된 Bakery Newsletter(소식 발송)와 구분 불명 의미 중복
+Pastry Forecast	A	T	T	T	0.6	페이스트리 수요 예측
+Bagel Feedback	A	T	T	T	0.6	베이글 가게 고객 피드백
+Donut Onboarding	A	T	T	T	0.55	도넛 가게 온보딩 도구
+Espresso Compatibility	R	F	T	T	0.6	결합 불성립
+Latte Requirement	R	F	T	T	0.6	요건 대상 불분명
+Toothbrush Resignation	R	F	T	T	0.6	결합 불성립
+Snorkeling Tuner	R	F	T	T	0.6	결합 불성립
+Metronome Tutorial	A	T	T	T	0.6	메트로놈 활용 튜토리얼
+Workout Handbook	A	T	T	T	0.6	운동 프로그램 핸드북
+Payee Timetable	A	T	T	T	0.6	지급 일정표
+Tanker Opinion	R	F	T	T	0.6	의견 대상 불분명
+Deed Gift	R	F	T	T	0.6	결합 불성립
+Policyholder Retreat	R	F	T	T	0.6	결합 불성립
+Countertop Tournament	R	F	T	T	0.6	결합 불성립
+Cocktail Flyer	A	T	T	T	0.55	칵테일 바 홍보 전단
+Toothpaste Tracker	A	T	T	T	0.55	치약 재고·사용 추적
+Kayaking Desk	R	F	T	T	0.6	desk 결합 불성립
+Barista Forge	R	F	T	T	0.6	결합 불성립
+Mouthwash Cascade	R	F	T	T	0.6	결합 불성립
+Waterfall Watch	A	T	T	T	0.55	폭포 상태 관찰 도구
+Pub Point	A	T	T	T	0.55	펍 단골 포인트 적립
+Mouthguard Map	R	F	T	T	0.6	단일 품목 지도 결합 부자연
+Sunset Base	R	F	T	T	0.6	결합 불성립
+Steakhouse Studio	R	F	T	T	0.6	스튜디오 결합 부자연
+Smile Lab	R	F	T	T	0.6	lab 결합 불성립
+Waterfront Terminal	R	F	T	T	0.6	terminal 결합 불성립
+Sushi Panel	R	F	T	T	0.6	패널 결합 불성립
+Breath Scale	R	F	T	T	0.6	결합 불성립
+Boardwalk Rail	R	F	T	T	0.6	레일 결합 불성립
+Taco Nexus	R	F	T	T	0.6	결합 불성립
+Snoring Atlas	R	F	T	T	0.6	단일 증상 아틀라스 결합 부자연
+Beachfront Manager	A	T	T	T	0.6	해변 시설·예약 관리
+Noodle Scheduler	A	T	T	T	0.6	예약·주방 일정 관리
+Bite Monitor	R	F	T	T	0.6	Bite 대상 불분명
+Skyline Register	A	T	T	T	0.55	전망 투어 예약 등록부
+Seafood Registry	R	F	T	T	0.65	이번 라운드 승인된 Seafood Register(주문·재고 등록부)와 동의어 의미 중복
+Dentist Calendar	A	T	T	T	0.6	진료 예약 캘린더
+Backpacker Locator	A	T	T	T	0.55	여행지·장소 탐색 도구(디렉터리와 대상 다름)
