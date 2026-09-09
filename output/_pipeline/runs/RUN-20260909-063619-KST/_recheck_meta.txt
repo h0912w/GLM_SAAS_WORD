@@ -1,0 +1,8 @@
+generated_at: "2026-09-09T23:21:44.619471+09:00"
+instructions: "아래 후보들은 1차 판정에서 이미 approve=true를 받았다. 당신의 역할은 그 판정에 동의하는 게 아니라 반박(refute)을 시도하는 것이다 - 명확성·의미중복·상표유사 세 기준을 다시 처음부터 독립적으로 적용하고, 1차 판정이 놓쳤을 만한 결함을 적극적으로 찾아라. 결함을 찾지 못하면(정말로 반박할 근거가 없으면)만 approve=true를 유지하고, 조금이라도 근거 있는 의심이 들면 approve=false로 뒤집고 reason에 무엇을 반박했는지 남겨라. original_reason 필드는 1차 판정자가 남긴 근거(있다면)이니 그것도 비판적으로 검토하라."
+request_hash: "67cdebee0c3cfd3abbd46cb887fbb0c62acd8d5ad95efe9a55dbb5ea55d44956"
+round: 1
+run_id: "RUN-20260909-063619-KST"
+stage: "review_titles_recheck"
+item_count: 1951
+first_item: {"industry": "interpreter_translation_services", "original_reason": "통번역 인증 절차 핸드북으로 짐작 가능", "title": "Accreditation Handbook"}

@@ -1,0 +1,200 @@
+Gutter Gift	R	F	T	T	0.7	Gutter 업계에 선물 관리 도구 결합 불성립
+Dissertation Retreat	A	T	T	T	0.6	논문 집중 작성 리트리트 기획·예약 도구로 짐작 가능
+Byline Flyer	R	F	T	T	0.65	기자 서명 앞세운 전단 제작 도구로 짐작 어려움
+Bistro Radar	A	T	T	T	0.65	주변 비스트로 탐색·비교 도구로 짐작 가능
+Pizzeria Scale	R	F	T	T	0.6	저울/확장 중 어느 뜻인지 불명확
+Deli Post	A	T	T	T	0.55	델리 SNS·게시물 관리 도구로 짐작 가능
+Dessert Draft	R	F	T	T	0.6	초안의 대상 불분명, 결합 불성립
+Takeout Confirmation	A	T	T	T	0.7	테이크아웃 주문 확인 알림 도구로 짐작 가능
+Brunch Version	R	F	T	T	0.6	버전 관리 대상 불분명, 결합 불성립
+Bakery Extension	R	F	T	T	0.65	확장 기능 대상 불분명, 결합 불성립
+Pastry Estimator	A	T	T	T	0.7	페이스트리 원가·수량 산출 도구로 짐작 가능
+Bagel Progress	R	F	T	T	0.6	진행 상황의 대상 불분명
+Donut Deposit	A	T	T	T	0.6	도넛 예약 선입금·입금 관리 도구로 짐작 가능
+Espresso Length	A	T	T	T	0.55	에스프레소 추출 시간 기록 도구로 짐작 가능
+Latte Brightness	R	F	T	T	0.65	밝기 결합 불성립
+Toothbrush Compatibility	R	F	T	T	0.6	호환성 대상 불분명, 결합 불성립
+Snorkeling Condition	A	T	T	T	0.65	스노클링 포인트 해양·기상 조건 정보 도구
+Cocktail Approval	A	T	T	T	0.6	칵테일 레시피 승인 워크플로 도구로 짐작 가능
+Toothpaste Matrix	R	F	T	T	0.6	매트릭스 의미 불분명
+Kayaking Utilization	A	T	T	T	0.65	카약 대여 자산 가동률 분석 도구
+Barista Guarantor	R	F	T	T	0.65	보증인 결합 불성립
+Mouthwash Tuner	R	F	T	T	0.65	조율기 결합 불성립
+Chore Tutorial	A	T	T	T	0.6	아동 집안일 지도 튜토리얼 콘텐츠 도구
+Storage Handbook	A	T	T	T	0.6	보관·창고 시설 운영 핸드북 작성 도구
+Waterfall Timetable	A	T	T	T	0.7	폭포 관광 일정표 도구
+Method Opinion	R	F	T	T	0.6	의견 대상 불분명
+Hydration Gift	R	F	T	T	0.6	선물 결합 불성립
+Trust Retreat	R	F	T	T	0.65	신탁+리트리트 결합 불성립
+Coinsurance Tournament	R	F	T	T	0.7	토너먼트 결합 불성립
+Carpentry Flyer	A	T	T	T	0.7	목공 업체 홍보 전단 제작 도구
+Pub Tracker	A	T	T	T	0.65	펍 운영 지표·재고 추적 도구
+Mouthguard Flow	A	T	T	T	0.6	마우스가드 발주·제작 워크플로 도구
+Sunset Desk	R	F	T	T	0.6	데스크 의미 불분명, 상호로 읽힘
+Steakhouse Beacon	A	T	T	T	0.55	스테이크하우스 매장 근거리 알림·유치 도구
+Smile Forge	R	F	T	T	0.6	제품 개념 불분명
+Waterfront Bridge	R	F	T	T	0.6	결합 불성립
+Sushi Grid	R	F	T	T	0.6	그리드 대상 불분명
+Breath Wave	R	F	T	T	0.6	결합 불성립
+Boardwalk Point	A	T	T	T	0.55	해변 상권 공동 포인트 적립 도구로 짐작 가능
+Taco Ledger	A	T	T	T	0.7	타코 전문점 매출 장부 도구
+Snoring Board	A	T	T	T	0.55	코골이 치료 현황 보드 도구
+Beachfront Studio	R	F	T	T	0.6	스튜디오 대상 불분명, 숙소 상호로 읽힘
+Noodle Center	R	F	T	T	0.6	센터 의미 불분명
+Bite Zone	R	F	T	T	0.6	제품 개념 불분명
+Skyline Console	A	T	T	T	0.55	도심 전망·투어 운영 관리 콘솔로 짐작 가능
+Seafood Rail	R	F	T	T	0.6	레일 의미 불분명
+Dentist Trail	R	F	T	T	0.6	결합 불성립
+Backpacker Ring	R	F	T	T	0.6	결합 불성립
+Orthodontist Keeper	A	T	T	T	0.55	교정 진료 기록·케이스 보관 도구
+Parasailing Engine	A	T	T	T	0.65	패러세일링 예약 엔진
+Hygienist Monitor	A	T	T	T	0.55	치위생사 근무·업무 모니터링 도구
+Wildlife Register	A	T	T	T	0.7	야생동물 관찰 기록 대장 도구
+Floss Journal	A	T	T	T	0.6	치실 사용 기록·환자 관리 저널 도구
+Lagoon Calendar	A	T	T	T	0.65	라군 투어 예약 일정 도구
+Tartar Finder	R	F	T	T	0.6	탐지 대상·방식 불분명
+Glacier Counter	R	F	T	T	0.6	카운터 의미 불분명(접수대/계수기)
+Fluoride Bay	R	F	T	T	0.6	결합 불성립
+Volcano Harbor	R	F	T	T	0.6	결합 불성립
+Sealant Chart	A	T	T	T	0.7	치과 시일란트 시술 차트 기록 도구
+Daytrip Passport	A	T	T	T	0.6	당일여행 스탬프·패스 도구로 짐작 가능
+Gingivitis Line	R	F	T	T	0.6	결합 불성립
+Yacht Roll	R	F	T	T	0.6	결합 불성립
+Bruxism Form	A	T	T	T	0.7	이갈이 문진 폼 도구
+Promenade Sheet	R	F	T	T	0.6	시트 대상 불분명
+Halitosis Note	A	T	T	T	0.6	구취 진료 기록 노트 도구
+Rainforest Profile	R	F	T	T	0.6	프로필 대상 불분명
+Periodontitis History	A	T	T	T	0.6	치주염 병력 추적 기록 도구
+Desert Level	R	F	T	T	0.6	결합 불성립
+Malocclusion Update	A	T	T	T	0.55	부정교합 경과 업데이트 기록 도구
+Winery Draft	R	F	T	T	0.6	초안 대상 불분명
+Endodontics Timeline	A	T	T	T	0.7	신경치료 경과 타임라인 도구
+Periodontics Ticket	R	F	T	T	0.6	티켓 결합 불성립
+Registration Handbook	A	T	T	T	0.7	행사 등록 안내 핸드북 작성 도구
+Patient Retreat	R	F	T	T	0.6	결합 불성립
+Enrollment Flyer	A	T	T	T	0.7	어린이집 모집 전단 제작 도구
+Rollback Handbook	A	T	T	T	0.7	배포 롤백 절차 핸드북 도구
+Screening Opinion	A	T	T	T	0.55	채용 스크리닝 평가 의견 기록 도구
+Ticketing Gift	A	T	T	T	0.6	티켓 선물하기 기능 도구
+Breed Flyer	A	T	T	T	0.6	브리더 홍보 전단 제작 도구
+Router Tutorial	A	T	T	T	0.7	공유기 설치 튜토리얼 제공 도구
+Password Handbook	A	T	T	T	0.7	비밀번호 정책·보안 수칙 핸드북 도구
+Cloud Timetable	A	T	T	T	0.55	클라우드 마이그레이션·작업 일정 도구
+Inquiry Opinion	R	F	T	T	0.6	의견 결합 불성립
+Resume Gift	R	F	T	T	0.6	결합 불성립
+Speaker Retreat	R	F	T	T	0.6	인물 지칭+리트리트 결합 불성립
+Emission Tournament	R	F	T	T	0.7	토너먼트 결합 불성립
+Chef Flyer	A	T	T	T	0.65	개인 셰프·요식 홍보 전단 제작 도구
+Cafe Video	A	T	T	T	0.65	카페 홍보 영상 제작 도구
+Diner Humidity	R	F	T	T	0.65	결합 불성립
+Trading Tutorial	A	T	T	T	0.7	거래 학습 튜토리얼 콘텐츠 도구
+Payload Handbook	A	T	T	T	0.65	화물 페이로드 취급 매뉴얼 도구
+Addendum Timetable	A	T	T	T	0.6	부동산 계약 추가조항 기한 일정 도구
+Settlement Opinion	A	T	T	T	0.6	보험 합의·보상 의견 관리 도구
+Vesting Gift	R	F	T	T	0.6	결합 불성립
+Gutter Retreat	R	F	T	T	0.6	결합 불성립
+Dissertation Tournament	R	F	T	T	0.65	토너먼트 결합 불성립
+Bistro Relay	R	F	T	T	0.6	릴레이 의미 불분명
+Pizzeria Route	A	T	T	T	0.7	피자 배달 동선 최적화 도구
+Deli Harbor	R	F	T	T	0.6	결합 불성립
+Dessert Summary	R	F	T	T	0.6	요약 대상 불분명
+Takeout Recap	R	F	T	T	0.6	요약 대상 불분명
+Brunch Link	R	F	T	T	0.6	링크 대상 불분명
+Bakery Trial	R	F	T	T	0.6	시험 대상 불분명
+Pastry Checker	A	T	T	T	0.55	페이스트리 품질·재고 점검 도구
+Bagel Authorization	R	F	T	T	0.65	결합 불성립
+Donut Certification	A	T	T	T	0.55	도넛 위생 인증 관리 도구
+Espresso Weight	A	T	T	T	0.6	에스프레소 투입량 기록 도구
+Latte Frequency	A	T	T	T	0.6	카페 고객 구매 빈도 분석 도구
+Toothbrush Capacity	R	F	T	T	0.65	결합 불성립
+Snorkeling Humidity	R	F	T	T	0.65	결합 불성립
+Cocktail Matrix	R	F	T	T	0.6	매트릭스 의미 불분명
+Toothpaste Evaluation	R	F	T	T	0.6	평가 대상 불분명
+Kayaking Benefit	R	F	T	T	0.6	결합 불성립
+Barista Tuner	R	F	T	T	0.65	결합 불성립
+Mouthwash Tutorial	R	F	T	T	0.6	단일 품목 튜토리얼로 제품 개념 부자연
+Chore Handbook	A	T	T	T	0.6	집안일 지도 핸드북 제공 도구
+Waterfall Opinion	A	T	T	T	0.55	폭포 명소 방문 후기 수집 도구
+Method Gift	R	F	T	T	0.6	도메인어 Method가 결합 대상 불분명
+Hydration Retreat	R	F	T	T	0.6	결합 불성립
+Trust Tournament	R	F	T	T	0.65	토너먼트 결합 불성립
+Coinsurance Flyer	A	T	T	T	0.55	공동보험 안내 전단 제작 도구
+Pub Flow	A	T	T	T	0.6	펍 주문·운영 워크플로 도구
+Mouthguard Hub	A	T	T	T	0.6	마우스가드 발주 허브 도구
+Sunset Radar	A	T	T	T	0.65	노을 최적 시점·장소 탐색 도구
+Steakhouse Forge	R	F	T	T	0.6	결합 불성립
+Smile Cascade	R	F	T	T	0.6	결합 불성립
+Waterfront Signal	R	F	T	T	0.6	결합 불성립
+Sushi Wave	R	F	T	T	0.6	결합 불성립
+Breath Path	R	F	T	T	0.6	경로 의미 불분명
+Boardwalk Map	A	T	T	T	0.7	해변 보드워크 상권 지도 도구
+Taco Board	A	T	T	T	0.55	타코 전문점 디지털 메뉴판·게시 도구
+Snoring Deck	R	F	T	T	0.6	결합 불성립
+Beachfront Lab	R	F	T	T	0.6	결합 불성립
+Noodle Zone	R	F	T	T	0.6	결합 불성립
+Bite Portal	A	T	T	T	0.55	교합 치료 환자 포털 도구
+Skyline Panel	R	F	T	T	0.6	결합 불성립
+Seafood Trail	A	T	T	T	0.6	해산물 맛집 트레일 코스 도구
+Dentist Chain	R	F	T	T	0.6	체인 의미 불분명(블록체인/점포체인)
+Backpacker Gate	R	F	T	T	0.6	결합 불성립
+Orthodontist Manager	A	T	T	T	0.7	교정치과 진료 관리 도구
+Parasailing Assistant	A	T	T	T	0.6	패러세일링 운영 보조 도구
+Hygienist Companion	A	T	T	T	0.55	치위생사 업무 보조 앱
+Wildlife Ops	A	T	T	T	0.6	생태 투어 운영 관리 도구
+Floss Registry	A	T	T	T	0.6	치실 기록 등부 도구
+Lagoon Directory	A	T	T	T	0.65	라군 명소 디렉터리 도구
+Tartar Office	R	F	T	T	0.6	결합 불성립
+Glacier Booth	R	F	T	T	0.6	부스 의미 불분명
+Fluoride Post	A	T	T	T	0.55	불소·구강 교육 콘텐츠 게시 도구
+Volcano Roster	A	T	T	T	0.55	화산 투어 인력 근무표 도구
+Sealant Bin	A	T	T	T	0.55	시일란트 재고 관리 도구
+Daytrip Lobby	R	F	T	T	0.6	결합 불성립
+Gingivitis Window	R	F	T	T	0.6	결합 불성립
+Yacht Report	A	T	T	T	0.6	요트 대여 운영 리포트 도구
+Bruxism Card	R	F	T	T	0.6	카드 의미 불분명
+Promenade Check	R	F	T	T	0.6	체크 대상 불분명
+Halitosis Tag	R	F	T	T	0.6	태그 용도 불분명
+Rainforest Status	A	T	T	T	0.55	우림 트레일 상태 정보 도구
+Periodontitis File	A	T	T	T	0.6	치주염 환자 파일 관리 도구
+Desert Rate	A	T	T	T	0.6	사막 투어 요금 관리 도구
+Malocclusion Feed	A	T	T	T	0.55	부정교합 경과 피드 도구
+Winery Summary	R	F	T	T	0.6	요약 대상 불분명
+Endodontics Reminder	A	T	T	T	0.7	신경치료 재방문 알림 도구
+Periodontics Estimate	A	T	T	T	0.7	치주치료 비용 견적 도구
+Registration Timetable	A	T	T	T	0.7	행사 등록 일정표 도구
+Patient Tournament	R	F	T	T	0.65	토너먼트 결합 불성립
+Rollback Timetable	A	T	T	T	0.6	롤백 작업 일정 도구
+Screening Gift	R	F	T	T	0.6	결합 불성립
+Ticketing Retreat	R	F	T	T	0.6	결합 불성립
+Carpool Tutorial	A	T	T	T	0.6	카풀 이용 안내 튜토리얼 도구
+Router Handbook	A	T	T	T	0.7	공유기 설정 핸드북 도구
+Password Timetable	A	T	T	T	0.7	비밀번호 주기 변경 일정 도구
+Cloud Opinion	R	F	T	T	0.6	의견 결합 불성립
+Inquiry Gift	R	F	T	T	0.6	결합 불성립
+Resume Retreat	R	F	T	T	0.6	결합 불성립
+Speaker Tournament	A	T	T	T	0.55	스피치·연설 대회 운영 도구
+Emission Flyer	A	T	T	T	0.55	배기가스 검사 안내 전단 제작 도구
+Cafe Diary	A	T	T	T	0.65	카페 운영 일지 도구
+Diner Episode	R	F	T	T	0.6	결합 불성립
+Dosage Tutorial	A	T	T	T	0.65	복약 용법 안내 튜토리얼 도구
+Trading Handbook	A	T	T	T	0.7	거래 안내 핸드북 도구
+Payload Timetable	A	T	T	T	0.6	화물 적재 일정표 도구
+Addendum Opinion	A	T	T	T	0.55	계약 추가조항 검토 의견 도구
+Settlement Gift	R	F	T	T	0.6	결합 불성립
+Vesting Retreat	R	F	T	T	0.6	결합 불성립
+Gutter Tournament	R	F	T	T	0.65	토너먼트 결합 불성립
+Dissertation Flyer	A	T	T	T	0.55	논문 관련 서비스 홍보 전단 도구
+Bistro Vault	A	T	T	T	0.55	비스트로 레시피·문서 보관고 도구
+Pizzeria Rail	R	F	T	T	0.6	레일 의미 불분명
+Deli Roster	A	T	T	T	0.65	델리 직원 근무표 도구
+Dessert Timeline	A	T	T	T	0.55	디저트 제작 준비 일정 타임라인 도구
+Takeout Entry	A	T	T	T	0.6	테이크아웃 주문 입력 도구
+Brunch Rule	R	F	T	T	0.6	결합 불성립
+Bakery Graph	A	T	T	T	0.55	베이커리 운영 지표 그래프 도구
+Pastry Detector	R	F	T	T	0.6	탐지 대상 불분명
+Bagel Template	A	T	T	T	0.6	베이글 가게 서식·메뉴 템플릿 도구
+Donut Nomination	R	F	T	T	0.6	결합 불성립
+Espresso Distance	R	F	T	T	0.6	결합 불성립
+Latte Compatibility	R	F	T	T	0.6	결합 불성립
+Toothbrush Usage	A	T	T	T	0.55	칫솔 사용 기록·환자 습관 추적 도구
+Snorkeling Episode	R	F	T	T	0.6	결합 불성립

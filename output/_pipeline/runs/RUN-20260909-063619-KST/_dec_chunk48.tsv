@@ -1,0 +1,200 @@
+Backflow Tournament	R	F	T	T	0.6	결합 불성립
+Safari Flyer	A	T	T	T	0.55	사파리 투어 홍보 전단 도구
+Bistro Loop	R	F	T	T	0.6	결합 불성립
+Pizzeria Engine	A	T	T	T	0.6	피자집 예약 엔진
+Deli Roll	R	F	T	T	0.6	결합 불성립
+Dessert List	R	F	T	T	0.6	목록 지칭으로 제품 불명
+Takeout Loan	R	F	T	T	0.6	결합 불성립
+Brunch Signature	R	F	T	T	0.6	시그니처 지칭으로 제품 불명
+Bakery Rendering	R	F	T	T	0.6	결합 불성립
+Pastry Trend	R	F	T	T	0.6	트렌드 대상 불분명
+Bagel Lookup	R	F	T	T	0.6	결합 불성립
+Donut Recipe	A	T	T	T	0.6	도넛 레시피 관리 도구
+Espresso Width	R	F	T	T	0.6	폭 결합 불성립
+Latte Reception	R	F	T	T	0.6	접수 대상 없어 결합 불성립
+Toothbrush Approval	R	F	T	T	0.6	승인 대상 불분명
+Snorkeling Questionnaire	A	T	T	T	0.55	스노클링 만족도 설문 도구
+Cocktail Tuner	R	F	T	T	0.6	조율기 결합 불성립
+Toothpaste Tutorial	R	F	T	T	0.6	단일 품목 튜토리얼로 제품 개념 부자연
+Formula Handbook	A	T	T	T	0.65	수유 안내 핸드북
+Mailroom Timetable	A	T	T	T	0.65	우편물 수발 일정표
+Kayaking Opinion	A	T	T	T	0.55	카약 투어 후기 수집 도구
+Songbook Gift	R	F	T	T	0.6	결합 불성립
+Stretch Retreat	R	F	T	T	0.6	결합 불성립
+Insolvency Tournament	R	F	T	T	0.6	결합 불성립
+Barista Flow	R	F	T	T	0.6	흐름 대상 불분명
+Mouthwash Hub	R	F	T	T	0.6	단일 품목 허브로 제품 개념 부자연
+Waterfall Relay	R	F	T	T	0.6	릴레이 결합 불성립
+Pub Bridge	R	F	T	T	0.6	결합 불성립
+Mouthguard Signal	R	F	T	T	0.6	결합 불성립
+Sunset Scope	R	F	T	T	0.6	범위 결합 불성립
+Steakhouse Point	A	T	T	T	0.55	스테이크하우스 포인트 적립 도구
+Smile Map	R	F	T	T	0.6	맵 결합 불성립
+Waterfront Base	R	F	T	T	0.6	결합 불성립
+Sushi Studio	R	F	T	T	0.6	결합 불성립
+Breath Lab	A	T	T	T	0.55	구취 검사 예약 도구
+Boardwalk Terminal	R	F	T	T	0.6	결합 불성립
+Taco Panel	R	F	T	T	0.6	패널 의미 불분명
+Snoring Scale	R	F	T	T	0.6	규모/저울 중 의미 불분명
+Beachfront Rail	R	F	T	T	0.6	레일 결합 불성립
+Noodle Gate	R	F	T	T	0.6	결합 불성립
+Bite Nexus	R	F	T	T	0.6	넥서스 의미 불분명
+Skyline Keeper	R	F	T	T	0.6	보관 대상 불분명
+Seafood Planner	A	T	T	T	0.65	해산물 가게 일정·재고 플래너
+Dentist Scheduler	A	T	T	T	0.7	치과 예약 스케줄러
+Backpacker Companion	A	T	T	T	0.55	배낭여행 동반 앱
+Orthodontist Journal	A	T	T	T	0.6	교정 업무 저널 도구
+Parasailing Calendar	A	T	T	T	0.65	패러세일링 시즌 캘린더
+Hygienist Office	R	F	T	T	0.6	결합 불성립
+Wildlife Booth	R	F	T	T	0.6	결합 불성립
+Floss Post	A	T	T	T	0.55	치실 교육 콘텐츠 게시 도구
+Lagoon Roster	R	F	T	T	0.6	근무표 대상 불분명
+Tartar Bin	R	F	T	T	0.6	결합 불성립
+Glacier Lobby	R	F	T	T	0.6	결합 불성립
+Fluoride Window	R	F	T	T	0.6	결합 불성립
+Volcano Report	A	T	T	T	0.55	화산 활동 리포트 도구
+Sealant Card	R	F	T	T	0.65	승인된 Sealant Passport(시술 이력 수첩)과 의미 중복
+Daytrip Check	A	T	T	T	0.6	당일여행 준비 점검 도구
+Gingivitis Tag	R	F	T	T	0.6	태그 용도 불분명
+Yacht Status	A	T	T	T	0.55	요트 정비·운항 상태 추적 도구
+Bruxism File	A	T	T	T	0.55	이갈이 환자 파일 관리 도구
+Promenade Rate	R	F	T	T	0.6	요금 대상 불분명
+Halitosis Draft	R	F	T	T	0.6	초안 결합 불성립
+Rainforest Timeline	A	T	T	T	0.6	우림 투어 코스 타임라인 도구
+Periodontitis Ticket	R	F	T	T	0.6	티켓 결합 불성립
+Desert Order	A	T	T	T	0.6	사막 투어 예약 관리 도구
+Malocclusion Receipt	A	T	T	T	0.65	교정 치료 영수증 관리 도구
+Winery List	R	F	T	T	0.6	목록 지칭으로 제품 불명
+Endodontics Slip	R	F	T	T	0.6	전표 의미 불분명
+Periodontics Pass	R	F	T	T	0.6	패스 의미 불분명
+Harvest Tutorial	A	T	T	T	0.7	수확 기술 튜토리얼
+Meter Handbook	A	T	T	T	0.65	계량기 운영 핸드북
+Donor Timetable	A	T	T	T	0.55	기부자 소통 일정표 도구
+Editorial Retreat	R	F	T	T	0.6	결합 불성립
+Occupancy Tutorial	A	T	T	T	0.65	객실 점유율 관리 튜토리얼
+Cohort Handbook	A	T	T	T	0.65	코호트 과정 운영 핸드북
+Pesticide Opinion	R	F	T	T	0.6	의견 대상 불분명
+Substation Gift	R	F	T	T	0.6	결합 불성립
+Records Tournament	R	F	T	T	0.6	결합 불성립
+Engagement Flyer	A	T	T	T	0.55	참여 캠페인 홍보 전단 도구
+Overtime Tutorial	A	T	T	T	0.6	초과근무 관리 튜토리얼
+Scaffold Handbook	A	T	T	T	0.7	비계 시공 핸드북
+Barcode Timetable	R	F	T	T	0.6	일정 대상 불분명
+Valet Opinion	R	F	T	T	0.6	의견 대상 불분명
+Homework Gift	R	F	T	T	0.6	결합 불성립
+Welding Retreat	R	F	T	T	0.6	결합 불성립
+Tractor Tournament	R	F	T	T	0.6	결합 불성립
+Donation Flyer	A	T	T	T	0.55	기부 캠페인 홍보 전단 도구
+Cafe Weight	R	F	T	T	0.6	무게 지칭으로 제품 불명
+Diner Utilization	A	T	T	T	0.55	다이너 좌석·재료 사용률 분석 도구
+Idiom Tutorial	A	T	T	T	0.65	관용구 학습 튜토리얼
+Stairs Handbook	A	T	T	T	0.55	계단 운반 안내 핸드북
+Location Timetable	A	T	T	T	0.6	촬영지 예약 일정표
+Decor Opinion	R	F	T	T	0.6	의견 대상 불분명
+Roof Gift	R	F	T	T	0.6	결합 불성립
+Valve Retreat	R	F	T	T	0.6	결합 불성립
+Microfiber Tournament	R	F	T	T	0.6	결합 불성립
+Backflow Flyer	A	T	T	T	0.55	역류 방지 업체 홍보 전단
+Bistro Grid	R	F	T	T	0.6	결합 불성립
+Pizzeria Assistant	A	T	T	T	0.6	피자집 업무 보조 도구
+Deli Report	A	T	T	T	0.6	델리 매출 리포트 도구
+Dessert Table	R	F	T	T	0.6	테이블 의미 불분명
+Takeout Sum	R	F	T	T	0.6	결합 불성립
+Brunch Marker	R	F	T	T	0.6	결합 불성립
+Bakery Notification	A	T	T	T	0.6	빵 준비 완료 알림 도구
+Pastry Comparison	R	F	T	T	0.6	비교 대상 불분명
+Bagel Ping	R	F	T	T	0.6	결합 불성립
+Donut Video	R	F	T	T	0.6	결합 불성립
+Espresso Temperature	R	F	T	T	0.6	승인된 Espresso Length 등 추출 기록 계열과 의미 중복
+Latte Followup	R	F	T	T	0.6	후속 대상 불분명
+Toothbrush Matrix	R	F	T	T	0.6	매트릭스 결합 불성립
+Snorkeling Utilization	A	T	T	T	0.55	스노클링 장비 사용률 분석 도구
+Cocktail Tutorial	A	T	T	T	0.65	칵테일 제조 튜토리얼
+Toothpaste Handbook	R	F	T	T	0.6	단일 품목 핸드북으로 제품 개념 부자연
+Formula Timetable	A	T	T	T	0.65	수유 시간표 도구
+Mailroom Opinion	R	F	T	T	0.6	의견 대상 불분명
+Kayaking Gift	R	F	T	T	0.6	결합 불성립
+Songbook Retreat	R	F	T	T	0.6	결합 불성립
+Stretch Tournament	R	F	T	T	0.6	결합 불성립
+Insolvency Flyer	A	T	T	T	0.55	파산 법률 서비스 홍보 전단 도구
+Barista Hub	A	T	T	T	0.55	바리스타 업무 종합 허브 도구
+Mouthwash Desk	R	F	T	T	0.6	단일 품목 데스크로 제품 개념 부자연
+Waterfall Vault	R	F	T	T	0.6	볼트 결합 불성립
+Pub Signal	R	F	T	T	0.6	결합 불성립
+Mouthguard Watch	R	F	T	T	0.65	승인된 Mouthguard Beacon(제작 완료 알림)과 의미 중복
+Sunset Loop	R	F	T	T	0.6	결합 불성립
+Steakhouse Map	A	T	T	T	0.65	스테이크하우스 맛집 지도 도구
+Smile Frame	R	F	T	T	0.6	결합 불성립
+Waterfront Core	R	F	T	T	0.6	결합 불성립
+Sushi Lab	A	T	T	T	0.55	스시 메뉴 개발 실험 도구
+Breath Station	A	T	T	T	0.55	구취 검사 스테이션 예약 도구
+Boardwalk Center	R	F	T	T	0.6	센터 의미 불분명
+Taco Scale	R	F	T	T	0.6	규모/저울 중 의미 불분명
+Snoring Route	R	F	T	T	0.6	경로 결합 불성립
+Beachfront Trail	A	T	T	T	0.6	해변 트레일 코스 도구
+Noodle Nexus	R	F	T	T	0.6	넥서스 의미 불분명
+Bite Atlas	R	F	T	T	0.6	아틀라스 대상 불분명
+Skyline Manager	R	F	T	T	0.6	관리 대상 불분명
+Seafood Scheduler	A	T	T	T	0.65	해산물 가게 예약 스케줄러
+Dentist Monitor	A	T	T	T	0.6	치과 경과 모니터링 도구
+Backpacker Register	A	T	T	T	0.55	배낭여행 기록 등록부 도구
+Orthodontist Registry	R	F	T	T	0.65	승인된 Orthodontist Register(교정 케이스 등록부)와 의미 중복
+Parasailing Directory	A	T	T	T	0.55	패러세일링 업체 디렉터리
+Hygienist Counter	R	F	T	T	0.6	카운터 의미 불분명
+Wildlife Kiosk	A	T	T	T	0.55	생태 관찰 안내 키오스크
+Floss Harbor	R	F	T	T	0.6	결합 불성립
+Lagoon Alert	A	T	T	T	0.6	라군 투어 안전 알림 도구
+Tartar Passport	A	T	T	T	0.55	치석 관리 이력 수첩 도구
+Glacier Ticker	R	F	T	T	0.6	티커 결합 불성립
+Fluoride Roll	R	F	T	T	0.6	결합 불성립
+Volcano Log	A	T	T	T	0.6	화산 활동 기록지 도구
+Sealant Sheet	R	F	T	T	0.6	시트 대상 불분명
+Daytrip Score	R	F	T	T	0.6	점수 대상 불분명
+Gingivitis Profile	A	T	T	T	0.55	잇몸염 환자 프로파일 기록
+Yacht View	R	F	T	T	0.6	결합 불성립
+Bruxism Level	A	T	T	T	0.55	이갈이 중증도 단계 기록 도구
+Promenade Update	R	F	T	T	0.65	승인된 Promenade Status(산책로 상태 정보)와 의미 중복
+Halitosis Summary	R	F	T	T	0.6	요약 대상 불분명
+Rainforest Reminder	A	T	T	T	0.6	우림 투어 일정 알림 도구
+Periodontitis Estimate	A	T	T	T	0.7	치주 치료 비용 견적 도구
+Desert Bill	A	T	T	T	0.6	사막 투어 청구 도구
+Malocclusion Code	A	T	T	T	0.6	교정 진료 코드 관리 도구
+Winery Table	R	F	T	T	0.6	테이블 의미 불분명
+Endodontics Sample	R	F	T	T	0.6	샘플 결합 불성립
+Periodontics Voucher	R	F	T	T	0.6	바우처 결합 부자연
+Production Tutorial	A	T	T	T	0.65	생산 관리 튜토리얼
+Harvest Handbook	A	T	T	T	0.7	수확 운영 핸드북
+Meter Timetable	A	T	T	T	0.65	검침 일정표
+Donor Opinion	R	F	T	T	0.65	승인된 Donation Opinion(기부자 의견 수집)과 의미 중복
+Editorial Tournament	R	F	T	T	0.6	결합 불성립
+Catalog Tutorial	A	T	T	T	0.65	상품 카탈로그 관리 튜토리얼
+Occupancy Handbook	A	T	T	T	0.65	객실 운영 핸드북
+Cohort Timetable	A	T	T	T	0.65	코호트 과정 일정표
+Pesticide Gift	R	F	T	T	0.6	결합 불성립
+Substation Retreat	R	F	T	T	0.6	결합 불성립
+Records Flyer	A	T	T	T	0.55	기록 관리 서비스 홍보 전단 도구
+Annuity Tutorial	A	T	T	T	0.6	연금 상품 안내 튜토리얼
+Overtime Handbook	A	T	T	T	0.65	초과근무 운영 핸드북
+Scaffold Timetable	A	T	T	T	0.65	비계 공사 일정표
+Barcode Opinion	R	F	T	T	0.6	의견 대상 불분명
+Valet Gift	R	F	T	T	0.6	결합 불성립
+Homework Retreat	R	F	T	T	0.6	결합 불성립
+Welding Tournament	R	F	T	T	0.6	결합 불성립
+Tractor Flyer	A	T	T	T	0.55	트랙터 판매·서비스 홍보 전단
+Cafe Distance	R	F	T	T	0.6	거리 지칭으로 제품 불명
+Diner Benefit	R	F	T	T	0.6	결합 불성립
+Rim Tutorial	A	T	T	T	0.6	림 잠금장치 설치 튜토리얼
+Idiom Handbook	A	T	T	T	0.65	관용구 학습 핸드북
+Stairs Timetable	A	T	T	T	0.55	계단 운반 작업 일정표
+Location Opinion	A	T	T	T	0.55	촬영지 평가·후기 도구
+Decor Gift	R	F	T	T	0.6	결합 불성립
+Roof Retreat	R	F	T	T	0.6	결합 불성립
+Valve Tournament	R	F	T	T	0.6	결합 불성립
+Microfiber Flyer	A	T	T	T	0.55	세차 서비스 홍보 전단
+Bistro Wave	R	F	T	T	0.6	결합 불성립
+Pizzeria Planner	A	T	T	T	0.65	피자집 일정 플래너
+Deli Log	A	T	T	T	0.55	델리 운영 기록지 도구
+Dessert Slip	R	F	T	T	0.6	전표 의미 불분명
+Takeout Debt	R	F	T	T	0.6	결합 불성립
+Brunch Balance	R	F	T	T	0.6	잔액/균형 중 의미 불분명
+Bakery Kit	R	F	T	T	0.6	키트 결합 부자연

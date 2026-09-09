@@ -1,0 +1,1951 @@
+1	interpreter_translation_services	Accreditation Handbook	통번역 인증 절차 핸드북으로 짐작 가능
+2	interpreter_translation_services	Accreditation Timetable	인증 심사 일정표로 짐작 가능
+3	interpreter_translation_services	Accreditation Tutorial	통번역 자격 인증 튜토리얼, 실무 용어
+4	finance	Accrual Handbook	발생주의 회계 핸드북으로 짐작 가능
+5	finance	Accrual Timetable	결산 일정표로 짐작 가능
+6	finance	Accrual Tutorial	발생주의 회계 튜토리얼, 재무 실무 용어
+7	real_estate	Addendum Flyer	계약 추가조항 안내 전단 도구
+8	real_estate	Addendum Handbook	계약 추가 조항 핸드북으로 짐작 가능
+9	real_estate	Addendum Opinion	계약 추가조항 검토 의견 도구
+10	real_estate	Addendum Timetable	부동산 계약 추가조항 기한 일정 도구
+11	real_estate	Addendum Tutorial	부동산 계약 추가 조항 튜토리얼, real_estate 실무 콘텐츠
+12	senior_care	Admission Handbook	시니어 시설 입소 핸드북으로 짐작 가능
+13	senior_care	Admission Tutorial	시니어 시설 입소 절차 튜토리얼, 실무 용어
+14	events	Afterparty Handbook	파티 기획 핸드북으로 짐작 가능
+15	events	Afterparty Tutorial	파티 기획 튜토리얼로 짐작 가능, events 실검색
+16	hvac_services	Airflow Handbook	기류 설계 핸드북으로 짐작 가능
+17	hvac_services	Airflow Tutorial	환기 기류 설계 튜토리얼, HVAC 실용어
+18	wedding_planning_services	Aisle Handbook	결혼식 통로 준비 핸드북으로 짐작 가능
+19	wedding_planning_services	Aisle Tutorial	결혼식 통로 장식 튜토리얼, wedding 실검색
+20	photography_services	Album Handbook	사진앨범 제작 핸드북으로 짐작 가능
+21	photography_services	Album Tutorial	사진앨범 제작 튜토리얼, 소비자 실검색
+22	automotive	Alignment Handbook	얼라인먼트 작업 핸드북으로 짐작 가능
+23	automotive	Alignment Tutorial	휠 얼라인먼트 튜토리얼, automotive 실검색
+24	finance	Amortization Handbook	분할상환 핸드북으로 짐작 가능
+25	finance	Amortization Tutorial	분할상환 계산 튜토리얼, finance 실무어
+26	insurance	Annuity Handbook	연금 운영 핸드북
+27	insurance	Annuity Timetable	연금 지급 일정 관리 도구
+28	insurance	Annuity Tutorial	연금 상품 안내 튜토리얼
+29	recruiting	Applicant Handbook	지원자 핸드북으로 짐작 가능
+30	recruiting	Applicant Tutorial	채용 지원 절차 튜토리얼, recruiting 실용어
+31	insurance	Application Handbook	보험 가입 신청 핸드북으로 짐작 가능
+32	insurance	Application Tutorial	보험 가입 신청 절차 튜토리얼, 실무 용어
+33	travel_tourism	Aquarium Handbook	수족관 안내 핸드북으로 짐작 가능
+34	travel_tourism	Aquarium Tutorial	수족관 방문·관리 튜토리얼, 소비자 실검색
+35	insurance	Arbitration Handbook	분쟁 중재 핸드북으로 짐작 가능
+36	insurance	Arbitration Tutorial	분쟁 중재 절차 튜토리얼, insurance 실무어
+37	funeral_services	Arrangement Handbook	장례 준비 핸드북으로 짐작 가능
+38	funeral_services	Arrangement Tutorial	장례 준비 튜토리얼, funeral 실검색
+39	manufacturing	Assembly Handbook	조립 작업 핸드북으로 짐작 가능
+40	manufacturing	Assembly Tutorial	조립 작업 튜토리얼, manufacturing 실무어
+41	events	Attendee Handbook	행사 참가자 핸드북으로 짐작 가능
+42	events	Attendee Tutorial	행사 참가자 관리 튜토리얼, events 실용어
+43	property_management_services	Attic Handbook	다락방 활용 핸드북으로 짐작 가능
+44	property_management_services	Attic Tutorial	다락방 활용 튜토리얼, 홈개선 실검색
+45	hr_payroll	Attrition Handbook	이직률 관리 핸드북으로 짐작 가능
+46	hr_payroll	Attrition Tutorial	이직률 관리 튜토리얼, HR 실용어
+47	marketing	Audience Handbook	오디언스 분석 핸드북으로 짐작 가능
+48	marketing	Audience Tutorial	오디언스 분석 튜토리얼, marketing 실무어
+49	healthcare	Auscultation Handbook	청진 학습 핸드북으로 짐작 가능
+50	healthcare	Auscultation Timetable	청진 실습 일정표로 짐작 가능
+51	healthcare	Auscultation Tutorial	청진 학습 튜토리얼, 의료 교육 실검색
+52	childcare	Babysitter Handbook	베이비시터 육아 핸드북으로 짐작 가능
+53	childcare	Babysitter Tutorial	베이비시터 육아 튜토리얼, 소비자 실검색
+54	photography_services	Backdrop Handbook	촬영 배경막 핸드북으로 짐작 가능
+55	photography_services	Backdrop Tutorial	촬영 배경막 설치 튜토리얼, photography 실검색
+56	plumbing_services	Backflow Flyer	역류 방지 업체 홍보 전단
+57	plumbing_services	Backflow Handbook	역류 방지 시공 핸드북
+58	plumbing_services	Backflow Timetable	역류 방지 검사 일정표
+59	plumbing_services	Backflow Tutorial	역류 방지 시공 튜토리얼
+60	travel_tourism	Backpacker Assistant	배낭여행 계획 보조 도구
+61	travel_tourism	Backpacker Atlas	배낭여행 코스 아틀라스 도구
+62	travel_tourism	Backpacker Checkin	투어 당일 체크인으로 짐작 가능
+63	travel_tourism	Backpacker Claim	투어 사고 클레임 처리로 짐작 가능
+64	travel_tourism	Backpacker Companion	배낭여행 동반 앱
+65	travel_tourism	Backpacker Engine	배낭여행 예약 엔진
+66	travel_tourism	Backpacker Followup	투어 사후 안내로 짐작 가능
+67	travel_tourism	Backpacker Handbook	여행 핸드북으로 짐작 가능
+68	travel_tourism	Backpacker Keeper	배낭여행 일정·기록 보관 도구
+69	travel_tourism	Backpacker Manager	배낭여행 숙소·투어 관리 도구
+70	travel_tourism	Backpacker Monitor	배낭여행 일정·예산 추적 도구
+71	travel_tourism	Backpacker Onboarding	투어 사전 안내로 짐작 가능
+72	travel_tourism	Backpacker Ops	배낭여행 서비스 운영 도구
+73	travel_tourism	Backpacker Planner	배낭여행 일정 플래너
+74	travel_tourism	Backpacker Playbook	배낭여행 운영 플레이북
+75	travel_tourism	Backpacker Questionnaire	투어 선호 설문 관리로 짐작 가능
+76	travel_tourism	Backpacker Register	배낭여행 기록 등록부 도구
+77	travel_tourism	Backpacker Scheduler	배낭여행 일정 스케줄러
+78	travel_tourism	Backpacker Tutorial	배낭여행 준비 튜토리얼, 소비자 실검색
+79	pool_maintenance_services	Backwash Handbook	역세척 절차 핸드북으로 짐작 가능
+80	pool_maintenance_services	Backwash Tutorial	수영장 필터 역세척 튜토리얼, DIY 실검색
+81	food_service	Bagel Account	베이글 가게 고객 계정 관리 도구
+82	food_service	Bagel Calculator	원가·발효 계산기 도구로 짐작 가능
+83	food_service	Bagel Estimator	원가 계산 도구로 짐작 가능
+84	food_service	Bagel Guide	베이글 맛집 가이드 도구
+85	food_service	Bagel Manual	제빵 매뉴얼로 짐작 가능
+86	food_service	Bagel Message	주문 메시지 관리로 짐작 가능
+87	food_service	Bagel Notification	주문 알림 발송으로 짐작 가능
+88	food_service	Bagel Rating	베이글 가게 평점 도구
+89	food_service	Bagel Reply	베이글 가게 리뷰 답글 도구
+90	food_service	Bagel Template	베이글 가게 서식·메뉴 템플릿 도구
+91	food_service	Bagel Timer	발효 타이머 도구로 짐작 가능
+92	food_service	Bakery Bill	계산서 발행으로 짐작 가능
+93	food_service	Bakery Confirmation	주문 확인 관리로 짐작 가능
+94	food_service	Bakery Diagram	베이커리 주방 배치도 도구
+95	food_service	Bakery Graph	베이커리 운영 지표 그래프 도구
+96	food_service	Bakery Label	베이커리 제품 라벨 인쇄 도구
+97	food_service	Bakery Manual	베이커리 운영 매뉴얼 도구
+98	food_service	Bakery Notification	빵 준비 완료 알림 도구
+99	food_service	Bakery Order	주문 관리로 짐작 가능
+100	food_service	Bakery Receipt	영수증 발행으로 짐작 가능
+101	food_service	Bakery Reminder	주문·재고 알림으로 짐작 가능
+102	food_service	Bakery Ticket	예약 티켓 관리로 짐작 가능
+103	food_service	Bakery Voucher	상품권 발행·관리로 짐작 가능
+104	food_service	Bakery Worksheet	베이커리 제작 워크시트 도구
+105	retail_ecommerce	Barcode Handbook	바코드 운영 핸드북
+106	retail_ecommerce	Barcode Tutorial	바코드 시스템 튜토리얼
+107	food_service	Barista Appointment	상담 예약 관리로 짐작 가능
+108	food_service	Barista Availability	예약 가능 조회로 짐작 가능
+109	food_service	Barista Checkin	예약 체크인으로 짐작 가능
+110	food_service	Barista Claim	클레임 처리로 짐작 가능
+111	food_service	Barista Deposit	원두 발주 입금으로 짐작 가능
+112	food_service	Barista Desk	바리스타 주문 접수 데스크
+113	food_service	Barista Diary	영업 일지로 짐작 가능
+114	food_service	Barista Feedback	고객 피드백 수집으로 짐작 가능
+115	food_service	Barista Flyer	바리스타 서비스·채용 홍보 전단
+116	food_service	Barista Gift	바리스타 팁·선물 전송 도구
+117	food_service	Barista Guide	커피 추출 가이드, 소비자 실검색
+118	food_service	Barista Handbook	바리스타 매뉴얼 핸드북
+119	food_service	Barista Hub	바리스타 업무 종합 허브 도구
+120	food_service	Barista Inventory	재고 관리로 짐작 가능
+121	food_service	Barista Invoice	원두 발주 청구서로 짐작 가능
+122	food_service	Barista Lookup	원두·제품 검색으로 짐작 가능
+123	food_service	Barista Newsletter	매장 소식 뉴스레터 발송으로 짐작 가능
+124	food_service	Barista Onboarding	직원 온보딩으로 짐작 가능
+125	food_service	Barista Payment	발주 결제 관리로 짐작 가능
+126	food_service	Barista Quote	원두 견적 발행으로 짐작 가능
+127	food_service	Barista Rating	커피 평점 후기로 짐작 가능
+128	food_service	Barista Refund	환불 관리로 짐작 가능
+129	food_service	Barista Renewal	원두 정기 구매 갱신으로 짐작 가능
+130	food_service	Barista Review	고객 후기 리뷰 수집으로 짐작 가능
+131	food_service	Barista Timetable	바리스타 근무 일정표 도구
+132	food_service	Barista Tournament	바리스타 대회 운영 도구
+133	food_service	Barista Tracker	바리스타 제조 진행 추적 도구
+134	food_service	Barista Tutorial	바리스타 교육 튜토리얼 도구
+135	food_service	Barista Video	카페 소개 영상으로 짐작 가능
+136	property_management_services	Basement Handbook	지하실 활용 핸드북으로 짐작 가능
+137	property_management_services	Basement Tutorial	지하실 활용 튜토리얼, 홈개선 실검색
+138	manufacturing	Batch Handbook	배치 생산 핸드북으로 짐작 가능
+139	manufacturing	Batch Tutorial	배치 생산 관리 튜토리얼, manufacturing 실무어
+140	automotive	Battery Handbook	배터리 교체 핸드북으로 짐작 가능
+141	automotive	Battery Tutorial	자동차 배터리 교체 튜토리얼, DIY 실검색
+142	travel_tourism	Beach Handbook	해변 여행 핸드북으로 짐작 가능
+143	travel_tourism	Beach Tutorial	해변 여행 계획 튜토리얼, 소비자 실검색
+144	travel_tourism	Beachfront Checkin	숙소 체크인으로 짐작 가능
+145	travel_tourism	Beachfront Claim	숙소 클레임 처리로 짐작 가능
+146	travel_tourism	Beachfront Console	해변 시설 운영 콘솔 도구
+147	travel_tourism	Beachfront Diary	숙소 운영 일지로 짐작 가능
+148	travel_tourism	Beachfront Followup	후속 안내 발송으로 짐작 가능
+149	travel_tourism	Beachfront Inventory	객실·물품 재고 관리로 짐작 가능
+150	travel_tourism	Beachfront Newsletter	숙소 소식 뉴스레터 발송으로 짐작 가능
+151	travel_tourism	Beachfront Onboarding	숙소 직원 온보딩으로 짐작 가능
+152	travel_tourism	Beachfront Payment	숙소 결제 관리로 짐작 가능
+153	travel_tourism	Beachfront Portal	해변 숙소 포털 도구
+154	travel_tourism	Beachfront Questionnaire	선호 설문 관리로 짐작 가능
+155	travel_tourism	Beachfront Refund	숙소 환불 관리로 짐작 가능
+156	travel_tourism	Beachfront Review	명소 후기 리뷰 수집으로 짐작 가능
+157	travel_tourism	Beachfront Route	해변 산책 코스 도구
+158	travel_tourism	Beachfront Station	해변 장비 대여소 운영 도구
+159	travel_tourism	Beachfront Trail	해변 트레일 코스 도구
+160	travel_tourism	Beachfront Video	숙소 소개 영상으로 짐작 가능
+161	music_lessons	Beat Handbook	비트 제작 핸드북으로 짐작 가능
+162	music_lessons	Beat Tutorial	비트 메이킹 튜토리얼, music 실검색
+163	locksmith_security_services	Biometric Handbook	생체인증 잠금 핸드북으로 짐작 가능
+164	locksmith_security_services	Biometric Tutorial	생체인증 잠금 설치 튜토리얼, security 실무어
+165	food_service	Bistro Appointment	식당 예약 관리로 짐작 가능
+166	food_service	Bistro Availability	매장 예약 가능 조회로 짐작 가능
+167	food_service	Bistro Beacon	비스트로 근거리 알림 도구
+168	food_service	Bistro Checkin	예약 체크인으로 짐작 가능
+169	food_service	Bistro Claim	고객 클레임 처리로 짐작 가능
+170	food_service	Bistro Compass	비스트로 탐색 나침반 도구
+171	food_service	Bistro Deposit	예약금 관리로 짐작 가능
+172	food_service	Bistro Diary	영업 일지로 짐작 가능
+173	food_service	Bistro Feedback	고객 피드백 수집으로 짐작 가능
+174	food_service	Bistro Followup	주문 후속 안내로 짐작 가능
+175	food_service	Bistro Handbook	비스트로 요리 핸드북으로 짐작 가능
+176	food_service	Bistro Inventory	재고 관리로 짐작 가능
+177	food_service	Bistro Invoice	계산서 발행으로 짐작 가능
+178	food_service	Bistro Lookup	매장 검색으로 짐작 가능
+179	food_service	Bistro Newsletter	매장 소식 뉴스레터 발송으로 짐작 가능
+180	food_service	Bistro Onboarding	직원 온보딩으로 짐작 가능
+181	food_service	Bistro Payment	결제 관리로 짐작 가능
+182	food_service	Bistro Point	비스트로 포인트 적립 도구
+183	food_service	Bistro Questionnaire	선호 설문 관리로 짐작 가능
+184	food_service	Bistro Quote	케이터링 견적 발행으로 짐작 가능
+185	food_service	Bistro Radar	주변 비스트로 탐색·비교 도구로 짐작 가능
+186	food_service	Bistro Refund	환불 관리로 짐작 가능
+187	food_service	Bistro Renewal	단골 멤버십 갱신으로 짐작 가능
+188	food_service	Bistro Review	고객 후기 리뷰 수집으로 짐작 가능
+189	food_service	Bistro Tutorial	비스트로 요리 튜토리얼로 짐작 가능, 소비자 실검색
+190	food_service	Bistro Vault	비스트로 레시피·문서 보관고 도구
+191	food_service	Bistro Video	식당 소개 영상으로 짐작 가능
+192	food_service	Bistro Watch	비스트로 빈자리 알림 도구
+193	dental	Bite Console	교합 분석 콘솔 도구
+194	dental	Bite Portal	교합 치료 환자 포털 도구
+195	construction	Blueprint Handbook	도면 해독 핸드북으로 짐작 가능
+196	construction	Blueprint Tutorial	도면 작성·해독 튜토리얼, construction 실무어
+197	travel_tourism	Boardwalk Checkin	입장 체크인으로 짐작 가능
+198	travel_tourism	Boardwalk Claim	고객 클레임 처리로 짐작 가능
+199	travel_tourism	Boardwalk Deposit	명소 예약금 관리로 짐작 가능
+200	travel_tourism	Boardwalk Diary	방문 일지로 짐작 가능
+201	travel_tourism	Boardwalk Followup	후속 안내 발송으로 짐작 가능
+202	travel_tourism	Boardwalk Inventory	기념품 재고 관리로 짐작 가능
+203	travel_tourism	Boardwalk Ledger	보드워크 상권 장부 도구
+204	travel_tourism	Boardwalk Map	해변 보드워크 상권 지도 도구
+205	travel_tourism	Boardwalk Newsletter	명소 소식 뉴스레터 발송으로 짐작 가능
+206	travel_tourism	Boardwalk Onboarding	직원 온보딩으로 짐작 가능
+207	travel_tourism	Boardwalk Payment	명소 결제 관리로 짐작 가능
+208	travel_tourism	Boardwalk Point	해변 상권 공동 포인트 적립 도구로 짐작 가능
+209	travel_tourism	Boardwalk Questionnaire	선호 설문 관리로 짐작 가능
+210	travel_tourism	Boardwalk Quote	명소 이용 견적 발행으로 짐작 가능
+211	travel_tourism	Boardwalk Refund	명소 환불 관리로 짐작 가능
+212	travel_tourism	Boardwalk Review	명소 후기 리뷰 수집으로 짐작 가능
+213	travel_tourism	Boardwalk Video	명소 소개 영상으로 짐작 가능
+214	wedding_planning_services	Bouquet Handbook	꽃다발 제작 핸드북으로 짐작 가능
+215	wedding_planning_services	Bouquet Tutorial	꽃다발 제작 튜토리얼, 웨딩 실검색
+216	automotive	Brake Handbook	브레이크 정비 핸드북으로 짐작 가능
+217	automotive	Brake Tutorial	브레이크 정비 튜토리얼, automotive 실검색
+218	dental	Breath Board	구취 치료 현황 보드 도구
+219	dental	Breath Lab	구취 검사 예약 도구
+220	dental	Breath Ledger	구취 관리 기록 장부 도구
+221	dental	Breath Station	구취 검사 스테이션 예약 도구
+222	healthcare	Breathing Handbook	호흡법 핸드북으로 짐작 가능
+223	healthcare	Breathing Tutorial	호흡법 튜토리얼, 소비자 실검색
+224	veterinary	Breed Flyer	브리더 홍보 전단 제작 도구
+225	veterinary	Breed Handbook	견종 선택 가이드 핸드북으로 짐작 가능
+226	veterinary	Breed Tutorial	견종 선택·번식 튜토리얼, 소비자 실검색
+227	media_publishing	Broadcast Flyer	방송 프로그램 홍보 전단 도구
+228	media_publishing	Broadcast Handbook	방송 운영 핸드북 도구
+229	media_publishing	Broadcast Opinion	방송 시청자 의견 수집 도구
+230	media_publishing	Broadcast Timetable	방송 편성 일정표
+231	media_publishing	Broadcast Tutorial	방송 진행 튜토리얼 도구
+232	food_service	Brunch Bill	계산서 발행으로 짐작 가능
+233	food_service	Brunch Calendar	예약·운영 일정 관리로 짐작 가능
+234	food_service	Brunch Card	멤버십 카드 관리로 짐작 가능
+235	food_service	Brunch Confirmation	예약 확정 관리로 짐작 가능
+236	food_service	Brunch Directory	단골·협력업체 디렉토리 관리로 짐작 가능
+237	food_service	Brunch Finder	매장 검색기로 짐작 가능
+238	food_service	Brunch Locator	매장 위치 검색기(store locator)로 짐작 가능
+239	food_service	Brunch Log	영업 일지로 짐작 가능
+240	food_service	Brunch Order	주문 관리로 짐작 가능
+241	food_service	Brunch Receipt	영수증 발행으로 짐작 가능
+242	food_service	Brunch Reminder	예약 리마인더 발송으로 짐작 가능
+243	food_service	Brunch Roster	직원 근무 명단 관리로 짐작 가능
+244	food_service	Brunch Ticket	예약 티켓 관리로 짐작 가능
+245	food_service	Brunch Voucher	이용권 바우처 발행으로 짐작 가능
+246	dental	Bruxism Check	이갈이 검진 도구
+247	dental	Bruxism File	이갈이 환자 파일 관리 도구
+248	dental	Bruxism Form	이갈이 문진 폼 도구
+249	dental	Bruxism Guarantor	보험 청구 보증인 관리로 짐작 가능
+250	dental	Bruxism Handbook	이갈이 관리 핸드북으로 짐작 가능
+251	dental	Bruxism History	이갈이 치료 이력 기록 도구
+252	dental	Bruxism Level	이갈이 중증도 단계 기록 도구
+253	dental	Bruxism Note	이갈이 진료 기록 노트
+254	dental	Bruxism Profile	이갈이 환자 프로파일 기록
+255	dental	Bruxism Rate	이갈이 빈도·재발률 분석 도구
+256	dental	Bruxism Score	이갈이 중증도 점수 도구
+257	dental	Bruxism Status	이갈이 치료 경과 추적 도구
+258	dental	Bruxism Timetable	이갈이 치료 일정표로 짐작 가능
+259	dental	Bruxism Tutorial	이갈이 관리 튜토리얼, 소비자 실검색
+260	dental	Bruxism Update	이갈이 치료 경과 업데이트 도구
+261	hospitality	Buffet Handbook	뷔페 운영 핸드북으로 짐작 가능
+262	hospitality	Buffet Tutorial	뷔페 운영 튜토리얼, hospitality 실무어
+263	real_estate	Buyer Handbook	주택 구매 핸드북으로 짐작 가능
+264	real_estate	Buyer Tutorial	주택 구매 튜토리얼, 소비자 실검색
+265	media_publishing	Byline Handbook	바이라인 작성 핸드북으로 짐작 가능
+266	media_publishing	Byline Tutorial	바이라인 작성법 튜토리얼, media 실무 콘텐츠
+267	food_service	Cafe Appointment	예약 관리로 짐작 가능
+268	food_service	Cafe Availability	재고·판매 가능 조회로 짐작 가능
+269	food_service	Cafe Calculator	원가 계산기 도구로 짐작 가능
+270	food_service	Cafe Checkin	카페 체크인·적립 도구
+271	food_service	Cafe Claim	카페 고객 클레임 관리 도구
+272	food_service	Cafe Deposit	입금 관리로 짐작 가능
+273	food_service	Cafe Diary	카페 운영 일지 도구
+274	food_service	Cafe Estimator	원가 추정기 도구로 짐작 가능
+275	food_service	Cafe Expense	카페 경비 관리 도구
+276	food_service	Cafe Feedback	고객 피드백 수집으로 짐작 가능
+277	food_service	Cafe Guide	카페 추천 가이드, 소비자 실검색
+278	food_service	Cafe Inventory	카페 재고 관리 도구
+279	food_service	Cafe Invoice	청구서 발행으로 짐작 가능
+280	food_service	Cafe Lookup	주문 조회 도구로 짐작 가능
+281	food_service	Cafe Manual	카페 운영 매뉴얼로 짐작 가능
+282	food_service	Cafe Message	주문 안내 메시지 발송으로 짐작 가능
+283	food_service	Cafe Newsletter	카페 뉴스레터 발송 도구
+284	food_service	Cafe Notification	주문 알림 발송으로 짐작 가능
+285	food_service	Cafe Onboarding	카페 직원 온보딩 도구
+286	food_service	Cafe Payment	결제 관리로 짐작 가능
+287	food_service	Cafe Quote	견적 발행으로 짐작 가능
+288	food_service	Cafe Rating	평점 후기로 짐작 가능
+289	food_service	Cafe Recipe	카페 음료 레시피 관리로 짐작 가능
+290	food_service	Cafe Refund	카페 환불 처리 도구
+291	food_service	Cafe Renewal	주문 갱신 관리로 짐작 가능
+292	food_service	Cafe Review	평점 후기로 짐작 가능
+293	food_service	Cafe Timer	추출 타이머 도구로 짐작 가능
+294	food_service	Cafe Video	카페 홍보 영상 제작 도구
+295	veterinary	Cage Handbook	케이지 관리 핸드북으로 짐작 가능
+296	veterinary	Cage Tutorial	케이지 설치·관리 튜토리얼, veterinary 실용어
+297	healthcare	Cannula Handbook	캐뉼라 취급 핸드북으로 짐작 가능
+298	healthcare	Cannula Tutorial	캐뉼라 취급 튜토리얼, 의료 실용어
+299	recruiting	Career Handbook	커리어 개발 핸드북으로 짐작 가능
+300	recruiting	Career Tutorial	커리어 개발 튜토리얼, 채용 실검색
+301	construction	Carpentry Flyer	목공 업체 홍보 전단 제작 도구
+302	construction	Carpentry Handbook	목공 핸드북으로 짐작 가능
+303	construction	Carpentry Tutorial	목공 튜토리얼, 소비자 실검색
+304	transportation	Carpool Handbook	카풀 운영 핸드북 도구
+305	transportation	Carpool Timetable	카풀 운행 일정표 도구
+306	transportation	Carpool Tutorial	카풀 이용 안내 튜토리얼 도구
+307	retail_ecommerce	Cart Handbook	장바구니 운영 핸드북으로 짐작 가능
+308	retail_ecommerce	Cart Tutorial	장바구니 운영 튜토리얼, ecommerce 실무어
+309	retail_ecommerce	Catalog Handbook	카탈로그 운영 핸드북
+310	retail_ecommerce	Catalog Timetable	상품 등록·갱신 일정표
+311	retail_ecommerce	Catalog Tutorial	상품 카탈로그 관리 튜토리얼
+312	healthcare	Catheter Handbook	카테터 관리 핸드북으로 짐작 가능
+313	healthcare	Catheter Tutorial	카테터 관리 튜토리얼, 의료 실용어
+314	dental	Cavity Handbook	충치 관리 핸드북으로 짐작 가능
+315	dental	Cavity Tutorial	충치 예방·치료 튜토리얼, 소비자 실검색
+316	music_lessons	Cello Handbook	첼로 학습 핸드북으로 짐작 가능
+317	music_lessons	Cello Timetable	레슨 일정표로 짐작 가능
+318	music_lessons	Cello Tutorial	첼로 학습 튜토리얼, 소비자 실검색
+319	car_wash_detailing_services	Ceramic Handbook	세라믹 코팅 핸드북으로 짐작 가능
+320	car_wash_detailing_services	Ceramic Tutorial	세라믹 코팅 시공 튜토리얼, 실검색
+321	wedding_planning_services	Ceremony Handbook	웨딩 의례 핸드북으로 짐작 가능
+322	wedding_planning_services	Ceremony Tutorial	웨딩 의례 진행 튜토리얼, wedding 실검색
+323	insurance	Certificate Handbook	보험 증명서 핸드북으로 짐작 가능
+324	insurance	Certificate Tutorial	보험 증명서 절차 튜토리얼, 실무 용어
+325	food_service	Chef Flyer	개인 셰프·요식 홍보 전단 제작 도구
+326	car_wash_detailing_services	Chip Handbook	페인트 칩 수리 핸드북으로 짐작 가능
+327	car_wash_detailing_services	Chip Tutorial	페인트 칩 수리 튜토리얼, DIY 실검색
+328	pool_maintenance_services	Chlorine Handbook	풀 염소 관리 핸드북으로 짐작 가능
+329	pool_maintenance_services	Chlorine Tutorial	풀 염소 관리 튜토리얼, pool 실무어
+330	music_lessons	Choir Handbook	합창 핸드북으로 짐작 가능
+331	music_lessons	Choir Tutorial	합창 연습 튜토리얼, music 실검색
+332	childcare	Chore Flyer	집안일 프로그램 홍보 전단 도구
+333	childcare	Chore Gift	집안일 리워드 선물 관리 도구
+334	childcare	Chore Handbook	집안일 지도 핸드북 제공 도구
+335	childcare	Chore Timetable	아동 집안일 일정표 도구
+336	childcare	Chore Tournament	집안일 챌린지 대회 도구
+337	childcare	Chore Tutorial	아동 집안일 지도 튜토리얼 콘텐츠 도구
+338	insurance	Claimant Handbook	보험 청구 절차 핸드북으로 짐작 가능
+339	insurance	Claimant Timetable	청구 처리 일정표로 짐작 가능
+340	insurance	Claimant Tutorial	보험 청구 절차 튜토리얼, 보험 실무 용어
+341	plumbing_services	Clog Handbook	배수 막힘 해결 핸드북으로 짐작 가능
+342	plumbing_services	Clog Tutorial	배수 막힘 해결 튜토리얼, plumbing 실검색
+343	it_devops	Cloud Flyer	클라우드 서비스 홍보 전단 도구
+344	it_devops	Cloud Handbook	클라우드 기초 핸드북으로 짐작 가능
+345	it_devops	Cloud Timetable	클라우드 마이그레이션·작업 일정 도구
+346	it_devops	Cloud Tournament	클라우드 해커톤·대회 운영 도구
+347	it_devops	Cloud Tutorial	클라우드 기초 학습 튜토리얼, 소비자·실무 실검색
+348	food_service	Cocktail Appointment	테이스팅 예약 관리로 짐작 가능
+349	food_service	Cocktail Approval	칵테일 레시피 승인 워크플로 도구로 짐작 가능
+350	food_service	Cocktail Availability	예약 가능 조회로 짐작 가능
+351	food_service	Cocktail Claim	클레임 처리로 짐작 가능
+352	food_service	Cocktail Deposit	예약금 관리로 짐작 가능
+353	food_service	Cocktail Evaluation	칵테일 품질·레시피 평가 도구
+354	food_service	Cocktail Feedback	후기 피드백 수집으로 짐작 가능
+355	food_service	Cocktail Guide	칵테일 레시피 가이드, 소비자 실검색
+356	food_service	Cocktail Handbook	칵테일 제조 핸드북
+357	food_service	Cocktail Inventory	재료 재고 관리로 짐작 가능
+358	food_service	Cocktail Invoice	청구서 발행으로 짐작 가능
+359	food_service	Cocktail Lookup	레시피 검색으로 짐작 가능
+360	food_service	Cocktail Newsletter	칵테일 소식 뉴스레터 발송으로 짐작 가능
+361	food_service	Cocktail Payment	주문 결제 관리로 짐작 가능
+362	food_service	Cocktail Questionnaire	칵테일 취향 설문 도구
+363	food_service	Cocktail Quote	케이터링 견적 발행으로 짐작 가능
+364	food_service	Cocktail Rating	칵테일 평점 후기로 짐작 가능
+365	food_service	Cocktail Refund	환불 관리로 짐작 가능
+366	food_service	Cocktail Renewal	정기 구독 갱신으로 짐작 가능
+367	food_service	Cocktail Review	고객 후기 리뷰 수집으로 짐작 가능
+368	food_service	Cocktail Timetable	바 근무·제조 일정표
+369	food_service	Cocktail Tutorial	칵테일 제조 튜토리얼
+370	food_service	Cocktail Utilization	바 재고 사용률 분석 도구
+371	food_service	Cocktail Video	칵테일 레시피 영상 관리로 짐작 가능
+372	education	Cohort Handbook	코호트 과정 운영 핸드북
+373	education	Cohort Timetable	코호트 과정 일정표
+374	education	Cohort Tutorial	코호트 과정 운영 튜토리얼
+375	insurance	Coinsurance Flyer	공동보험 안내 전단 제작 도구
+376	insurance	Coinsurance Handbook	공제부담률 안내 핸드북으로 짐작 가능
+377	insurance	Coinsurance Tutorial	공제부담률 이해 튜토리얼, insurance 실무어
+378	media_publishing	Column Handbook	칼럼 작성 핸드북으로 짐작 가능
+379	media_publishing	Column Tutorial	칼럼 작성 튜토리얼, media 실무어
+380	transportation	Commute Handbook	출퇴근 핸드북으로 짐작 가능
+381	transportation	Commute Tutorial	출퇴근 경로 튜토리얼, 소비자 실검색
+382	healthcare	Comorbidity Handbook	동반질환 관리 핸드북으로 짐작 가능
+383	healthcare	Comorbidity Tutorial	동반질환 관리 튜토리얼, 의료 실용어
+384	hvac_services	Condenser Handbook	콘덴서 정비 핸드북으로 짐작 가능
+385	hvac_services	Condenser Tutorial	콘덴서 정비 튜토리얼, HVAC 실무어
+386	logistics	Consignment Handbook	위탁 운송 핸드북으로 짐작 가능
+387	logistics	Consignment Tutorial	위탁 운송 절차 튜토리얼, 물류 실무 용어
+388	construction	Countertop Handbook	조리대 시공 핸드북
+389	construction	Countertop Timetable	조리대 시공 일정표
+390	construction	Countertop Tutorial	조리대 시공 튜토리얼
+391	plumbing_services	Coupling Handbook	배관 이음쇠 핸드북으로 짐작 가능
+392	plumbing_services	Coupling Tutorial	배관 이음쇠 설치 튜토리얼, plumbing 실무어
+393	logistics	Courier Tutorial	택배 배송 절차 튜토리얼
+394	property_management_services	Courtyard Handbook	코트야드 숙소 핸드북으로 짐작 가능
+395	property_management_services	Courtyard Tutorial	코트야드 숙소 정보 튜토리얼, 실검색
+396	moving_relocation_services	Crate Handbook	크레이트 포장 핸드북으로 짐작 가능
+397	moving_relocation_services	Crate Tutorial	크레이트 포장·훈련 튜토리얼, 실검색
+398	funeral_services	Cremation Handbook	화장 절차 핸드북으로 짐작 가능
+399	funeral_services	Cremation Tutorial	화장 절차 안내 튜토리얼, funeral 실무어
+400	hvac_services	Damper Handbook	댐퍼 정비 핸드북으로 짐작 가능
+401	hvac_services	Damper Tutorial	댐퍼 정비 튜토리얼, HVAC 실용어
+402	it_devops	Database Handbook	데이터베이스 핸드북으로 짐작 가능
+403	it_devops	Database Tutorial	데이터베이스 구축 튜토리얼, IT 실검색
+404	childcare	Daycare Handbook	데이케어 안내 핸드북으로 짐작 가능
+405	childcare	Daycare Timetable	보육 일과표로 짐작 가능
+406	childcare	Daycare Tutorial	데이케어 이용 정보 튜토리얼, 소비자 실검색
+407	travel_tourism	Daytrip Calendar	당일치기 일정으로 짐작 가능
+408	travel_tourism	Daytrip Card	당일여행 스탬프 카드 도구
+409	travel_tourism	Daytrip Check	당일여행 준비 점검 도구
+410	travel_tourism	Daytrip Directory	당일치기 코스 목록 디렉토리로 짐작 가능
+411	travel_tourism	Daytrip Finder	당일치기 코스 검색 도구로 짐작 가능
+412	travel_tourism	Daytrip Followup	투어 사후 안내·후속 관리로 짐작 가능
+413	travel_tourism	Daytrip Form	당일여행 신청 폼 도구
+414	travel_tourism	Daytrip Handbook	당일여행 안내 핸드북으로 짐작 가능
+415	travel_tourism	Daytrip Journal	당일치기 여행 일지로 짐작 가능
+416	travel_tourism	Daytrip Locator	당일치기 코스 검색 도구로 짐작 가능
+417	travel_tourism	Daytrip Log	당일여행 기록지 도구
+418	travel_tourism	Daytrip Passport	당일여행 스탬프·패스 도구로 짐작 가능
+419	travel_tourism	Daytrip Planner	당일치기 여행 계획 도구로 짐작 가능
+420	travel_tourism	Daytrip Playbook	당일치기 여행 플레이북으로 짐작 가능
+421	travel_tourism	Daytrip Questionnaire	투어 선호 설문 관리로 짐작 가능
+422	travel_tourism	Daytrip Report	당일여행 일정 리포트 도구
+423	travel_tourism	Daytrip Scheduler	당일치기 일정 도구로 짐작 가능
+424	travel_tourism	Daytrip Timetable	여행 일정표로 짐작 가능
+425	travel_tourism	Daytrip Tutorial	당일여행 계획 튜토리얼, 소비자 실검색
+426	insurance	Declarations Handbook	보험 증권 요약 핸드북으로 짐작 가능
+427	insurance	Declarations Tutorial	보험 증권 요약 이해 튜토리얼, insurance 실무어
+428	wedding_planning_services	Decor Handbook	웨딩 장식 핸드북
+429	wedding_planning_services	Decor Timetable	웨딩 장식 일정표
+430	wedding_planning_services	Decor Tutorial	웨딩 장식 튜토리얼
+431	real_estate	Deed Tutorial	소유권 이전 절차 튜토리얼
+432	food_service	Deli Alert	델리 주문 준비 알림 도구
+433	food_service	Deli Bin	델리 재고 관리 도구
+434	food_service	Deli Calendar	영업·주문 일정 관리로 짐작 가능
+435	food_service	Deli Chart	델리 매출 차트 도구
+436	food_service	Deli Directory	델리 업체 목록 디렉토리로 짐작 가능
+437	food_service	Deli Finder	델리 가게 검색 도구로 짐작 가능
+438	food_service	Deli Followup	주문 후속 관리로 짐작 가능
+439	food_service	Deli Form	델리 발주 폼 도구
+440	food_service	Deli Handbook	델리 운영 핸드북으로 짐작 가능
+441	food_service	Deli Journal	델리 운영 일지로 짐작 가능
+442	food_service	Deli Locator	델리 가게 검색 도구로 짐작 가능
+443	food_service	Deli Log	델리 운영 기록지 도구
+444	food_service	Deli Passport	델리 스탬프 패스 도구
+445	food_service	Deli Playbook	델리 운영 플레이북으로 짐작 가능
+446	food_service	Deli Post	델리 SNS·게시물 관리 도구로 짐작 가능
+447	food_service	Deli Questionnaire	고객 선호 설문 관리로 짐작 가능
+448	food_service	Deli Report	델리 매출 리포트 도구
+449	food_service	Deli Roster	델리 직원 근무표 도구
+450	food_service	Deli Tutorial	델리 운영 튜토리얼, 소비자 실검색
+451	energy_utilities	Demand Handbook	수요 관리 핸드북으로 짐작 가능
+452	energy_utilities	Demand Tutorial	수요 관리 튜토리얼, energy 실무어
+453	dental	Dentist Assistant	치과 진료 보조 도구
+454	dental	Dentist Atlas	치과 지도·디렉터리 도구
+455	dental	Dentist Checkin	환자 접수 체크인으로 짐작 가능
+456	dental	Dentist Claim	치과 보험 청구 관리로 짐작 가능
+457	dental	Dentist Companion	치과 환자 동반 앱
+458	dental	Dentist Engine	치과 예약 엔진
+459	dental	Dentist Followup	치과 후속 관리 안내로 짐작 가능
+460	dental	Dentist Handbook	치과 안내 핸드북으로 짐작 가능
+461	dental	Dentist Inventory	치과 재고 관리로 짐작 가능
+462	dental	Dentist Keeper	치과 기록 보관 도구
+463	dental	Dentist Manager	치과 진료 관리 도구
+464	dental	Dentist Monitor	치과 경과 모니터링 도구
+465	dental	Dentist Onboarding	신규 환자 온보딩으로 짐작 가능
+466	dental	Dentist Planner	치과 일정 플래너
+467	dental	Dentist Questionnaire	치과 문진표 관리로 짐작 가능
+468	dental	Dentist Register	치과 케이스 등록부 도구
+469	dental	Dentist Scheduler	치과 예약 스케줄러
+470	dental	Dentist Timetable	진료 예약 일정표로 짐작 가능
+471	dental	Dentist Tutorial	치과 치료 정보 튜토리얼, 소비자 실검색
+472	it_devops	Deployment Flyer	배포 서비스 홍보 전단 도구
+473	it_devops	Deployment Handbook	배포 절차 핸드북 도구
+474	it_devops	Deployment Timetable	배포 일정표 도구
+475	it_devops	Deployment Tutorial	배포 절차 튜토리얼 도구
+476	legal	Deposition Handbook	증언 준비 핸드북으로 짐작 가능
+477	legal	Deposition Tutorial	증언 조사 준비 튜토리얼, legal 실무어
+478	travel_tourism	Desert Bill	사막 투어 청구 도구
+479	travel_tourism	Desert Calendar	투어 예약 일정으로 짐작 가능
+480	travel_tourism	Desert Directory	사막 투어 목록 디렉토리로 짐작 가능
+481	travel_tourism	Desert Estimate	사막 투어 비용 견적 도구
+482	travel_tourism	Desert Feed	사막 투어 소식 피드
+483	travel_tourism	Desert Finder	투어 검색 도구로 짐작 가능
+484	travel_tourism	Desert Index	사막 투어 코스 색인 도구
+485	travel_tourism	Desert Journal	여행 방문 일지로 짐작 가능
+486	travel_tourism	Desert Locator	투어 검색 도구로 짐작 가능
+487	travel_tourism	Desert Order	사막 투어 예약 관리 도구
+488	travel_tourism	Desert Planner	투어·여행 계획 도구로 짐작 가능
+489	travel_tourism	Desert Playbook	사막 투어 운영 플레이북으로 짐작 가능
+490	travel_tourism	Desert Rate	사막 투어 요금 관리 도구
+491	travel_tourism	Desert Receipt	사막 투어 영수증 관리 도구
+492	travel_tourism	Desert Reminder	사막 투어 일정 알림 도구
+493	travel_tourism	Desert Scheduler	투어 예약 일정 도구로 짐작 가능
+494	travel_tourism	Desert Ticket	사막 투어 티켓 판매 도구
+495	travel_tourism	Desert Timeline	사막 투어 일정 타임라인 도구
+496	travel_tourism	Desert Update	사막 투어 상황 업데이트 도구
+497	food_service	Dessert Bill	디저트 계산서 도구
+498	food_service	Dessert Directory	디저트 전문점 디렉토리로 짐작 가능
+499	food_service	Dessert Estimate	디저트 원가 견적 도구
+500	food_service	Dessert Finder	디저트 전문점 검색 도구로 짐작 가능
+501	food_service	Dessert Journal	디저트 제작 일지로 짐작 가능
+502	food_service	Dessert Locator	디저트 전문점 검색 도구로 짐작 가능
+503	food_service	Dessert Order	디저트 주문 관리 도구
+504	food_service	Dessert Playbook	디저트 제조 플레이북으로 짐작 가능
+505	food_service	Dessert Receipt	디저트 영수증 관리 도구
+506	food_service	Dessert Reminder	디저트 픽업 알림 도구
+507	food_service	Dessert Ticket	디저트 픽업 티켓 도구
+508	food_service	Dessert Timeline	디저트 제작 준비 일정 타임라인 도구
+509	car_wash_detailing_services	Detailing Handbook	자동차 디테일링 핸드북으로 짐작 가능
+510	car_wash_detailing_services	Detailing Timetable	디테일링 예약 일정표로 짐작 가능
+511	car_wash_detailing_services	Detailing Tutorial	자동차 디테일링 튜토리얼, DIY 실검색
+512	food_service	Diner Appointment	예약 관리로 짐작 가능
+513	food_service	Diner Approval	다이너 주문·할인 승인 워크플로
+514	food_service	Diner Availability	예약 가능 조회로 짐작 가능
+515	food_service	Diner Checkin	손님 체크인으로 짐작 가능
+516	food_service	Diner Claim	클레임 처리로 짐작 가능
+517	food_service	Diner Deposit	예약금 관리로 짐작 가능
+518	food_service	Diner Depreciation	다이너 주방 장비 감가상각 관리 도구
+519	food_service	Diner Diary	식당 영업 일지로 짐작 가능
+520	food_service	Diner Estimator	메뉴 원가 추정기로 짐작 가능
+521	food_service	Diner Evaluation	다이너 고객 평가 수집 도구
+522	food_service	Diner Feedback	고객 피드백 수집으로 짐작 가능
+523	food_service	Diner Followup	다이너 고객 후속 연락 도구
+524	food_service	Diner Guide	식당 가이드, 소비자 실검색
+525	food_service	Diner Inventory	재고 관리로 짐작 가능
+526	food_service	Diner Invoice	청구서 발행으로 짐작 가능
+527	food_service	Diner Lookup	매장 검색으로 짐작 가능
+528	food_service	Diner Newsletter	매장 소식 뉴스레터 발송으로 짐작 가능
+529	food_service	Diner Onboarding	직원 온보딩으로 짐작 가능
+530	food_service	Diner Payment	주문 결제 관리로 짐작 가능
+531	food_service	Diner Questionnaire	다이너 만족도 설문 도구
+532	food_service	Diner Quote	견적 발행으로 짐작 가능
+533	food_service	Diner Rating	식당 평점 후기로 짐작 가능
+534	food_service	Diner Reception	다이너 예약 접수 관리 도구
+535	food_service	Diner Refund	환불 관리로 짐작 가능
+536	food_service	Diner Renewal	멤버십 갱신 관리로 짐작 가능
+537	food_service	Diner Review	고객 후기 리뷰 수집으로 짐작 가능
+538	food_service	Diner Timer	주방 조리 타이머로 짐작 가능
+539	food_service	Diner Utilization	다이너 좌석·재료 사용률 분석 도구
+540	food_service	Diner Video	식당 소개 영상으로 짐작 가능
+541	education	Dissertation Flyer	논문 관련 서비스 홍보 전단 도구
+542	education	Dissertation Handbook	논문 작성 핸드북으로 짐작 가능
+543	education	Dissertation Retreat	논문 집중 작성 리트리트 기획·예약 도구로 짐작 가능
+544	education	Dissertation Tutorial	학위논문 작성법 튜토리얼, education 실검색
+545	legal	Docket Handbook	사건 진행 핸드북으로 짐작 가능
+546	legal	Docket Tutorial	사건 진행 관리 튜토리얼, legal 실무어
+547	nonprofit	Donation Flyer	기부 캠페인 홍보 전단 도구
+548	nonprofit	Donation Handbook	기부 운영 핸드북 도구
+549	nonprofit	Donation Opinion	기부자 의견 수집 도구
+550	nonprofit	Donation Timetable	기부 캠페인 일정표 도구
+551	nonprofit	Donation Tutorial	기부 절차 안내 튜토리얼
+552	nonprofit	Donor Handbook	기부자 안내 핸드북
+553	nonprofit	Donor Timetable	기부자 소통 일정표 도구
+554	nonprofit	Donor Tutorial	기부자 온보딩 튜토리얼
+555	food_service	Donut Appointment	픽업 예약 관리로 짐작 가능
+556	food_service	Donut Availability	재고·판매 가능 조회로 짐작 가능
+557	food_service	Donut Calculator	원가 계산기 도구로 짐작 가능
+558	food_service	Donut Certification	도넛 위생 인증 관리 도구
+559	food_service	Donut Deposit	도넛 예약 선입금·입금 관리 도구로 짐작 가능
+560	food_service	Donut Estimator	원가 추정기 도구로 짐작 가능
+561	food_service	Donut Expense	도넛 가게 경비 관리 도구
+562	food_service	Donut Feedback	고객 피드백 수집으로 짐작 가능
+563	food_service	Donut Guide	도넛 가게 추천 가이드, 소비자 실검색
+564	food_service	Donut Invoice	청구서 발행으로 짐작 가능
+565	food_service	Donut Lookup	도넛 가게 검색 도구로 짐작 가능
+566	food_service	Donut Manual	도넛 제조·운영 매뉴얼로 짐작 가능
+567	food_service	Donut Message	주문 안내 메시지 발송으로 짐작 가능
+568	food_service	Donut Notification	주문 알림 발송으로 짐작 가능
+569	food_service	Donut Payment	도넛 가게 결제 도구
+570	food_service	Donut Quote	견적 발행으로 짐작 가능
+571	food_service	Donut Rating	평점 후기로 짐작 가능
+572	food_service	Donut Recipe	도넛 레시피 관리 도구
+573	food_service	Donut Refund	도넛 가게 환불 처리 도구
+574	food_service	Donut Renewal	구독·단골 갱신 관리로 짐작 가능
+575	food_service	Donut Review	도넛 가게 리뷰 수집 도구
+576	food_service	Donut Timer	발효·튀김 타이머 도구로 짐작 가능
+577	healthcare	Dosage Handbook	복약 용량 핸드북 도구
+578	healthcare	Dosage Timetable	복약 시간표 도구
+579	healthcare	Dosage Tutorial	복약 용법 안내 튜토리얼 도구
+580	property_management_services	Driveway Handbook	진입로 관리 핸드북으로 짐작 가능
+581	property_management_services	Driveway Tutorial	진입로 관리·포장 튜토리얼, 소비자 실검색
+582	construction	Drywall Handbook	드라이월 시공 핸드북으로 짐작 가능
+583	construction	Drywall Tutorial	드라이월 시공 튜토리얼, construction 실검색
+584	locksmith_security_services	Duplication Handbook	키 복제 절차 핸드북으로 짐작 가능
+585	locksmith_security_services	Duplication Tutorial	키 복제 절차 튜토리얼, 잠금 실무 용어
+586	real_estate	Easement Handbook	지역권 핸드북으로 짐작 가능
+587	real_estate	Easement Tutorial	지역권 이해 튜토리얼, 부동산 실용어
+588	media_publishing	Editorial Flyer	매체 홍보 전단 도구
+589	media_publishing	Editorial Handbook	편집 운영 핸드북 도구
+590	media_publishing	Editorial Timetable	편집 일정표 도구
+591	media_publishing	Editorial Tutorial	편집 프로세스 튜토리얼
+592	government	Election Handbook	선거 안내 핸드북으로 짐작 가능
+593	government	Election Tutorial	선거 절차 튜토리얼, 소비자 실검색
+594	healthcare	Emergency Handbook	응급처치 핸드북으로 짐작 가능
+595	healthcare	Emergency Tutorial	응급처치 튜토리얼, 소비자 실검색
+596	automotive	Emission Flyer	배기가스 검사 안내 전단 제작 도구
+597	automotive	Emission Handbook	배출가스 검사 핸드북으로 짐작 가능
+598	automotive	Emission Tutorial	배출가스 검사·감소 튜토리얼, automotive 실검색
+599	dental	Enamel Handbook	치아 법랑질 관리 핸드북으로 짐작 가능
+600	dental	Enamel Tutorial	치아 법랑질 관리 튜토리얼, dental 실검색
+601	dental	Endodontics Bill	신경치료 청구 도구
+602	dental	Endodontics Code	신경치료 진료 코드 관리 도구
+603	dental	Endodontics Estimate	신경치료 비용 견적 도구
+604	dental	Endodontics Index	신경치료 케이스 색인 도구
+605	dental	Endodontics Order	신경치료 처방·지시 관리 도구
+606	dental	Endodontics Receipt	신경치료 영수증 관리 도구
+607	dental	Endodontics Reminder	신경치료 재방문 알림 도구
+608	dental	Endodontics Timeline	신경치료 경과 타임라인 도구
+609	cybersecurity	Endpoint Handbook	엔드포인트 보안 핸드북으로 짐작 가능
+610	cybersecurity	Endpoint Tutorial	엔드포인트 보안 튜토리얼, IT 실용어
+611	marketing	Engagement Flyer	참여 캠페인 홍보 전단 도구
+612	marketing	Engagement Handbook	고객 참여 플레이북 핸드북
+613	marketing	Engagement Timetable	참여 캠페인 일정표 도구
+614	marketing	Engagement Tutorial	고객 참여 전략 튜토리얼
+615	childcare	Enrollment Flyer	어린이집 모집 전단 제작 도구
+616	childcare	Enrollment Handbook	등록 절차 핸드북으로 짐작 가능
+617	childcare	Enrollment Tutorial	등록 절차 튜토리얼, 소비자 실검색
+618	customer_support	Escalation Handbook	에스컬레이션 핸드북으로 짐작 가능
+619	customer_support	Escalation Tutorial	고객 에스컬레이션 절차 튜토리얼, support 실용어
+620	food_service	Espresso Appointment	시음·클래스 예약 관리로 짐작 가능
+621	food_service	Espresso Availability	재고·판매 가능 조회로 짐작 가능
+622	food_service	Espresso Calculator	원가 계산기 도구로 짐작 가능
+623	food_service	Espresso Checkin	손님 체크인으로 짐작 가능
+624	food_service	Espresso Claim	클레임 처리로 짐작 가능
+625	food_service	Espresso Clock	에스프레소 추출 타이머 도구
+626	food_service	Espresso Deposit	입금 관리로 짐작 가능
+627	food_service	Espresso Diary	커피 취향 일지로 짐작 가능
+628	food_service	Espresso Estimator	원가 추정기 도구로 짐작 가능
+629	food_service	Espresso Feedback	고객 피드백 수집으로 짐작 가능
+630	food_service	Espresso Guide	에스프레소 추출·주문 가이드, 소비자 실검색
+631	food_service	Espresso Inventory	재고 관리로 짐작 가능
+632	food_service	Espresso Invoice	청구서 발행으로 짐작 가능
+633	food_service	Espresso Length	에스프레소 추출 시간 기록 도구로 짐작 가능
+634	food_service	Espresso Lookup	주문 조회 도구로 짐작 가능
+635	food_service	Espresso Manual	에스프레소 머신 취급 매뉴얼로 짐작 가능
+636	food_service	Espresso Message	주문 안내 메시지 발송으로 짐작 가능
+637	food_service	Espresso Newsletter	커피 소식 뉴스레터 발송으로 짐작 가능
+638	food_service	Espresso Notification	주문 알림 발송으로 짐작 가능
+639	food_service	Espresso Onboarding	직원 온보딩으로 짐작 가능
+640	food_service	Espresso Payment	결제 관리로 짐작 가능
+641	food_service	Espresso Quote	견적 발행으로 짐작 가능
+642	food_service	Espresso Rating	평점 후기로 짐작 가능
+643	food_service	Espresso Recipe	커피 레시피 관리로 짐작 가능, 소비자 실검색
+644	food_service	Espresso Refund	환불 처리로 짐작 가능
+645	food_service	Espresso Renewal	주문 갱신 관리로 짐작 가능
+646	food_service	Espresso Review	커피 평점 후기로 짐작 가능
+647	food_service	Espresso Timer	추출 타이머 도구로 짐작 가능
+648	food_service	Espresso Video	커피 제작 영상 콘텐츠로 짐작 가능
+649	food_service	Espresso Weight	에스프레소 투입량 기록 도구
+650	finance	Estate Handbook	상속·재산 핸드북으로 짐작 가능
+651	finance	Estate Tutorial	상속·재산 관리 튜토리얼, finance 실검색
+652	hvac_services	Evaporator Handbook	증발기 코일 핸드북으로 짐작 가능
+653	hvac_services	Evaporator Tutorial	증발기 코일 관리 튜토리얼, HVAC 실용어
+654	travel_tourism	Excursion Handbook	투어 안내 핸드북으로 짐작 가능
+655	travel_tourism	Excursion Tutorial	투어 계획 튜토리얼, 여행 실검색
+656	events	Exhibitor Handbook	전시 참가자 핸드북으로 짐작 가능
+657	events	Exhibitor Tutorial	전시 참가자 부스 운영 튜토리얼, events 실용어
+658	car_wash_detailing_services	Exterior Handbook	차량 외관 관리 핸드북으로 짐작 가능
+659	car_wash_detailing_services	Exterior Tutorial	차량 외관 관리 튜토리얼, DIY 실검색
+660	dental	Extraction Handbook	발치 안내 핸드북으로 짐작 가능
+661	dental	Extraction Tutorial	발치 정보 튜토리얼, dental 실검색
+662	plumbing_services	Faucet Handbook	수도꼭지 수리 핸드북으로 짐작 가능
+663	plumbing_services	Faucet Tutorial	수도꼭지 수리·설치 튜토리얼, 실검색
+664	travel_tourism	Festival Handbook	페스티벌 운영 핸드북으로 짐작 가능
+665	travel_tourism	Festival Timetable	페스티벌 일정표로 짐작 가능
+666	travel_tourism	Festival Tutorial	페스티벌 참가·운영 튜토리얼, 소비자 실검색
+667	legal	Filing Handbook	서류 제출 핸드북으로 짐작 가능
+668	legal	Filing Tutorial	법원 서류 제출 튜토리얼, 법률 실무 용어
+669	pool_maintenance_services	Filter Handbook	수영장 필터 관리 핸드북으로 짐작 가능
+670	pool_maintenance_services	Filter Tutorial	수영장 필터 관리 튜토리얼, DIY 실검색
+671	property_management_services	Fitness Handbook	운동 핸드북으로 짐작 가능
+672	property_management_services	Fitness Tutorial	운동 튜토리얼, 소비자 실검색
+673	plumbing_services	Fitting Handbook	배관 부속 핸드북으로 짐작 가능
+674	plumbing_services	Fitting Tutorial	배관 부속 설치 튜토리얼, DIY 실검색
+675	plumbing_services	Fixture Handbook	위생 설비 핸드북으로 짐작 가능
+676	plumbing_services	Fixture Tutorial	위생 설비 설치 튜토리얼, plumbing 실무어
+677	aviation	Flight Handbook	항공 이용 핸드북으로 짐작 가능
+678	aviation	Flight Tutorial	항공 이용·비행 튜토리얼, aviation 실무어
+679	dental	Floss Alert	치실 사용 시기 알림 도구
+680	dental	Floss Calendar	치실 습관 캘린더 도구
+681	dental	Floss Followup	불소 도포 후속 관리로 짐작 가능
+682	dental	Floss Handbook	치실 사용 핸드북으로 짐작 가능
+683	dental	Floss Journal	치실 사용 기록·환자 관리 저널 도구
+684	dental	Floss Post	치실 교육 콘텐츠 게시 도구
+685	dental	Floss Questionnaire	불소 도포 문진표 관리로 짐작 가능
+686	dental	Floss Registry	치실 기록 등부 도구
+687	dental	Floss Tutorial	치실 사용법 튜토리얼, 소비자 실검색
+688	hvac_services	Flue Handbook	굴뚝 연도 점검 핸드북으로 짐작 가능
+689	hvac_services	Flue Tutorial	굴뚝 연도 점검 튜토리얼, HVAC 실무어
+690	interpreter_translation_services	Fluency Handbook	언어 유창성 학습 핸드북으로 짐작 가능
+691	interpreter_translation_services	Fluency Tutorial	언어 유창성 학습 튜토리얼, 실검색
+692	dental	Fluoride Alert	불소 도포 시기 알림 도구
+693	dental	Fluoride Bin	불소 소모품 재고 관리 도구
+694	dental	Fluoride Chart	불소 도포 기록 차트 도구
+695	dental	Fluoride Followup	불소 도포 후속 관리로 짐작 가능
+696	dental	Fluoride Handbook	불소 도포 핸드북으로 짐작 가능
+697	dental	Fluoride Log	불소 도포 기록지 도구
+698	dental	Fluoride Passport	불소 도포 이력 수첩 도구
+699	dental	Fluoride Post	불소·구강 교육 콘텐츠 게시 도구
+700	dental	Fluoride Questionnaire	불소 도포 문진표 관리로 짐작 가능
+701	dental	Fluoride Report	불소 도포 시술 리포트
+702	dental	Fluoride Roster	불소 도포 일정·명단 관리 도구
+703	dental	Fluoride Timetable	불소 도포 일정표로 짐작 가능
+704	dental	Fluoride Tutorial	불소 도포 정보 튜토리얼, 소비자 실검색
+705	music_lessons	Flute Handbook	플루트 연주 핸드북으로 짐작 가능
+706	music_lessons	Flute Tutorial	플루트 연주 튜토리얼, music 실검색
+707	childcare	Formula Handbook	수유 안내 핸드북
+708	childcare	Formula Timetable	수유 시간표 도구
+709	childcare	Formula Tutorial	분유 수유 안내 튜토리얼
+710	pharmacy	Formulary Handbook	약제 목록 핸드북으로 짐작 가능
+711	pharmacy	Formulary Tutorial	약제 목록 관리 튜토리얼, pharmacy 실무어
+712	construction	Foundation Handbook	기초 공사 핸드북으로 짐작 가능
+713	construction	Foundation Tutorial	기초 시공 튜토리얼, construction 실검색
+714	construction	Framing Handbook	건축 골조 핸드북으로 짐작 가능
+715	construction	Framing Tutorial	건축 골조 시공 튜토리얼, DIY 실검색
+716	insurance	Fraud Handbook	보험 사기 판별 핸드북으로 짐작 가능
+717	insurance	Fraud Tutorial	보험 사기 판별 튜토리얼, 실무 용어
+718	hvac_services	Furnace Handbook	난방기 관리 핸드북으로 짐작 가능
+719	hvac_services	Furnace Timetable	난방 점검 일정표로 짐작 가능
+720	hvac_services	Furnace Tutorial	난방기 관리 튜토리얼, HVAC 실검색
+721	cleaning_services	Furniture Handbook	가구 관리·청소 핸드북으로 짐작 가능
+722	cleaning_services	Furniture Tutorial	가구 관리·청소 튜토리얼, cleaning 실검색
+723	property_management_services	Garage Handbook	차고 관리 핸드북으로 짐작 가능
+724	property_management_services	Garage Tutorial	차고 정비·관리 튜토리얼, 실검색
+725	property_management_services	Garden Handbook	정원 관리 핸드북으로 짐작 가능
+726	property_management_services	Garden Tutorial	정원 관리 튜토리얼, 홈가드닝 실검색
+727	pool_maintenance_services	Gasket Handbook	가스켓 교체 핸드북으로 짐작 가능
+728	pool_maintenance_services	Gasket Tutorial	수영장 필터 가스켓 교체 튜토리얼, 소비자 실검색
+729	pharmacy	Generic Handbook	제네릭 의약품 안내 핸드북으로 짐작 가능
+730	pharmacy	Generic Tutorial	제네릭 의약품 이해 튜토리얼, 의약품 실검색
+731	dental	Gingivitis Check	잇몸 검진 도구
+732	dental	Gingivitis Form	잇몸염 문진 폼 도구
+733	dental	Gingivitis Guarantor	보험 청구 보증인 관리로 짐작 가능
+734	dental	Gingivitis Handbook	치주염 관리 핸드북으로 짐작 가능
+735	dental	Gingivitis Log	잇몸염 치료 기록지 도구
+736	dental	Gingivitis Note	잇몸염 진료 기록 노트
+737	dental	Gingivitis Profile	잇몸염 환자 프로파일 기록
+738	dental	Gingivitis Questionnaire	치주 문진표 관리로 짐작 가능
+739	dental	Gingivitis Report	잇몸염 진료 리포트 도구
+740	dental	Gingivitis Score	잇몸염 중증도 점수 도구
+741	dental	Gingivitis Status	잇몸염 치료 경과 추적 도구
+742	dental	Gingivitis Timetable	치주 치료 일정표로 짐작 가능
+743	dental	Gingivitis Tutorial	치주염 관리 튜토리얼, 소비자 실검색
+744	travel_tourism	Glacier Alert	빙하 투어 안전 알림 도구
+745	travel_tourism	Glacier Calendar	빙하 투어 일정으로 짐작 가능
+746	travel_tourism	Glacier Chart	빙하 투어 정보 차트 도구
+747	travel_tourism	Glacier Directory	빙하 투어 목록 디렉토리로 짐작 가능
+748	travel_tourism	Glacier Finder	빙하 투어 검색 도구로 짐작 가능
+749	travel_tourism	Glacier Followup	투어 사후 안내·후속 관리로 짐작 가능
+750	travel_tourism	Glacier Handbook	빙하 투어 핸드북으로 짐작 가능
+751	travel_tourism	Glacier Journal	빙하 투어 일지로 짐작 가능
+752	travel_tourism	Glacier Kiosk	빙하 투어 체크인 키오스크 도구
+753	travel_tourism	Glacier Locator	빙하 투어 검색 도구로 짐작 가능
+754	travel_tourism	Glacier Passport	빙하 투어 스탬프 패스 도구
+755	travel_tourism	Glacier Playbook	빙하 투어 운영 플레이북으로 짐작 가능
+756	travel_tourism	Glacier Post	빙하 여행지 소식 게시 도구
+757	travel_tourism	Glacier Questionnaire	투어 선호 설문 관리로 짐작 가능
+758	travel_tourism	Glacier Roster	빙하 투어 인력 근무표 도구
+759	travel_tourism	Glacier Tutorial	빙하 투어 준비 튜토리얼, 소비자 실검색
+760	interpreter_translation_services	Glossary Handbook	용어집 작성 핸드북으로 짐작 가능
+761	interpreter_translation_services	Glossary Tutorial	용어집 작성 튜토리얼, translation 실무어
+762	nonprofit	Grant Handbook	보조금 신청 핸드북으로 짐작 가능
+763	nonprofit	Grant Tutorial	보조금 신청 튜토리얼, nonprofit 실검색
+764	agriculture	Grazing Handbook	방목 관리 핸드북으로 짐작 가능
+765	agriculture	Grazing Tutorial	방목 관리 튜토리얼, agriculture 실무어
+766	plumbing_services	Grout Handbook	줄눈 시공 핸드북으로 짐작 가능
+767	plumbing_services	Grout Tutorial	줄눈 시공 튜토리얼, plumbing DIY 실검색
+768	hospitality	Guest Handbook	게스트 응대 핸드북으로 짐작 가능
+769	hospitality	Guest Tutorial	게스트 응대 튜토리얼, hospitality 실무어
+770	music_lessons	Guitar Handbook	기타 학습 핸드북으로 짐작 가능
+771	music_lessons	Guitar Timetable	레슨 일정표로 짐작 가능
+772	music_lessons	Guitar Tutorial	기타 학습 튜토리얼, 소비자 실검색
+773	construction	Gutter Flyer	배수로 업체 홍보 전단 제작 도구
+774	construction	Gutter Handbook	홈통 청소 핸드북으로 짐작 가능
+775	construction	Gutter Tutorial	홈통 청소·설치 튜토리얼, 소비자 실검색
+776	salon_spa	Haircut Handbook	이발 방법 핸드북으로 짐작 가능
+777	salon_spa	Haircut Tutorial	이발 방법 튜토리얼, salon 실검색
+778	dental	Halitosis Feed	구취 치료 경과 피드
+779	dental	Halitosis File	구취 환자 파일 관리 도구
+780	dental	Halitosis Handbook	구취 관리 핸드북으로 짐작 가능
+781	dental	Halitosis History	구취 치료 이력 기록 도구
+782	dental	Halitosis Level	구취 중증도 단계 기록 도구
+783	dental	Halitosis Note	구취 진료 기록 노트 도구
+784	dental	Halitosis Profile	구취 환자 프로파일 기록
+785	dental	Halitosis Rate	구취 재발률 분석 도구
+786	dental	Halitosis Reminder	구취 치료 일정 알림 도구
+787	dental	Halitosis Status	구취 치료 경과 추적 도구
+788	dental	Halitosis Timeline	구취 치료 경과 타임라인
+789	dental	Halitosis Timetable	구취 관리 일정표로 짐작 가능
+790	dental	Halitosis Tutorial	구취 관리 튜토리얼, 소비자 실검색
+791	dental	Halitosis Update	구취 치료 경과 업데이트 도구
+792	music_lessons	Harmonica Flyer	하모니카 레슨 홍보 전단
+793	music_lessons	Harmonica Handbook	하모니카 학습 핸드북
+794	music_lessons	Harmonica Opinion	하모니카 리뷰 수집 도구
+795	music_lessons	Harmonica Timetable	하모니카 연습 일정표
+796	music_lessons	Harmonica Tutorial	하모니카 레슨 튜토리얼
+797	music_lessons	Harp Handbook	하프 학습 핸드북으로 짐작 가능
+798	music_lessons	Harp Timetable	레슨 일정표로 짐작 가능
+799	music_lessons	Harp Tutorial	하프 학습 튜토리얼, 소비자 실검색
+800	agriculture	Harvest Handbook	수확 운영 핸드북
+801	agriculture	Harvest Timetable	수확 작업 일정표
+802	agriculture	Harvest Tutorial	수확 기술 튜토리얼
+803	moving_relocation_services	Haul Handbook	화물 운반 핸드북으로 짐작 가능
+804	moving_relocation_services	Haul Tutorial	화물 운반 튜토리얼, moving 실무어
+805	hr_payroll	Headcount Handbook	인원 계획 핸드북으로 짐작 가능
+806	hr_payroll	Headcount Tutorial	인원 계획 튜토리얼, HR 실무어
+807	pool_maintenance_services	Heater Handbook	히터 관리 핸드북으로 짐작 가능
+808	pool_maintenance_services	Heater Tutorial	풀 히터 관리 튜토리얼, 실무어
+809	photography_services	Highlight Handbook	하이라이트 편집 핸드북으로 짐작 가능
+810	photography_services	Highlight Tutorial	사진 하이라이트 편집 튜토리얼, photography 실용어
+811	education	Homework Flyer	학습 지원 서비스 홍보 전단
+812	education	Homework Handbook	숙제 학습 핸드북
+813	education	Homework Timetable	숙제 일정표 도구
+814	education	Homework Tutorial	숙제 도움 튜토리얼
+815	telecom	Hotspot Handbook	핫스팟 구축 핸드북으로 짐작 가능
+816	telecom	Hotspot Tutorial	핫스팟 구축 튜토리얼, telecom 실검색
+817	healthcare	Hydration Flyer	수분 섭취 캠페인 전단 도구
+818	healthcare	Hydration Handbook	수분 섭취 핸드북으로 짐작 가능
+819	healthcare	Hydration Tournament	수분 섭취 챌린지 대회 운영 도구
+820	healthcare	Hydration Tutorial	수분 섭취 튜토리얼, 소비자 실검색
+821	dental	Hygienist Calendar	치위생 일정 캘린더 도구
+822	dental	Hygienist Companion	치위생사 업무 보조 앱
+823	dental	Hygienist Directory	치위생사 찾기 디렉터리
+824	dental	Hygienist Followup	도포 후속 관리로 짐작 가능
+825	dental	Hygienist Handbook	치위생 핸드북으로 짐작 가능
+826	dental	Hygienist Journal	치위생 업무 저널 도구
+827	dental	Hygienist Monitor	치위생사 근무·업무 모니터링 도구
+828	dental	Hygienist Ops	치위생 업무 운영 도구
+829	dental	Hygienist Playbook	치위생 업무 플레이북
+830	dental	Hygienist Questionnaire	도포 문진표 관리로 짐작 가능
+831	dental	Hygienist Register	치위생 업무 등록부 도구
+832	dental	Hygienist Timetable	치위생 예약 일정표로 짐작 가능
+833	dental	Hygienist Tutorial	치위생 실무 튜토리얼, dental 실용어
+834	interpreter_translation_services	Idiom Handbook	관용구 학습 핸드북
+835	interpreter_translation_services	Idiom Timetable	관용구 학습 일정표
+836	interpreter_translation_services	Idiom Tutorial	관용구 학습 튜토리얼
+837	hvac_services	Igniter Handbook	점화 장치 수리 핸드북
+838	hvac_services	Igniter Tutorial	점화 장치 수리 튜토리얼
+839	healthcare	Immunity Handbook	면역 관리 핸드북으로 짐작 가능
+840	healthcare	Immunity Tutorial	면역 정보 튜토리얼, 소비자 실검색
+841	nonprofit	Impact Handbook	임팩트 측정 핸드북으로 짐작 가능
+842	nonprofit	Impact Tutorial	임팩트 측정 튜토리얼, nonprofit 실무어
+843	childcare	Infant Handbook	영아 돌봄 핸드북으로 짐작 가능
+844	childcare	Infant Timetable	영아 수유·수면 일정표로 짐작 가능
+845	childcare	Infant Tutorial	영아 돌봄 튜토리얼, childcare 실검색
+846	pharmacy	Injection Tutorial	주사 시술 튜토리얼
+847	customer_support	Inquiry Flyer	문의 유도 전단 제작 도구
+848	customer_support	Inquiry Handbook	문의 처리 핸드북으로 짐작 가능
+849	customer_support	Inquiry Tutorial	문의 처리 방법 튜토리얼, customer_support 실무 콘텐츠
+850	finance	Insolvency Flyer	파산 법률 서비스 홍보 전단 도구
+851	finance	Insolvency Handbook	파산 절차 핸드북 도구
+852	finance	Insolvency Opinion	파산 법률 의견 관리 도구
+853	finance	Insolvency Timetable	파산 절차 일정표 도구
+854	finance	Insolvency Tutorial	파산 절차 안내 튜토리얼
+855	insurance	Insured Handbook	피보험자 절차 핸드북으로 짐작 가능
+856	insurance	Insured Timetable	보험 계약 일정표로 짐작 가능
+857	insurance	Insured Tutorial	피보험자 절차 튜토리얼, 보험 실무 용어
+858	pharmacy	Interaction Handbook	약물 상호작용 핸드북으로 짐작 가능
+859	pharmacy	Interaction Tutorial	약물 상호작용 정보 튜토리얼, 약학 실용어
+860	car_wash_detailing_services	Interior Handbook	차량 내장 관리 핸드북으로 짐작 가능
+861	car_wash_detailing_services	Interior Tutorial	차량 내장 관리 튜토리얼, 실검색
+862	healthcare	Intubation Handbook	삽관 시술 매뉴얼로 짐작 가능
+863	healthcare	Intubation Timetable	시술 일정표로 짐작 가능
+864	healthcare	Intubation Tutorial	삽관 시술 교육 튜토리얼, 의료 실검색
+865	insurance	Investigation Handbook	보험 조사 핸드북으로 짐작 가능
+866	insurance	Investigation Timetable	보험 조사 일정표로 짐작 가능
+867	insurance	Investigation Tutorial	보험 사고 조사 절차 튜토리얼, 실무 용어
+868	finance	Invoice Handbook	청구서 작성 핸드북으로 짐작 가능
+869	finance	Invoice Tutorial	청구서 작성 튜토리얼, finance 실검색
+870	recruiting	Job Handbook	구직 핸드북으로 짐작 가능
+871	recruiting	Job Tutorial	구직 준비 튜토리얼, 소비자 실검색
+872	healthcare	Jogging Handbook	조깅 가이드 핸드북으로 짐작 가능
+873	healthcare	Jogging Tutorial	조깅 시작 튜토리얼, 소비자 실검색
+874	maritime_shipping	Kayak Handbook	카약 안내 핸드북으로 짐작 가능
+875	maritime_shipping	Kayak Tutorial	카약 조종 튜토리얼, 소비자 실검색
+876	travel_tourism	Kayaking Appointment	투어 예약 관리로 짐작 가능
+877	travel_tourism	Kayaking Availability	투어 예약 가능 조회로 짐작 가능
+878	travel_tourism	Kayaking Checkin	투어 체크인으로 짐작 가능
+879	travel_tourism	Kayaking Claim	고객 클레임 처리로 짐작 가능
+880	travel_tourism	Kayaking Deposit	예약금 관리로 짐작 가능
+881	travel_tourism	Kayaking Depreciation	카약 자산 감가상각 관리 도구
+882	travel_tourism	Kayaking Diary	투어 방문 일지로 짐작 가능
+883	travel_tourism	Kayaking Feedback	투어 피드백 수집으로 짐작 가능
+884	travel_tourism	Kayaking Followup	투어 후속 안내로 짐작 가능
+885	travel_tourism	Kayaking Guide	카약 투어 가이드, 소비자 실검색
+886	travel_tourism	Kayaking Handbook	카약 안전 핸드북
+887	travel_tourism	Kayaking Hazard	카약 구간 위험 정보 도구
+888	travel_tourism	Kayaking Inventory	용품 재고 관리로 짐작 가능
+889	travel_tourism	Kayaking Invoice	투어 청구서 발행으로 짐작 가능
+890	travel_tourism	Kayaking Lookup	카약 투어 검색으로 짐작 가능
+891	travel_tourism	Kayaking Newsletter	투어 소식 뉴스레터 발송으로 짐작 가능
+892	travel_tourism	Kayaking Onboarding	직원 온보딩으로 짐작 가능
+893	travel_tourism	Kayaking Opinion	카약 투어 후기 수집 도구
+894	travel_tourism	Kayaking Payment	투어 결제 관리로 짐작 가능
+895	travel_tourism	Kayaking Questionnaire	투어 선호 설문으로 짐작 가능
+896	travel_tourism	Kayaking Quote	투어 견적 발행으로 짐작 가능
+897	travel_tourism	Kayaking Rating	카약 투어 평점으로 짐작 가능
+898	travel_tourism	Kayaking Refund	환불 관리로 짐작 가능
+899	travel_tourism	Kayaking Renewal	시즌권 갱신으로 짐작 가능
+900	travel_tourism	Kayaking Requirement	카약 투어 준비물·자격 요건 안내 도구
+901	travel_tourism	Kayaking Review	투어 후기 리뷰 수집으로 짐작 가능
+902	travel_tourism	Kayaking Timetable	카약 투어 일정표
+903	travel_tourism	Kayaking Tutorial	카약 강습 튜토리얼
+904	travel_tourism	Kayaking Utilization	카약 대여 자산 가동률 분석 도구
+905	travel_tourism	Kayaking Video	투어 소개 영상으로 짐작 가능
+906	veterinary	Kennel Handbook	반려견 켄넬 훈련 핸드북으로 짐작 가능
+907	veterinary	Kennel Tutorial	반려견 켄넬 훈련 튜토리얼, 소비자 실검색
+908	events	Keynote Handbook	기조연설 핸드북으로 짐작 가능
+909	events	Keynote Tutorial	기조연설 발표 준비 튜토리얼, events 실용어
+910	locksmith_security_services	Keyway Handbook	열쇠 홈 가공 핸드북으로 짐작 가능
+911	locksmith_security_services	Keyway Tutorial	열쇠 홈 가공 튜토리얼, locksmith 실무어
+912	cleaning_services	Kitchen Handbook	주방 청소 핸드북으로 짐작 가능
+913	cleaning_services	Kitchen Tutorial	주방 청소 관리 튜토리얼, 소비자 실검색
+914	travel_tourism	Lagoon Alert	라군 투어 안전 알림 도구
+915	travel_tourism	Lagoon Calendar	라군 투어 예약 일정 도구
+916	travel_tourism	Lagoon Chart	라군 투어 정보 차트
+917	travel_tourism	Lagoon Directory	라군 명소 디렉터리 도구
+918	travel_tourism	Lagoon Finder	라군 명소 검색 도구
+919	travel_tourism	Lagoon Followup	투어 사후 안내·후속 관리로 짐작 가능
+920	travel_tourism	Lagoon Handbook	라군 투어 핸드북으로 짐작 가능
+921	travel_tourism	Lagoon Journal	라군 투어 일지로 짐작 가능
+922	travel_tourism	Lagoon Kiosk	라군 투어 체크인 키오스크
+923	travel_tourism	Lagoon Locator	라군 명소 탐색 도구
+924	travel_tourism	Lagoon Planner	라군 투어 계획 도구로 짐작 가능
+925	travel_tourism	Lagoon Playbook	라군 투어 운영 플레이북으로 짐작 가능
+926	travel_tourism	Lagoon Post	라군 명소 소식 게시 도구
+927	travel_tourism	Lagoon Questionnaire	투어 선호 설문 관리로 짐작 가능
+928	travel_tourism	Lagoon Scheduler	라군 투어 일정 도구로 짐작 가능
+929	travel_tourism	Lagoon Tutorial	라군 투어 준비 튜토리얼, 소비자 실검색
+930	property_management_services	Landlord Handbook	임대인 운영 핸드북으로 짐작 가능
+931	property_management_services	Landlord Tutorial	임대인 운영 튜토리얼, 실검색
+932	food_service	Latte Appointment	시음·클래스 예약 관리로 짐작 가능
+933	food_service	Latte Availability	재고·판매 가능 조회로 짐작 가능
+934	food_service	Latte Calculator	음료 가격·원가 계산기로 짐작 가능
+935	food_service	Latte Checkin	손님 체크인으로 짐작 가능
+936	food_service	Latte Claim	클레임 처리로 짐작 가능
+937	food_service	Latte Condition	라테 머신 상태 점검 도구
+938	food_service	Latte Deposit	예약금 관리로 짐작 가능
+939	food_service	Latte Diary	카페 영업 일지로 짐작 가능
+940	food_service	Latte Estimator	음료 원가 추정기로 짐작 가능
+941	food_service	Latte Feedback	고객 피드백 수집으로 짐작 가능
+942	food_service	Latte Frequency	카페 고객 구매 빈도 분석 도구
+943	food_service	Latte Guide	라떼 종류·주문 가이드, 소비자 실검색
+944	food_service	Latte Inventory	재고 관리로 짐작 가능
+945	food_service	Latte Invoice	청구서 발행으로 짐작 가능
+946	food_service	Latte Lookup	검색으로 짐작 가능
+947	food_service	Latte Newsletter	카페 소식 뉴스레터 발송으로 짐작 가능
+948	food_service	Latte Onboarding	직원 온보딩으로 짐작 가능
+949	food_service	Latte Payment	주문 결제 관리로 짐작 가능
+950	food_service	Latte Quote	견적 발행으로 짐작 가능
+951	food_service	Latte Rating	평점 후기로 짐작 가능
+952	food_service	Latte Refund	환불 관리로 짐작 가능
+953	food_service	Latte Renewal	정기 구독 갱신으로 짐작 가능
+954	food_service	Latte Review	고객 후기 리뷰 수집으로 짐작 가능
+955	food_service	Latte Timer	에스프레소 추출 타이머로 짐작 가능
+956	food_service	Latte Usage	라테 재고·소비 추적 도구
+957	food_service	Latte Video	카페 소개 영상으로 짐작 가능
+958	property_management_services	Laundry Handbook	세탁 운영 핸드북으로 짐작 가능
+959	property_management_services	Laundry Tutorial	세탁실 운영 튜토리얼, 소비자 실검색
+960	property_management_services	Lease Handbook	임대차 핸드북으로 짐작 가능
+961	property_management_services	Lease Tutorial	임대차 계약 튜토리얼, 부동산 실검색
+962	veterinary	Leash Handbook	목줄 훈련 핸드북으로 짐작 가능
+963	veterinary	Leash Tutorial	반려견 목줄 훈련 튜토리얼, 실검색
+964	locksmith_security_services	Lever Handbook	레버 잠금장치 핸드북으로 짐작 가능
+965	locksmith_security_services	Lever Tutorial	레버 잠금장치 튜토리얼, locksmith 실무어
+966	media_publishing	Licensing Handbook	라이선싱 핸드북으로 짐작 가능
+967	media_publishing	Licensing Tutorial	라이선싱 실무 튜토리얼, 출판 실용어
+968	veterinary	Litter Handbook	고양이 모래 사용 핸드북으로 짐작 가능
+969	veterinary	Litter Tutorial	고양이 모래 훈련 튜토리얼, 소비자 실검색
+970	agriculture	Livestock Handbook	가축 관리 핸드북으로 짐작 가능
+971	agriculture	Livestock Tutorial	가축 관리 튜토리얼, agriculture 실무어
+972	logistics	Loading Handbook	화물 적재 핸드북으로 짐작 가능
+973	logistics	Loading Tutorial	화물 적재 튜토리얼, logistics 실무어
+974	interpreter_translation_services	Localization Handbook	현지화 실무 핸드북으로 짐작 가능
+975	interpreter_translation_services	Localization Tutorial	현지화 실무 튜토리얼, 통번역 실용어
+976	photography_services	Location Handbook	촬영지 안내 핸드북
+977	photography_services	Location Opinion	촬영지 평가·후기 도구
+978	photography_services	Location Timetable	촬영지 예약 일정표
+979	photography_services	Location Tutorial	촬영지 안내 튜토리얼
+980	travel_tourism	Luggage Handbook	수하물 안내 핸드북으로 짐작 가능
+981	travel_tourism	Luggage Tutorial	수하물 꾸리기 튜토리얼, 여행 실검색
+982	property_management_services	Mailroom Handbook	우편물 관리 핸드북
+983	property_management_services	Mailroom Timetable	우편물 수발 일정표
+984	property_management_services	Mailroom Tutorial	우편물 관리 튜토리얼
+985	dental	Malocclusion Bill	교정 치료 청구 도구
+986	dental	Malocclusion Code	교정 진료 코드 관리 도구
+987	dental	Malocclusion Estimate	교정 치료 비용 견적 도구
+988	dental	Malocclusion Feed	부정교합 경과 피드 도구
+989	dental	Malocclusion Index	부정교합 케이스 색인 도구
+990	dental	Malocclusion Order	교정 치료 지시 관리 도구
+991	dental	Malocclusion Receipt	교정 치료 영수증 관리 도구
+992	dental	Malocclusion Reminder	교정 재방문 알림 도구
+993	dental	Malocclusion Timeline	부정교합 경과 타임라인 도구
+994	dental	Malocclusion Update	부정교합 경과 업데이트 기록 도구
+995	salon_spa	Manicure Handbook	매니큐어 시술 핸드북으로 짐작 가능
+996	salon_spa	Manicure Timetable	시술 예약 일정표로 짐작 가능
+997	salon_spa	Manicure Tutorial	매니큐어 시술 튜토리얼, salon 실검색
+998	logistics	Manifest Handbook	화물 적하목록 핸드북으로 짐작 가능
+999	logistics	Manifest Timetable	화물 운송 일정표로 짐작 가능
+1000	maritime_shipping	Marina Handbook	마리나 이용 핸드북으로 짐작 가능
+1001	maritime_shipping	Marina Tutorial	마리나 정박 이용 튜토리얼, maritime 실무어
+1002	construction	Masonry Flyer	석공 업체 홍보 전단
+1003	construction	Masonry Handbook	석공 기술 핸드북 도구
+1004	construction	Masonry Timetable	석공 작업 일정표
+1005	construction	Masonry Tutorial	석공 기술 튜토리얼 도구
+1006	construction	Material Handbook	자재 관리 핸드북으로 짐작 가능
+1007	construction	Material Tutorial	자재 선택·관리 튜토리얼, construction 실무어
+1008	senior_care	Medication Handbook	복약 핸드북으로 짐작 가능
+1009	senior_care	Medication Timetable	복약 일정표로 짐작 가능
+1010	senior_care	Medication Tutorial	복약 관리 튜토리얼, 간병 실검색
+1011	pharmacy	Medicine Handbook	약 정보 핸드북으로 짐작 가능
+1012	pharmacy	Medicine Timetable	복약 일정표로 짐작 가능
+1013	pharmacy	Medicine Tutorial	약 정보 튜토리얼, 소비자 실검색
+1014	healthcare	Meditation Handbook	명상 안내 핸드북으로 짐작 가능
+1015	healthcare	Meditation Tutorial	명상 입문 튜토리얼, 소비자 실검색
+1016	music_lessons	Melody Handbook	멜로디 작곡 핸드북으로 짐작 가능
+1017	music_lessons	Melody Tutorial	멜로디 작곡 튜토리얼, music 실검색
+1018	food_service	Menu Handbook	메뉴 설계 핸드북으로 짐작 가능
+1019	food_service	Menu Tutorial	메뉴 설계 튜토리얼, 식당 운영 실용어
+1020	energy_utilities	Meter Handbook	계량기 운영 핸드북
+1021	energy_utilities	Meter Timetable	검침 일정표
+1022	energy_utilities	Meter Tutorial	계량기 검침 튜토리얼
+1023	music_lessons	Method Flyer	음악 교육 홍보 전단 도구
+1024	veterinary	Microchip Handbook	마이크로칩 등록 핸드북으로 짐작 가능
+1025	veterinary	Microchip Tutorial	반려동물 마이크로칩 등록 튜토리얼, veterinary 실검색
+1026	car_wash_detailing_services	Microfiber Flyer	세차 서비스 홍보 전단
+1027	car_wash_detailing_services	Microfiber Handbook	극세사 세차 핸드북
+1028	car_wash_detailing_services	Microfiber Tutorial	극세사 세차 튜토리얼
+1029	it_devops	Monitoring Handbook	모니터링 핸드북으로 짐작 가능
+1030	it_devops	Monitoring Tutorial	모니터링 구축 튜토리얼, devops 실용어
+1031	pest_control	Mosquito Handbook	모기 퇴치 핸드북으로 짐작 가능
+1032	pest_control	Mosquito Tutorial	모기 퇴치 튜토리얼, pest_control 실검색
+1033	pool_maintenance_services	Motor Handbook	모터 정비 핸드북으로 짐작 가능
+1034	pool_maintenance_services	Motor Tutorial	풀 펌프 모터 정비 튜토리얼, pool 실용어
+1035	dental	Mouthguard Appointment	상담 예약 관리로 짐작 가능
+1036	dental	Mouthguard Availability	마우스가드 재고·예약 가능으로 짐작 가능
+1037	dental	Mouthguard Beacon	마우스가드 제작 완료 알림 도구
+1038	dental	Mouthguard Claim	고객 클레임 처리로 짐작 가능
+1039	dental	Mouthguard Deposit	예약금 관리로 짐작 가능
+1040	dental	Mouthguard Desk	마우스가드 주문 접수 데스크
+1041	dental	Mouthguard Feedback	제품 후기 피드백 수집으로 짐작 가능
+1042	dental	Mouthguard Flow	마우스가드 발주·제작 워크플로 도구
+1043	dental	Mouthguard Guide	마우스가드 선택 가이드, 소비자 실검색
+1044	dental	Mouthguard Handbook	마우스가드 관리 핸드북으로 짐작 가능
+1045	dental	Mouthguard Hub	마우스가드 발주 허브 도구
+1046	dental	Mouthguard Inventory	제품 재고 관리로 짐작 가능
+1047	dental	Mouthguard Invoice	치과 기구 청구서 발행으로 짐작 가능
+1048	dental	Mouthguard Lookup	마우스가드 제품 검색으로 짐작 가능
+1049	dental	Mouthguard Newsletter	제품 소식 뉴스레터 발송으로 짐작 가능
+1050	dental	Mouthguard Payment	결제 관리로 짐작 가능
+1051	dental	Mouthguard Quote	장치 견적 발행으로 짐작 가능
+1052	dental	Mouthguard Rating	마우스가드 평점 후기 수집으로 짐작 가능
+1053	dental	Mouthguard Refund	환불 관리로 짐작 가능
+1054	dental	Mouthguard Renewal	장치 재제작 갱신으로 짐작 가능
+1055	dental	Mouthguard Review	제품 후기 리뷰 수집으로 짐작 가능
+1056	dental	Mouthguard Tutorial	마우스가드 착용·관리 튜토리얼, 소비자 실검색
+1057	dental	Mouthguard Vault	마우스가드 기록 보관 도구
+1058	dental	Mouthwash Appointment	상담 예약 관리로 짐작 가능
+1059	dental	Mouthwash Availability	구강청결제 재고·예약 가능으로 짐작 가능
+1060	dental	Mouthwash Claim	클레임 처리로 짐작 가능
+1061	dental	Mouthwash Deposit	제품 발주 입금으로 짐작 가능
+1062	dental	Mouthwash Feedback	제품 후기 피드백 수집으로 짐작 가능
+1063	dental	Mouthwash Guide	구강청결제 사용 가이드, 소비자 실검색
+1064	dental	Mouthwash Inventory	제품 재고 관리로 짐작 가능
+1065	dental	Mouthwash Invoice	제품 구매 청구서 발행으로 짐작 가능
+1066	dental	Mouthwash Lookup	구강청결제 제품 검색으로 짐작 가능
+1067	dental	Mouthwash Newsletter	제품 소식 뉴스레터 발송으로 짐작 가능
+1068	dental	Mouthwash Payment	구매 결제 관리로 짐작 가능
+1069	dental	Mouthwash Quote	제품 견적 발행으로 짐작 가능
+1070	dental	Mouthwash Rating	구강청결제 평점 후기로 짐작 가능
+1071	dental	Mouthwash Refund	구매 환불 관리로 짐작 가능
+1072	dental	Mouthwash Renewal	정기 구매 갱신으로 짐작 가능
+1073	dental	Mouthwash Review	제품 후기 리뷰 수집으로 짐작 가능
+1074	moving_relocation_services	Move Handbook	이사 준비 핸드북으로 짐작 가능
+1075	moving_relocation_services	Move Tutorial	이사 준비 튜토리얼, moving 실검색
+1076	landscaping	Mulch Handbook	멀칭 시공 핸드북으로 짐작 가능
+1077	landscaping	Mulch Tutorial	멀칭 시공 튜토리얼, landscaping 실검색
+1078	interpreter_translation_services	Multilingual Handbook	통역·번역 핸드북으로 짐작 가능
+1079	interpreter_translation_services	Multilingual Tutorial	통역·번역 튜토리얼, translation 실무어
+1080	insurance	Nonrenewal Handbook	보험 갱신 거절 핸드북으로 짐작 가능
+1081	insurance	Nonrenewal Tutorial	보험 갱신 거절 절차 튜토리얼, 실무 용어
+1082	food_service	Noodle Atlas	면요리 맛집 아틀라스
+1083	food_service	Noodle Chain	면요리 체인점 관리 도구
+1084	food_service	Noodle Checkin	예약 체크인으로 짐작 가능
+1085	food_service	Noodle Claim	고객 클레임 처리로 짐작 가능
+1086	food_service	Noodle Console	면요리점 운영 콘솔
+1087	food_service	Noodle Diary	영업 일지로 짐작 가능
+1088	food_service	Noodle Followup	주문 후속 안내로 짐작 가능
+1089	food_service	Noodle Handbook	면 요리 핸드북으로 짐작 가능
+1090	food_service	Noodle Inventory	재료 재고 관리로 짐작 가능
+1091	food_service	Noodle Keeper	면요리 재고 보관 관리 도구
+1092	food_service	Noodle Newsletter	매장 소식 뉴스레터 발송으로 짐작 가능
+1093	food_service	Noodle Onboarding	신규 직원·고객 온보딩으로 짐작 가능
+1094	food_service	Noodle Portal	면요리 전문점 주문 포털
+1095	food_service	Noodle Questionnaire	선호 설문 관리로 짐작 가능
+1096	food_service	Noodle Refund	주문 환불 관리로 짐작 가능
+1097	food_service	Noodle Review	식당 후기 리뷰 수집으로 짐작 가능
+1098	food_service	Noodle Route	면요리 배달 동선 도구
+1099	food_service	Noodle Trail	면요리 맛집 트레일 도구
+1100	food_service	Noodle Tutorial	면 요리 튜토리얼, 소비자 실검색
+1101	food_service	Noodle Video	식당 소개 영상으로 짐작 가능
+1102	healthcare	Nurse Handbook	간호 실무 핸드북으로 짐작 가능
+1103	healthcare	Nurse Timetable	간호 근무 일정표로 짐작 가능
+1104	healthcare	Nurse Tutorial	간호 실무 튜토리얼, 의료 실검색
+1105	hospitality	Occupancy Handbook	객실 운영 핸드북
+1106	hospitality	Occupancy Timetable	객실 배정 일정표
+1107	hospitality	Occupancy Tutorial	객실 점유율 관리 튜토리얼
+1108	agriculture	Orchard Handbook	과수원 관리 핸드북으로 짐작 가능
+1109	agriculture	Orchard Tutorial	과수원 관리 튜토리얼, agriculture 실검색
+1110	music_lessons	Orchestra Handbook	오케스트라 핸드북으로 짐작 가능
+1111	music_lessons	Orchestra Tutorial	오케스트라 편곡·연주 튜토리얼, music 실검색
+1112	music_lessons	Organ Handbook	오르간 연주 핸드북으로 짐작 가능
+1113	music_lessons	Organ Tutorial	오르간 연주 튜토리얼, music 실검색
+1114	dental	Orthodontist Assistant	교정치과 진료 보조 도구
+1115	dental	Orthodontist Calendar	교정 예약 캘린더
+1116	dental	Orthodontist Companion	교정 환자 동반 앱
+1117	dental	Orthodontist Directory	교정 전문의 찾기 디렉터리
+1118	dental	Orthodontist Engine	교정 진료 예약 엔진
+1119	dental	Orthodontist Followup	교정 후속 관리로 짐작 가능
+1120	dental	Orthodontist Handbook	교정 핸드북으로 짐작 가능
+1121	dental	Orthodontist Journal	교정 업무 저널 도구
+1122	dental	Orthodontist Keeper	교정 진료 기록·케이스 보관 도구
+1123	dental	Orthodontist Manager	교정치과 진료 관리 도구
+1124	dental	Orthodontist Monitor	교정 경과 모니터링 도구
+1125	dental	Orthodontist Ops	교정 진료 운영 도구
+1126	dental	Orthodontist Planner	교정 치료 계획 플래너
+1127	dental	Orthodontist Playbook	교정 업무 플레이북
+1128	dental	Orthodontist Questionnaire	교정 문진표 관리로 짐작 가능
+1129	dental	Orthodontist Register	교정 케이스 등록부 도구
+1130	dental	Orthodontist Scheduler	교정 예약 스케줄러
+1131	dental	Orthodontist Timetable	교정 예약 일정표로 짐작 가능
+1132	dental	Orthodontist Tutorial	교정 치료 실무 튜토리얼, dental 실용어
+1133	hr_payroll	Overtime Handbook	초과근무 운영 핸드북
+1134	hr_payroll	Overtime Timetable	초과근무 신청 일정표
+1135	hr_payroll	Overtime Tutorial	초과근무 관리 튜토리얼
+1136	travel_tourism	Parasailing Assistant	패러세일링 운영 보조 도구
+1137	travel_tourism	Parasailing Calendar	패러세일링 시즌 캘린더
+1138	travel_tourism	Parasailing Companion	패러세일링 이용자 동반 앱
+1139	travel_tourism	Parasailing Directory	패러세일링 업체 디렉터리
+1140	travel_tourism	Parasailing Engine	패러세일링 예약 엔진
+1141	travel_tourism	Parasailing Followup	투어 사후 안내로 짐작 가능
+1142	travel_tourism	Parasailing Handbook	투어 핸드북으로 짐작 가능
+1143	travel_tourism	Parasailing Journal	패러세일링 비행 기록 저널
+1144	travel_tourism	Parasailing Locator	패러세일링 이륙지 탐색 도구
+1145	travel_tourism	Parasailing Monitor	패러세일링 안전·기상 모니터링 도구
+1146	travel_tourism	Parasailing Ops	패러세일링 운영 관리 도구
+1147	travel_tourism	Parasailing Planner	패러세일링 예약 플래너
+1148	travel_tourism	Parasailing Playbook	패러세일링 운영 플레이북
+1149	travel_tourism	Parasailing Questionnaire	투어 선호 설문 관리로 짐작 가능
+1150	travel_tourism	Parasailing Register	패러세일링 예약 등록부
+1151	travel_tourism	Parasailing Scheduler	패러세일링 예약 스케줄러
+1152	travel_tourism	Parasailing Tutorial	패러세일링 준비 튜토리얼, 소비자 실검색
+1153	cybersecurity	Password Flyer	비밀번호 보안 캠페인 전단 도구
+1154	cybersecurity	Password Handbook	비밀번호 정책·보안 수칙 핸드북 도구
+1155	cybersecurity	Password Timetable	비밀번호 주기 변경 일정 도구
+1156	cybersecurity	Password Tutorial	비밀번호 보안·관리법 튜토리얼, 소비자 실검색
+1157	food_service	Pastry Calculator	제빵 배합 계산기 도구로 짐작 가능
+1158	food_service	Pastry Checker	페이스트리 품질·재고 점검 도구
+1159	food_service	Pastry Converter	제빵 배합 단위 변환 도구로 짐작 가능
+1160	food_service	Pastry Estimator	페이스트리 원가·수량 산출 도구로 짐작 가능
+1161	food_service	Pastry Helper	제과 업무 보조 도구
+1162	food_service	Pastry Manual	제빵 매뉴얼로 짐작 가능
+1163	food_service	Pastry Message	주문 문의 메시지 관리로 짐작 가능
+1164	food_service	Pastry Stage	제과 공정 단계 관리 도구
+1165	food_service	Pastry Timer	제과 공정 타이머 도구
+1166	food_service	Pastry Workshop	제과 워크숍 예약 도구
+1167	dental	Patient Flyer	치과 환자 안내 전단 도구
+1168	finance	Paycheck Handbook	급여명세서 안내 핸드북으로 짐작 가능
+1169	finance	Paycheck Timetable	급여 지급 일정표로 짐작 가능
+1170	finance	Paycheck Tutorial	급여명세서 이해 튜토리얼, 소비자 실검색
+1171	logistics	Payload Flyer	화물 서비스 홍보 전단 도구
+1172	logistics	Payload Handbook	화물 페이로드 취급 매뉴얼 도구
+1173	logistics	Payload Timetable	화물 적재 일정표 도구
+1174	finance	Payroll Handbook	급여관리 핸드북으로 짐작 가능
+1175	finance	Payroll Timetable	급여 지급 일정표로 짐작 가능
+1176	finance	Payroll Tutorial	급여관리 실무 튜토리얼, HR 실검색
+1177	dental	Periodontics Bill	치주치료 청구·계산 도구
+1178	dental	Periodontics Code	치주치료 진료 코드 관리 도구
+1179	dental	Periodontics Estimate	치주치료 비용 견적 도구
+1180	dental	Periodontics Order	치주치료 처방·지시 관리 도구
+1181	dental	Periodontics Receipt	치주치료 영수증 관리 도구
+1182	dental	Periodontitis Bill	치주 치료 청구 도구
+1183	dental	Periodontitis Estimate	치주 치료 비용 견적 도구
+1184	dental	Periodontitis Feed	치주염 경과 피드 도구
+1185	dental	Periodontitis File	치주염 환자 파일 관리 도구
+1186	dental	Periodontitis History	치주염 병력 추적 기록 도구
+1187	dental	Periodontitis Index	치주염 케이스 색인 도구
+1188	dental	Periodontitis Level	치주염 중증도 단계 관리 도구
+1189	dental	Periodontitis Order	치주 치료 지시 관리 도구
+1190	dental	Periodontitis Rate	치주염 발생률 분석 도구
+1191	dental	Periodontitis Reminder	치주염 재방문 알림 도구
+1192	dental	Periodontitis Timeline	치주염 치료 타임라인 도구
+1193	dental	Periodontitis Update	치주염 경과 업데이트 도구
+1194	agriculture	Pesticide Handbook	농약 사용 핸드북
+1195	agriculture	Pesticide Timetable	농약 살포 일정표
+1196	agriculture	Pesticide Tutorial	농약 살포 튜토리얼
+1197	cybersecurity	Phishing Handbook	피싱 대응 핸드북으로 짐작 가능
+1198	cybersecurity	Phishing Tutorial	피싱 대응 튜토리얼, IT 실검색
+1199	music_lessons	Piano Handbook	피아노 연주 핸드북으로 짐작 가능
+1200	music_lessons	Piano Tutorial	피아노 연주 튜토리얼, music 실검색
+1201	locksmith_security_services	Pinning Handbook	핀 작업 핸드북으로 짐작 가능
+1202	locksmith_security_services	Pinning Tutorial	핀 텀블러 작업 튜토리얼, locksmith 실용어
+1203	plumbing_services	Pipe Handbook	배관 핸드북으로 짐작 가능
+1204	plumbing_services	Pipe Tutorial	배관 설치 튜토리얼, DIY 실검색
+1205	music_lessons	Pitch Handbook	음정 훈련 핸드북으로 짐작 가능
+1206	music_lessons	Pitch Tutorial	음정 트레이닝 튜토리얼, music 실검색
+1207	food_service	Pizzeria Assistant	피자집 업무 보조 도구
+1208	food_service	Pizzeria Atlas	피자 맛집 아틀라스 도구
+1209	food_service	Pizzeria Chain	피자 체인점 통합 관리 도구
+1210	food_service	Pizzeria Checkin	예약 체크인으로 짐작 가능
+1211	food_service	Pizzeria Claim	고객 클레임 처리로 짐작 가능
+1212	food_service	Pizzeria Engine	피자집 예약 엔진
+1213	food_service	Pizzeria Followup	주문 후속 안내로 짐작 가능
+1214	food_service	Pizzeria Handbook	피자 제작 핸드북으로 짐작 가능
+1215	food_service	Pizzeria Inventory	재료 재고 관리로 짐작 가능
+1216	food_service	Pizzeria Keeper	피자집 재고 보관 관리 도구
+1217	food_service	Pizzeria Manager	피자집 운영 관리 도구
+1218	food_service	Pizzeria Monitor	피자집 주방·주문 모니터링 도구
+1219	food_service	Pizzeria Newsletter	매장 소식 뉴스레터 발송으로 짐작 가능
+1220	food_service	Pizzeria Onboarding	신규 직원·고객 온보딩으로 짐작 가능
+1221	food_service	Pizzeria Planner	피자집 일정 플래너
+1222	food_service	Pizzeria Questionnaire	선호 설문 관리로 짐작 가능
+1223	food_service	Pizzeria Route	피자 배달 동선 최적화 도구
+1224	food_service	Pizzeria Scheduler	피자집 예약 스케줄러
+1225	food_service	Pizzeria Trail	피자 맛집 트레일 코스 도구
+1226	food_service	Pizzeria Tutorial	피자 제작 튜토리얼, 소비자 실검색
+1227	wedding_planning_services	Playlist Handbook	플레이리스트 핸드북으로 짐작 가능
+1228	wedding_planning_services	Playlist Tutorial	결혼식 플레이리스트 준비 튜토리얼, 실검색
+1229	insurance	Policyholder Handbook	보험 가입자 안내 핸드북
+1230	insurance	Policyholder Tutorial	보험 가입자 안내 튜토리얼
+1231	healthcare	Posture Handbook	자세 교정 핸드북으로 짐작 가능
+1232	healthcare	Posture Tutorial	자세 교정 튜토리얼, healthcare 실검색
+1233	music_lessons	Practice Handbook	연습 계획 핸드북으로 짐작 가능
+1234	music_lessons	Practice Timetable	연습 일정표로 짐작 가능
+1235	music_lessons	Practice Tutorial	악기 연습법 튜토리얼, music 실검색
+1236	education	Practicum Handbook	실습 과정 핸드북으로 짐작 가능
+1237	education	Practicum Tutorial	실습 과정 준비 튜토리얼, 교육 실용어
+1238	media_publishing	Print Handbook	인쇄 제작 핸드북으로 짐작 가능
+1239	media_publishing	Print Tutorial	인쇄 제작 튜토리얼, 출판 실용어
+1240	legal	Probate Handbook	유언 검인 핸드북으로 짐작 가능
+1241	legal	Probate Tutorial	유언 검인 절차 튜토리얼, legal 실무어
+1242	manufacturing	Production Handbook	생산 운영 핸드북
+1243	manufacturing	Production Timetable	생산 일정표
+1244	manufacturing	Production Tutorial	생산 관리 튜토리얼
+1245	travel_tourism	Promenade Calendar	산책 코스 예약 일정으로 짐작 가능
+1246	travel_tourism	Promenade Directory	산책 코스 목록 디렉토리로 짐작 가능
+1247	travel_tourism	Promenade Feed	산책로 소식 피드 도구
+1248	travel_tourism	Promenade Finder	산책 코스 검색 도구로 짐작 가능
+1249	travel_tourism	Promenade Journal	산책 방문 일지로 짐작 가능
+1250	travel_tourism	Promenade Locator	산책 코스 검색 도구로 짐작 가능
+1251	travel_tourism	Promenade Note	산책 코스 가이드 노트
+1252	travel_tourism	Promenade Planner	산책 코스 계획 도구로 짐작 가능
+1253	travel_tourism	Promenade Playbook	산책 코스 안내 플레이북으로 짐작 가능
+1254	travel_tourism	Promenade Scheduler	산책 코스 일정 도구로 짐작 가능
+1255	travel_tourism	Promenade Score	산책 코스 평점 도구
+1256	travel_tourism	Promenade Status	산책로 상태 정보 도구
+1257	real_estate	Property Timetable	부동산 실무 일정표로 짐작 가능
+1258	manufacturing	Prototype Handbook	프로토타입 제작 핸드북으로 짐작 가능
+1259	manufacturing	Prototype Tutorial	프로토타입 제작 튜토리얼, manufacturing 실무어
+1260	food_service	Pub Appointment	펍 예약 관리로 짐작 가능
+1261	food_service	Pub Availability	펍 예약 가능 조회로 짐작 가능
+1262	food_service	Pub Beacon	펍 근거리 알림 도구
+1263	food_service	Pub Checkin	예약 체크인으로 짐작 가능
+1264	food_service	Pub Claim	고객 클레임 처리로 짐작 가능
+1265	food_service	Pub Compass	펍 탐색 나침반 도구
+1266	food_service	Pub Deposit	예약금 관리로 짐작 가능
+1267	food_service	Pub Desk	펍 주문 접수 데스크
+1268	food_service	Pub Diary	영업 일지로 짐작 가능
+1269	food_service	Pub Feedback	고객 피드백 수집으로 짐작 가능
+1270	food_service	Pub Flow	펍 주문·운영 워크플로 도구
+1271	food_service	Pub Followup	주문 후속 안내로 짐작 가능
+1272	food_service	Pub Guide	펍 가이드, 소비자 실검색
+1273	food_service	Pub Hub	펍 운영 종합 허브 도구
+1274	food_service	Pub Inventory	재고 관리로 짐작 가능
+1275	food_service	Pub Invoice	계산서 발행으로 짐작 가능
+1276	food_service	Pub Lookup	펍 검색으로 짐작 가능
+1277	food_service	Pub Newsletter	매장 소식 뉴스레터 발송으로 짐작 가능
+1278	food_service	Pub Onboarding	직원 온보딩으로 짐작 가능
+1279	food_service	Pub Payment	결제 관리로 짐작 가능
+1280	food_service	Pub Questionnaire	선호 설문 관리로 짐작 가능
+1281	food_service	Pub Quote	케이터링 견적 발행으로 짐작 가능
+1282	food_service	Pub Radar	펍 탐색 레이더 도구
+1283	food_service	Pub Rating	펍 평점 후기 수집으로 짐작 가능
+1284	food_service	Pub Refund	환불 관리로 짐작 가능
+1285	food_service	Pub Renewal	단골 멤버십 갱신으로 짐작 가능
+1286	food_service	Pub Review	고객 후기 리뷰 수집으로 짐작 가능
+1287	food_service	Pub Tracker	펍 운영 지표·재고 추적 도구
+1288	food_service	Pub Vault	펍 레시피 보관 도구
+1289	food_service	Pub Video	매장 소개 영상으로 짐작 가능
+1290	food_service	Pub Watch	펍 혼잡·빈자리 알림 도구
+1291	mining	Quarry Handbook	채석 작업 핸드북으로 짐작 가능
+1292	mining	Quarry Tutorial	채석 작업 튜토리얼, mining 실무어
+1293	travel_tourism	Rainforest Calendar	투어 예약 일정으로 짐작 가능
+1294	travel_tourism	Rainforest Directory	투어 목록 디렉토리로 짐작 가능
+1295	travel_tourism	Rainforest Feed	우림 투어 소식 피드
+1296	travel_tourism	Rainforest Finder	투어 검색 도구로 짐작 가능
+1297	travel_tourism	Rainforest Handbook	우림 투어 핸드북으로 짐작 가능
+1298	travel_tourism	Rainforest Index	우림 투어 코스 색인 도구
+1299	travel_tourism	Rainforest Journal	투어 방문 일지로 짐작 가능
+1300	travel_tourism	Rainforest Locator	투어 검색 도구로 짐작 가능
+1301	travel_tourism	Rainforest Planner	여행 계획 도구로 짐작 가능
+1302	travel_tourism	Rainforest Playbook	정글 투어 운영 플레이북으로 짐작 가능
+1303	travel_tourism	Rainforest Rate	우림 투어 요금 관리 도구
+1304	travel_tourism	Rainforest Reminder	우림 투어 일정 알림 도구
+1305	travel_tourism	Rainforest Scheduler	투어 예약 일정 도구로 짐작 가능
+1306	travel_tourism	Rainforest Status	우림 트레일 상태 정보 도구
+1307	travel_tourism	Rainforest Ticket	우림 투어 티켓 판매 도구
+1308	travel_tourism	Rainforest Timeline	우림 투어 코스 타임라인 도구
+1309	travel_tourism	Rainforest Timetable	우림 투어 일정표로 짐작 가능
+1310	travel_tourism	Rainforest Update	우림 트레일 상황 업데이트 도구
+1311	media_publishing	Reader Flyer	독자 모집 홍보 전단 도구
+1312	media_publishing	Reader Handbook	독자 안내 핸드북 도구
+1313	media_publishing	Reader Opinion	독자 의견 수집 도구
+1314	media_publishing	Reader Timetable	독자 콘텐츠 발행 일정표
+1315	media_publishing	Reader Tutorial	독자 온보딩 튜토리얼 도구
+1316	wedding_planning_services	Reception Handbook	웨딩 리셉션 준비 핸드북으로 짐작 가능
+1317	wedding_planning_services	Reception Timetable	웨딩 리셉션 일정표로 짐작 가능
+1318	wedding_planning_services	Reception Tutorial	웨딩 리셉션 준비 튜토리얼, 실검색
+1319	food_service	Recipe Handbook	레시피 핸드북으로 짐작 가능
+1320	food_service	Recipe Tutorial	레시피 튜토리얼, 소비자 대량 실검색
+1321	music_lessons	Recital Handbook	연주회 준비 핸드북으로 짐작 가능
+1322	music_lessons	Recital Timetable	연주회 일정표로 짐작 가능
+1323	music_lessons	Recital Tutorial	연주회 준비 튜토리얼, 소비자 실검색
+1324	government	Records Flyer	기록 관리 서비스 홍보 전단 도구
+1325	government	Records Handbook	기록 관리 핸드북 도구
+1326	government	Records Timetable	기록 처리 일정표 도구
+1327	government	Records Tutorial	기록 관리 튜토리얼 도구
+1328	hr_payroll	Recruiting Tutorial	채용 절차 튜토리얼
+1329	pharmacy	Refill Handbook	처방전 재입수 핸드북으로 짐작 가능
+1330	pharmacy	Refill Tutorial	처방전 재입수 튜토리얼, 약국 실검색
+1331	events	Registration Flyer	행사 등록 홍보 전단 도구
+1332	events	Registration Gift	행사 등록 기념품 관리 도구
+1333	events	Registration Handbook	행사 등록 안내 핸드북 작성 도구
+1334	events	Registration Retreat	리트리트 행사 등록 도구
+1335	events	Registration Timetable	행사 등록 일정표 도구
+1336	events	Registration Tournament	대회 등록 관리 도구
+1337	events	Registration Tutorial	행사 등록 절차 튜토리얼, events 실무 콘텐츠
+1338	insurance	Reinstatement Handbook	보험 복효 핸드북으로 짐작 가능
+1339	insurance	Reinstatement Tutorial	보험 복효 절차 튜토리얼, 실무 용어
+1340	insurance	Reinsurance Handbook	재보험 실무 핸드북으로 짐작 가능
+1341	insurance	Reinsurance Timetable	재보험 계약 일정표로 짐작 가능
+1342	insurance	Reinsurance Tutorial	재보험 실무 튜토리얼, 보험 실무 용어
+1343	locksmith_security_services	Rekey Handbook	재키잉 절차 핸드북으로 짐작 가능
+1344	locksmith_security_services	Rekey Tutorial	자물쇠 재키잉 튜토리얼, 잠금 DIY 실검색
+1345	moving_relocation_services	Relocation Handbook	이사 핸드북으로 짐작 가능
+1346	moving_relocation_services	Relocation Tutorial	이사·이주 절차 튜토리얼, moving 실용어
+1347	construction	Remodel Handbook	리모델링 핸드북으로 짐작 가능
+1348	construction	Remodel Timetable	리모델링 공정 일정표로 짐작 가능
+1349	construction	Remodel Tutorial	리모델링 과정 튜토리얼, 소비자 실검색
+1350	property_management_services	Repair Handbook	수리 방법 핸드북으로 짐작 가능
+1351	property_management_services	Repair Tutorial	수리 방법 튜토리얼, 실검색
+1352	recruiting	Requisition Handbook	채용 요청서 핸드북으로 짐작 가능
+1353	recruiting	Requisition Tutorial	채용 요청서 절차 튜토리얼, recruiting 실용어
+1354	travel_tourism	Resort Handbook	리조트 이용 안내 핸드북으로 짐작 가능
+1355	recruiting	Resume Flyer	이력서 전단 제작 도구
+1356	recruiting	Resume Handbook	이력서 작성 핸드북으로 짐작 가능
+1357	recruiting	Resume Tutorial	이력서 작성법 튜토리얼, recruiting 실검색
+1358	finance	Retirement Handbook	퇴직 준비 핸드북으로 짐작 가능
+1359	finance	Retirement Tutorial	퇴직 준비 튜토리얼, finance 실검색
+1360	music_lessons	Rhythm Handbook	리듬 훈련 핸드북으로 짐작 가능
+1361	music_lessons	Rhythm Tutorial	리듬 트레이닝 튜토리얼, music 실검색
+1362	locksmith_security_services	Rim Handbook	림 잠금장치 핸드북
+1363	locksmith_security_services	Rim Timetable	림 잠금 점검 일정표
+1364	locksmith_security_services	Rim Tutorial	림 잠금장치 설치 튜토리얼
+1365	pest_control	Rodent Handbook	해충 방제 핸드북으로 짐작 가능
+1366	pest_control	Rodent Tutorial	해충 방제 튜토리얼, pest control 실용어
+1367	it_devops	Rollback Handbook	배포 롤백 절차 핸드북 도구
+1368	it_devops	Rollback Timetable	롤백 작업 일정 도구
+1369	it_devops	Rollback Tutorial	롤백 절차 튜토리얼, it_devops 실무 콘텐츠
+1370	property_management_services	Roof Flyer	지붕 수리 업체 홍보 전단
+1371	property_management_services	Roof Handbook	지붕 유지관리 핸드북
+1372	property_management_services	Roof Timetable	지붕 점검 일정표
+1373	property_management_services	Roof Tutorial	지붕 유지관리 튜토리얼
+1374	telecom	Router Flyer	공유기 판매 홍보 전단 도구
+1375	telecom	Router Handbook	공유기 설정 핸드북 도구
+1376	telecom	Router Opinion	공유기 리뷰 수집 도구
+1377	telecom	Router Timetable	공유기 점검 일정 도구
+1378	telecom	Router Tutorial	공유기 설치 튜토리얼 제공 도구
+1379	travel_tourism	Safari Flyer	사파리 투어 홍보 전단 도구
+1380	travel_tourism	Safari Gift	사파리 투어 선물권 도구
+1381	travel_tourism	Safari Handbook	사파리 투어 핸드북
+1382	travel_tourism	Safari Opinion	사파리 투어 후기 도구
+1383	travel_tourism	Safari Retreat	사파리 리트리트 예약 도구
+1384	travel_tourism	Safari Timetable	사파리 투어 일정표
+1385	travel_tourism	Safari Tutorial	사파리 투어 튜토리얼
+1386	locksmith_security_services	Safe Handbook	금고 설치 핸드북으로 짐작 가능
+1387	locksmith_security_services	Safe Tutorial	금고 설치·조작 튜토리얼, locksmith 실무어
+1388	pool_maintenance_services	Saltwater Handbook	염수 풀 관리 핸드북으로 짐작 가능
+1389	pool_maintenance_services	Saltwater Tutorial	염수 풀 관리 튜토리얼, 실무어
+1390	construction	Scaffold Handbook	비계 시공 핸드북
+1391	construction	Scaffold Timetable	비계 공사 일정표
+1392	construction	Scaffold Tutorial	비계 시공 튜토리얼
+1393	recruiting	Screening Handbook	채용 스크리닝 핸드북으로 짐작 가능
+1394	recruiting	Screening Opinion	채용 스크리닝 평가 의견 기록 도구
+1395	recruiting	Screening Tutorial	채용 스크리닝 방법 튜토리얼, recruiting 실무 콘텐츠
+1396	food_service	Seafood Assistant	해산물 가게 업무 보조 도구
+1397	food_service	Seafood Atlas	해산물 맛집 아틀라스 도구
+1398	food_service	Seafood Chain	해산물 공급망 관리 도구
+1399	food_service	Seafood Checkin	예약 체크인으로 짐작 가능
+1400	food_service	Seafood Claim	고객 클레임 처리로 짐작 가능
+1401	food_service	Seafood Companion	해산물 가게 단골 고객 앱
+1402	food_service	Seafood Engine	해산물 가게 예약 엔진
+1403	food_service	Seafood Followup	주문 후속 안내로 짐작 가능
+1404	food_service	Seafood Handbook	해산물 손질 핸드북으로 짐작 가능
+1405	food_service	Seafood Inventory	재료 재고 관리로 짐작 가능
+1406	food_service	Seafood Keeper	해산물 재고 보관 관리 도구
+1407	food_service	Seafood Manager	해산물 가게 운영 관리 도구
+1408	food_service	Seafood Monitor	해산물 재고·신선도 모니터링 도구
+1409	food_service	Seafood Newsletter	매장 소식 뉴스레터 발송으로 짐작 가능
+1410	food_service	Seafood Onboarding	신규 직원·고객 온보딩으로 짐작 가능
+1411	food_service	Seafood Planner	해산물 가게 일정·재고 플래너
+1412	food_service	Seafood Questionnaire	선호 설문 관리로 짐작 가능
+1413	food_service	Seafood Scheduler	해산물 가게 예약 스케줄러
+1414	food_service	Seafood Trail	해산물 맛집 트레일 코스 도구
+1415	food_service	Seafood Tutorial	해산물 손질 튜토리얼, 소비자 실검색
+1416	dental	Sealant Bin	시일란트 재고 관리 도구
+1417	dental	Sealant Chart	치과 시일란트 시술 차트 기록 도구
+1418	dental	Sealant Check	시일란트 상태 점검 도구
+1419	dental	Sealant Followup	치료 후속 관리로 짐작 가능
+1420	dental	Sealant Form	시일란트 시술 문진 폼
+1421	dental	Sealant Guarantor	보험 청구 보증인 관리로 짐작 가능
+1422	dental	Sealant Handbook	치아 실란트 핸드북으로 짐작 가능
+1423	dental	Sealant Log	시일란트 시술 기록지
+1424	dental	Sealant Passport	시일란트 시술 이력 수첩 도구
+1425	dental	Sealant Questionnaire	치주 문진표 관리로 짐작 가능
+1426	dental	Sealant Report	시일란트 시술 리포트 도구
+1427	dental	Sealant Timetable	실란트 시술 일정표로 짐작 가능
+1428	dental	Sealant Tutorial	치아 실란트 정보 튜토리얼, 소비자 실검색
+1429	real_estate	Seller Handbook	부동산 매도 핸드북으로 짐작 가능
+1430	real_estate	Seller Timetable	매도 절차 일정표로 짐작 가능
+1431	real_estate	Seller Tutorial	부동산 매도 절차 튜토리얼, 소비자 실검색
+1432	education	Semester Handbook	학기 운영 핸드북으로 짐작 가능
+1433	education	Semester Timetable	학기 시간표로 짐작 가능
+1434	education	Semester Tutorial	학기 계획 튜토리얼, education 실용어
+1435	insurance	Settlement Flyer	합의 서비스 안내 전단 도구
+1436	insurance	Settlement Handbook	보험 합의 절차 핸드북으로 짐작 가능
+1437	insurance	Settlement Opinion	보험 합의·보상 의견 관리 도구
+1438	insurance	Settlement Tutorial	보험 합의·지급 절차 튜토리얼, insurance 실무 콘텐츠
+1439	logistics	Shipment Handbook	배송 처리 핸드북으로 짐작 가능
+1440	logistics	Shipment Tutorial	배송 처리 튜토리얼, logistics 실무어
+1441	interpreter_translation_services	Simultaneous Handbook	동시통역 핸드북으로 짐작 가능
+1442	interpreter_translation_services	Simultaneous Tutorial	동시통역 실무 튜토리얼, 통번역 실용어
+1443	travel_tourism	Skyline Atlas	도심 전망 명소 아틀라스
+1444	travel_tourism	Skyline Checkin	전망대 입장 체크인으로 짐작 가능
+1445	travel_tourism	Skyline Console	도심 전망·투어 운영 관리 콘솔로 짐작 가능
+1446	travel_tourism	Skyline Followup	후속 안내 발송으로 짐작 가능
+1447	travel_tourism	Skyline Newsletter	명소 소식 뉴스레터 발송으로 짐작 가능
+1448	travel_tourism	Skyline Questionnaire	선호 설문 관리로 짐작 가능
+1449	travel_tourism	Skyline Route	도심 전망 투어 코스 도구
+1450	travel_tourism	Skyline Trail	도심 전망 트레일 코스 도구
+1451	travel_tourism	Skyline Video	전망대 소개 영상으로 짐작 가능
+1452	healthcare	Sleep Handbook	수면 관리 핸드북으로 짐작 가능
+1453	healthcare	Sleep Tutorial	수면 개선 튜토리얼, 소비자 실검색
+1454	photography_services	Slideshow Handbook	슬라이드쇼 제작 핸드북으로 짐작 가능
+1455	photography_services	Slideshow Timetable	슬라이드쇼 제작 일정표로 짐작 가능
+1456	photography_services	Slideshow Tutorial	슬라이드쇼 제작 튜토리얼, 소비자 실검색
+1457	dental	Smile Bridge	치아 브리지 시술 관리 도구
+1458	dental	Smile Watch	교정 경과 모니터링 도구
+1459	plumbing_services	Snake Handbook	드레인 스네이크 사용 핸드북으로 짐작 가능
+1460	plumbing_services	Snake Tutorial	배관 드레인 스네이크 사용법, DIY 실검색
+1461	dental	Snoring Board	코골이 치료 현황 보드 도구
+1462	dental	Snoring Checkin	진료 체크인으로 짐작 가능
+1463	dental	Snoring Claim	보험 청구 관리로 짐작 가능
+1464	dental	Snoring Console	코골이 진료 콘솔
+1465	dental	Snoring Diary	코골이 기록 일지로 짐작 가능
+1466	dental	Snoring Followup	치료 후속 관리 안내로 짐작 가능
+1467	dental	Snoring Handbook	코골이 관리 핸드북으로 짐작 가능
+1468	dental	Snoring Lab	수면·코골이 검사 랩 예약 도구
+1469	dental	Snoring Newsletter	코골이 정보 뉴스레터 발송으로 짐작 가능
+1470	dental	Snoring Onboarding	치료 시작 안내로 짐작 가능
+1471	dental	Snoring Portal	코골이 진료 환자 포털
+1472	dental	Snoring Questionnaire	코골이 문진 설문 관리로 짐작 가능
+1473	dental	Snoring Refund	치료비 환불 관리로 짐작 가능
+1474	dental	Snoring Review	코골이 치료 후기 수집으로 짐작 가능
+1475	dental	Snoring Station	코골이 검사 스테이션 예약 도구
+1476	dental	Snoring Tutorial	코골이 개선 튜토리얼, 소비자 실검색
+1477	dental	Snoring Video	코골이 치료 소개 영상으로 짐작 가능
+1478	travel_tourism	Snorkeling Appointment	투어 예약 관리로 짐작 가능
+1479	travel_tourism	Snorkeling Availability	투어 예약 가능 조회로 짐작 가능
+1480	travel_tourism	Snorkeling Checkin	투어 체크인으로 짐작 가능
+1481	travel_tourism	Snorkeling Claim	클레임 처리로 짐작 가능
+1482	travel_tourism	Snorkeling Condition	스노클링 포인트 해양·기상 조건 정보 도구
+1483	travel_tourism	Snorkeling Deposit	예약금 관리로 짐작 가능
+1484	travel_tourism	Snorkeling Depreciation	스노클링 장비 감가상각 관리 도구
+1485	travel_tourism	Snorkeling Diary	투어 방문 일지로 짐작 가능
+1486	travel_tourism	Snorkeling Evaluation	스노클링 투어 평가 도구
+1487	travel_tourism	Snorkeling Feedback	투어 피드백 수집으로 짐작 가능
+1488	travel_tourism	Snorkeling Followup	스노클링 투어 후속 안내 도구
+1489	travel_tourism	Snorkeling Guide	스노클링 투어 가이드, 소비자 실검색
+1490	travel_tourism	Snorkeling Inventory	용품 재고 관리로 짐작 가능
+1491	travel_tourism	Snorkeling Invoice	투어 청구서 발행으로 짐작 가능
+1492	travel_tourism	Snorkeling Lookup	투어 검색으로 짐작 가능
+1493	travel_tourism	Snorkeling Newsletter	투어 소식 뉴스레터 발송으로 짐작 가능
+1494	travel_tourism	Snorkeling Onboarding	직원 온보딩으로 짐작 가능
+1495	travel_tourism	Snorkeling Payment	투어 결제 관리로 짐작 가능
+1496	travel_tourism	Snorkeling Questionnaire	스노클링 만족도 설문 도구
+1497	travel_tourism	Snorkeling Quote	투어 견적 발행으로 짐작 가능
+1498	travel_tourism	Snorkeling Rating	투어 평점으로 짐작 가능
+1499	travel_tourism	Snorkeling Reception	스노클링 투어 접수 도구
+1500	travel_tourism	Snorkeling Refund	환불 관리로 짐작 가능
+1501	travel_tourism	Snorkeling Renewal	시즌권 갱신으로 짐작 가능
+1502	travel_tourism	Snorkeling Requirement	카약 투어 준비물·자격 요건 안내 도구
+1503	travel_tourism	Snorkeling Review	투어 후기 리뷰 수집으로 짐작 가능
+1504	travel_tourism	Snorkeling Sensor	스노클링 포인트 수질 정보 도구
+1505	travel_tourism	Snorkeling Utilization	스노클링 장비 사용률 분석 도구
+1506	travel_tourism	Snorkeling Video	투어 소개 영상으로 짐작 가능
+1507	music_lessons	Songbook Flyer	노래 교실 홍보 전단
+1508	music_lessons	Songbook Handbook	노래책 안내 핸드북
+1509	music_lessons	Songbook Timetable	노래 연습 일정표
+1510	music_lessons	Songbook Tutorial	노래책 활용 튜토리얼
+1511	events	Speaker Flyer	연사 홍보 전단 제작 도구
+1512	events	Speaker Tournament	스피치·연설 대회 운영 도구
+1513	laundry_dry_cleaning	Stain Handbook	얼룩 제거 핸드북으로 짐작 가능
+1514	laundry_dry_cleaning	Stain Tutorial	얼룩 제거 튜토리얼, laundry 실검색
+1515	moving_relocation_services	Stairs Handbook	계단 운반 안내 핸드북
+1516	moving_relocation_services	Stairs Timetable	계단 운반 작업 일정표
+1517	moving_relocation_services	Stairs Tutorial	계단 운반 안내 튜토리얼
+1518	food_service	Steakhouse Appointment	식당 예약 관리로 짐작 가능
+1519	food_service	Steakhouse Availability	매장 예약 가능 조회로 짐작 가능
+1520	food_service	Steakhouse Beacon	스테이크하우스 매장 근거리 알림·유치 도구
+1521	food_service	Steakhouse Checkin	예약 체크인으로 짐작 가능
+1522	food_service	Steakhouse Claim	고객 클레임 처리로 짐작 가능
+1523	food_service	Steakhouse Deposit	주문 예약금 관리로 짐작 가능
+1524	food_service	Steakhouse Diary	영업 일지로 짐작 가능
+1525	food_service	Steakhouse Feedback	고객 피드백 수집으로 짐작 가능
+1526	food_service	Steakhouse Followup	주문 후속 안내로 짐작 가능
+1527	food_service	Steakhouse Handbook	스테이크 굽기 핸드북으로 짐작 가능
+1528	food_service	Steakhouse Inventory	재료 재고 관리로 짐작 가능
+1529	food_service	Steakhouse Invoice	계산서 발행으로 짐작 가능
+1530	food_service	Steakhouse Lookup	매장 검색으로 짐작 가능
+1531	food_service	Steakhouse Map	스테이크하우스 맛집 지도 도구
+1532	food_service	Steakhouse Newsletter	매장 소식 뉴스레터 발송으로 짐작 가능
+1533	food_service	Steakhouse Onboarding	직원 온보딩으로 짐작 가능
+1534	food_service	Steakhouse Payment	결제 관리로 짐작 가능
+1535	food_service	Steakhouse Point	스테이크하우스 포인트 적립 도구
+1536	food_service	Steakhouse Questionnaire	선호 설문 관리로 짐작 가능
+1537	food_service	Steakhouse Quote	케이터링 견적 발행으로 짐작 가능
+1538	food_service	Steakhouse Refund	환불 관리로 짐작 가능
+1539	food_service	Steakhouse Renewal	단골 멤버십 갱신으로 짐작 가능
+1540	food_service	Steakhouse Review	식당 후기 리뷰 수집으로 짐작 가능
+1541	food_service	Steakhouse Tutorial	스테이크 굽기 튜토리얼, 소비자 실검색
+1542	food_service	Steakhouse Video	식당 소개 영상으로 짐작 가능
+1543	food_service	Steakhouse Watch	스테이크하우스 빈자리 알림 도구
+1544	finance	Stock Handbook	주식 투자 핸드북으로 짐작 가능
+1545	finance	Stock Tutorial	주식 투자 튜토리얼, finance 실검색
+1546	property_management_services	Storage Handbook	보관·창고 시설 운영 핸드북 작성 도구
+1547	retail_ecommerce	Storefront Handbook	온라인 스토어 운영 핸드북으로 짐작 가능
+1548	retail_ecommerce	Storefront Tutorial	온라인 스토어 구축 튜토리얼, ecommerce 실무어
+1549	healthcare	Stretch Flyer	스트레칭 클래스 홍보 전단
+1550	healthcare	Stretch Handbook	스트레칭 핸드북 도구
+1551	healthcare	Stretch Timetable	스트레칭 일정표 도구
+1552	healthcare	Stretch Tutorial	스트레칭 튜토리얼 도구
+1553	salon_spa	Stylist Handbook	헤어 스타일링 핸드북으로 짐작 가능
+1554	salon_spa	Stylist Timetable	예약 근무 일정표로 짐작 가능
+1555	salon_spa	Stylist Tutorial	헤어 스타일링 튜토리얼, salon 실검색
+1556	insurance	Subrogation Handbook	보험 대위 핸드북으로 짐작 가능
+1557	insurance	Subrogation Tutorial	보험 대위 절차 튜토리얼, insurance 실무어
+1558	media_publishing	Subscriber Handbook	구독자 관리 핸드북으로 짐작 가능
+1559	media_publishing	Subscriber Tutorial	구독자 확보·관리 튜토리얼, 미디어 실용어
+1560	energy_utilities	Substation Flyer	변전소 서비스 홍보 전단
+1561	energy_utilities	Substation Handbook	변전소 운영 핸드북
+1562	energy_utilities	Substation Timetable	변전소 점검 일정표
+1563	energy_utilities	Substation Tutorial	변전소 운영 튜토리얼
+1564	interpreter_translation_services	Subtitling Handbook	자막 제작 핸드북으로 짐작 가능
+1565	interpreter_translation_services	Subtitling Tutorial	자막 제작 튜토리얼, 통번역 실무 용어
+1566	travel_tourism	Sunset Appointment	명소 예약 관리로 짐작 가능
+1567	travel_tourism	Sunset Availability	명소 예약 가능 조회로 짐작 가능
+1568	travel_tourism	Sunset Beacon	노을 타이밍 알림 도구
+1569	travel_tourism	Sunset Checkin	입장 체크인으로 짐작 가능
+1570	travel_tourism	Sunset Claim	고객 클레임 처리로 짐작 가능
+1571	travel_tourism	Sunset Compass	노을 명소 나침반 도구
+1572	travel_tourism	Sunset Deposit	예약금 관리로 짐작 가능
+1573	travel_tourism	Sunset Diary	방문 일지로 짐작 가능
+1574	travel_tourism	Sunset Feedback	명소 피드백 수집으로 짐작 가능
+1575	travel_tourism	Sunset Followup	투어 후속 안내로 짐작 가능
+1576	travel_tourism	Sunset Handbook	선셋 촬영·감상 핸드북으로 짐작 가능
+1577	travel_tourism	Sunset Inventory	기념품 재고 관리로 짐작 가능
+1578	travel_tourism	Sunset Invoice	명소 청구서 발행으로 짐작 가능
+1579	travel_tourism	Sunset Lookup	일몰 명소 검색으로 짐작 가능
+1580	travel_tourism	Sunset Newsletter	명소 소식 뉴스레터 발송으로 짐작 가능
+1581	travel_tourism	Sunset Onboarding	직원 온보딩으로 짐작 가능
+1582	travel_tourism	Sunset Payment	명소 결제 관리로 짐작 가능
+1583	travel_tourism	Sunset Questionnaire	투어 선호 설문으로 짐작 가능
+1584	travel_tourism	Sunset Quote	명소 이용 견적 발행으로 짐작 가능
+1585	travel_tourism	Sunset Radar	노을 최적 시점·장소 탐색 도구
+1586	travel_tourism	Sunset Refund	명소 환불 관리로 짐작 가능
+1587	travel_tourism	Sunset Review	명소 후기 리뷰 수집으로 짐작 가능
+1588	travel_tourism	Sunset Tutorial	선셋 촬영·감상 튜토리얼, travel 실검색
+1589	travel_tourism	Sunset Video	명소 소개 영상으로 짐작 가능
+1590	pharmacy	Supplement Handbook	영양제 안내 핸드북으로 짐작 가능
+1591	pharmacy	Supplement Timetable	영양제 복용 일정표로 짐작 가능
+1592	pharmacy	Supplement Tutorial	영양제 선택 튜토리얼, 소비자 실검색
+1593	insurance	Surcharge Handbook	할증 안내 핸드북으로 짐작 가능
+1594	insurance	Surcharge Tutorial	할증 구조 튜토리얼, insurance 실무어
+1595	healthcare	Surgery Handbook	수술·진료 핸드북으로 짐작 가능
+1596	healthcare	Surgery Timetable	수술 일정표로 짐작 가능
+1597	healthcare	Surgery Tutorial	수술·진료 학습 튜토리얼, 소비자 실검색
+1598	food_service	Sushi Appointment	식당 예약 관리로 짐작 가능
+1599	food_service	Sushi Checkin	예약 체크인으로 짐작 가능
+1600	food_service	Sushi Claim	고객 클레임 처리로 짐작 가능
+1601	food_service	Sushi Deposit	주문 예약금 관리로 짐작 가능
+1602	food_service	Sushi Diary	영업 일지로 짐작 가능
+1603	food_service	Sushi Feedback	고객 피드백 수집으로 짐작 가능
+1604	food_service	Sushi Followup	주문 후속 안내로 짐작 가능
+1605	food_service	Sushi Handbook	스시 요리 핸드북으로 짐작 가능
+1606	food_service	Sushi Inventory	재료 재고 관리로 짐작 가능
+1607	food_service	Sushi Invoice	계산서 발행으로 짐작 가능
+1608	food_service	Sushi Lab	스시 메뉴 개발 실험 도구
+1609	food_service	Sushi Ledger	스시집 매출 장부 도구
+1610	food_service	Sushi Map	스시 맛집 지도 도구
+1611	food_service	Sushi Newsletter	매장 소식 뉴스레터 발송으로 짐작 가능
+1612	food_service	Sushi Onboarding	직원 온보딩으로 짐작 가능
+1613	food_service	Sushi Payment	주문 결제 관리로 짐작 가능
+1614	food_service	Sushi Point	스시집 포인트 적립 도구
+1615	food_service	Sushi Questionnaire	선호 설문 관리로 짐작 가능
+1616	food_service	Sushi Quote	케이터링 견적 발행으로 짐작 가능
+1617	food_service	Sushi Refund	주문 환불 관리로 짐작 가능
+1618	food_service	Sushi Renewal	단골 멤버십 갱신으로 짐작 가능
+1619	food_service	Sushi Review	식당 후기 리뷰 수집으로 짐작 가능
+1620	food_service	Sushi Station	스시 조리 스테이션 관리 도구
+1621	food_service	Sushi Tutorial	스시 만들기 튜토리얼, 소비자 실검색
+1622	food_service	Sushi Video	식당 소개 영상으로 짐작 가능
+1623	healthcare	Suture Handbook	봉합 기술 핸드북으로 짐작 가능
+1624	healthcare	Suture Tutorial	봉합 기술 튜토리얼, 의료 실용어
+1625	education	Syllabus Handbook	강의계획서 핸드북으로 짐작 가능
+1626	education	Syllabus Tutorial	강의계획서 작성 튜토리얼, education 실무어
+1627	food_service	Taco Board	타코 전문점 디지털 메뉴판·게시 도구
+1628	food_service	Taco Checkin	예약 체크인으로 짐작 가능
+1629	food_service	Taco Claim	고객 클레임 처리로 짐작 가능
+1630	food_service	Taco Console	타코 가게 운영 콘솔
+1631	food_service	Taco Diary	영업 일지로 짐작 가능
+1632	food_service	Taco Followup	주문 후속 안내로 짐작 가능
+1633	food_service	Taco Handbook	타코 요리 핸드북으로 짐작 가능
+1634	food_service	Taco Inventory	재료 재고 관리로 짐작 가능
+1635	food_service	Taco Lab	타코 메뉴 개발 실험 도구
+1636	food_service	Taco Ledger	타코 전문점 매출 장부 도구
+1637	food_service	Taco Newsletter	매장 소식 뉴스레터 발송으로 짐작 가능
+1638	food_service	Taco Onboarding	신규 직원 온보딩으로 짐작 가능
+1639	food_service	Taco Payment	주문 결제 관리로 짐작 가능
+1640	food_service	Taco Portal	타코 주문 포털
+1641	food_service	Taco Questionnaire	선호 설문 관리로 짐작 가능
+1642	food_service	Taco Refund	주문 환불 관리로 짐작 가능
+1643	food_service	Taco Review	식당 후기 리뷰 수집으로 짐작 가능
+1644	food_service	Taco Route	타코 배달 동선 도구
+1645	food_service	Taco Station	타코 조리 스테이션 관리 도구
+1646	food_service	Taco Tutorial	타코 요리 튜토리얼, 소비자 실검색
+1647	food_service	Taco Video	식당 소개 영상으로 짐작 가능
+1648	food_service	Takeout Bill	청구서 관리로 짐작 가능
+1649	food_service	Takeout Calendar	픽업 일정 캘린더로 짐작 가능
+1650	food_service	Takeout Card	단골 카드 관리로 짐작 가능
+1651	food_service	Takeout Confirmation	테이크아웃 주문 확인 알림 도구로 짐작 가능
+1652	food_service	Takeout Cost	테이크아웃 원가 계산 도구
+1653	food_service	Takeout Directory	배달 업체 디렉터리로 짐작 가능
+1654	food_service	Takeout Entry	테이크아웃 주문 입력 도구
+1655	food_service	Takeout Fee	테이크아웃 수수료 계산 도구
+1656	food_service	Takeout Finder	매장 검색으로 짐작 가능
+1657	food_service	Takeout Journal	영업 일지로 짐작 가능
+1658	food_service	Takeout Locator	매장 위치 검색으로 짐작 가능
+1659	food_service	Takeout Log	주문 처리 기록으로 짐작 가능
+1660	food_service	Takeout Order	주문 관리로 짐작 가능
+1661	food_service	Takeout Plan	테이크아웃 사전 주문 계획 도구
+1662	food_service	Takeout Planner	테이크아웃 계획 도구로 짐작 가능
+1663	food_service	Takeout Playbook	운영 플레이북으로 짐작 가능
+1664	food_service	Takeout Price	테이크아웃 가격 관리 도구
+1665	food_service	Takeout Receipt	영수증 관리로 짐작 가능
+1666	food_service	Takeout Reminder	주문 알림 리마인더로 짐작 가능
+1667	food_service	Takeout Roster	배달 교대 근무표로 짐작 가능
+1668	food_service	Takeout Scheduler	픽업·배달 일정 관리 도구로 짐작 가능
+1669	food_service	Takeout Tax	테이크아웃 세금 계산 도구
+1670	food_service	Takeout Ticket	주문 티켓 관리로 짐작 가능
+1671	food_service	Takeout Voucher	식권·바우처 관리로 짐작 가능
+1672	dental	Tartar Alert	치석 재발 알림 도구
+1673	dental	Tartar Chart	치석 시술 기록 차트 도구
+1674	dental	Tartar Followup	치석 제거 후속 관리로 짐작 가능
+1675	dental	Tartar Handbook	치석 관리 핸드북으로 짐작 가능
+1676	dental	Tartar Kiosk	치석 진료 체크인 키오스크
+1677	dental	Tartar Passport	치석 관리 이력 수첩 도구
+1678	dental	Tartar Post	치석 예방 교육 콘텐츠 게시 도구
+1679	dental	Tartar Questionnaire	치석 문진표 관리로 짐작 가능
+1680	dental	Tartar Timetable	치석 제거 시술 일정표로 짐작 가능
+1681	dental	Tartar Tutorial	치석 관리 튜토리얼, 소비자 실검색
+1682	real_estate	Tenant Handbook	임차인 안내 핸드북으로 짐작 가능
+1683	real_estate	Tenant Tutorial	임차인 안내 튜토리얼, real estate 실검색
+1684	property_management_services	Thermostat Handbook	온도조절기 설정 핸드북으로 짐작 가능
+1685	property_management_services	Thermostat Timetable	온도조절기 점검 일정표로 짐작 가능
+1686	property_management_services	Thermostat Tutorial	온도조절기 사용법 튜토리얼, 소비자 실검색
+1687	laundry_dry_cleaning	Ticket Handbook	세탁 물품표 핸드북으로 짐작 가능
+1688	laundry_dry_cleaning	Ticket Tutorial	세탁 물품표 절차 튜토리얼, 실무 용어
+1689	events	Ticketing Flyer	티켓 판매 홍보 전단 도구
+1690	events	Ticketing Gift	티켓 선물하기 기능 도구
+1691	events	Ticketing Handbook	티켓 발권 핸드북으로 짐작 가능
+1692	events	Ticketing Tournament	대회 티켓 판매 도구
+1693	events	Ticketing Tutorial	티켓 발권 시스템 사용법 튜토리얼, events 실무어
+1694	hr_payroll	Timesheet Handbook	근태 운영 핸드북으로 짐작 가능
+1695	hr_payroll	Timesheet Tutorial	근태 기록 작성 튜토리얼, HR 실무어
+1696	salon_spa	Tip Handbook	미용 스타일링 팁 핸드북으로 짐작 가능
+1697	salon_spa	Tip Tutorial	미용 스타일링 팁 튜토리얼, 실검색
+1698	automotive	Tire Handbook	타이어 관리 핸드북으로 짐작 가능
+1699	automotive	Tire Tutorial	타이어 관리 튜토리얼, automotive 실검색
+1700	childcare	Toddler Handbook	유아 돌봄·육아 핸드북으로 짐작 가능
+1701	childcare	Toddler Tutorial	유아 돌봄·육아 튜토리얼, 소비자 실검색
+1702	dental	Toothache Handbook	치통 대처 핸드북으로 짐작 가능
+1703	dental	Toothache Tutorial	치통 대처법 튜토리얼, 소비자 실검색
+1704	dental	Toothbrush Appointment	구매·상담 예약 관리로 짐작 가능
+1705	dental	Toothbrush Availability	제품 재고·예약 가능으로 짐작 가능
+1706	dental	Toothbrush Claim	클레임 처리로 짐작 가능
+1707	dental	Toothbrush Condition	칫솔 교체 주기 관리 도구
+1708	dental	Toothbrush Deposit	구매 입금 관리로 짐작 가능
+1709	dental	Toothbrush Feedback	후기 피드백 수집으로 짐작 가능
+1710	dental	Toothbrush Guide	칫솔 선택 가이드, 소비자 실검색
+1711	dental	Toothbrush Inventory	제품 재고 관리로 짐작 가능
+1712	dental	Toothbrush Invoice	구매 청구서 발행으로 짐작 가능
+1713	dental	Toothbrush Lookup	제품 검색으로 짐작 가능
+1714	dental	Toothbrush Newsletter	제품 소식 뉴스레터 발송으로 짐작 가능
+1715	dental	Toothbrush Payment	구매 결제 관리로 짐작 가능
+1716	dental	Toothbrush Quote	제품 견적 발행으로 짐작 가능
+1717	dental	Toothbrush Rating	칫솔 평점 후기로 짐작 가능
+1718	dental	Toothbrush Refund	구매 환불 관리로 짐작 가능
+1719	dental	Toothbrush Renewal	정기 구매 갱신으로 짐작 가능
+1720	dental	Toothbrush Review	제품 후기 리뷰 수집으로 짐작 가능
+1721	dental	Toothbrush Timer	양치 시간 타이머로 짐작 가능
+1722	dental	Toothbrush Usage	칫솔 사용 기록·환자 습관 추적 도구
+1723	dental	Toothpaste Appointment	치과 상담 예약 관리로 짐작 가능
+1724	dental	Toothpaste Availability	제품 재고·예약 가능으로 짐작 가능
+1725	dental	Toothpaste Claim	클레임 처리로 짐작 가능
+1726	dental	Toothpaste Deposit	발주 입금으로 짐작 가능
+1727	dental	Toothpaste Feedback	제품 후기 피드백 수집으로 짐작 가능
+1728	dental	Toothpaste Guide	치약 선택 가이드, 소비자 실검색
+1729	dental	Toothpaste Inventory	제품 재고 관리로 짐작 가능
+1730	dental	Toothpaste Invoice	구매 청구서 발행으로 짐작 가능
+1731	dental	Toothpaste Lookup	치약 제품 검색으로 짐작 가능
+1732	dental	Toothpaste Newsletter	제품 소식 뉴스레터 발송으로 짐작 가능
+1733	dental	Toothpaste Payment	구매 결제 관리로 짐작 가능
+1734	dental	Toothpaste Questionnaire	구강관리 습관 설문 도구
+1735	dental	Toothpaste Quote	제품 견적 발행으로 짐작 가능
+1736	dental	Toothpaste Rating	치약 평점 후기로 짐작 가능
+1737	dental	Toothpaste Refund	구매 환불 관리로 짐작 가능
+1738	dental	Toothpaste Renewal	정기 구매 갱신으로 짐작 가능
+1739	dental	Toothpaste Review	제품 후기 리뷰 수집으로 짐작 가능
+1740	dental	Toothpaste Utilization	치과 소모품 사용률 분석 도구
+1741	agriculture	Tractor Flyer	트랙터 판매·서비스 홍보 전단
+1742	agriculture	Tractor Handbook	트랙터 운용 핸드북
+1743	agriculture	Tractor Opinion	트랙터 리뷰 수집 도구
+1744	agriculture	Tractor Timetable	트랙터 작업 일정표
+1745	agriculture	Tractor Tutorial	트랙터 운전 튜토리얼
+1746	finance	Trading Flyer	매매 서비스 홍보 전단 도구
+1747	finance	Trading Handbook	거래 안내 핸드북 도구
+1748	finance	Trading Opinion	매매 의견 공유 도구
+1749	finance	Trading Timetable	매매 일정표 도구
+1750	finance	Trading Tournament	매매 대회 운영 도구
+1751	finance	Trading Tutorial	거래 학습 튜토리얼 콘텐츠 도구
+1752	fitness_wellness	Treadmill Handbook	러닝머신 사용 핸드북으로 짐작 가능
+1753	fitness_wellness	Treadmill Tutorial	러닝머신 사용법 튜토리얼, 소비자 실검색
+1754	finance	Trust Flyer	신탁 상품 안내 전단 제작 도구
+1755	finance	Trust Handbook	신탁 안내 핸드북으로 짐작 가능
+1756	finance	Trust Tutorial	신탁 이해 튜토리얼, finance 실검색
+1757	insurance	Umbrella Handbook	우산 보험 핸드북으로 짐작 가능
+1758	insurance	Umbrella Tutorial	우산 보험 이해 튜토리얼, insurance 실무어
+1759	logistics	Unloading Handbook	하역 절차 핸드북으로 짐작 가능
+1760	logistics	Unloading Tutorial	하역 절차 튜토리얼, 물류 실무 용어
+1761	property_management_services	Vacancy Handbook	공실 관리 핸드북으로 짐작 가능
+1762	property_management_services	Vacancy Tutorial	공실 관리 튜토리얼, 부동산 실용어
+1763	veterinary	Vaccination Handbook	예방접종 핸드북으로 짐작 가능
+1764	veterinary	Vaccination Tutorial	반려동물 예방접종 튜토리얼, 소비자 실검색
+1765	hospitality	Valet Handbook	발렛 운영 핸드북
+1766	hospitality	Valet Timetable	발렛 운행 일정표
+1767	hospitality	Valet Tutorial	발렛 서비스 튜토리얼
+1768	pool_maintenance_services	Valve Flyer	밸브 서비스 홍보 전단
+1769	pool_maintenance_services	Valve Handbook	밸브 운용 핸드북
+1770	pool_maintenance_services	Valve Timetable	밸브 점검 일정표
+1771	pool_maintenance_services	Valve Tutorial	밸브 운용 튜토리얼
+1772	retail_ecommerce	Variant Handbook	상품 옵션 운영 핸드북으로 짐작 가능
+1773	retail_ecommerce	Variant Tutorial	상품 옵션 설정 튜토리얼, ecommerce 실무어
+1774	hvac_services	Ventilation Handbook	환기 시스템 핸드북으로 짐작 가능
+1775	hvac_services	Ventilation Timetable	환기 점검 일정표로 짐작 가능
+1776	hvac_services	Ventilation Tutorial	환기 시스템 설치 튜토리얼, HVAC 실검색
+1777	insurance	Verification Handbook	보험 검증 절차 핸드북으로 짐작 가능
+1778	insurance	Verification Tutorial	보험 검증 절차 튜토리얼, 실무 용어
+1779	maritime_shipping	Vessel Handbook	선박 운항 핸드북으로 짐작 가능
+1780	maritime_shipping	Vessel Tutorial	선박 운항 튜토리얼, maritime 실무어
+1781	hr_payroll	Vesting Flyer	스톡옵션 베스팅 안내 전단 도구
+1782	hr_payroll	Vesting Handbook	베스팅 안내 핸드북으로 짐작 가능
+1783	hr_payroll	Vesting Tutorial	베스팅 이해 튜토리얼, hr 실무·직원 실검색
+1784	veterinary	Vet Handbook	수의 안내 핸드북으로 짐작 가능
+1785	veterinary	Vet Timetable	동물병원 예약 일정표로 짐작 가능
+1786	veterinary	Vet Tutorial	수의 진료 튜토리얼, 소비자 실검색
+1787	senior_care	Vitals Handbook	활력징후 기록 핸드북으로 짐작 가능
+1788	senior_care	Vitals Tutorial	활력징후 관리 튜토리얼, senior_care 실무어
+1789	pharmacy	Vitamin Handbook	비타민 안내 핸드북으로 짐작 가능
+1790	pharmacy	Vitamin Tutorial	비타민 선택 튜토리얼, pharmacy 소비자 실검색
+1791	travel_tourism	Volcano Alert	화산 투어 안전 알림 도구
+1792	travel_tourism	Volcano Calendar	화산 투어 일정으로 짐작 가능
+1793	travel_tourism	Volcano Card	화산 투어 스탬프 카드 도구
+1794	travel_tourism	Volcano Chart	화산 투어 정보 차트 도구
+1795	travel_tourism	Volcano Directory	화산 투어 목록 디렉토리로 짐작 가능
+1796	travel_tourism	Volcano Finder	화산 투어 검색 도구로 짐작 가능
+1797	travel_tourism	Volcano Followup	투어 사후 안내·후속 관리로 짐작 가능
+1798	travel_tourism	Volcano Form	화산 투어 신청 폼
+1799	travel_tourism	Volcano Handbook	화산 투어 안내 핸드북으로 짐작 가능
+1800	travel_tourism	Volcano Journal	화산 투어 일지로 짐작 가능
+1801	travel_tourism	Volcano Locator	화산 투어 검색 도구로 짐작 가능
+1802	travel_tourism	Volcano Log	화산 활동 기록지 도구
+1803	travel_tourism	Volcano Passport	화산 관광 스탬프 패스 도구
+1804	travel_tourism	Volcano Playbook	화산 투어 운영 플레이북으로 짐작 가능
+1805	travel_tourism	Volcano Questionnaire	투어 선호 설문 관리로 짐작 가능
+1806	travel_tourism	Volcano Report	화산 활동 리포트 도구
+1807	travel_tourism	Volcano Roster	화산 투어 인력 근무표 도구
+1808	travel_tourism	Volcano Tutorial	화산 투어 준비 튜토리얼, 소비자 실검색
+1809	government	Vote Flyer	투표 독려 전단 도구
+1810	government	Vote Handbook	투표 안내 핸드북 도구
+1811	government	Vote Opinion	여론·투표 의견 수집 도구
+1812	government	Vote Timetable	투표 일정표 도구
+1813	government	Vote Tutorial	투표 방법 안내 튜토리얼
+1814	maritime_shipping	Voyage Handbook	항해 안내 핸드북으로 짐작 가능
+1815	maritime_shipping	Voyage Tutorial	항해 계획 튜토리얼, 해운 실용어
+1816	cybersecurity	Vulnerability Handbook	취약점 대응 핸드북으로 짐작 가능
+1817	cybersecurity	Vulnerability Tutorial	취약점 점검 튜토리얼, IT 실용어
+1818	hr_payroll	Wage Handbook	급여 실무 핸드북으로 짐작 가능
+1819	hr_payroll	Wage Timetable	급여 지급 일정표로 짐작 가능
+1820	hr_payroll	Wage Tutorial	급여 실무 튜토리얼, HR 실검색
+1821	senior_care	Walker Handbook	보행기 사용 핸드북으로 짐작 가능
+1822	senior_care	Walker Tutorial	보행기 사용법 튜토리얼, senior_care 실검색
+1823	car_wash_detailing_services	Wash Handbook	세차 방법 핸드북으로 짐작 가능
+1824	car_wash_detailing_services	Wash Tutorial	세차 방법 튜토리얼, 실검색
+1825	travel_tourism	Waterfall Appointment	투어 예약 관리로 짐작 가능
+1826	travel_tourism	Waterfall Availability	투어 예약 가능 조회로 짐작 가능
+1827	travel_tourism	Waterfall Beacon	폭포 수량·안전 알림 도구
+1828	travel_tourism	Waterfall Checkin	입장 체크인으로 짐작 가능
+1829	travel_tourism	Waterfall Claim	고객 클레임 처리로 짐작 가능
+1830	travel_tourism	Waterfall Compass	폭포 명소 나침반 도구
+1831	travel_tourism	Waterfall Deposit	예약금 관리로 짐작 가능
+1832	travel_tourism	Waterfall Desk	폭포 투어 접수 데스크
+1833	travel_tourism	Waterfall Diary	방문 일지로 짐작 가능
+1834	travel_tourism	Waterfall Feedback	투어 피드백 수집으로 짐작 가능
+1835	travel_tourism	Waterfall Flow	폭포 수량·상태 정보 도구
+1836	travel_tourism	Waterfall Flyer	폭포 투어 홍보 전단 도구
+1837	travel_tourism	Waterfall Followup	투어 후속 안내로 짐작 가능
+1838	travel_tourism	Waterfall Gift	폭포 투어 선물권 판매 도구
+1839	travel_tourism	Waterfall Guide	폭포 명소 가이드, 소비자 실검색
+1840	travel_tourism	Waterfall Handbook	폭포 트레킹 핸드북으로 짐작 가능
+1841	travel_tourism	Waterfall Hub	폭포 투어 종합 허브 도구
+1842	travel_tourism	Waterfall Inventory	용품 재고 관리로 짐작 가능
+1843	travel_tourism	Waterfall Invoice	투어 청구서 발행으로 짐작 가능
+1844	travel_tourism	Waterfall Lookup	폭포 명소 검색으로 짐작 가능
+1845	travel_tourism	Waterfall Newsletter	명소 소식 뉴스레터 발송으로 짐작 가능
+1846	travel_tourism	Waterfall Onboarding	직원 온보딩으로 짐작 가능
+1847	travel_tourism	Waterfall Opinion	폭포 명소 방문 후기 수집 도구
+1848	travel_tourism	Waterfall Payment	투어 결제 관리로 짐작 가능
+1849	travel_tourism	Waterfall Questionnaire	투어 선호 설문으로 짐작 가능
+1850	travel_tourism	Waterfall Quote	투어 견적 발행으로 짐작 가능
+1851	travel_tourism	Waterfall Rating	폭포 명소 평점으로 짐작 가능
+1852	travel_tourism	Waterfall Refund	명소 환불 관리로 짐작 가능
+1853	travel_tourism	Waterfall Retreat	폭포 리트리트 예약 도구
+1854	travel_tourism	Waterfall Review	투어 후기 리뷰 수집으로 짐작 가능
+1855	travel_tourism	Waterfall Timetable	폭포 관광 일정표 도구
+1856	travel_tourism	Waterfall Tracker	폭포 조건·방문 추적 도구
+1857	travel_tourism	Waterfall Tutorial	폭포 트레킹·촬영 튜토리얼, travel 실검색
+1858	travel_tourism	Waterfall Video	투어 소개 영상으로 짐작 가능
+1859	travel_tourism	Waterfront Appointment	명소 예약 관리로 짐작 가능
+1860	travel_tourism	Waterfront Availability	명소 예약 가능 조회로 짐작 가능
+1861	travel_tourism	Waterfront Checkin	입장 체크인으로 짐작 가능
+1862	travel_tourism	Waterfront Claim	고객 클레임 처리로 짐작 가능
+1863	travel_tourism	Waterfront Deposit	명소 예약금 관리로 짐작 가능
+1864	travel_tourism	Waterfront Diary	방문 일지로 짐작 가능
+1865	travel_tourism	Waterfront Feedback	명소 피드백 수집으로 짐작 가능
+1866	travel_tourism	Waterfront Followup	후속 안내 발송으로 짐작 가능
+1867	travel_tourism	Waterfront Inventory	기념품 재고 관리로 짐작 가능
+1868	travel_tourism	Waterfront Invoice	명소 청구서 발행으로 짐작 가능
+1869	travel_tourism	Waterfront Loop	수변 순환 산책 코스 도구
+1870	travel_tourism	Waterfront Map	수변 명소 지도 도구
+1871	travel_tourism	Waterfront Newsletter	명소 소식 뉴스레터 발송으로 짐작 가능
+1872	travel_tourism	Waterfront Onboarding	직원 온보딩으로 짐작 가능
+1873	travel_tourism	Waterfront Path	수변 산책로 안내 도구
+1874	travel_tourism	Waterfront Payment	명소 결제 관리로 짐작 가능
+1875	travel_tourism	Waterfront Questionnaire	선호 설문 관리로 짐작 가능
+1876	travel_tourism	Waterfront Quote	명소 이용 견적 발행으로 짐작 가능
+1877	travel_tourism	Waterfront Refund	명소 환불 관리로 짐작 가능
+1878	travel_tourism	Waterfront Review	명소 후기 리뷰 수집으로 짐작 가능
+1879	travel_tourism	Waterfront Video	명소 소개 영상으로 짐작 가능
+1880	travel_tourism	Waterfront Watch	수변 조수·기상 상황 모니터링 도구
+1881	travel_tourism	Waterfront Wave	해안 파도·수온 예보 도구
+1882	logistics	Waybill Handbook	운송장 처리 핸드북으로 짐작 가능
+1883	logistics	Waybill Tutorial	운송장 처리 튜토리얼, logistics 실무어
+1884	finance	Wealth Handbook	재산 관리 핸드북으로 짐작 가능
+1885	finance	Wealth Tutorial	재산 관리 튜토리얼, finance 실검색
+1886	logistics	Weighbridge Handbook	지상저울 계량 핸드북으로 짐작 가능
+1887	logistics	Weighbridge Timetable	지상저울 계량 일정표로 짐작 가능
+1888	manufacturing	Welding Flyer	용접 업체 홍보 전단
+1889	manufacturing	Welding Handbook	용접 기술 핸드북
+1890	manufacturing	Welding Opinion	용접 업체 리뷰 수집 도구
+1891	manufacturing	Welding Timetable	용접 작업 일정표
+1892	manufacturing	Welding Tutorial	용접 기술 튜토리얼
+1893	senior_care	Wheelchair Handbook	휠체어 사용 핸드북으로 짐작 가능
+1894	senior_care	Wheelchair Tutorial	휠체어 사용법 튜토리얼, 간병 실검색
+1895	travel_tourism	Wildlife Calendar	야생동물 관찰 시즌 캘린더
+1896	travel_tourism	Wildlife Directory	생태 투어 디렉터리 도구
+1897	travel_tourism	Wildlife Finder	야생동물 관찰지 검색 도구
+1898	travel_tourism	Wildlife Followup	투어 사후 안내로 짐작 가능
+1899	travel_tourism	Wildlife Handbook	투어 핸드북으로 짐작 가능
+1900	travel_tourism	Wildlife Journal	야생동물 관찰 저널 도구
+1901	travel_tourism	Wildlife Kiosk	생태 관찰 안내 키오스크
+1902	travel_tourism	Wildlife Locator	야생동물 관찰지 탐색 도구
+1903	travel_tourism	Wildlife Ops	생태 투어 운영 관리 도구
+1904	travel_tourism	Wildlife Planner	야생동물 관람 투어 계획 도구로 짐작 가능
+1905	travel_tourism	Wildlife Playbook	생태 투어 운영 플레이북
+1906	travel_tourism	Wildlife Post	생태 관찰 기록 게시 도구
+1907	travel_tourism	Wildlife Questionnaire	투어 선호 설문 관리로 짐작 가능
+1908	travel_tourism	Wildlife Register	야생동물 관찰 기록 대장 도구
+1909	travel_tourism	Wildlife Registry	야생동물 관찰 등록부 도구
+1910	travel_tourism	Wildlife Scheduler	야생동물 관람 일정 도구로 짐작 가능
+1911	travel_tourism	Wildlife Tutorial	야생동물 투어 준비 튜토리얼, 소비자 실검색
+1912	travel_tourism	Winery Bill	와이너리 청구 도구
+1913	travel_tourism	Winery Calendar	테이스팅 예약 일정으로 짐작 가능
+1914	travel_tourism	Winery Directory	와이너리 목록 디렉토리로 짐작 가능
+1915	travel_tourism	Winery Estimate	와이너리 생산·판매 견적 도구
+1916	travel_tourism	Winery Finder	와이너리 검색 도구로 짐작 가능
+1917	travel_tourism	Winery Index	와인 재고·컬렉션 색인 도구
+1918	travel_tourism	Winery Journal	방문 일지로 짐작 가능
+1919	travel_tourism	Winery Locator	와이너리 검색 도구로 짐작 가능
+1920	travel_tourism	Winery Order	와이너리 주문 관리 도구
+1921	travel_tourism	Winery Planner	테이스팅·방문 계획 도구로 짐작 가능
+1922	travel_tourism	Winery Playbook	와이너리 운영 플레이북으로 짐작 가능
+1923	travel_tourism	Winery Receipt	와이너리 영수증 관리 도구
+1924	travel_tourism	Winery Reminder	와인 정기배송 알림 도구
+1925	travel_tourism	Winery Scheduler	테이스팅 예약 일정 도구로 짐작 가능
+1926	travel_tourism	Winery Ticket	와인 시음 티켓 도구
+1927	travel_tourism	Winery Timeline	와인 제조 공정 타임라인 도구
+1928	media_publishing	Writer Handbook	글쓰기 실무 핸드북으로 짐작 가능
+1929	media_publishing	Writer Tutorial	글쓰기 튜토리얼, 소비자 실검색
+1930	travel_tourism	Yacht Calendar	요트 예약 일정으로 짐작 가능
+1931	travel_tourism	Yacht Card	요트클럽 멤버십 카드 도구
+1932	travel_tourism	Yacht Check	요트 출항 전 점검 도구
+1933	travel_tourism	Yacht Directory	요트 투어 목록 디렉토리로 짐작 가능
+1934	travel_tourism	Yacht Finder	요트 투어 검색 도구로 짐작 가능
+1935	travel_tourism	Yacht Form	요트 예약 폼 도구
+1936	travel_tourism	Yacht Handbook	요트 대여 안내 핸드북으로 짐작 가능
+1937	travel_tourism	Yacht Journal	요트 항해 일지로 짐작 가능
+1938	travel_tourism	Yacht Locator	요트 투어 검색 도구로 짐작 가능
+1939	travel_tourism	Yacht Log	요트 운항 기록지 도구
+1940	travel_tourism	Yacht Planner	요트 코스 계획 도구로 짐작 가능
+1941	travel_tourism	Yacht Playbook	요트 투어 운영 플레이북으로 짐작 가능
+1942	travel_tourism	Yacht Questionnaire	대여 선호 설문 관리로 짐작 가능
+1943	travel_tourism	Yacht Report	요트 대여 운영 리포트 도구
+1944	travel_tourism	Yacht Scheduler	요트 대절 예약 일정으로 짐작 가능
+1945	travel_tourism	Yacht Status	요트 정비·운항 상태 추적 도구
+1946	travel_tourism	Yacht Timetable	요트 대여 일정표로 짐작 가능
+1947	travel_tourism	Yacht Tutorial	요트 조종 튜토리얼, 소비자 실검색
+1948	fitness_wellness	Yoga Handbook	요가 핸드북으로 짐작 가능
+1949	fitness_wellness	Yoga Timetable	요가 수업 예약 일정표로 짐작 가능
+1950	fitness_wellness	Yoga Tutorial	요가 강의 튜토리얼, fitness 실검색
+1951	travel_tourism	Kayaking Flyer	카약 투어 홍보 전단

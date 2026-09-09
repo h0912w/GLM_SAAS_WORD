@@ -1,0 +1,200 @@
+Waste Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Dessert Relay	R	F	T	T	0.7	Relay 불성립
+Takeout Console	R	F	T	T	0.7	Console 불성립
+Brunch Locator	A	T	T	T	0.6	매장 위치 검색기(store locator)로 짐작 가능
+Bakery Score	R	F	T	T	0.7	Score 다의어(점수 악보) 불명확
+Pastry Table	R	F	T	T	0.65	Table 다의어(표 탁자) 불명확
+Bagel Cost	R	F	T	T	0.7	비용 결합 불성립
+Donut Category	R	F	T	T	0.7	Category 불성립
+Espresso Graph	R	F	T	T	0.7	Graph 불성립
+Latte Announcement	R	F	T	T	0.7	공지 내용 불명
+Toothbrush Converter	R	F	T	T	0.65	변환 대상 불명
+Snorkeling Estimator	R	F	T	T	0.65	계산 대상 불명
+Cocktail Result	R	F	T	T	0.7	결과 결합 불성립
+Toothpaste Streak	R	F	T	T	0.7	연속 기록 결합 불성립
+Kayaking Comparison	R	F	T	T	0.7	비교 결합 불성립
+Barista Reference	R	F	T	T	0.7	참조 결합 불성립
+Mouthwash Forecast	R	F	T	T	0.7	예측 대상 불명
+Waterfall Volume	R	F	T	T	0.7	Volume 불명확
+Pub Rating	A	T	T	T	0.6	펍 평점 후기 수집으로 짐작 가능
+Mouthguard Agreement	R	F	T	T	0.7	합의 대상 불명
+Sunset Account	R	F	T	T	0.7	계정 대상 불명
+Steakhouse Ping	R	F	T	T	0.7	Ping 불성립
+Smile Model	R	F	T	T	0.65	Model 다의어(모형) 불명확
+Waterfront Eligibility	R	F	T	T	0.7	적격성 결합 불성립
+Sushi Invoice	A	T	T	T	0.6	계산서 발행으로 짐작 가능
+Breath Renewal	R	F	T	T	0.65	갱신 결합 약함
+Boardwalk Warranty	R	F	T	T	0.7	보증 대상 불명
+Taco Revision	R	F	T	T	0.7	수정 대상 불명
+Snoring Payment	R	F	T	T	0.65	결제 결합 약함
+Beachfront Simulator	R	F	T	T	0.7	시뮬레이터 대상 불명
+Noodle Recipe	R	F	T	T	0.7	Recipe 다의어(요리법), 결합 불성립
+Bite Video	R	F	T	T	0.65	Bite 다의어(교합 간식), 대상 불명
+Skyline Refund	R	F	T	T	0.65	환불 결합 약함
+Seafood Claim	A	T	T	T	0.6	고객 클레임 처리로 짐작 가능
+Dentist Onboarding	A	T	T	T	0.6	신규 환자 온보딩으로 짐작 가능
+Backpacker Size	R	F	T	T	0.7	Size 불명확
+Orthodontist Range	R	F	T	T	0.7	Range 불명확
+Parasailing Type	R	F	T	T	0.7	Type 불명확
+Hygienist Depth	R	F	T	T	0.7	Depth 불명확
+Wildlife Width	R	F	T	T	0.7	Width 불명확
+Floss Load	R	F	T	T	0.7	Load 불명확
+Lagoon Wattage	R	F	T	T	0.7	Wattage 불명확
+Tartar Compatibility	R	F	T	T	0.7	Compatibility 불명확
+Glacier Usage	R	F	T	T	0.7	Usage 불명확
+Fluoride Episode	R	F	T	T	0.7	Episode 불명확
+Volcano Breakdown	R	F	T	T	0.7	Breakdown 다의어(고장 세부) 불성립
+Sealant Followup	A	T	T	T	0.6	치료 후속 관리로 짐작 가능
+Daytrip Matrix	R	F	T	T	0.7	Matrix 불성립
+Gingivitis Utilization	R	F	T	T	0.7	가동률 대상 불명
+Yacht Requirement	R	F	T	T	0.7	요건 결합 불성립
+Bruxism Hazard	R	F	T	T	0.7	위험 결합 불성립
+Promenade Tuner	R	F	T	T	0.7	튜너 대상 불명
+Otoscope Tutorial	R	F	T	T	0.65	실물 검진 기구 결합, 소프트웨어 불명
+Claimant Handbook	A	T	T	T	0.6	보험 청구 절차 핸드북으로 짐작 가능
+Halitosis Timetable	A	T	T	T	0.6	구취 관리 일정표로 짐작 가능
+Smoke Opinion	R	F	T	T	0.7	소견 결합 불성립
+Rainforest Gift	R	F	T	T	0.7	선물 결합 불성립
+Speculum Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Underwriter Tournament	R	F	T	T	0.75	대회 결합 불성립
+Periodontitis Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Desert Flow	R	F	T	T	0.7	Flow 불성립
+Malocclusion Desk	R	F	T	T	0.75	Desk는 실물 공간 결합
+Winery Relay	R	F	T	T	0.7	Relay 불성립
+Endodontics Compass	R	F	T	T	0.7	Compass 불성립
+Periodontics Cascade	R	F	T	T	0.7	Cascade 불성립
+Hire Gift	R	F	T	T	0.7	선물 결합 불성립
+Expo Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Roadtest Tournament	R	F	T	T	0.75	대회 결합 불성립
+Freezer Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Cafe Due	R	F	T	T	0.7	Due 불명확
+Diner Checker	R	F	T	T	0.65	검사 대상 불명
+Bistro Match	R	F	T	T	0.7	매칭 대상 불명
+Pizzeria Inventory	A	T	T	T	0.6	재료 재고 관리로 짐작 가능
+Deli Breakdown	R	F	T	T	0.7	Breakdown 다의어(고장 세부) 불성립
+Surgery Tutorial	A	T	T	T	0.65	수술·진료 학습 튜토리얼, 소비자 실검색
+Weighbridge Timetable	A	T	T	T	0.6	지상저울 계량 일정표로 짐작 가능
+Lapse Gift	R	F	T	T	0.7	선물 결합 불성립
+Promotion Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Concrete Tournament	R	F	T	T	0.75	대회 결합 불성립
+Orientation Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Dessert Vault	R	F	T	T	0.7	저장고 결합 불성립
+Takeout Panel	R	F	T	T	0.65	Panel 다의어(패널 위원회) 불명확
+Brunch Finder	A	T	T	T	0.6	매장 검색기로 짐작 가능
+Bakery Note	R	F	T	T	0.65	Note 다의어(메모 음표) 불명확
+Pastry Slip	R	F	T	T	0.65	Slip 다의어(전표 미끄러짐) 불명확
+Bagel Price	R	F	T	T	0.7	가격 결합 불성립
+Donut Attribute	R	F	T	T	0.7	속성 결합 불성립
+Espresso Label	R	F	T	T	0.7	Label 불성립
+Latte Calculator	A	T	T	T	0.6	음료 가격·원가 계산기로 짐작 가능
+Toothbrush Generator	R	F	T	T	0.7	생성 대상 불명
+Snorkeling Checker	R	F	T	T	0.65	검사 대상 불명
+Cocktail Streak	R	F	T	T	0.7	연속 기록 결합 불성립
+Toothpaste Rank	R	F	T	T	0.7	순위 결합 불성립
+Kayaking Proposal	R	F	T	T	0.7	제안 결합 불성립
+Barista Forecast	R	F	T	T	0.7	예측 대상 불명
+Mouthwash Deadline	R	F	T	T	0.7	기한 결합 불성립
+Waterfall Diagnostic	R	F	T	T	0.7	진단 대상 불명
+Pub Agreement	R	F	T	T	0.7	합의 대상 불명
+Mouthguard Reply	R	F	T	T	0.7	회신 결합 불성립
+Sunset Case	R	F	T	T	0.7	Case 다의어(가방) 불성립
+Steakhouse Model	R	F	T	T	0.7	Model 다의어(모형) 불명확
+Smile Availability	R	F	T	T	0.65	Smile 다의어·브랜드 위험, 대상 불명
+Waterfront Broadcast	R	F	T	T	0.7	방송 대상 불명
+Sushi Renewal	A	T	T	T	0.6	단골 멤버십 갱신으로 짐작 가능
+Breath Quote	R	F	T	T	0.65	견적 결합 약함
+Boardwalk Deposit	A	T	T	T	0.6	명소 예약금 관리로 짐작 가능
+Taco Payment	A	T	T	T	0.6	주문 결제 관리로 짐작 가능
+Snoring Verification	R	F	T	T	0.7	검증 대상 불명
+Beachfront Predictor	R	F	T	T	0.65	예측 대상 불명
+Noodle Video	A	T	T	T	0.6	식당 소개 영상으로 짐작 가능
+Bite Diary	R	F	T	T	0.65	Bite 다의어(교합 간식), 대상 불명
+Skyline Expense	R	F	T	T	0.7	비용 결합 불성립
+Seafood Onboarding	A	T	T	T	0.6	신규 직원·고객 온보딩으로 짐작 가능
+Dentist Checkin	A	T	T	T	0.6	환자 접수 체크인으로 짐작 가능
+Backpacker Length	R	F	T	T	0.7	Length 불명확
+Orthodontist Limit	R	F	T	T	0.7	Limit 불명확
+Parasailing Clock	R	F	T	T	0.7	Clock 불명확
+Hygienist Height	R	F	T	T	0.7	Height 불명확
+Wildlife Temperature	R	F	T	T	0.7	Temperature 불명확
+Floss Voltage	R	F	T	T	0.7	Voltage 불명확
+Lagoon Brightness	R	F	T	T	0.7	Brightness 불명확
+Tartar Capacity	R	F	T	T	0.7	Capacity 불명확
+Glacier Condition	R	F	T	T	0.7	Condition 다의어(상태 약관) 불명확
+Fluoride Cycle	R	F	T	T	0.7	Cycle 다의어(주기) 불성립
+Volcano Sensor	R	F	T	T	0.7	센서 대상 불명
+Sealant Approval	R	F	T	T	0.7	승인 대상 불명
+Daytrip Evaluation	R	F	T	T	0.7	평가 대상 불명
+Gingivitis Benefit	R	F	T	T	0.7	수혜 대상 불명
+Yacht Depreciation	R	F	T	T	0.7	감가상각 대상 불명
+Bruxism Guarantor	A	T	T	T	0.6	보험 청구 보증인 관리로 짐작 가능
+Promenade Tutorial	R	F	T	T	0.65	산책로 결합 약함, 실검색 희박
+Otoscope Handbook	R	F	T	T	0.65	실물 검진 기구 결합, 소프트웨어 불명
+Claimant Timetable	A	T	T	T	0.6	청구 처리 일정표로 짐작 가능
+Halitosis Opinion	R	F	T	T	0.7	소견 결합 불성립
+Smoke Gift	R	F	T	T	0.7	선물 결합 불성립
+Rainforest Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Speculum Tournament	R	F	T	T	0.75	대회 결합 불성립
+Underwriter Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Periodontitis Tracker	R	F	T	T	0.65	추적 대상 불명
+Desert Hub	R	F	T	T	0.7	Hub 불성립
+Malocclusion Radar	R	F	T	T	0.7	Radar 불성립
+Winery Vault	R	F	T	T	0.7	저장고 결합 불성립
+Endodontics Beacon	R	F	T	T	0.7	Beacon 불성립
+Periodontics Bridge	R	F	T	T	0.7	Bridge 불성립
+Banquet Tournament	R	F	T	T	0.75	대회 결합 불성립
+Advisor Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Quarter Tutorial	R	F	T	T	0.65	Quarter 다의어(분기 동전), 결합 약함
+Mayor Handbook	R	F	T	T	0.65	시장 결합, 소프트웨어 불명
+Article Timetable	R	F	T	T	0.65	Article은 콘텐츠 형태 명사, 결합 불성립
+Smartphone Opinion	R	F	T	T	0.7	소견 결합 불성립
+Case Gift	R	F	T	T	0.7	선물 결합 불성립
+Hire Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Expo Tournament	R	F	T	T	0.75	대회 결합 불성립
+Roadtest Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Cafe Subsidy	R	F	T	T	0.7	보조금 결합 불성립
+Diner Detector	R	F	T	T	0.65	감지 대상 불명
+Bistro Validation	R	F	T	T	0.7	검증 대상 불명
+Pizzeria Claim	A	T	T	T	0.6	고객 클레임 처리로 짐작 가능
+Deli Sensor	R	F	T	T	0.7	센서 대상 불명
+Recital Tutorial	A	T	T	T	0.65	연주회 준비 튜토리얼, 소비자 실검색
+Surgery Handbook	A	T	T	T	0.6	수술·진료 핸드북으로 짐작 가능
+Weighbridge Opinion	R	F	T	T	0.7	소견 결합 불성립
+Lapse Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Promotion Tournament	R	F	T	T	0.75	대회 결합 불성립
+Concrete Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Dessert Compass	R	F	T	T	0.7	Compass 불성립
+Takeout Scale	R	F	T	T	0.65	Scale 다의어(저울 규모) 불명확
+Brunch Office	R	F	T	T	0.75	Office는 실물 공간 결합
+Bakery Tag	R	F	T	T	0.7	Tag 불성립
+Pastry Sample	R	F	T	T	0.65	Sample 다의어(샘플 시식) 불명확
+Bagel Fare	R	F	T	T	0.65	Fare 다의어(요금 음식) 불명확
+Donut Field	R	F	T	T	0.7	Field 불성립
+Espresso Manual	A	T	T	T	0.6	에스프레소 머신 취급 매뉴얼로 짐작 가능
+Latte Converter	R	F	T	T	0.7	변환 대상 불명
+Toothbrush Recorder	R	F	T	T	0.65	기록 대상 불명
+Snorkeling Detector	R	F	T	T	0.65	감지 대상 불명
+Cocktail Rank	R	F	T	T	0.7	순위 결합 불성립
+Toothpaste Trend	R	F	T	T	0.65	트렌드 대상 불명
+Kayaking Guarantee	R	F	T	T	0.7	보증 대상 불명
+Barista Deadline	R	F	T	T	0.7	기한 결합 불성립
+Mouthwash Duration	R	F	T	T	0.7	Duration 불명확
+Waterfall Progress	R	F	T	T	0.7	진행 대상 불명
+Pub Reply	R	F	T	T	0.7	회신 결합 불성립
+Mouthguard Account	R	F	T	T	0.7	계정 대상 불명
+Sunset Match	R	F	T	T	0.7	매칭 대상 불명
+Steakhouse Availability	A	T	T	T	0.6	매장 예약 가능 조회로 짐작 가능
+Smile Eligibility	R	F	T	T	0.65	Smile 다의어·브랜드 위험, 대상 불명
+Waterfront Barcode	R	F	T	T	0.7	대상 불명
+Sushi Quote	A	T	T	T	0.6	케이터링 견적 발행으로 짐작 가능
+Breath Warranty	R	F	T	T	0.7	보증 대상 불명
+Boardwalk Certification	R	F	T	T	0.7	인증 대상 불명
+Taco Verification	R	F	T	T	0.7	검증 대상 불명
+Snoring Simulator	R	F	T	T	0.65	시뮬레이터 대상 불명
+Beachfront Seal	R	F	T	T	0.7	Seal 의미 불명확
+Noodle Diary	A	T	T	T	0.6	영업 일지로 짐작 가능
+Bite Refund	R	F	T	T	0.65	Bite 다의어(교합 간식), 대상 불명
+Skyline Newsletter	A	T	T	T	0.6	명소 소식 뉴스레터 발송으로 짐작 가능
+Seafood Checkin	A	T	T	T	0.6	예약 체크인으로 짐작 가능
+Dentist Size	R	F	T	T	0.7	Size 불명확
+Backpacker Weight	R	F	T	T	0.7	Weight 불명확

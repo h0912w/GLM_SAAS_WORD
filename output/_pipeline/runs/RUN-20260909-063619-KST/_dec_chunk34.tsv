@@ -1,0 +1,200 @@
+Snorkeling Distance	R	F	T	T	0.7	Distance 불명확
+Cocktail Height	R	F	T	T	0.7	Height 불명확
+Toothpaste Width	R	F	T	T	0.65	대상 불명
+Kayaking Load	R	F	T	T	0.7	Load 불명확
+Barista Capacity	R	F	T	T	0.7	Capacity 불명확
+Mouthwash Usage	R	F	T	T	0.65	대상 불명
+Waterfall Episode	R	F	T	T	0.7	Episode 불명확
+Pub Approval	R	F	T	T	0.7	승인 대상 불명
+Mouthguard Matrix	R	F	T	T	0.65	대상 불명
+Sunset Questionnaire	A	T	T	T	0.6	투어 선호 설문으로 짐작 가능
+Steakhouse Resignation	R	F	T	T	0.7	사직 결합 불성립
+Smile Hazard	R	F	T	T	0.65	Smile 다의어·브랜드 위험, 대상 불명
+Waterfront Tuner	R	F	T	T	0.7	튜너 대상 불명
+Choir Tutorial	A	T	T	T	0.65	합창 연습 튜토리얼, music 실검색
+Breathing Handbook	A	T	T	T	0.6	호흡법 핸드북으로 짐작 가능
+Retirement Timetable	R	F	T	T	0.65	퇴직 일정 결합 약함
+Umbrella Opinion	R	F	T	T	0.7	소견 결합 불성립
+Sushi Gift	R	F	T	T	0.7	선물 결합 불성립
+Breath Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Boardwalk Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Taco Radar	R	F	T	T	0.7	Radar 불성립
+Snoring Relay	R	F	T	T	0.7	Relay 불성립
+Beachfront Compass	R	F	T	T	0.7	Compass 불성립
+Noodle Bridge	R	F	T	T	0.7	Bridge 불성립
+Bite Signal	R	F	T	T	0.65	Bite 다의어, Signal 불성립
+Skyline Scope	R	F	T	T	0.65	Skyline 브랜드 위험, Scope 다의어 불명확
+Seafood Path	R	F	T	T	0.7	Path 불성립
+Dentist Point	R	F	T	T	0.7	Point 불성립
+Backpacker Frame	R	F	T	T	0.75	Frame은 실물 골조 결합
+Orthodontist Board	R	F	T	T	0.7	Board 다의어(이사회 판) 불명확
+Parasailing Studio	R	F	T	T	0.75	Studio는 실물 공간 결합
+Hygienist Center	R	F	T	T	0.75	Center는 실물 공간 결합
+Wildlife Portal	R	F	T	T	0.7	Portal 불성립
+Floss Scale	R	F	T	T	0.65	Scale 다의어(저울 규모) 불명확
+Lagoon Rail	R	F	T	T	0.7	Rail 불성립
+Tartar Ring	R	F	T	T	0.65	Ring 다의어(반지 링) 불명확
+Glacier Nexus	R	F	T	T	0.7	Nexus 불성립
+Fluoride Manager	R	F	T	T	0.7	Manager 불성립
+Volcano Assistant	R	F	T	T	0.7	Assistant는 결합 불명확
+Sealant Monitor	R	F	T	T	0.7	모니터 대상 불명
+Daytrip Register	R	F	T	T	0.75	Register는 실물 대장·기계 결합
+Gingivitis Journal	R	F	T	T	0.65	치은염 전문용어, 결합 약함
+Yacht Calendar	A	T	T	T	0.6	요트 예약 일정으로 짐작 가능
+Bruxism Finder	R	F	T	T	0.65	치아 전문용어, 결합 약함
+Promenade Counter	R	F	T	T	0.75	Counter는 실물 카운터 결합
+Halitosis Bay	R	F	T	T	0.65	구취 전문용어, Bay 불성립
+Rainforest Harbor	R	F	T	T	0.7	Harbor 불성립
+Periodontitis Chart	R	F	T	T	0.7	Chart 불성립
+Desert Passport	R	F	T	T	0.65	Passport 다의어(여권), 결합 불명확
+Malocclusion Ticker	R	F	T	T	0.7	치아 전문용어, Ticker 불성립
+Winery Window	R	F	T	T	0.65	Window 다의어(창 틈) 불명확
+Endodontics Report	R	F	T	T	0.7	Report 불성립
+Periodontics Card	R	F	T	T	0.65	치주 전문용어, Card 다의어 불명확
+Keyway Tutorial	A	T	T	T	0.65	열쇠 홈 가공 튜토리얼, locksmith 실무어
+Glossary Handbook	A	T	T	T	0.6	용어집 작성 핸드북으로 짐작 가능
+Move Timetable	R	F	T	T	0.65	이사 일정 결합 약함
+Shoot Opinion	R	F	T	T	0.7	소견 결합 불성립
+Ceremony Gift	R	F	T	T	0.7	선물 결합 불성립
+Violation Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Chlorine Tournament	R	F	T	T	0.75	대회 결합 불성립
+Wash Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Callout Timetable	R	F	T	T	0.65	Callout 다의어, 일정 불명
+Safe Opinion	R	F	T	T	0.7	소견 결합 불성립
+Backdrop Tournament	R	F	T	T	0.75	대회 결합 불성립
+Photographer Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Marina Tutorial	A	T	T	T	0.65	마리나 정박 이용 튜토리얼, maritime 실무어
+Runway Handbook	R	F	T	T	0.65	Runway 다의어(활주로 패션 무대), 대상 불명
+Quarry Timetable	R	F	T	T	0.65	채석 일정 결합 약함
+Condenser Opinion	R	F	T	T	0.7	소견 결합 불성립
+Biometric Gift	R	F	T	T	0.7	선물 결합 불성립
+Multilingual Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Cafe Broadcast	R	F	T	T	0.7	방송 대상 불명
+Diner Range	R	F	T	T	0.7	Range 불명확
+Bistro Benefit	R	F	T	T	0.7	수혜 대상 불명
+Lever Tutorial	A	T	T	T	0.65	레버 잠금장치 튜토리얼, locksmith 실무어
+Consecutive Handbook	R	F	T	T	0.65	Consecutive는 형용사 단독, 대상 불명
+Haul Timetable	R	F	T	T	0.65	운반 일정 결합 약함
+Aisle Gift	R	F	T	T	0.7	선물 결합 불성립
+Backyard Tournament	R	F	T	T	0.75	대회 결합 불성립
+Spot Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Pizzeria Wave	R	F	T	T	0.7	Wave 불성립
+Deli Assistant	R	F	T	T	0.7	Assistant는 결합 불명확
+Dessert Roll	R	F	T	T	0.65	Roll 다의어(말다 명단) 불명확
+Takeout Code	R	F	T	T	0.65	Code 다의어(부호 법령) 불명확
+Brunch Cost	R	F	T	T	0.7	Cost 불성립
+Bakery Attribute	R	F	T	T	0.7	Attribute 불성립
+Pastry Worksheet	R	F	T	T	0.7	Worksheet 불성립
+Bagel Guardian	R	F	T	T	0.7	Guardian 불성립
+Donut Agreement	R	F	T	T	0.7	합의 대상 불명
+Espresso Correction	R	F	T	T	0.7	수정 대상 불명
+Latte Checkin	A	T	T	T	0.6	손님 체크인으로 짐작 가능
+Toothbrush Length	R	F	T	T	0.7	Length 불명확
+Snorkeling Range	R	F	T	T	0.7	Range 불명확
+Cocktail Width	R	F	T	T	0.7	Width 불명확
+Toothpaste Temperature	R	F	T	T	0.65	대상 불명
+Kayaking Voltage	R	F	T	T	0.7	Voltage 불명확
+Barista Usage	R	F	T	T	0.7	Usage 불명확
+Mouthwash Condition	R	F	T	T	0.65	대상 불명
+Waterfall Cycle	R	F	T	T	0.7	Cycle 다의어(주기) 불성립
+Pub Matrix	R	F	T	T	0.7	Matrix 불성립
+Mouthguard Evaluation	R	F	T	T	0.65	대상 불명
+Sunset Utilization	R	F	T	T	0.7	가동률 대상 불명
+Steakhouse Hazard	R	F	T	T	0.7	위험 결합 불성립
+Smile Guarantor	R	F	T	T	0.65	Smile 다의어·브랜드 위험, 대상 불명
+Waterfront Tutorial	R	F	T	T	0.65	튜토리얼 대상 불명확(장소)
+Choir Handbook	A	T	T	T	0.6	합창 핸드북으로 짐작 가능
+Breathing Timetable	R	F	T	T	0.65	호흡 일정 결합 약함
+Retirement Opinion	R	F	T	T	0.7	소견 결합 불성립
+Umbrella Gift	R	F	T	T	0.7	선물 결합 불성립
+Sushi Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Breath Tournament	R	F	T	T	0.75	대회 결합 불성립
+Boardwalk Tracker	R	F	T	T	0.65	추적 대상 불명
+Taco Relay	R	F	T	T	0.7	Relay 불성립
+Snoring Vault	R	F	T	T	0.7	저장고 결합 불성립
+Beachfront Beacon	R	F	T	T	0.7	Beacon 불성립
+Noodle Signal	R	F	T	T	0.7	Signal 불성립
+Bite Watch	R	F	T	T	0.65	Bite 다의어, Watch 다의어 불명확
+Skyline Loop	R	F	T	T	0.65	Skyline 브랜드 위험, Loop 불성립
+Seafood Point	R	F	T	T	0.7	Point 불성립
+Dentist Map	R	F	T	T	0.7	Map 불성립
+Backpacker Base	R	F	T	T	0.65	Base 다의어(기지 밑동) 불명확
+Orthodontist Deck	R	F	T	T	0.7	Deck 다의어(갑판 층) 불성립
+Parasailing Lab	R	F	T	T	0.75	Lab는 실물 실험실 결합
+Hygienist Zone	R	F	T	T	0.7	Zone 불성립
+Wildlife Console	R	F	T	T	0.75	Console은 실물 가구·기계 결합
+Floss Route	R	F	T	T	0.7	Route 불성립
+Lagoon Trail	R	F	T	T	0.7	Trail 불성립
+Tartar Gate	R	F	T	T	0.7	Gate 불성립
+Glacier Atlas	R	F	T	T	0.7	Atlas 불성립
+Fluoride Engine	R	F	T	T	0.7	Engine 불성립
+Volcano Planner	R	F	T	T	0.7	Planner 결합 약함
+Sealant Companion	R	F	T	T	0.7	Companion는 동반 결합 불명확
+Daytrip Ops	R	F	T	T	0.7	Ops 불성립
+Gingivitis Registry	R	F	T	T	0.65	치은염 전문용어, Registry 다의어 불명확
+Yacht Directory	A	T	T	T	0.6	요트 투어 목록 디렉토리로 짐작 가능
+Bruxism Office	R	F	T	T	0.75	Office는 실물 공간 결합
+Promenade Booth	R	F	T	T	0.75	Booth는 실물 공간 결합
+Halitosis Post	R	F	T	T	0.65	구취 전문용어, Post 다의어 불명확
+Rainforest Roster	R	F	T	T	0.65	투어 명단 결합 약함
+Periodontitis Bin	R	F	T	T	0.75	Bin는 실물 통 결합
+Desert Lobby	R	F	T	T	0.75	Lobby는 실물 공간 결합
+Malocclusion Line	R	F	T	T	0.65	치아 전문용어, Line 다의어 불명확
+Winery Roll	R	F	T	T	0.65	Roll 다의어(말다 명단) 불명확
+Endodontics Log	R	F	T	T	0.65	치아 전문용어, 기록 대상 불명
+Periodontics Sheet	R	F	T	T	0.65	치주 전문용어, Sheet 다의어 불명확
+Keyway Handbook	A	T	T	T	0.6	열쇠 홈 가공 핸드북으로 짐작 가능
+Glossary Timetable	R	F	T	T	0.65	용어집 일정 결합 약함
+Move Opinion	R	F	T	T	0.7	소견 결합 불성립
+Shoot Gift	R	F	T	T	0.7	선물 결합 불성립
+Ceremony Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Violation Tournament	R	F	T	T	0.75	대회 결합 불성립
+Chlorine Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Callout Opinion	R	F	T	T	0.7	소견 결합 불성립
+Safe Gift	R	F	T	T	0.7	선물 결합 불성립
+Backdrop Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Pharmacist Tutorial	R	F	T	T	0.65	Pharmacist는 사람 지칭, 학습 대상 불명
+Marina Handbook	A	T	T	T	0.6	마리나 이용 핸드북으로 짐작 가능
+Runway Timetable	R	F	T	T	0.65	Runway 다의어, 일정 불명
+Quarry Opinion	R	F	T	T	0.7	소견 결합 불성립
+Condenser Gift	R	F	T	T	0.7	선물 결합 불성립
+Biometric Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Multilingual Tournament	R	F	T	T	0.75	대회 결합 불성립
+Cafe Barcode	R	F	T	T	0.7	바코드 대상 불명
+Diner Limit	R	F	T	T	0.7	Limit 불명확
+Bistro Requirement	R	F	T	T	0.7	요건 결합 불성립
+Flue Tutorial	A	T	T	T	0.65	굴뚝 연도 점검 튜토리얼, HVAC 실무어
+Lever Handbook	A	T	T	T	0.6	레버 잠금장치 핸드북으로 짐작 가능
+Consecutive Timetable	R	F	T	T	0.65	Consecutive는 형용사 단독, 일정 불명
+Haul Opinion	R	F	T	T	0.7	소견 결합 불성립
+Aisle Retreat	R	F	T	T	0.75	리트리트 결합 불성립
+Backyard Flyer	R	F	T	T	0.7	전단물 결합은 소프트웨어 불명
+Pizzeria Path	R	F	T	T	0.7	Path 불성립
+Deli Planner	R	F	T	T	0.7	Planner 결합 약함
+Dessert Report	R	F	T	T	0.7	Report 불성립
+Takeout List	R	F	T	T	0.7	List 불성립
+Brunch Price	R	F	T	T	0.7	Price 불성립
+Bakery Field	R	F	T	T	0.7	Field 다의어(들판 분야) 불성립
+Pastry Diagram	R	F	T	T	0.7	Diagram 불성립
+Bagel Helper	R	F	T	T	0.7	Helper 불성립
+Donut Reply	R	F	T	T	0.7	회신 결합 불성립
+Espresso Revision	R	F	T	T	0.7	수정 대상 불명
+Latte Size	R	F	T	T	0.7	Size 불명확
+Toothbrush Weight	R	F	T	T	0.7	Weight 불명확
+Snorkeling Limit	R	F	T	T	0.7	Limit 불명확
+Cocktail Temperature	R	F	T	T	0.7	Temperature 불명확
+Toothpaste Pressure	R	F	T	T	0.65	대상 불명
+Kayaking Wattage	R	F	T	T	0.7	Wattage 불명확
+Barista Condition	R	F	T	T	0.7	Condition 다의어(상태 약관) 불명확
+Mouthwash Humidity	R	F	T	T	0.65	대상 불명
+Waterfall Breakdown	R	F	T	T	0.7	Breakdown 다의어(고장 세부) 불성립
+Pub Evaluation	R	F	T	T	0.7	평가 대상 불명
+Mouthguard Questionnaire	R	F	T	T	0.65	제품 설문 대상 불명
+Sunset Benefit	R	F	T	T	0.7	수혜 대상 불명
+Steakhouse Guarantor	R	F	T	T	0.7	보증인 결합 약함
+Smile Tuner	R	F	T	T	0.65	Smile 다의어·브랜드 위험, 대상 불명
+Rooftop Tutorial	R	F	T	T	0.65	튜토리얼 대상 불명확(장소)
+Waterfront Handbook	R	F	T	T	0.65	핸드북 대상 불명확(장소)
+Choir Timetable	R	F	T	T	0.65	연습 일정 결합 약함
+Breathing Opinion	R	F	T	T	0.7	소견 결합 불성립
+Retirement Gift	R	F	T	T	0.7	선물 결합 불성립
