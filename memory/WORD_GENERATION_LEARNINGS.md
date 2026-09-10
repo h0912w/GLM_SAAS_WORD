@@ -342,8 +342,9 @@ candidate; 최소 반복 근거와 QA를 통과해야 validated로 승격한다"
    같은 하위 범주(회계 상태/차액 추상명사)를 다시 시도해서 또 0%대로
    전멸하는 사례가 한 번 더 나오면(반면교사) `validated`.
 
-10. `candidate` (2026-08-27, RUN-20260827-215348-KST — 이 문서 최초 관측,
-    Diagram이 즉시 전체 기능어 1위로 등극)
+10. `validated` (2026-08-27, RUN-20260827-215348-KST — 이 문서 최초 관측,
+    Diagram이 즉시 전체 기능어 1위로 등극. **2026-09-10 승격
+    candidate→validated**, 승격 내역은 본문 말미 개정 블록 참고)
     **기계·장비·프로세스의 "구조를 시각적으로 보여주는 문서" 계열 명사
     (Diagram/Graph)가 강력한 새 승자 후보다 — 특히 Diagram은 등장 즉시
     역대 전체 1위(7.86%, 기존 1위 Code 6.79%를 앞지름)를 기록했다.**
@@ -370,6 +371,15 @@ candidate; 최소 반복 근거와 QA를 통과해야 validated로 승격한다"
     승자가 아니다**(Flowchart, 그리고 원칙 10 본문의 Manual/Worksheet
     저조가 같은 방향). 이후 제안은 Diagram/Graph 잔여 조합 중심으로 하고,
     Flowchart·Chartflow류 파생 재제안은 하지 않는다.
+    **2026-09-10 승격(candidate→validated, RUN-20260910-003906-KST)**:
+    승격 조건("다른 라운드에서 독립 재시도해 상위권 유지")이 충족됐다 —
+    2026-08-27 데뷔(7.86%, 32통과) 이후 누적 통과율이 매 리포트에서 전체
+    상위권을 유지했고(2026-09-06 시점 8.18%, 현재 8.13%로 전체 2위),
+    이번 라운드에서도 기계·설비가 아닌 동물·지형 도메인어(Dolphin/Fjord/
+    Geyser)로 3/17(17.6%) 통과해 결합 범위 확장에서도 같은 방향이었다.
+    반례는 Flowchart 은퇴뿐이며 이는 2026-09-06 범위 축소로 이미 처리된
+    경계다. 승격 본체는 Diagram 단일어 관용구 축이고, Graph 축은 이번
+    라운드 시도가 적어 별개 근거 축적으로 남긴다.
 
 11. `validated` (2026-08-27, 서로 다른 두 라운드 — RUN-20260827-223140
     의 Notification 1.69%와 RUN-20260827-225344의 Message 4.49% —
@@ -449,6 +459,16 @@ candidate; 최소 반복 근거와 QA를 통과해야 validated로 승격한다"
    근거(logistics·healthcare 2라운드)로는 유효하지만, 이런 유형의 업계를
    확장할 때는 일상어/내부자어 구분 없이 소비자 실제 검색어인지를 먼저
    확인하고, 역전 사례가 관측되면 이 원칙에 업계 유형 단서를 추가할 것.
+   **2026-09-10 B2C 임상어 단서 실측(RUN-20260910-003906-KST)**: 위 단서가
+   예측한 "환자가 직접 찾는 진단명" 축을 healthcare 임상 도메인어 19개
+   (Migraine/Insomnia/Acne/Eczema/Psoriasis 등)로 실측했다. AI 승인은 다수
+   (가이드·계산기·기록 도구로 판정 통과)였으나 KP통과 0 — 검사 130건 중
+   44건이 검색량은 확보했지만 경쟁지수>0 탈락이었다. 즉 소비자 실검색
+   임상어는 "검색량 부족" 경로가 아니라 **경쟁 존재** 경로로 탈락한다 —
+   소비자 건강 카테고리는 광고 경쟁이 치열해 경쟁지수 0 게이트와 근본적으로
+   상성이 나쁘다. 원칙 본문(내부자 용어가 일상어보다 저조)은 유효하되,
+   소비자 실검색어라도 이 파이프라인의 게이트에서는 가치가 없을 수 있음을
+   단서로 남긴다. 임상 도메인어 추가 대량 확장은 보류.
 
 14. `validated` (2026-09-05 RUN-20260905-195649-KST 최초 관측, 2026-09-09
     principle_reverification RUN-20260908-214143-KST 반영으로 승격 —
@@ -489,6 +509,11 @@ candidate; 최소 반복 근거와 QA를 통과해야 validated로 승격한다"
     28.6%의 주요 기여분)이었음에도 KP 통과 0 → 은퇴 확정. "소비자 실검색
     콘텐츠 형식" vs "추상 상호작용 명사"의 대비가 이 원칙의 예측력을
     다시 확인했다.
+    **2026-09-10 후속 재현(RUN-20260910-003906-KST)**: 신규 기능어 Tips가
+    첫 실측에서 8통과(308 시도, 2.6%) — Network Tips 165,000/월(이번
+    라운드 최대이자 역대 상위권), Waiter Tips 4,400, Leave Tips 5,400 등.
+    다섯 번째 독립 단어 재현이며 원칙 18(초일상 관용구 기능어)과 방향
+    일치.
 
 15. `candidate` (2026-09-06, RUN-20260906-022120-KST — 이 문서 최초 관측,
     Type이 등장 즉시 전체 기능어 1위로 등극)
@@ -574,6 +599,23 @@ candidate; 최소 반복 근거와 QA를 통과해야 validated로 승격한다"
     수행한 결과 1차 승인 234건 중 불일치 0건, 레드팀 재검증에서도 사유
     불일치 뒤집기 0건이었다. 결함 발각 관측(RUN-20260907-165913, 31건)과
     절차 적용 무재발 관측(RUN-20260907-230010) 2라운드.
+
+18. `candidate` (2026-09-10, RUN-20260910-003906-KST — 이 문서 최초 관측)
+    **초일상 소비자 관용구 기능어(Tips/App/Login)는 첫 실측부터 통과하고,
+    업무 프로세스 언어 기능어(Analysis/Workbook/Coach/Habit류)는 대량
+    승인에도 0통과다.** 실측(같은 라운드 expand_word_bank로 동시 투입된
+    신규 기능어 11개, KP조회 1,127건): Tips 8/308(2.6%, Network Tips
+    165,000), App 7/305(2.3%), Login 2/23(8.7%, Login 계열 사상 첫 통과)
+    — 이번 라운드 통과 23건 중 20건이 이 3개에서 나왔다. 반면 Analysis
+    0/68, Workbook 0/41, Coach 0/37, Guide 0/30, Kit 0/19 등 업무
+    프로세스 언어는 전멸. Mode/Spec/Quantity는 1차 판정에서 전량 기각돼
+    시장 시험 자체가 없었다(판정 라인이 막은 케이스 — 시장 근거 아님,
+    확대 해석 금지). 이는 원칙 13(일상어 vs 내부자 용어)의 기능어 축
+    버전이자 원칙 14(소비자 실검색 콘텐츠 형식)의 확장으로 읽힌다 —
+    기준은 "사람이 [대상] tips/app/login처럼 실제로 입력하는 단어"냐.
+    **승격 조건**: 다른 라운드에서 인접 초일상 관용구(예: Help/Ideas/
+    Deals류 — 기존 시도어와 겹치지 않는 새 단어)를 독립 시도해 같은
+    방향이 재현되면 `validated`.
 
 ## 라운드별 로그
 
@@ -2666,3 +2708,42 @@ Model/Lot/Availability/Eligibility))
 - **다음 라운드 과제**: dental 양축 격리 비교, Gift/Retreat/Tournament
   재확장 금지 유지, Handbook 후속 실측(누적 1건 — 결론 유보), 추상 상호작용
   명사 재제안 금지(Recommendation/Seminar 은퇴 완료, Opinion은 시도 미달).
+
+### RUN-20260910-003906-KST (2026-09-10) — Tips·App·Login 신규 기능어 첫 실측 20통과 + Network Tips 165,000 (expand_word_bank 있음)
+- **라운드 숫자**: 생성 10,000(1차 판정 청크 50개) / AI 승인 1,127(11.3%,
+  직전 2,855 대비 -60% — 엄격 판정 라인 복귀) / 재검증
+  (review_titles_recheck) 1,131건(이번 승인 1,059 + backlog 72) 중 반박
+  뒤집기 4건 / KP조회 1,127 / KP통과 23(라운드 통과율 0.23% — 라운드
+  역대 최고, 직전 0.11% 대비 +111%). 골든셋 7/7(무트리거), 승인율
+  이상탐지 z=-1.59 정상.
+- **expand_word_bank 82행 적용**: 기능어 11개(App/Tips/Advice/Workbook/
+  Mode/Spec/Quantity/Login/Analysis/Coach/Habit) + 도메인어 71개
+  (healthcare 임상 19, travel 야외활동, legal 실무어 등).
+- **KP통과 23건(전부 경쟁지수 0)**: Network Tips 165,000 / Immigration
+  Portal 110,000 / License App 12,100 / Clubhouse App 9,900 / Canyon
+  Forecast 8,100 / Diving Recorder 6,600 / Leave Tips 5,400 / Waiter Tips
+  4,400 / Shift Tips 3,600 / Photo Tips·Toilet App 2,900 / Archive App·
+  Threat App 2,400 / Dolphin Diagram·Hostel Login·Technician Tips 1,900 /
+  Care Tips·Fjord Diagram 1,600 / Trap App 1,300 / Billing Tips·Geyser
+  Diagram·Location Login·Storytime App 1,000.
+- **신규 기능어 첫 실측 양극화(원칙 18 신설)**: Tips 8/308(2.6%)·App
+  7/305(2.3%)·Login 2/23(8.7%, Login 계열 사상 첫 통과 — Hostel 1,900,
+  Location 1,000) vs Analysis 0/68·Workbook 0/41·Coach 0/37·Guide 0/30·
+  Kit 0/19 전멸. Mode/Spec/Quantity는 1차 판정 전량 기각으로 시장 시험
+  없음(시장 근거 아님).
+- **원칙 10 승격(candidate→validated)**: Diagram 3/17(17.6%) — Dolphin/
+  Fjord/Geyser로 동물·지형 도메인어까지 확장 통과, 누적 8.13%로 전체 2위
+  유지. 승격 조건("다른 라운드 독립 재시도 후 상위권 유지") 충족.
+- **임상 도메인어 탈락 경로 확인(원칙 13 단서)**: healthcare 검사 130건
+  중 44건이 볼륨 확보 후 경쟁지수>0 탈락, 통과 0 — 소비자 실검색 임상어는
+  "검색량 부족"이 아니라 "경쟁 존재"로 탈락. 임상 도메인어 추가 대량
+  확장은 보류.
+- **재검증 반박 4건**: Toast App(유명 SaaS 상표 Toast 레스토랑 POS와
+  혼동 — 상표 열 F, Intercom 상표 라인 선례와 정합), Container Quantity·
+  Welding Quantity(수량 지칭 불분명 — 이번 라운드 Quantity 전면 기각
+  라인과 정합), Guardianship Number(번호 지칭 불분명 — Number 계열 기각
+  선례와 정합). 나머지 1,127건 반박 불성립 유지. 선례 앵커(Patent Timer
+  docketing, Portal 57통과 가계, 공예 Outline/Worksheet 가계)와 충돌 없음.
+- **다음 라운드 과제**: 초일상 관용구 기능어 인접어(Help/Ideas/Deals류)
+  독립 시험(원칙 18 승격 조건), 임상 도메인어 추가 확장 보류, 업무
+  프로세스 기능어(Analysis/Workbook/Coach류) 재제안 금지.
