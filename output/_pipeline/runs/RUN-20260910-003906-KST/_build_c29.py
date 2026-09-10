@@ -1,0 +1,162 @@
+# -*- coding: utf-8 -*-
+import json
+
+base = r"C:\Users\h0912\Sharefolder\Claude_project\GLM_SAAS_WORD\output\_pipeline\runs\RUN-20260910-003906-KST"
+req = json.load(open(base + r"\judgment\review_titles_chunk29_round1_request.json", encoding="utf-8"))
+titles = [it["title"] for it in req["items"]]
+
+A = {
+ "Ballot Login": (0.55, "유권자·조합원 투표 접속 포털(실재)"),
+ "Placement Analysis": (0.6, "광고 지면 배치 분석(실재)"),
+ "Feed Coach": (0.55, "피드 운영 코칭(App→Coach 평행)"),
+ "Court Trend": (0.55, "법원 사건 추이 분석(실재)"),
+ "Lawsuit Handbook": (0.55, "소송 절차 핸드북(Divorce Handbook 평행)"),
+ "Budget App": (0.65, "예산 관리 앱(실재 카테고리)"),
+ "Caption Tips": (0.55, "자막 작성 팁(App→Tips 평행)"),
+ "Recruiter Workbook": (0.55, "채용 담당자 업무 워크북(Idiom Workbook 평행)"),
+ "Gum Analysis": (0.6, "잇몸 상태 분석(실재)"),
+ "Craft Coach": (0.55, "아동 공작 활동 코칭(Homework Coach 평행)"),
+ "Custody Planner": (0.65, "양육 일정 계획 도구(실재 카테고리)"),
+ "Guardianship Checker": (0.55, "후견 자격·요건 확인 도구(실재 판단 도구)"),
+ "Trademark Rating": (0.55, "상표 식별력 평가(실재)"),
+ "Patent Payment": (0.6, "특허 연금료 납부 관리(실재 시장)"),
+ "Playground App": (0.6, "공동주택 놀이터 예약·관리 앱(실재)"),
+ "Casino Tips": (0.55, "카지노 이용 팁(App→Tips 평행)"),
+ "Injury Workbook": (0.55, "부상 회복 워크북(재활 실재)"),
+ "Adjustment Login": (0.55, "보험 조정인 포털 접속(실재)"),
+ "Training Analysis": (0.6, "교육 훈련 성과 분석(LMS 실재)"),
+ "Rafting Diagram": (0.55, "급류 구간 도식(Canyon Diagram 평행)"),
+ "Hypertension Recorder": (0.6, "혈압 수치 기록 도구(실재 카테고리)"),
+ "Glamping Helper": (0.55, "글램핑 예약·준비 도우미(Patent Helper 평행)"),
+ "Constipation Trend": (0.55, "배변 증상 추이 기록(GI 트래커 실재)"),
+ "Concussion Record": (0.55, "뇌진탕 발생 기록 관리(스포츠 안전 실재)"),
+ "Geyser Forecast": (0.6, "간헐천 분출 예측(Old Faithful 실재)"),
+ "Cove Guide": (0.55, "해안 만 입지 가이드(여행 콘텐츠 실재)"),
+ "Vocal App": (0.6, "발성 훈련 앱(실재 카테고리)"),
+ "Leave Login": (0.55, "직원 휴가 신청 포털 접속(실재)"),
+ "Change Analysis": (0.55, "공사 변경 차수 분석(실재 워크플로)"),
+ "Lien App": (0.65, "건설 유치권 관리 앱(실재 시장)"),
+ "Bundle Tips": (0.55, "상품 번들 구성 팁(App→Tips 평행)"),
+ "Ballot Analysis": (0.6, "투표 결과 분석(실재)"),
+ "Placement Coach": (0.55, "광고 배치 전략 코칭(실재)"),
+ "Court Comparison": (0.55, "관할 법원 비교 분석(포럼 선택 실재)"),
+ "Lawsuit Timetable": (0.6, "소송 절차 일정 관리(실재)"),
+ "Prerequisite App": (0.6, "교과 선수과목 관리 앱(실재)"),
+ "Budget Tips": (0.55, "예산 수립 팁(App→Tips 평행)"),
+ "Gum Coach": (0.55, "잇몸 관리 코칭(Dosage Coach 평행)"),
+ "Trademark Agreement": (0.55, "상표 라이선스 계약 관리(Copyright Agreement 평행)"),
+ "Patent Verification": (0.6, "특허 상태 검증(실재)"),
+ "Substitution App": (0.65, "의약품 대체 조회 앱(실재 카테고리)"),
+ "Playground Tips": (0.55, "놀이터 안전·관리 팁(App→Tips 평행)"),
+ "Ensemble Workbook": (0.55, "합주 연습 워크북(Bass Workbook 평행)"),
+ "Renovation Login": (0.55, "리모델링 고객 포털 접속(실재)"),
+ "Adjustment Analysis": (0.6, "보상 처리 데이터 분석(Copay Analysis 평행)"),
+ "Training Coach": (0.55, "직원 교육 코칭(실재 카테고리)"),
+ "Menopause Manual": (0.55, "폐경 관리 매뉴얼(콘텐츠 형식 실재)"),
+ "Fertility Notification": (0.6, "배란·가임기 알림(실재 카테고리)"),
+ "Cholesterol Calculator": (0.65, "콜레스테롤·심혈관 위험 계산기(실검색 실재)"),
+ "Hypertension Estimator": (0.55, "혈압 위험도 추정 도구(ASCVD 실재)"),
+ "Birdwatching Record": (0.6, "조류 관찰 기록 장부(eBird 실재)"),
+ "Marsh Guide": (0.55, "습지 탐방 가이드(여행 콘텐츠 실재)"),
+}
+R_DUP = {
+ "Sentiment Advice": "동일 배치 승인된 Sentiment App/Tips와 동일 기능 의미 중복",
+ "Ensemble Advice": "동일 배치 승인된 Ensemble App/Tips와 동일 기능 의미 중복",
+ "Payment Advice": "동일 배치 승인된 Payment App/Tips와 동일 기능 의미 중복",
+ "Caption Advice": "동일 배치 승인된 Caption App/Tips와 동일 기능 의미 중복",
+ "Casino Advice": "동일 배치 승인된 Casino App/Tips와 동일 기능 의미 중복",
+ "Custody Scheduler": "동일 청크 승인된 Custody Planner와 동일 기능 의미 중복",
+ "Rafting Schematic": "동일 청크 승인된 Rafting Diagram과 동일 도식 의미 중복",
+}
+R = {
+ "Permit Habit": "결합 불성립", "Lawyer Loan": "대출 상품 자체로 제품 불분명",
+ "Attorney Extension": "연장 대상 불분명", "Judge Renewal": "갱신 대상 불분명",
+ "Jury Depth": "결합 불성립", "Feed Habit": "결합 불성립",
+ "Lanyard Mode": "기능 토글로 읽혀 제품 불분명", "Checkup Spec": "결합 불성립",
+ "Cafe Quantity": "수량 대상 불분명", "Flea Login": "결합 불성립",
+ "Dishwasher Habit": "결합 불성립", "Divorce Grid": "결합 불성립",
+ "Immigration Card": "카드 대상 불분명", "Testament Voucher": "결합 불성립",
+ "Notary Allowance": "결합 불성립", "Mediation Markup": "마크업 대상 불분명",
+ "Trademark Template SKIP": "", "Copyright Speed": "결합 불성립",
+ "Creditor Mode": "기능 토글로 읽혀 제품 불분명", "Reefer Spec": "사양 참조로 제품 불분명",
+ "Renovation Quantity": "수량 대상 불분명", "Patio Coach": "코칭 대상 불분명",
+ "Transfer Habit": "결합 불성립", "Migraine Margin": "결합 불성립",
+ "Insomnia Rule": "결합 불성립", "Skydiving Attribute": "결합 불성립",
+ "Acne Field": "결합 불성립", "Snowboarding Signature": "결합 불성립",
+ "Eczema Marker": "표식 대상 불분명", "Ziplining Asset": "자산 대상 불분명",
+ "Psoriasis Levy": "결합 불성립", "Sledding Discount": "판촉 계열 기각 선례",
+ "Vertigo Arrears": "결합 불성립", "Diving Markup": "마크업 대상 불분명",
+ "Arthritis Redemption": "결합 불성립", "Sailing Graph": "그래프 대상 불분명",
+ "Menopause Label": "결합 불성립", "Pregnancy Schematic": "도식 대상 불분명(Pregnancy Diagram 기각 선례)",
+ "Climbing Outline": "개요 대상 불분명", "Fertility Rendering": "결합 불성립",
+ "Biking Count": "카운트 대상 불분명", "Thyroid Message": "결합 불성립",
+ "Golf Repository": "결합 불성립", "Cholesterol Announcement": "결합 불성립",
+ "Fishing Generator": "생성 대상 불분명", "Camping Detector": "탐지 대상 불분명",
+ "Anemia Timer": "결합 불성립", "Heartburn Stage": "단계 대상 불분명",
+ "Stargazing Rank": "결합 불성립", "Birdwatching Guarantee": "결합 불성립",
+ "Canyon Reading": "결합 불성립", "Sprain Reference": "결합 불성립(Fracture Reference 기각 선례)",
+ "Fracture Deadline": "결합 불성립", "Fjord Duration": "결합 불성립",
+ "Insulin Volume": "수량 대상 불분명", "Savanna Diagnostic": "진단 대상 불분명",
+ "Tundra Progress": "결합 불성립", "Prairie Authorization": "결합 불성립",
+ "Marsh Template": "결합 불성립", "Cliff Rating": "평가 대상 불분명",
+ "Cavern Agreement": "결합 불성립", "Oasis Reply": "결합 불성립",
+ "Dune Account": "결합 불성립", "Whale Case": "결합 불성립",
+ "Dolphin Match": "결합 불성립", "Penguin Validation": "결합 불성립",
+ "Flamingo Lookup": "탐색 대상 불분명(Moose Lookup 기각 선례)", "Turtle Ping": "결합 불성립",
+ "Moose Model": "결합 불성립", "Bison Availability": "상태 명사로 제품명 부자연",
+ "Reindeer Eligibility": "결합 불성립", "Redline Workbook": "워크북 대상 불분명",
+ "Pallet Mode": "기능 토글로 읽혀 제품 불분명", "Coverage Quantity": "수량 대상 불분명",
+ "Vendor Coach": "코칭 대상 불분명", "Concierge Habit": "결합 불성립",
+ "Alumni Workbook": "워크북 대상 불분명", "Throughput Mode": "기능 토글로 읽혀 제품 불분명",
+ "Silo Spec": "사양 참조로 제품 불분명", "Ledger Login": "로그인 화면명으로 제품 불분명",
+ "Lawyer Sum": "요약 대상 불분명(Summary 혼동)", "Attorney Trial": "결합 불성립",
+ "Judge Quote": "인용·견적 중의 대상 불분명", "Jury Height": "결합 불성립",
+ "Recruiter Mode": "기능 토글로 읽혀 제품 불분명", "Lanyard Spec": "사양 참조로 제품 불분명",
+ "Sentiment Workbook": "워크북 대상 불분명",
+ "Checkup Quantity": "수량 대상 불분명", "Cafe Login": "로그인 화면명으로 제품 불분명",
+ "Flea Analysis": "분석 대상 불분명", "Craft Habit": "결합 불성립",
+ "Divorce Wave": "결합 불성립", "Immigration Sheet": "서식 대상 불분명",
+ "Testament Badge": "결합 불성립", "Notary Tariff": "요율 대상 불분명",
+ "Mediation Redemption": "결합 불성립", "Guardianship Detector": "탐지 대상 불분명",
+ "Copyright Depth": "결합 불성립", "Injury Mode": "기능 토글로 읽혀 제품 불분명",
+ "Creditor Spec": "결합 불성립", "Reefer Quantity": "수량 대상 불분명",
+ "Patio Habit": "결합 불성립", "Migraine Fine": "결합 불성립",
+ "Insomnia Detail": "결합 불성립", "Skydiving Field": "비행장 대상 불분명",
+ "Acne Format": "결합 불성립", "Snowboarding Marker": "표식 대상 불분명",
+ "Eczema Balance": "결합 불성립", "Ziplining Levy": "결합 불성립",
+ "Psoriasis Due": "결합 불성립", "Sledding Arrears": "결합 불성립",
+ "Vertigo Advance": "결합 불성립", "Diving Redemption": "결합 불성립",
+ "Arthritis Extension": "운동 용어로 읽혀 제품 불분명", "Sailing Label": "결합 불성립",
+ "Pregnancy Layout": "결합 불성립", "Climbing Rendering": "결합 불성립",
+ "Biking Message": "결합 불성립", "Thyroid Total": "검사 항목명으로 제품 불분명",
+ "Golf Announcement": "결합 불성립", "Fishing Recorder": "기록 대상 불분명(자연 명칭은 Log)",
+ "Camping Timer": "결합 불성립", "Anemia Workshop": "결합 불성립",
+ "Glamping Stage": "결합 불성립", "Heartburn Result": "결합 불성립",
+ "Stargazing Trend": "결합 불성립", "Constipation Comparison": "비교 대상 불분명",
+ "Concussion Copy": "결합 불성립", "Canyon Reference": "결합 불성립",
+ "Sprain Forecast": "결합 불성립", "Geyser Deadline": "결합 불성립",
+ "Fracture Duration": "결합 불성립", "Fjord Volume": "결합 불성립",
+ "Insulin Diagnostic": "진단 대상 불분명", "Savanna Progress": "결합 불성립",
+ "Tundra Authorization": "결합 불성립", "Prairie Template": "결합 불성립",
+ "Cove Rating": "평가 대상 불분명", "Cliff Agreement": "결합 불성립",
+ "Cavern Reply": "결합 불성립", "Oasis Account": "결합 불성립",
+ "Dune Case": "결합 불성립",
+}
+lines = []
+na = nr = 0
+for t in titles:
+    if t in A:
+        conf, reason = A[t]
+        lines.append(f"{t}\tA\tT\tT\tT\t{conf}\t{reason}")
+        na += 1
+    elif t in R_DUP:
+        lines.append(f"{t}\tR\tT\tF\tT\t0.65\t{R_DUP[t]}")
+        nr += 1
+    elif t in R:
+        lines.append(f"{t}\tR\tF\tT\tT\t0.6\t{R[t]}")
+        nr += 1
+    else:
+        raise SystemExit(f"미판정: {t}")
+out = base + r"\_dec_c29.tsv"
+open(out, "w", encoding="utf-8", newline="\n").write("\n".join(lines) + "\n")
+print(f"approve={na} reject={nr} total={len(lines)}")

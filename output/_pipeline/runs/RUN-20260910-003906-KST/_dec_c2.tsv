@@ -1,0 +1,200 @@
+Mailroom Tips	A	T	T	T	0.55	우편물 운영 팁
+Kayaking Advice	R	T	F	T	0.65	동일 배치 승인된 Kayaking Tips와 동일 기능 의미 중복
+Songbook Workbook	R	F	T	T	0.6	워크북 대상 불분명(Songbook 계열 기각 선례)
+Stretch Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Insolvency Spec	R	F	T	T	0.6	결합 불성립
+Copay Quantity	R	F	T	T	0.6	수량 대상 불분명
+Masonry Login	A	T	T	T	0.55	석공 업체 포털 로그인(Welding/Tractor Login 평행)
+Barista Analysis	R	F	T	T	0.6	분석 대상 불분명(Barista 계열 기각 선례)
+Mouthwash Coach	R	F	T	T	0.6	코칭 대상 불분명(Mouthwash 계열 기각 선례)
+Chore Habit	A	T	T	T	0.55	집안일 습관 트래킹(행위 도메인 결합)
+Migraine Index	R	F	T	T	0.6	색인 대상 불분명
+Insomnia Receipt	R	F	T	T	0.6	결합 불성립
+Skydiving Slip	R	F	T	T	0.6	결합 불성립
+Acne Sample	R	F	T	T	0.6	결합 불성립
+Snowboarding Badge	R	F	T	T	0.6	배지 대상 불분명
+Eczema Stub	R	F	T	T	0.6	결합 불성립
+Ziplining Quota	R	F	T	T	0.6	결합 불성립
+Psoriasis Tab	R	F	T	T	0.6	결합 불성립
+Sledding Circular	R	F	T	T	0.6	결합 불성립
+Vertigo Advisory	R	F	T	T	0.6	안내 대상 불분명
+Diving Recap	R	F	T	T	0.6	요약 대상 불분명
+Arthritis Entry	R	F	T	T	0.6	등록 대상 불분명
+Sailing Unit	R	F	T	T	0.6	결합 불성립
+Menopause Plan	A	T	T	T	0.55	폐경기 관리 계획(건강 관리 플랜 실검색)
+Rafting Fare	R	F	T	T	0.6	결합 불성립
+Pregnancy Tax	R	F	T	T	0.6	결합 불성립
+Climbing Debt	R	F	T	T	0.6	결합 불성립
+Fertility Fund	A	T	T	T	0.55	불임 치료 자금(Fertility Loan 승인 선례 평행)
+Biking Charge	R	F	T	T	0.6	결합 불성립
+Thyroid Duty	R	F	T	T	0.6	결합 불성립
+Golf Value	R	F	T	T	0.6	결합 불성립
+Cholesterol Stake	R	F	T	T	0.6	결합 불성립
+Fishing Number	R	F	T	T	0.6	결합 불성립
+Hypertension Version	R	F	T	T	0.6	결합 불성립
+Camping Detail	R	F	T	T	0.6	결합 불성립
+Anemia Identifier	R	F	T	T	0.6	결합 불성립
+Glamping Field	R	F	T	T	0.6	결합 불성립
+Heartburn Format	R	F	T	T	0.6	결합 불성립
+Stargazing Signature	R	F	T	T	0.6	결합 불성립
+Constipation Marker	R	F	T	T	0.6	결합 불성립
+Birdwatching Asset	R	F	T	T	0.6	결합 불성립
+Concussion Levy	R	F	T	T	0.6	결합 불성립
+Canyon Subsidy	R	F	T	T	0.6	결합 불성립
+Sprain Discount	R	F	T	T	0.6	결합 불성립
+Geyser Arrears	R	F	T	T	0.6	결합 불성립
+Fracture Advance	R	F	T	T	0.6	결합 불성립
+Fjord Penalty	R	F	T	T	0.6	결합 불성립
+Insulin Markup	R	F	T	T	0.6	결합 불성립
+Savanna Redemption	R	F	T	T	0.6	결합 불성립
+Tundra Extension	R	F	T	T	0.6	결합 불성립
+Prairie Trial	R	F	T	T	0.6	결합 불성립
+Marsh Graph	R	F	T	T	0.6	그래프 대상 불분명
+Cove Label	R	F	T	T	0.6	결합 불성립
+Cliff Manual	R	F	T	T	0.6	설명 대상 불분명
+Cavern Worksheet	R	F	T	T	0.6	학습지 근거 약함(Whale/Dune만 교육 축 승인)
+Oasis Diagram	A	T	T	T	0.55	오아시스 생태 다이어그램(지리 교육)
+Dune Schematic	R	F	T	T	0.6	회로도 어휘 부자연
+Whale Layout	R	F	T	T	0.6	결합 불성립
+Dolphin Sketch	R	F	T	T	0.6	제품성 불분명
+Penguin Outline	A	T	T	T	0.55	펭귄 공예 오트라인 인쇄물
+Flamingo Rendering	R	F	T	T	0.6	렌더링 대상 불분명
+Turtle Notification	R	F	T	T	0.6	결합 불성립
+Moose Kit	R	F	T	T	0.6	키트 대상 불분명
+Bison Count	R	F	T	T	0.6	대상 불분명
+Reindeer Message	R	F	T	T	0.6	결합 불성립
+Florist App	A	T	T	T	0.55	꽃집 운영 앱
+Renewal Tips	A	T	T	T	0.55	임대 갱신 안내 팁
+Liner Advice	R	T	F	T	0.65	동일 배치 승인된 Liner Tips와 동일 기능 의미 중복
+Coating Workbook	A	T	T	T	0.55	코팅 관리 기록 워크북(디테일링 실재)
+Toilet Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Vacation Spec	R	F	T	T	0.6	결합 불성립
+Ukulele Quantity	R	F	T	T	0.6	수량 대상 불분명
+Prescription Login	R	F	T	T	0.6	포털 서비스 대상 불분명(Dosage Login 기각 선례)
+Reconciliation Analysis	A	T	T	T	0.55	계정 조정 분석(B2B 회계 분석)
+Matter Coach	R	F	T	T	0.6	코칭 대상 불분명
+Container Habit	R	F	T	T	0.6	결합 불성립
+Dividend App	A	T	T	T	0.55	배당 포트폴리오 추적 앱(실재 카테고리)
+Paralegal Tips	A	T	T	T	0.55	법률보조 업무 팁
+Courier Advice	R	T	F	T	0.65	동일 배치 승인된 Courier Tips와 동일 기능 의미 중복
+Mortgage Workbook	A	T	T	T	0.55	모기지 계획 워크북
+Annuity Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Overtime Spec	R	F	T	T	0.6	결합 불성립
+Scaffold Quantity	R	F	T	T	0.6	수량 산출 근거 약함
+Barcode Login	R	F	T	T	0.6	결합 불성립
+Valet Analysis	R	F	T	T	0.6	분석 대상 불분명(Valet 계열 기각 선례)
+Homework Coach	A	T	T	T	0.55	과제 코칭 서비스(실검색)
+Welding Habit	R	F	T	T	0.6	결합 불성립
+Lawyer View	R	F	T	T	0.6	조회 대상 불분명
+Attorney Item	R	F	T	T	0.6	항목 대상 불분명
+Court Balance	R	F	T	T	0.6	결합 불성립
+Judge Generator	R	F	T	T	0.6	생성 대상 불분명
+Jury Case	R	F	T	T	0.6	서비스 대상 불분명
+Lawsuit Claim	A	T	T	T	0.55	소송 청구 관리
+Divorce Approval	R	F	T	T	0.6	결합 불성립
+Rim App	R	F	T	T	0.6	앱 대상 불분명
+Idiom Tips	A	T	T	T	0.55	관용구 학습 팁
+Stairs Advice	R	F	T	T	0.6	계단 단독으로 조언 대상 불분명
+Location Workbook	A	T	T	T	0.55	촬영지 스카우팅 워크북
+Decor Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Roof Spec	R	F	T	T	0.6	결합 불성립
+Valve Quantity	R	F	T	T	0.6	수량 대상 불분명
+Microfiber Login	R	F	T	T	0.6	결합 불성립
+Backflow Analysis	R	F	T	T	0.6	분석 대상 불분명
+Safari Coach	A	T	T	T	0.55	사파리 투어 가이드 코칭
+Harmonica Habit	A	T	T	T	0.55	하모니카 연습 습관 트래킹(Reader Habit 평행)
+Custody Hub	R	F	T	T	0.6	허브 대상 불분명
+Immigration Panel	R	F	T	T	0.6	패널 대상 불분명
+Testament Post	R	F	T	T	0.6	결합 불성립
+Notary Summary	A	T	T	T	0.55	공증 건 요약 관리
+Mediation Entry	A	T	T	T	0.55	조정 신청 접수(Sailing Entry 평행)
+Guardianship Detail	R	F	T	T	0.6	결합 불성립
+Trademark Worksheet	A	T	T	T	0.55	상표 출원 준비 워크시트
+Patent Helper	A	T	T	T	0.55	특허 절차 도우미
+Copyright Account	R	F	T	T	0.6	계정 대상 불분명
+Toothpaste App	A	T	T	T	0.55	치약 정기배송 앱
+Formula Tips	A	T	T	T	0.55	분유 수유 팁
+Mailroom Advice	R	T	F	T	0.65	동일 배치 승인된 Mailroom Tips와 동일 기능 의미 중복
+Kayaking Workbook	A	T	T	T	0.55	카약 여행 계획 워크북
+Songbook Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Stretch Spec	R	F	T	T	0.6	결합 불성립
+Insolvency Quantity	R	F	T	T	0.6	수량 대상 불분명
+Copay Login	R	F	T	T	0.6	포털 서비스 대상 불분명
+Masonry Analysis	R	F	T	T	0.6	분석 대상 불분명
+Barista Coach	R	F	T	T	0.6	코칭 대상 불분명(Barista 계열 기각 선례)
+Mouthwash Habit	R	F	T	T	0.6	결합 불성립
+Migraine Ticket	R	F	T	T	0.6	결합 불성립
+Insomnia Code	R	F	T	T	0.6	결합 불성립
+Skydiving Sample	R	F	T	T	0.6	결합 불성립
+Acne Slot	R	F	T	T	0.6	결합 불성립
+Snowboarding Stub	R	F	T	T	0.6	결합 불성립
+Eczema Statement	R	F	T	T	0.6	결합 불성립
+Ziplining Tab	R	F	T	T	0.6	결합 불성립
+Psoriasis Bulletin	R	F	T	T	0.6	결합 불성립
+Sledding Advisory	R	F	T	T	0.6	안내 대상 불분명(Diving Advisory와 달리 특보 근거 없음)
+Vertigo Petition	R	F	T	T	0.6	결합 불성립
+Diving Entry	R	F	T	T	0.6	입수 기법 어휘로 읽혀 혼동(Sailing Entry와 달리 대상 불분명)
+Arthritis Fee	R	F	T	T	0.6	결합 불성립
+Sailing Plan	R	F	T	T	0.6	계획 대상 불분명(1라운드 기각 선례)
+Menopause Cost	A	T	T	T	0.55	폐경 치료 비용 정보(Pregnancy/Rafting Cost 평행)
+Rafting Tax	R	F	T	T	0.6	결합 불성립
+Pregnancy Loan	R	F	T	T	0.6	대출 산업 근거 없음(Fertility Loan과 달리 대상 불분명)
+Climbing Fund	R	F	T	T	0.6	결합 불성립
+Fertility Cash	R	F	T	T	0.6	현금 지칭 부자연
+Biking Duty	R	F	T	T	0.6	결합 불성립
+Thyroid Allowance	R	F	T	T	0.6	결합 불성립
+Golf Stake	R	F	T	T	0.6	결합 불성립
+Cholesterol Margin	R	F	T	T	0.6	결합 불성립
+Fishing Version	R	F	T	T	0.6	결합 불성립
+Hypertension Link	R	F	T	T	0.6	결합 불성립
+Camping Identifier	R	F	T	T	0.6	결합 불성립
+Anemia Category	R	F	T	T	0.6	결합 불성립
+Glamping Format	R	F	T	T	0.6	결합 불성립
+Heartburn Serial	R	F	T	T	0.6	결합 불성립
+Stargazing Marker	R	F	T	T	0.6	결합 불성립
+Constipation Balance	R	F	T	T	0.6	결합 불성립
+Birdwatching Levy	R	F	T	T	0.6	결합 불성립
+Concussion Due	R	F	T	T	0.6	결합 불성립
+Canyon Discount	R	F	T	T	0.6	결합 불성립
+Sprain Arrears	R	F	T	T	0.6	결합 불성립
+Geyser Advance	R	F	T	T	0.6	결합 불성립
+Fracture Penalty	R	F	T	T	0.6	결합 불성립
+Fjord Markup	R	F	T	T	0.6	결합 불성립
+Insulin Redemption	R	F	T	T	0.6	결합 불성립
+Savanna Extension	R	F	T	T	0.6	결합 불성립
+Tundra Trial	R	F	T	T	0.6	결합 불성립
+Prairie Graph	R	F	T	T	0.6	그래프 대상 불분명
+Marsh Label	R	F	T	T	0.6	결합 불성립
+Cove Manual	R	F	T	T	0.6	설명 대상 불분명
+Cliff Worksheet	R	F	T	T	0.6	학습지 근거 약함
+Cavern Diagram	A	T	T	T	0.55	동굴 형성 다이어그램(지리 교육)
+Oasis Schematic	R	F	T	T	0.6	회로도 어휘 부자연
+Dune Layout	R	F	T	T	0.6	결합 불성립
+Whale Sketch	R	F	T	T	0.6	제품성 불분명
+Dolphin Outline	A	T	T	T	0.55	돌고래 공예 오트라인 인쇄물
+Penguin Rendering	R	F	T	T	0.6	렌더링 대상 불분명
+Flamingo Notification	R	F	T	T	0.6	결합 불성립
+Turtle Kit	R	F	T	T	0.6	키트 대상 불분명
+Moose Count	R	F	T	T	0.6	대상 불분명
+Bison Message	R	F	T	T	0.6	결합 불성립
+Reindeer Total	R	F	T	T	0.6	결합 불성립
+Gallery App	A	T	T	T	0.55	사진 포트폴리오 갤러리 앱
+Florist Tips	A	T	T	T	0.55	꽃 관리·판매 팁
+Renewal Advice	R	T	F	T	0.65	동일 배치 승인된 Renewal Tips와 동일 기능 의미 중복
+Liner Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Coating Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Toilet Spec	R	F	T	T	0.6	결합 불성립
+Vacation Quantity	R	F	T	T	0.6	수량 대상 불분명
+Ukulele Login	R	F	T	T	0.6	포털 서비스 대상 불분명(Harmonica Login 기각 선례)
+Prescription Analysis	A	T	T	T	0.55	복약·처방 데이터 분석(Dosage Analysis 평행)
+Reconciliation Coach	R	F	T	T	0.6	코칭 대상 불분명
+Matter Habit	R	F	T	T	0.6	결합 불성립
+Triage App	A	T	T	T	0.6	환자 분류 앱(triage 소프트웨어 실재)
+Dividend Tips	A	T	T	T	0.55	배당 투자 팁(실검색 콘텐츠)
+Paralegal Advice	R	T	F	T	0.65	동일 배치 승인된 Paralegal Tips와 동일 기능 의미 중복
+Courier Workbook	A	T	T	T	0.55	택배 운영 워크북
+Mortgage Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Annuity Spec	R	F	T	T	0.6	결합 불성립
+Overtime Quantity	R	F	T	T	0.6	수량 대상 불분명
+Scaffold Login	A	T	T	T	0.55	공사 현장 포털 로그인
+Barcode Analysis	R	F	T	T	0.6	분석 대상 불분명

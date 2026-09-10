@@ -1,0 +1,173 @@
+# -*- coding: utf-8 -*-
+import json
+
+base = r"C:\Users\h0912\Sharefolder\Claude_project\GLM_SAAS_WORD\output\_pipeline\runs\RUN-20260910-003906-KST"
+req = json.load(open(base + r"\judgment\review_titles_chunk34_round1_request.json", encoding="utf-8"))
+titles = [it["title"] for it in req["items"]]
+
+A = {
+ "Lien Analysis": (0.55, "유치권 데이터 분석(Analysis 평행)"),
+ "Court Deadline": (0.6, "법원 제출 기한 관리(실무 실재)"),
+ "Vaccine App": (0.7, "백신 예약·기록 앱(실재 카테고리)"),
+ "Remittance Tips": (0.55, "해외 송금 팁(App→Tips 평행)"),
+ "Prerequisite Analysis": (0.55, "교과 선수관계 분석(학사행정 실재)"),
+ "Budget Coach": (0.55, "예산 관리 코칭(실재)"),
+ "Custody Calendar": (0.65, "공동양육 공유 캘린더(실재 카테고리)"),
+ "Internship App": (0.65, "인턴십 검색·관리 앱(실재 시장)"),
+ "Attendance Tips": (0.55, "출석 관리 팁(App→Tips 평행)"),
+ "Substitution Analysis": (0.6, "의약품 대체 분석(약제 실무 실재)"),
+ "Vertigo Manual": (0.55, "어지럼증 운동 매뉴얼(전정재활 실재)"),
+ "Fertility Calculator": (0.7, "배산일 계산기(실검색 실재)"),
+ "Biking Recorder": (0.55, "라이딩 기록(Golf Recorder 평행)"),
+ "Stargazing Forecast": (0.6, "별보기 관측 조건 예보(실재 카테고리)"),
+ "Sprain Guide": (0.55, "염좌 처치 가이드(RICE 콘텐츠 실재)"),
+ "Proofing App": (0.55, "번역 교정(proofing) 검수 앱(로컬라이제이션 실재)"),
+ "Unpacking Tips": (0.55, "언패킹 정리 팁(App→Tips 평행)"),
+ "Invitation Workbook": (0.55, "웨딩 초대장 계획 워크북(실재 서식)"),
+ "Trip Analysis": (0.6, "여정·출장 비용 분석(실재)"),
+ "Vocal Coach": (0.65, "발성 코칭(실재 카테고리)"),
+ "Sightseeing App": (0.65, "관광 안내 앱(실재 카테고리)"),
+ "Clarinet Tips": (0.55, "클라리넷 연습 팁(App→Tips 평행)"),
+ "Review Analysis": (0.6, "성과 평가 데이터 분석(HR 실재)"),
+ "Mandolin App": (0.65, "만돌린 운지·연습 앱(실재 카테고리)"),
+ "Vaccine Tips": (0.55, "백신 일정 팁(App→Tips 평행)"),
+ "Lawsuit Workbook": (0.55, "소송 준비 워크북(Lawsuit Handbook 평행)"),
+ "Painting Analysis": (0.55, "도장 공사 원가 분석(App→Analysis 평행)"),
+ "Budget Habit": (0.55, "지출 습관 트래커(실재)"),
+ "Immigration File": (0.55, "이민 서류 파일 관리(실재)"),
+ "Story App": (0.65, "스토리 작성·공유 앱(실재 카테고리)"),
+ "Internship Tips": (0.55, "인턴십 준비 팁(App→Tips 평행)"),
+ "Style Analysis": (0.6, "퍼스널 컬러·스타일 분석(실재 시장)"),
+ "Menopause Kit": (0.55, "폐경 관리 키트(실재 카테고리)"),
+ "Climbing Calculator": (0.55, "클라이밍 등급 환산 계산기(실재)"),
+ "Thyroid Checker": (0.55, "갑상선 증상 확인 도구(Hypertension Checker 평행)"),
+ "Canyon Guide": (0.55, "협곡 탐방 가이드(여행 콘텐츠 실재)"),
+}
+R_DUP = {
+ "Lawsuit Advice": "동일 배치 승인된 Lawsuit App/Tips와 동일 기능 의미 중복",
+ "Transmission Advice": "동일 배치 승인된 Transmission App/Tips와 동일 기능 의미 중복",
+ "Diving Schematic": "동일 청크 승인된 Diving Diagram과 동일 도식 의미 중복",
+ "Proof Advice": "동일 배치 승인된 Proof App/Tips와 동일 기능 의미 중복",
+ "Consent Advice": "동일 배치 승인된 Consent App/Tips와 동일 기능 의미 중복",
+ "Remittance Advice": "동일 배치 승인된 Remittance App/Tips와 동일 기능 의미 중복",
+ "Attendance Advice": "동일 배치 승인된 Attendance App/Tips와 동일 기능 의미 중복",
+}
+R = {
+ "Bundle Coach": "코칭 대상 불분명", "Lawyer Tariff": "요율 대상 불분명",
+ "Attorney Sketch": "제품성 불분명", "Court Deadline SKIP": "",
+ "Judge Verification": "결합 불성립", "Jury Frequency": "결합 불성립",
+ "Vaccine App SKIP": "", "Remittance Tips SKIP": "",
+ "Trailer Workbook": "워크북 대상 불분명", "Contingency Mode": "기능 토글로 읽혀 제품 불분명",
+ "Indemnity Spec": "사양 참조로 제품 불분명", "Severance Quantity": "수량 대상 불분명",
+ "Painting Login": "제품 불분명", "Prerequisite Analysis SKIP": "",
+ "Budget Coach SKIP": "", "Caption Habit": "결합 불성립",
+ "Divorce Board": "대상 불분명(게시판·보드 중의)", "Custody Calendar SKIP": "",
+ "Immigration History": "대상 불분명", "Testament Circular": "결합 불성립",
+ "Notary Rule": "결합 불성립", "Mediation Schematic": "도식 대상 불분명(Mediation Diagram 기각 선례)",
+ "Guardianship Rank": "결합 불성립", "Trademark Model": "결합 불성립",
+ "Patent Refund": "결합 불성립", "Copyright Brightness": "결합 불성립",
+ "Internship App SKIP": "", "Attendance Tips SKIP": "",
+ "Donut Workbook": "워크북 대상 불분명", "Euthanasia Mode": "기능 토글로 읽혀 제품 불분명",
+ "Implant Spec": "사양 참조로 제품 불분명", "Lullaby Quantity": "수량 대상 불분명",
+ "Style Login": "제품 불분명", "Substitution Analysis SKIP": "",
+ "Playground Coach": "코칭 대상 불분명", "Casino Habit": "결합 불성립",
+ "Migraine Attribute": "결합 불성립", "Insomnia Signature": "결합 불성립",
+ "Skydiving Asset": "결합 불성립", "Acne Levy": "결합 불성립",
+ "Snowboarding Arrears": "결합 불성립", "Eczema Advance": "결합 불성립",
+ "Ziplining Redemption": "결합 불성립", "Psoriasis Extension": "연장 대상 불분명",
+ "Sledding Label": "결합 불성립", "Vertigo Manual SKIP": "",
+ "Sailing Rendering": "결합 불성립", "Arthritis Layout": "결합 불성립",
+ "Menopause Notification": "알림 내용 불특정",
+ "Rafting Message": "결합 불성립", "Pregnancy Total": "결합 불성립",
+ "Climbing Announcement": "결합 불성립", "Fertility Calculator SKIP": "",
+ "Biking Recorder SKIP": "", "Thyroid Estimator": "산출 대상 불분명(Thyroid Calculator와 중복 우려)",
+ "Golf Timer": "결합 불성립", "Cholesterol Workshop": "결합 불성립(Camping Workshop 기각 선례)",
+ "Fishing Stage": "단계 대상 불분명", "Hypertension Result": "결합 불성립",
+ "Camping Trend": "결합 불성립", "Anemia Comparison": "비교 대상 불분명",
+ "Glamping Record": "기록 대상 불분명", "Heartburn Copy": "결합 불성립",
+ "Stargazing Forecast SKIP": "", "Constipation Deadline": "결합 불성립",
+ "Birdwatching Diagnostic": "진단 대상 불분명", "Concussion Progress": "진행 대상 불분명(Fracture Progress 기각 선례)",
+ "Canyon Template": "결합 불성립", "Sprain Guide SKIP": "",
+ "Geyser Rating": "평가 대상 불분명", "Fracture Agreement": "결합 불성립",
+ "Fjord Reply": "결합 불성립", "Insulin Account": "결합 불성립",
+ "Savanna Case": "결합 불성립", "Tundra Match": "결합 불성립",
+ "Prairie Validation": "결합 불성립", "Marsh Lookup": "탐색 대상 불분명",
+ "Cove Ping": "결합 불성립", "Cliff Model": "결합 불성립",
+ "Cavern Availability": "상태 명사로 제품명 부자연", "Oasis Eligibility": "결합 불성립",
+ "Dune Broadcast": "결합 불성립", "Whale Barcode": "결합 불성립",
+ "Dolphin Appointment": "약속 대상 불분명", "Penguin Feedback": "결합 불성립",
+ "Flamingo Invoice": "결합 불성립", "Turtle Renewal": "갱신 대상 불분명",
+ "Moose Quote": "인용·견적 중의로 대상 불분명", "Bison Warranty": "결합 불성립",
+ "Reindeer Deposit": "결합 불성립", "Proofing App SKIP": "",
+ "Unpacking Tips SKIP": "", "Invitation Workbook SKIP": "",
+ "Eviction Mode": "기능 토글로 읽혀 제품 불분명", "Algae Spec": "사양 참조로 제품 불분명",
+ "Upholstery Quantity": "수량 대상 불분명", "Sink Login": "제품 불분명",
+ "Trip Analysis SKIP": "", "Vocal Coach SKIP": "",
+ "Sightseeing App SKIP": "", "Clarinet Tips SKIP": "",
+ "Escrow Workbook": "워크북 대상 불분명", "Statute Mode": "기능 토글로 읽혀 제품 불분명",
+ "Backorder Spec": "사양 참조로 제품 불분명", "Binder Login": "제품 불분명",
+ "Review Analysis SKIP": "", "Lien Coach": "코칭 대상 불분명",
+ "Bundle Habit": "결합 불성립", "Lawyer Value": "결합 불성립",
+ "Attorney Outline": "개요 대상 불분명", "Court Duration": "결합 불성립",
+ "Judge Simulator": "시뮬레이션 대상 불분명", "Jury Compatibility": "결합 불성립",
+ "Mandolin App SKIP": "", "Vaccine Tips SKIP": "",
+ "Lawsuit Workbook SKIP": "", "Trailer Mode": "기능 토글로 읽혀 제품 불분명",
+ "Contingency Spec": "사양 참조로 제품 불분명", "Indemnity Quantity": "수량 대상 불분명",
+ "Severance Login": "제품 불분명", "Painting Analysis SKIP": "",
+ "Prerequisite Coach": "코칭 대상 불분명", "Budget Habit SKIP": "",
+ "Divorce Deck": "결합 불성립", "Custody Directory": "대상 불분명",
+ "Immigration File SKIP": "", "Testament Advisory": "서비스 성격 불분명",
+ "Notary Detail": "결합 불성립", "Mediation Layout": "결합 불성립",
+ "Guardianship Trend": "결합 불성립", "Trademark Availability": "상태 명사로 제품 불분명",
+ "Patent Expense": "결합 불성립(Patent Payment와 기능 근접)", "Copyright Frequency": "결합 불성립",
+ "Story App SKIP": "", "Internship Tips SKIP": "",
+ "Transmission Workbook": "워크북 대상 불분명", "Donut Mode": "기능 토글로 읽혀 제품 불분명",
+ "Euthanasia Spec": "사양 참조로 제품 불분명", "Implant Quantity": "수량 대상 불분명",
+ "Lullaby Login": "제품 불분명", "Style Analysis SKIP": "",
+ "Substitution Coach": "코칭 대상 불분명", "Playground Habit": "결합 불성립",
+ "Migraine Field": "결합 불성립", "Insomnia Marker": "표식 대상 불분명",
+ "Skydiving Levy": "결합 불성립", "Acne Due": "결합 불성립",
+ "Snowboarding Advance": "결합 불성립", "Eczema Penalty": "결합 불성립",
+ "Ziplining Extension": "연장 대상 불분명", "Psoriasis Trial": "결합 불성립(Arthritis Trial 기각 선례)",
+ "Sledding Manual": "설명 대상 불분명(훈련 전통 약함)", "Vertigo Worksheet": "워크시트 근거 약함",
+ "Diving Layout": "결합 불성립", "Arthritis Sketch": "제품성 불분명",
+ "Sailing Notification": "알림 내용 불특정", "Menopause Kit SKIP": "",
+ "Rafting Total": "결합 불성립", "Pregnancy Widget": "결합 불성립",
+ "Climbing Calculator SKIP": "", "Fertility Converter": "변환 대상 불분명",
+ "Biking Estimator": "산출 대상 불분명", "Thyroid Checker SKIP": "",
+ "Golf Workshop": "결합 불성립(Camping Workshop 기각 선례)",
+ "Cholesterol Guardian": "감시 대상 불분명", "Fishing Result": "결합 불성립",
+ "Hypertension Streak": "결합 불성립", "Camping Comparison": "비교 대상 불분명",
+ "Anemia Proposal": "제안 대상 불분명", "Glamping Copy": "결합 불성립",
+ "Heartburn Reading": "수치 대상 불분명", "Stargazing Deadline": "결합 불성립",
+ "Constipation Duration": "결합 불성립", "Birdwatching Progress": "결합 불성립",
+ "Concussion Authorization": "결합 불성립", "Canyon Guide SKIP": "",
+ "Sprain Rating": "평가 대상 불분명", "Geyser Agreement": "결합 불성립",
+ "Fracture Reply": "결합 불성립", "Fjord Account": "결합 불성립",
+ "Insulin Case": "결합 불성립", "Savanna Match": "결합 불성립",
+ "Tundra Validation": "결합 불성립", "Prairie Lookup": "탐색 대상 불분명",
+ "Marsh Ping": "결합 불성립", "Cove Model": "결합 불성립",
+ "Cliff Availability": "상태 명사로 제품명 부자연", "Cavern Eligibility": "결합 불성립",
+ "Oasis Broadcast": "결합 불성립", "Dune Barcode": "결합 불성립",
+ "Whale Appointment": "약속 대상 불분명", "Dolphin Feedback": "결합 불성립",
+}
+for k in [k for k in R if k.endswith(" SKIP")]:
+    del R[k]
+lines = []
+na = nr = 0
+for t in titles:
+    if t in A:
+        conf, reason = A[t]
+        lines.append(f"{t}\tA\tT\tT\tT\t{conf}\t{reason}")
+        na += 1
+    elif t in R_DUP:
+        lines.append(f"{t}\tR\tT\tF\tT\t0.65\t{R_DUP[t]}")
+        nr += 1
+    elif t in R:
+        lines.append(f"{t}\tR\tF\tT\tT\t0.6\t{R[t]}")
+        nr += 1
+    else:
+        raise SystemExit(f"미판정: {t}")
+out = base + r"\_dec_c34.tsv"
+open(out, "w", encoding="utf-8", newline="\n").write("\n".join(lines) + "\n")
+print(f"approve={na} reject={nr} total={len(lines)}")
