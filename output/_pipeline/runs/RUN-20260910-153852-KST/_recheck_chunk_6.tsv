@@ -1,0 +1,76 @@
+Lawyer Markup	A	T	T	T	0.8	유지: 법률 문서 마크업·레드라인 도구는 실재하는 카테고리고 Markup이 구체적 업무 산출물을 지시해 legal 맥락에서 명확하며, 배치 내 동일 앵커 중복과 유명 브랜드 충돌 없음.
+Lawyer Message	A	T	T	T	0.75	유지: 사건 진행을 클라이언트에게 안내하는 법률 사무소 메시징 앱은 실재하고, Lawyer Notification과는 안내 커뮤니케이션과 트리거 알림이라는 별개 제품 카테고리로 구분돼 중복 아님.
+Lawyer Notification	A	T	T	T	0.75	유지: 법률 사건·기한 알림은 deadline tracking 소프트웨어로 실재하는 카테고리고, Lawyer Message와는 푸시 알림이라는 별개 전달·기능으로 구분돼 중복 아님, 브랜드 충돌 없음.
+Lawyer Template	A	T	T	T	0.8	유지: 법률 문서 템플릿 관리는 실재하는 제품군이고 Template이 구체적 산출물을 지시해 명확하며, 배치 내 같은 앵커 중복과 유명 브랜드 충돌 없음.
+Leak App	A	T	T	T	0.8	유지: 배관 누수 감지·신고 관리 앱은 실재하고 Leak이 plumbing 업계에서 즉시 이해되는 대상어며, Leak Tips는 App과 별개 제품(콘텐츠 대 서비스 도구)이라 중복 아님.
+Leak Tips	A	T	T	T	0.8	유지: 누수 예방·대처 팁 콘텐츠는 Tips 관용구대로 명확하고, Leak App과는 콘텐츠와 앱이라는 별개 제품이며 브랜드 충돌 없음.
+Liability App	A	T	T	T	0.8	유지: 배상책임 보험 관리 앱은 insurance 업계의 실재 제품형이고 Liability가 대상을 정확히 지시해 명확하며, 중복·브랜드 충돌 없음.
+Liability Tips	A	T	T	T	0.8	유지: 배상책임 보험 가입·청구 팁 콘텐츠로 명확하고, Liability App과는 별개 제품이며 브랜드 충돌 없음.
+Linguist App	A	T	T	T	0.8	유지: 통번역 인력 매칭·예약 앱은 interpreter_translation_services의 실재 제품형이고 Linguist가 업계 종사자를 정확히 지시하며, 중복·브랜드 충돌 없음.
+Linguist Tips	A	T	T	T	0.8	유지: 통번역 실무 팁 콘텐츠로 명확하고, Linguist App과는 별개 제품(콘텐츠 대 매칭 도구)이며 브랜드 충돌 없음.
+Listing App	A	T	T	T	0.8	유지: 매물 리스팅 관리 앱은 real_estate의 실재 제품군이고 Listing이 업계 핵심 용어라 명확하며, 중복·브랜드 충돌 없음.
+Listing Tips	A	T	T	T	0.8	유지: 매물 등록·운영 팁 콘텐츠로 명확하고, Listing App과는 별개 제품이며 브랜드 충돌 없음.
+Livestream App	A	T	T	T	0.7	유지: 이벤트 실시간 방송 송출 앱은 실재 제품이고 livestream은 일반 명사로 완전히 정착해 events 맥락에서 일반 의미로만 읽히며, 인수 후 축소된 옛 브랜드 Livestream과 실질 충돌은 없다.
+Livestream Tips	A	T	T	T	0.8	유지: 라이브 방송 운영 팁 콘텐츠로 명확하고, Livestream App과는 별개 제품이며 livestream은 일반 명사라 브랜드 충돌 없음.
+Lockout App	A	T	T	T	0.75	유지: 문 잠김 출동·출입 통제 관리 앱은 locksmith 업계의 실재 서비스 도구형이고 Lockout이 업계 상황을 정확히 지시하며, 중복·브랜드 충돌 없음.
+Lockout Tips	A	T	T	T	0.8	유지: 잠김 상황 대처·예방 팁 콘텐츠로 명확하고, Lockout App과는 별개 제품이며 브랜드 충돌 없음.
+Locksmith App	A	T	T	T	0.8	유지: 자물쇠·도어 수리 서비스 예약·관리 앱은 실재하고 Locksmith가 업계를 정확히 지시하며, Lockout과는 앵커·업계가 달라 중복 아님, 브랜드 충돌도 없음.
+Locksmith Tips	A	T	T	T	0.8	유지: 자물쇠·도어 관리 팁 콘텐츠로 명확하고, Locksmith App과는 별개 제품이며 브랜드 충돌 없음.
+Logistics App	A	T	T	T	0.8	유지: 행사 물류 관리 앱은 events 업계의 실재 제품형이고 Logistics가 기능 영역을 정확히 지시하며, 중복·브랜드 충돌 없음.
+Logistics Tips	A	T	T	T	0.8	유지: 행사 물류 준비 팁 콘텐츠로 명확하고, Logistics App과는 별개 제품이며 브랜드 충돌 없음.
+Loyalty App	A	T	T	T	0.8	유지: 세탁업 포인트·로열티 프로그램 관리 앱은 laundry_dry_cleaning의 실재 제품형이고 Loyalty가 기능을 정확히 지시하며, 중복·브랜드 충돌 없음.
+Loyalty Tips	A	T	T	T	0.8	유지: 로열티 프로그램 운영 팁 콘텐츠로 명확하고, Loyalty App과는 별개 제품이며 브랜드 충돌 없음.
+Mailbox App	A	T	T	T	0.8	유지: 입주민 우편함·우편물 관리 앱은 property_management의 실재 제품형(mailroom 소프트웨어)이고 Mailbox가 대상을 정확히 지시하며, 동명 옛 이메일 앱은 2015년 서비스 종료로 현재 충돌 없음.
+Mailbox Tips	A	T	T	T	0.8	유지: 우편함 관리 팁 콘텐츠로 명확하고, Mailbox App과는 별개 제품이며 브랜드 충돌 없음.
+Manuscript Tips	A	T	T	T	0.85	유지: 원고 집필·투고 팁 콘텐츠는 media_publishing에서 자연스러운 Tips 관용구이고, 배치 내 동일 앵커 조합과 유명 브랜드 충돌 없음.
+Markdown App	A	T	T	T	0.75	유지: retail_ecommerce에서 markdown은 가격 인하를 뜻하는 업계 용어로 마크다운(할인) 관리 앱은 실재하는 소매 소프트웨어 카테고리고, 문서 형식 Markdown은 상표가 아니므로 업계 맥락에서 명확하며 충돌 없음.
+Markdown Tips	A	T	T	T	0.8	유지: 소매 가격 인하(markdown) 기획 팁 콘텐츠로 업계 맥락이 명확하고, Markdown App과는 별개 제품이며 브랜드 충돌 없음.
+Massage App	A	T	T	T	0.8	유지: 마사지 예약·관리 앱은 salon_spa의 실재 제품형이고 Massage가 서비스를 정확히 지시하며, 동계 개별 브랜드와는 일반 명사 결합이라 충돌 없음.
+Massage Tips	A	T	T	T	0.8	유지: 마사지 관리·선택 팁 콘텐츠로 명확하고, Massage App과는 별개 제품이며 브랜드 충돌 없음.
+Mattress App	A	T	T	T	0.7	유지: 매트리스 청소·관리 서비스 앱으로 cleaning_services 맥락에서 읽히는 실재 제품형이며, Casper 등 개별 매트리스 브랜드와는 일반 명사 결합이라 충돌 없음.
+Mattress Tips	A	T	T	T	0.8	유지: 매트리스 청소·수명 연장 팁 콘텐츠로 명확하고, Mattress App과는 별개 제품이며 브랜드 충돌 없음.
+Meal App	A	T	T	T	0.8	유지: 아이 식단 기록·계획 관리 앱은 childcare의 실재 제품형이고 Meal이 대상을 정확히 지시하며, 중복·브랜드 충돌 없음.
+Meal Tips	A	T	T	T	0.85	유지: 아이 식단·수유 팁 콘텐츠로 명확하고, Meal App과는 별개 제품이며 브랜드 충돌 없음.
+Mediation Deadline	A	T	T	T	0.8	유지: 조정 절차 기한 관리는 법률 실무의 실재 업무이고 Deadline이 구체적 관리 대상을 지시해 명확하며, Attorney Deadline과는 앵커가 달라 중복 아님, 브랜드 충돌 없음.
+Mediation Guide	A	T	T	T	0.85	유지: 조정 절차 안내 가이드 콘텐츠로 명확하고, Mediation Deadline과는 별개 제품(절차 콘텐츠 대 기한 관리)이며 브랜드 충돌 없음.
+Membership App	A	T	T	T	0.8	유지: 멤버십 등록·갱신 관리 앱은 salon_spa의 실재 제품형이고 Membership이 기능 대상을 정확히 지시하며, 중복·브랜드 충돌 없음.
+Membership Tips	A	T	T	T	0.8	유지: 멤버십 운영 팁 콘텐츠로 명확하고, Membership App과는 별개 제품이며 브랜드 충돌 없음.
+Menopause Diary	A	T	T	T	0.8	유지: 폐경 증상 기록 일지는 실재하는 건강 추적 제품형이고 Diary가 구체적 산출물을 지시해 명확하며, Menopause Guide/Video와는 별개 제품, 브랜드 충돌 없음.
+Menopause Guide	A	T	T	T	0.85	유지: 폐경 단계별 가이드 콘텐츠로 명확하고, Menopause Diary/Video와는 별개 제품이며 브랜드 충돌 없음.
+Menopause Video	A	T	T	T	0.7	유지: 폐경 관리 영상 강의·가이드 콘텐츠로 Video가 구체적 산출물을 지시해 명확하고, Diary/Guide와는 별개 형식의 제품이며 브랜드 충돌 없음.
+Migraine Calculator	A	T	T	T	0.8	유지: 편두통 트리거·카페인 한도 계산기는 실재하는 건강 도구형이고 Calculator가 구체적 도구를 지시해 명확하며, 배치 내 다른 Migraine 조합과는 기능이 달라 중복 아님, 브랜드 충돌 없음.
+Migraine Checker	A	T	T	T	0.8	유지: 편두통 증상 자가 체크 도구로 Checker가 구체적 도구를 지시해 명확하고, Diary 등 다른 Migraine 조합과는 별개 제품이며 브랜드 충돌 없음.
+Migraine Diary	A	T	T	T	0.8	유지: 편두통 일지는 의학적으로 표준 관리 도구(headache diary)로 실재하고 Diary가 구체적 산출물을 지시해 명확하며, Record와는 일지(지속 서술)와 발작 기록(이벤트 기입)의 별개 형식으로 구분돼 중복 아님.
+Migraine Guide	A	T	T	T	0.85	유지: 편두통 관리 가이드 콘텐츠로 명확하고, 다른 Migraine 조합과는 별개 제품이며 브랜드 충돌 없음.
+Migraine Helper	A	T	T	T	0.7	유지: 편두통 관리 도우미 앱은 Helper가 도구형 제품을 지시해 명확하고, 이 배치에 Migraine App이 없어 충돌 없으며 다른 Migraine 조합과도 기능이 다르다.
+Migraine Kit	A	T	T	T	0.75	유지: 편두통 구제·케어 키트는 실재 개념이고 Kit이 구체적 산출물(도구 모음)을 지시해 명확하며, 다른 Migraine 조합과는 별개 제품, 브랜드 충돌 없음.
+Migraine Message	A	T	T	T	0.7	유지: 복약·상태 리마인드 메시지(SMS 안내) 서비스로 Message가 별개 전달 수단을 지시하고, Migraine Notification과는 메시징과 트리거 알림이라는 별개 제품 카테고리로 구분돼 중복 아님.
+Migraine Notification	A	T	T	T	0.7	유지: 복약·발작 기록 알림은 Notification 관용구대로 명확하고, Migraine Message와는 푸시 알림이라는 별개 전달·기능으로 구분돼 중복 아님, 브랜드 충돌 없음.
+Migraine Record	A	T	T	T	0.65	유지: 편두통 발작 기록(이벤트별 기입)은 Diary의 지속 서술 일지와 형식·용도가 다른 별개 제품이고 Record가 구체적 산출물을 지시해 명확하며, Recorder와도 기록물 대 기록도구로 구분돼 중복 아님.
+Migraine Recorder	A	T	T	T	0.7	유지: 편두통 발작 기록 도구로 Recorder가 도구를 지시해 명확하고, Record(기록물)·Diary(일지)와는 별개 제품형으로 구분되며 브랜드 충돌 없음.
+Migraine Video	A	T	T	T	0.7	유지: 편두통 관리 영상 가이드 콘텐츠로 Video가 구체적 산출물을 지시해 명확하고, 다른 Migraine 조합과는 별개 형식의 제품이며 브랜드 충돌 없음.
+Mobility App	A	T	T	T	0.75	유지: 노인 이동성 지원·이동 서비스 앱은 senior_care의 실재 제품형이고 Mobility가 업계 핵심 니즈를 지시해 명확하며, 중복·브랜드 충돌 없음.
+Mobility Tips	A	T	T	T	0.8	유지: 노인 이동성 유지 팁 콘텐츠로 명확하고, Mobility App과는 별개 제품이며 브랜드 충돌 없음.
+Nap App	A	T	T	T	0.8	유지: 영유아 낮잠 기록·관리 앱은 childcare의 실재 제품형(수면 추적 앱)이고 Nap이 대상을 정확히 지시하며, 중복·브랜드 충돌 없음.
+Nap Tips	A	T	T	T	0.85	유지: 낮잠 수면 팁 콘텐츠로 명확하고, Nap App과는 별개 제품이며 브랜드 충돌 없음.
+Neuter App	A	T	T	T	0.75	유지: 반려동물 중절 수술 예약·사후관리 앱은 veterinary의 실재 서비스형이고 Neuter가 대상 시술을 정확히 지시하며, 중복·브랜드 충돌 없음.
+Neuter Tips	A	T	T	T	0.8	유지: 중절 수술 전후 관리 팁 콘텐츠로 명확하고, Neuter App과는 별개 제품이며 브랜드 충돌 없음.
+Newsletter App	A	T	T	T	0.8	유지: 뉴스레터 발행·구독 관리 앱은 media_publishing의 실재 제품군이고 Newsletter가 대상을 정확히 지시하며, 중복·브랜드 충돌 없음.
+Newsletter Tips	A	T	T	T	0.85	유지: 뉴스레터 작성·성장 팁 콘텐츠로 명확하고, Newsletter App과는 별개 제품이며 브랜드 충돌 없음.
+Notarization App	A	T	T	T	0.7	유지: 번역문 공증을 포함한 온라인 공증 절차 앱은 interpreter_translation_services와 연결되는 실재 서비스형이고 Notarization은 일반 명사라 공증 관련 유명 브랜드와 직접 충돌하지 않는다.
+Notarization Tips	A	T	T	T	0.8	유지: 공증 절차 준비 팁 콘텐츠로 명확하고, Notarization App과는 별개 제품이며 브랜드 충돌 없음.
+Notary Calculator	A	T	T	T	0.8	유지: 공증 수수료·기한 계산기는 실재 개념이고 Calculator가 구체적 도구를 지시해 명확하며, 다른 Notary 조합과는 기능이 달라 중복 아님, 브랜드 충돌 없음.
+Notary Deadline	A	T	T	T	0.8	유지: 공증 기한 관리는 Deadline 절차 명사 선례대로 명확하고, 다른 Notary 조합과는 별개 기능이며 브랜드 충돌 없음.
+Notary Diagram	A	T	T	T	0.65	유지: 공증 절차 도식 콘텐츠는 Diagram이 구체적 산출물을 지시해 업계 맥락에서 짐작 가능하고, 다른 Notary 조합과는 별개 형식의 제품이며 브랜드 충돌 없음.
+Notary Guide	A	T	T	T	0.85	유지: 공증 절차 안내 가이드 콘텐츠로 명확하고, 다른 Notary 조합과는 별개 제품이며 브랜드 충돌 없음.
+Notary Kit	A	T	T	T	0.8	유지: 공증 서류·도장 준비 키트는 실제 판매되는 제품형이고 Kit이 구체적 산출물을 지시해 명확하며, 다른 Notary 조합과는 별개 제품, 브랜드 충돌 없음.
+Notary Message	A	T	T	T	0.7	유지: 공증 진행·기한 안내 메시지 서비스로 Message가 별개 전달 수단(안내 커뮤니케이션)을 지시하고, Notary Notification과는 메시징과 트리거 알림이라는 별개 카테고리로 구분돼 중복 아님.
+Notary Notification	A	T	T	T	0.75	유지: 공증 기한 알림은 Notification 관용구대로 명확하고, Notary Message와는 푸시 알림이라는 별개 전달·기능으로 구분돼 중복 아님, 브랜드 충돌 없음.
+Notary Template	A	T	T	T	0.8	유지: 공증 문서 템플릿 관리는 실재 업무 도구형이고 Template이 구체적 산출물을 지시해 명확하며, Lawyer Template과는 앵커가 달라 중복 아님, 브랜드 충돌 없음.
+Obituary App	A	T	T	T	0.8	유지: 부고 작성·게시 앱은 funeral_services의 실재 제품형이고 Obituary가 업계 고유 산출물을 정확히 지시하며, 중복·브랜드 충돌 없음.
+Obituary Tips	A	T	T	T	0.85	유지: 부고 작성 팁 콘텐츠로 명확하고, Obituary App과는 별개 제품이며 브랜드 충돌 없음.
+Offer App	A	T	T	T	0.8	유지: 채용 오퍼 관리 앱은 recruiting의 실재 소프트웨어 카테고리이고 Offer가 업계 핵심 객체를 지시해 명확하며, 중복·브랜드 충돌 없음.
+Offer Tips	A	T	T	T	0.85	유지: 채용 오퍼 협상·설계 팁 콘텐츠로 명확하고, Offer App과는 별개 제품이며 브랜드 충돌 없음.
+Officiant App	A	T	T	T	0.75	유지: 주례 예약·예식 관리 앱은 wedding_planning의 실재 서비스형이고 Officiant가 업계 역할을 정확히 지시해 결혼 업계 맥락에서 명확하며, 중복·브랜드 충돌 없음.
+Officiant Tips	A	T	T	T	0.8	유지: 주례 선정·예식 진행 팁 콘텐츠로 명확하고, Officiant App과는 별개 제품이며 브랜드 충돌 없음.
+Outreach App	A	T	T	T	0.65	유지: 비영리 지역사회 아웃리치 프로그램 관리 앱은 nonprofit의 실재 제품형이고 outreach는 일반 명사라 영업 SaaS 브랜드 Outreach와는 업계·대상 고객이 달라 실질 충돌 없음.

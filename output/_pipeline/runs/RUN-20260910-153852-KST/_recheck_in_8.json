@@ -1,0 +1,382 @@
+[
+ {
+  "industry": "food_service",
+  "original_reason": "Reservation App 승인 선례의 Tips 평행",
+  "title": "Reservation Tips"
+ },
+ {
+  "industry": "retail_ecommerce",
+  "original_reason": "재입고 알림·재고 보충 앱(실재)",
+  "title": "Restock App"
+ },
+ {
+  "industry": "retail_ecommerce",
+  "original_reason": "Restock App 승인 선례의 Tips 평행",
+  "title": "Restock Tips"
+ },
+ {
+  "industry": "photography_services",
+  "original_reason": "사진 보정 앱(실재)",
+  "title": "Retouching App"
+ },
+ {
+  "industry": "photography_services",
+  "original_reason": "Retouching App 승인 선례의 Tips 평행",
+  "title": "Retouching Tips"
+ },
+ {
+  "industry": "retail_ecommerce",
+  "original_reason": "상품 반품 처리 관리 앱(실재)",
+  "title": "Return App"
+ },
+ {
+  "industry": "retail_ecommerce",
+  "original_reason": "Return App 승인 선례의 Tips 평행",
+  "title": "Return Tips"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "배달·이동 라이더용 앱(실재)",
+  "title": "Rider App"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "Rider App 승인 선례의 Tips 평행",
+  "title": "Rider Tips"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "지붕 시공·점검 관리 앱(실재)",
+  "title": "Roofing App"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "Roofing App 승인 선례의 Tips 평행",
+  "title": "Roofing Tips"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "근무표·명단 관리 앱(실재)",
+  "title": "Roster App"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "Roster App 승인 선례의 Tips 평행",
+  "title": "Roster Tips"
+ },
+ {
+  "industry": "agriculture",
+  "original_reason": "교대·순환 근무 로테이션 관리 앱(실재)",
+  "title": "Rotation App"
+ },
+ {
+  "industry": "agriculture",
+  "original_reason": "Rotation App 승인 선례의 Tips 평행",
+  "title": "Rotation Tips"
+ },
+ {
+  "industry": "mining",
+  "original_reason": "안전 점검·사고 신고 앱(실재)",
+  "title": "Safety App"
+ },
+ {
+  "industry": "mining",
+  "original_reason": "Safety App 승인 선례의 Tips 평행",
+  "title": "Safety Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "세일링 항해 기록 일지(Rafting Diary 평행)",
+  "title": "Sailing Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "해상 기상·항해 예보(실재)",
+  "title": "Sailing Forecast"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "항해·해상 가이드 콘텐츠(Golf/Biking Guide 평행)",
+  "title": "Sailing Guide"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "요트 조종 강습 영상(Golf Video 평행)",
+  "title": "Sailing Video"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "급여 계산·명세 관리 앱(실재)",
+  "title": "Salary App"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "Salary App 승인 선례의 Tips 평행",
+  "title": "Salary Tips"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "고객 만족도 조사·관리 앱(실재)",
+  "title": "Satisfaction App"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "Satisfaction App 승인 선례의 Tips 평행",
+  "title": "Satisfaction Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "사바나 사파리 영상 콘텐츠(Video 관용구)",
+  "title": "Savanna Video"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "저축 목표·예산 관리 앱(실재)",
+  "title": "Savings App"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "Savings App 승인 선례의 Tips 평행",
+  "title": "Savings Tips"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "색소폰 학습·연주 보조 앱(Violin App 평행)",
+  "title": "Saxophone App"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "Saxophone App 승인 선례의 Tips 평행",
+  "title": "Saxophone Tips"
+ },
+ {
+  "industry": "education",
+  "original_reason": "장학금 검색·신청 관리 앱(실재)",
+  "title": "Scholarship App"
+ },
+ {
+  "industry": "education",
+  "original_reason": "Scholarship App 승인 선례의 Tips 평행",
+  "title": "Scholarship Tips"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "좌석 배치 관리 앱(실재)",
+  "title": "Seating App"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "Seating App 승인 선례의 Tips 평행",
+  "title": "Seating Tips"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "진정·수면 마취 기록 관리 앱(Anesthesia App 평행)",
+  "title": "Sedation App"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "Sedation App 승인 선례의 Tips 평행",
+  "title": "Sedation Tips"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "연공서열·근속 관리 앱(실재)",
+  "title": "Seniority App"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "Seniority App 승인 선례의 Tips 평행",
+  "title": "Seniority Tips"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "서버 운영·모니터링 앱(실재)",
+  "title": "Server App"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "Server App 승인 선례의 Tips 평행",
+  "title": "Server Tips"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "샴푸 구매·추천 관리 앱(실재)",
+  "title": "Shampoo App"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "Shampoo App 승인 선례의 Tips 평행",
+  "title": "Shampoo Tips"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "대피소·보호소 찾기 앱(실재)",
+  "title": "Shelter App"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "Shelter App 승인 선례의 Tips 평행",
+  "title": "Shelter Tips"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "배송 발주·화주 관리 앱(실재)",
+  "title": "Shipper App"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "Shipper App 승인 선례의 Tips 평행",
+  "title": "Shipper Tips"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "부동산 임장(쇼잉) 예약 관리 앱(실재)",
+  "title": "Showing App"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "Showing App 승인 선례의 Tips 평행",
+  "title": "Showing Tips"
+ },
+ {
+  "industry": "hospitality",
+  "original_reason": "셔틀 배차·예약 앱(실재)",
+  "title": "Shuttle App"
+ },
+ {
+  "industry": "hospitality",
+  "original_reason": "Shuttle App 승인 선례의 Tips 평행",
+  "title": "Shuttle Tips"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "디지털 사이니지 콘텐츠 관리 앱(실재)",
+  "title": "Signage App"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "Signage App 승인 선례의 Tips 평행",
+  "title": "Signage Tips"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "보유 역량 평가·관리 앱(Assessment App 평행)",
+  "title": "Skillset App"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "Skillset App 승인 선례의 Tips 평행",
+  "title": "Skillset Tips"
+ },
+ {
+  "industry": "pool_maintenance_services",
+  "original_reason": "수영장 스키머 청소·관리 앱(니치 실재)",
+  "title": "Skimmer App"
+ },
+ {
+  "industry": "pool_maintenance_services",
+  "original_reason": "Skimmer App 승인 선례의 Tips 평행",
+  "title": "Skimmer Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "체험 비용 계산기(Calculator 관용구)",
+  "title": "Skydiving Calculator"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "스카이다이빙 기록 일지(Ziplining Diary 평행)",
+  "title": "Skydiving Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "스카이다이빙 입문 가이드 콘텐츠(Ziplining Guide 평행)",
+  "title": "Skydiving Guide"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "스카이다이빙 강습·체험 영상(Sledding Video 평행)",
+  "title": "Skydiving Video"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "썰매 기록 일지(Rafting Diary 평행)",
+  "title": "Sledding Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "슬레딩 명소 가이드(Climbing Guide 평행)",
+  "title": "Sledding Guide"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "썰매 강습 영상 가이드(Golf Video 평행)",
+  "title": "Sledding Video"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "간식 주문·재고 관리 앱(실재)",
+  "title": "Snack App"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "Snack App 승인 선례의 Tips 평행",
+  "title": "Snack Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "스노보드 기록 일지(Rafting Diary 평행)",
+  "title": "Snowboarding Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "스노보드 입문 가이드 콘텐츠(Ziplining Guide 평행)",
+  "title": "Snowboarding Guide"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "스노보드 강습 영상(Golf Video 평행)",
+  "title": "Snowboarding Video"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "리크루팅 소싱 포털 접속(포털 청중 명확, Paralegal Login 선례)",
+  "title": "Sourcing Login"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "기념품 판매·재고 관리 앱(실재)",
+  "title": "Souvenir App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Souvenir App 승인 선례의 Tips 평행",
+  "title": "Souvenir Tips"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "반려동물 중성화 수술 관리 앱(실재)",
+  "title": "Spay App"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "Spay App 승인 선례의 Tips 평행",
+  "title": "Spay Tips"
+ },
+ {
+  "industry": "events",
+  "original_reason": "스폰서십 계약·혜택 관리 앱(실재)",
+  "title": "Sponsor App"
+ },
+ {
+  "industry": "events",
+  "original_reason": "Sponsor App 승인 선례의 Tips 평행",
+  "title": "Sponsor Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "염좌 재활 기록 일지(Fracture Diary 평행)",
+  "title": "Sprain Diary"
+ }
+]

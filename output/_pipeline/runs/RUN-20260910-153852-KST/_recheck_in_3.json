@@ -1,0 +1,382 @@
+[
+ {
+  "industry": "legal",
+  "original_reason": "저작권 기한 캘린더(Calendar 절차 명사 선례 평행)",
+  "title": "Copyright Calendar"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "Copyright App 승인 선례의 Tips 평행",
+  "title": "Copyright Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "저작물 사용·라이선스 추적(Jury Tracker 평행)",
+  "title": "Copyright Tracker"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "매매 협상 반제안 관리 앱(실재)",
+  "title": "Counteroffer App"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "Counteroffer App 승인 선례의 Tips 평행",
+  "title": "Counteroffer Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "법원 인증 서류 대행·관리(실재 업무)",
+  "title": "Court Certification"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "법원 절차 안내 핸드북(Patent Handbook 평행)",
+  "title": "Court Handbook"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "법원 일정 관리 시간표(Deadline 절차 명사 선례 평행)",
+  "title": "Court Timetable"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "법원 절차 안내 튜토리얼(Immigration Manual 평행)",
+  "title": "Court Tutorial"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "보험 보장·가입 관리 앱(실재)",
+  "title": "Cover App"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "Cover App 승인 선례의 Tips 평행",
+  "title": "Cover Tips"
+ },
+ {
+  "industry": "cybersecurity",
+  "original_reason": "자격 증명·인증서 관리 앱(실재)",
+  "title": "Credential App"
+ },
+ {
+  "industry": "cybersecurity",
+  "original_reason": "Credential App 승인 선례의 Tips 평행",
+  "title": "Credential Tips"
+ },
+ {
+  "industry": "aviation",
+  "original_reason": "크루 스케줄·인력 관리 앱(실재)",
+  "title": "Crew App"
+ },
+ {
+  "industry": "aviation",
+  "original_reason": "Crew App 승인 선례의 Tips 평행",
+  "title": "Crew Tips"
+ },
+ {
+  "industry": "agriculture",
+  "original_reason": "작물 관리 앱(실재)",
+  "title": "Crop App"
+ },
+ {
+  "industry": "agriculture",
+  "original_reason": "Crop App 승인 선례의 Tips 평행",
+  "title": "Crop Tips"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "크로스도킹 물류 처리 관리 앱(실재)",
+  "title": "Crossdock App"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "Crossdock App 승인 선례의 Tips 평행",
+  "title": "Crossdock Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "크루즈 예약·일정 관리 앱(실재)",
+  "title": "Cruise App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Cruise App 승인 선례의 Tips 평행",
+  "title": "Cruise Tips"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "교육과정 설계·관리 앱(실재)",
+  "title": "Curriculum App"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "Curriculum App 승인 선례의 Tips 평행",
+  "title": "Curriculum Tips"
+ },
+ {
+  "industry": "cleaning_services",
+  "original_reason": "커튼 제작·설치 관리 앱(실재)",
+  "title": "Curtain App"
+ },
+ {
+  "industry": "cleaning_services",
+  "original_reason": "Curtain App 승인 선례의 Tips 평행",
+  "title": "Curtain Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "양육 기록 이력 조회(Custody Log 승인 선례 평행)",
+  "title": "Custody History"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "양육 명령 서류 관리(Immigration Petition 평행)",
+  "title": "Custody Order"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "양육권 신청 절차 관리(Patent Timetable 평행)",
+  "title": "Custody Petition"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "양육 계획 수립·관리(Plan 절차 명사 선례 평행)",
+  "title": "Custody Plan"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "양육 일정·기한 알림(Notary Reminder 승인 선례 평행)",
+  "title": "Custody Reminder"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "양육 절차 타임라인 기록(Custody History 평행)",
+  "title": "Custody Timeline"
+ },
+ {
+  "industry": "maritime_shipping",
+  "original_reason": "관세 신고·통관 조회 앱(실재)",
+  "title": "Customs App"
+ },
+ {
+  "industry": "maritime_shipping",
+  "original_reason": "Customs App 승인 선례의 Tips 평행",
+  "title": "Customs Tips"
+ },
+ {
+  "industry": "moving_relocation_services",
+  "original_reason": "파손 접수·정산 관리 앱(실재)",
+  "title": "Damage App"
+ },
+ {
+  "industry": "moving_relocation_services",
+  "original_reason": "Damage App 승인 선례의 Tips 평행",
+  "title": "Damage Tips"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "스마트 데드볼트 잠금 관리 앱(실재)",
+  "title": "Deadbolt App"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "Deadbolt App 승인 선례의 Tips 평행",
+  "title": "Deadbolt Tips"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "체크카드 지출 관리 앱(실재)",
+  "title": "Debit App"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "Debit App 승인 선례의 Tips 평행",
+  "title": "Debit Tips"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "세금 공제 계산·관리 앱(실재)",
+  "title": "Deduction App"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "Deduction App 승인 선례의 Tips 평행",
+  "title": "Deduction Tips"
+ },
+ {
+  "industry": "manufacturing",
+  "original_reason": "제품 결함 추적 관리 앱(실재)",
+  "title": "Defect App"
+ },
+ {
+  "industry": "manufacturing",
+  "original_reason": "Defect App 승인 선례의 Tips 평행",
+  "title": "Defect Tips"
+ },
+ {
+  "industry": "interpreter_translation_services",
+  "original_reason": "방언 학습·사전 앱(실재)",
+  "title": "Dialect App"
+ },
+ {
+  "industry": "interpreter_translation_services",
+  "original_reason": "Dialect App 승인 선례의 Tips 평행",
+  "title": "Dialect Tips"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "기저귀 교체 기록·재고 알림 앱(실재)",
+  "title": "Diaper App"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "Diaper App 승인 선례의 Tips 평행",
+  "title": "Diaper Tips"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "레스토랑 예약·외식 관리 앱(실재)",
+  "title": "Dine App"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "Dine App 승인 선례의 Tips 평행",
+  "title": "Dine Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "콘텐츠 발견·추천 앱(실재)",
+  "title": "Discovery App"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "Discovery App 승인 선례의 Tips 평행",
+  "title": "Discovery Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "다이빙 로그 기록 일지(Rafting Diary 평행)",
+  "title": "Diving Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "다이빙 해양 컨디션 예보(Sailing Forecast 평행)",
+  "title": "Diving Forecast"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "다이빙 스팟 가이드 콘텐츠(Guide 관용구)",
+  "title": "Diving Guide"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "다이빙 강습 영상 가이드(Golf Video 평행)",
+  "title": "Diving Video"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "절차 기한 알림(Custody Reminder 승인 선례 평행)",
+  "title": "Divorce Alert"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "이혼 절차 일정 관리(Custody Calendar 승인 선례 평행)",
+  "title": "Divorce Calendar"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "이혼 과정 기록 저널(가이드 저널 실재)",
+  "title": "Divorce Journal"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "법원 명령 이행 관리(Notification 절차 명사 선례 평행)",
+  "title": "Divorce Order"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "이혼 소송 신청서 절차 관리(Petition 절차 명사 선례 평행)",
+  "title": "Divorce Petition"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "이혼 절차 플레이북(Custody Playbook 승인 선례)",
+  "title": "Divorce Playbook"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "이혼 절차 기한 알림 관리(Notification 절차 명사 선례 평행)",
+  "title": "Divorce Reminder"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "이혼 절차 일정 관리(Timetable/Calendar 절차 명사 선례 평행)",
+  "title": "Divorce Timeline"
+ },
+ {
+  "industry": "manufacturing",
+  "original_reason": "설비 다운타임 추적 앱(실재)",
+  "title": "Downtime App"
+ },
+ {
+  "industry": "manufacturing",
+  "original_reason": "Downtime App 승인 선례의 Tips 평행",
+  "title": "Downtime Tips"
+ },
+ {
+  "industry": "plumbing_services",
+  "original_reason": "배수 시설 점검·관리 앱(Plumbing App 평행)",
+  "title": "Drain App"
+ },
+ {
+  "industry": "plumbing_services",
+  "original_reason": "Drain App 승인 선례의 Tips 평행",
+  "title": "Drain Tips"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "컨테이너 드레이지 운송 관리 앱(실재)",
+  "title": "Drayage App"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "Drayage App 승인 선례의 Tips 평행",
+  "title": "Drayage Tips"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "드럼 레슨·연습 앱(실재)",
+  "title": "Drum App"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "Drum App 승인 선례의 Tips 평행",
+  "title": "Drum Tips"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "덕트리스 에어컨 시공·관리 앱(실재)",
+  "title": "Ductless App"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "Ductless App 승인 선례의 Tips 평행",
+  "title": "Ductless Tips"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "덕트 시공·점검 관리 앱(실재)",
+  "title": "Ductwork App"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "Ductwork App 승인 선례의 Tips 평행",
+  "title": "Ductwork Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "증상 체크 가이드(Cholesterol Checker 승인 선례 평행)",
+  "title": "Eczema Checker"
+ }
+]

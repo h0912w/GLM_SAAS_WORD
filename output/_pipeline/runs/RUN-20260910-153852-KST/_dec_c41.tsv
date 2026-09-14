@@ -1,0 +1,200 @@
+Viola Tips	A	T	T	T	0.55	Viola App 승인 선례의 Tips 평행
+Symptom Advice	R	T	F	T	0.65	이번 배치 승인 Symptom Tips와 동일 기능 의미 중복
+Debit Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Court Mode	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Shipper Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Counteroffer Quantity	R	F	T	T	0.6	수량 대상 불분명
+Peril Login	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Deduction Analysis	R	F	T	T	0.6	분석 대상 불분명
+Plumbing Coach	R	F	T	T	0.6	코칭 대상 불분명
+Major Habit	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Judge Studio	R	F	T	T	0.6	선례 기각(App 기각) 계열(Studio 기각 라인)
+Jury Finder	R	F	T	T	0.6	탐색 기능 지칭으로 제품 불분명(Finder 기각 라인)
+Lawsuit Update	R	F	T	T	0.6	갱신 기능 지칭으로 제품 불분명
+Divorce Fee	R	F	T	T	0.6	수수료 결합 불성립
+Custody Token	R	F	T	T	0.6	토큰 지칭으로 제품 불분명
+Immigration Repository	R	F	T	T	0.6	저장소 지칭으로 제품 불분명
+Testament Template	A	T	T	T	0.55	유언장 양식 템플릿(Template 절차 명사 선례 평행)
+Notary Seal	R	F	T	T	0.6	인장·밀봉 중의로 불분명
+Mediation Brightness	R	F	T	T	0.6	결합 불성립
+Guardianship Timetable	R	F	T	T	0.6	terrain 대상 결합 불성립
+Detention App	R	F	T	T	0.6	구금·학교 지도 중의로 용도 불분명
+Editor Advice	R	T	F	T	0.65	이번 배치 승인 Editor Tips와 동일 기능 의미 중복
+Contact Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Portfolio Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Headlight Quantity	R	F	T	T	0.6	수량 대상 불분명
+Brunch Login	R	F	T	T	0.6	제품 불분명
+Shelter Analysis	R	F	T	T	0.6	분석 대상 불분명
+Cleaning Coach	R	F	T	T	0.6	코칭 대상 불분명
+Nap Habit	R	F	T	T	0.6	결합 불성립
+Trademark Cascade	R	F	T	T	0.6	선례 기각(App 기각) 계열(Cascade 중의)
+Patent Panel	R	F	T	T	0.6	패널 지칭으로 제품 불분명
+Copyright Locator	R	F	T	T	0.6	탐색 기능 지칭으로 제품 불분명(Locator 기각 라인)
+Migraine Diary	A	T	T	T	0.55	편두통 증상 기록 일지(Vertigo Diary 평행)
+Insomnia Claim	R	F	T	T	0.6	결합 불성립
+Skydiving Length	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Acne Weight	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Snowboarding Type	R	F	T	T	0.6	결합 불성립(분류 대상 부자연)
+Eczema Clock	R	F	T	T	0.6	결합 불성립
+Ziplining Depth	R	F	T	T	0.6	결합 불성립
+Psoriasis Height	R	F	T	T	0.6	결합 불성립
+Sledding Pressure	R	F	T	T	0.6	결합 불성립
+Vertigo Load	R	F	T	T	0.6	결합 불성립
+Diving Brightness	R	F	T	T	0.6	결합 불성립
+Arthritis Frequency	R	F	T	T	0.6	결합 불성립
+Sailing Usage	R	F	T	T	0.6	사용 지칭으로 제품 불분명
+Menopause Condition	R	F	T	T	0.6	상태 명사로 제품명 부자연
+Rafting Cycle	R	F	T	T	0.6	주기 지칭으로 제품 불분명
+Pregnancy Breakdown	R	F	T	T	0.6	내역·고장 중의로 불분명
+Climbing Followup	R	F	T	T	0.6	후속 지칭으로 제품 불분명
+Fertility Approval	R	F	T	T	0.6	승인 지칭으로 제품 불분명
+Biking Questionnaire	R	F	T	T	0.6	설문 대상 불분명
+Thyroid Utilization	R	F	T	T	0.6	활용 지칭으로 제품 불분명
+Golf Depreciation	R	F	T	T	0.6	결합 불성립
+Cholesterol Resignation	R	F	T	T	0.6	결합 불성립
+Fishing Tuner	R	F	T	T	0.6	튜너 기능 지칭으로 제품 불분명
+Hypertension Tutorial	R	F	T	T	0.6	terrain 대상 결합 불성립
+Camping Opinion	R	F	T	T	0.6	소견 대상 불분명
+Anemia Gift	R	F	T	T	0.6	결합 불성립
+Glamping Flyer	R	F	T	T	0.6	terrain 대상 결합 불성립
+Heartburn App	R	F	T	T	0.6	속쓰림 상태 지칭으로 용도 불분명
+Compensation Tips	A	T	T	T	0.55	Compensation App 승인 선례의 Tips 평행
+Locksmith Advice	R	T	F	T	0.65	이번 배치 승인 Locksmith Tips와 동일 기능 의미 중복
+Stargazing Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Constipation Mode	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Testimony Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Birdwatching Login	R	F	T	T	0.6	제품 불분명
+Concussion Analysis	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Canyon Habit	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Sprain Tracker	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Geyser Flow	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Fracture Hub	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Fjord Desk	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Insulin Radar	R	F	T	T	0.6	제품 불분명
+Savanna Relay	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Tundra Vault	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Prairie Compass	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Marsh Beacon	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Cove Forge	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Cliff Cascade	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Cavern Bridge	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Oasis Signal	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Dune Watch	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Whale Scope	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Dolphin Loop	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Penguin Grid	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Flamingo Wave	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Turtle Path	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Moose Point	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Bison Map	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Reindeer Frame	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Utility App	R	F	T	T	0.6	공공요금·소프트웨어 도구 중의로 대상 불분명
+Pump Tips	A	T	T	T	0.55	Pump App 승인 선례의 Tips 평행
+Wax Advice	R	T	F	T	0.65	이번 배치 승인 Wax Tips와 동일 기능 의미 중복
+Drain Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Cruise Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Violin Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Expense Login	R	F	T	T	0.6	제품 불분명
+Clause Analysis	R	F	T	T	0.6	분석 대상 불분명
+Listing Habit	R	F	T	T	0.6	결합 불성립
+Retainer App	R	F	T	T	0.6	법률 계약금·교정기 중의로 대상 불분명
+Title Advice	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Actuary Workbook	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Jobsite Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Markdown Quantity	R	F	T	T	0.6	수량 대상 불분명
+Itinerary Login	R	F	T	T	0.6	제품 불분명
+Scholarship Analysis	R	F	T	T	0.6	분석 대상 불분명
+Supplier Coach	R	F	T	T	0.6	코칭 대상 불분명
+Fertilizer Habit	R	F	T	T	0.6	결합 불성립
+Lawyer Nomination	R	F	T	T	0.6	결합 불성립
+Attorney Capacity	R	F	T	T	0.6	상태 명사로 제품명 부자연
+Nozzle App	R	F	T	T	0.6	노즐 부품 지칭으로 용도 불분명
+Campsite Tips	A	T	T	T	0.55	Campsite App 승인 선례의 Tips 평행
+Viola Advice	R	T	F	T	0.65	이번 배치 승인 Viola Tips와 동일 기능 의미 중복
+Symptom Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Debit Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Court Spec	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Shipper Quantity	R	F	T	T	0.6	수량 대상 불분명
+Counteroffer Login	R	F	T	T	0.6	제품 불분명
+Peril Analysis	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Deduction Coach	R	F	T	T	0.6	코칭 대상 불분명
+Plumbing Habit	R	F	T	T	0.6	결합 불성립
+Judge Lab	R	F	T	T	0.6	선례 기각(App 기각) 계열(Lab 기각 라인)
+Jury Office	R	F	T	T	0.6	사무실 지칭으로 제품 불분명
+Lawsuit Feed	R	F	T	T	0.6	피드 지칭으로 제품 불분명
+Divorce Item	R	F	T	T	0.6	항목 지칭으로 제품 불분명
+Custody Signature	R	F	T	T	0.6	서명 대상 불분명
+Immigration Announcement	R	F	T	T	0.6	공지 지칭으로 제품 불분명
+Testament Guide	A	T	T	T	0.55	유언·상속 절차 가이드(Guide 절차 명사 선례 평행)
+Notary Review	R	F	T	T	0.6	리뷰 대상 불분명
+Mediation Frequency	R	F	T	T	0.6	결합 불성립
+Guardianship Opinion	R	F	T	T	0.6	소견 대상 불분명
+Excavation App	A	T	T	T	0.55	굴착 공사 관리 앱(실재)
+Detention Tips	R	F	T	T	0.6	선례 기각(App 기각)의 Tips 평행 불가
+Editor Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Contact Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Portfolio Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Headlight Login	R	F	T	T	0.6	제품 불분명
+Brunch Analysis	R	F	T	T	0.6	분석 대상 불분명
+Shelter Coach	R	F	T	T	0.6	코칭 대상 불분명
+Cleaning Habit	R	F	T	T	0.6	결합 불성립
+Trademark Bridge	R	F	T	T	0.6	선례 기각(App 기각) 계열(Bridge 중의)
+Patent Scale	R	F	T	T	0.6	저울·규모 중의로 불분명
+Copyright Finder	R	F	T	T	0.6	탐색 기능 지칭으로 제품 불분명(Finder 기각 라인)
+Migraine Refund	R	F	T	T	0.6	결합 불성립
+Insomnia Onboarding	R	F	T	T	0.6	결합 불성립
+Skydiving Weight	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Acne Distance	R	F	T	T	0.6	결합 불성립
+Snowboarding Clock	R	F	T	T	0.6	결합 불성립
+Eczema Time	R	F	T	T	0.6	결합 불성립
+Ziplining Height	R	F	T	T	0.6	결합 불성립
+Psoriasis Width	R	F	T	T	0.6	결합 불성립
+Sledding Load	R	F	T	T	0.6	결합 불성립
+Vertigo Voltage	R	F	T	T	0.6	결합 불성립
+Diving Frequency	R	F	T	T	0.6	결합 불성립
+Arthritis Compatibility	R	F	T	T	0.6	상태 명사로 제품명 부자연
+Sailing Condition	R	F	T	T	0.6	상태 명사로 제품명 부자연
+Menopause Humidity	R	F	T	T	0.6	결합 불성립
+Rafting Breakdown	R	F	T	T	0.6	내역·고장 중의로 불분명
+Pregnancy Sensor	R	F	T	T	0.6	결합 불성립
+Climbing Approval	R	F	T	T	0.6	승인 지칭으로 제품 불분명
+Fertility Matrix	R	F	T	T	0.6	행렬·매트릭스 중의로 불분명
+Biking Utilization	R	F	T	T	0.6	활용 지칭으로 제품 불분명
+Thyroid Benefit	R	F	T	T	0.6	혜택 지칭으로 제품 불분명
+Golf Resignation	R	F	T	T	0.6	결합 불성립
+Cholesterol Hazard	R	F	T	T	0.6	결합 불성립
+Fishing Tutorial	R	F	T	T	0.6	terrain 대상 결합 불성립
+Hypertension Handbook	R	F	T	T	0.6	terrain 대상 결합 불성립
+Camping Gift	R	F	T	T	0.6	결합 불성립
+Anemia Retreat	R	F	T	T	0.6	terrain 대상 결합 불성립
+Glamping App	A	T	T	T	0.55	글램핑장 검색·예약 앱(Campsite App 평행)
+Heartburn Tips	R	F	T	T	0.6	선례 기각(App 기각)의 Tips 평행 불가
+Compensation Advice	R	T	F	T	0.65	이번 배치 승인 Compensation Tips와 동일 기능 의미 중복
+Locksmith Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Stargazing Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Constipation Spec	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Testimony Quantity	R	F	T	T	0.6	수량 대상 불분명
+Birdwatching Analysis	R	F	T	T	0.6	분석 대상 불분명
+Concussion Coach	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Canyon Tracker	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Sprain Flow	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Geyser Hub	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Fracture Desk	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Fjord Radar	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Insulin Relay	R	F	T	T	0.6	제품 불분명
+Savanna Vault	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Tundra Compass	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Prairie Beacon	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Marsh Forge	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Cove Cascade	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Cliff Bridge	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Cavern Signal	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Oasis Watch	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Dune Scope	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Whale Loop	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Dolphin Grid	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Penguin Wave	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Flamingo Path	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Turtle Point	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Moose Map	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Bison Frame	R	F	T	T	0.6	선례 기각(App 기각) 계열

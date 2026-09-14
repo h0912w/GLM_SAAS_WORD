@@ -1,0 +1,382 @@
+[
+ {
+  "industry": "travel_tourism",
+  "original_reason": "캠핑 기록 일지(Birdwatching Diary 평행)",
+  "title": "Camping Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "캠핑장 리뷰(Glamping Review 평행)",
+  "title": "Camping Review"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Camping App 승인 선례의 Tips 평행",
+  "title": "Camping Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "캠핑장 소개 영상(Glamping Video 평행)",
+  "title": "Camping Video"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "캠핑장 검색·예약 앱(실재)",
+  "title": "Campsite App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Campsite App 승인 선례의 Tips 평행",
+  "title": "Campsite Tips"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "채용 후보자 관리 앱(실재)",
+  "title": "Candidate App"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "Candidate App 승인 선례의 Tips 평행",
+  "title": "Candidate Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "협곡 투어 리뷰 콘텐츠(Geyser/Fjord Review 평행)",
+  "title": "Canyon Review"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "협곡 투어 영상 콘텐츠(Geyser/Fjord Video 평행)",
+  "title": "Canyon Video"
+ },
+ {
+  "industry": "transportation",
+  "original_reason": "화물 운송·추적 관리 앱(실재)",
+  "title": "Cargo App"
+ },
+ {
+  "industry": "transportation",
+  "original_reason": "Cargo App 승인 선례의 Tips 평행",
+  "title": "Cargo Tips"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "운송·물류 배차 관리 앱(실재)",
+  "title": "Carrier App"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "Carrier App 승인 선례의 Tips 평행",
+  "title": "Carrier Tips"
+ },
+ {
+  "industry": "events",
+  "original_reason": "케이터링 주문·배식 관리 앱(실재)",
+  "title": "Catering App"
+ },
+ {
+  "industry": "events",
+  "original_reason": "Catering App 승인 선례의 Tips 평행",
+  "title": "Catering Tips"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "판매·파트너 채널 관리 앱(실재)",
+  "title": "Channel App"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "Channel App 승인 선례의 Tips 평행",
+  "title": "Channel Tips"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "차지백 대응 관리 앱(실재)",
+  "title": "Chargeback App"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "Chargeback App 승인 선례의 Tips 평행",
+  "title": "Chargeback Tips"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "고객 상담 채팅 앱(실재)",
+  "title": "Chat App"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "Chat App 승인 선례의 Tips 평행",
+  "title": "Chat Tips"
+ },
+ {
+  "industry": "hospitality",
+  "original_reason": "행사·투숙 체크인 관리 앱(실재)",
+  "title": "Checkin App"
+ },
+ {
+  "industry": "hospitality",
+  "original_reason": "Checkin App 승인 선례의 Tips 평행",
+  "title": "Checkin Tips"
+ },
+ {
+  "industry": "cleaning_services",
+  "original_reason": "체크리스트 작성·관리 앱(실재)",
+  "title": "Checklist App"
+ },
+ {
+  "industry": "cleaning_services",
+  "original_reason": "Checklist App 승인 선례의 Tips 평행",
+  "title": "Checklist Tips"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "냉각 설비 점검·관리 앱(실재)",
+  "title": "Chiller App"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "Chiller App 승인 선례의 Tips 평행",
+  "title": "Chiller Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "콜레스테롤 기록 일지(Hypertension Diary 평행)",
+  "title": "Cholesterol Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "콜레스테롤 관리 영상 가이드(Hypertension Video 평행)",
+  "title": "Cholesterol Video"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "기타 코드 학습·검색 앱(실재)",
+  "title": "Chord App"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "Chord App 승인 선례의 Tips 평행",
+  "title": "Chord Tips"
+ },
+ {
+  "industry": "telecom",
+  "original_reason": "고객 이탈 방지 관리 앱(실재)",
+  "title": "Churn App"
+ },
+ {
+  "industry": "telecom",
+  "original_reason": "Churn App 승인 선례의 Tips 평행",
+  "title": "Churn Tips"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "발행 부수·배포 관리 앱(실재)",
+  "title": "Circulation App"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "Circulation App 승인 선례의 Tips 평행",
+  "title": "Circulation Tips"
+ },
+ {
+  "industry": "plumbing_services",
+  "original_reason": "저수조 점검·관리 앱(실재)",
+  "title": "Cistern App"
+ },
+ {
+  "industry": "plumbing_services",
+  "original_reason": "Cistern App 승인 선례의 Tips 평행",
+  "title": "Cistern Tips"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "보험 청구·클레임 접수 앱(실재)",
+  "title": "Claim App"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "Claim App 승인 선례의 Tips 평행",
+  "title": "Claim Tips"
+ },
+ {
+  "industry": "education",
+  "original_reason": "교실 수업 관리 앱(실재)",
+  "title": "Classroom App"
+ },
+ {
+  "industry": "education",
+  "original_reason": "Classroom App 승인 선례의 Tips 평행",
+  "title": "Classroom Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "계약 조항 관리 앱(실재)",
+  "title": "Clause App"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "Clause App 승인 선례의 Tips 평행",
+  "title": "Clause Tips"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "청소 서비스 예약·관리 앱(실재)",
+  "title": "Cleaning App"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "Cleaning App 승인 선례의 Tips 평행",
+  "title": "Cleaning Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "클라이밍 등반 기록 일지(Camping Diary 평행)",
+  "title": "Climbing Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "클라이밍 루트 가이드(Golf/Biking Guide 평행)",
+  "title": "Climbing Guide"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "클라이밍 기술 영상 가이드(Golf Video 평행)",
+  "title": "Climbing Video"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "보상·급여 관리 앱(실재)",
+  "title": "Compensation App"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "Compensation App 승인 선례의 Tips 평행",
+  "title": "Compensation Tips"
+ },
+ {
+  "industry": "events",
+  "original_reason": "민원 접수·처리 관리 앱(실재)",
+  "title": "Complaint App"
+ },
+ {
+  "industry": "events",
+  "original_reason": "Complaint App 승인 선례의 Tips 평행",
+  "title": "Complaint Tips"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "퇴비화·음식물 쓰레기 관리 앱(실재)",
+  "title": "Compost App"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "Compost App 승인 선례의 Tips 평행",
+  "title": "Compost Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "뇌진탕 회복 기록 일지(Fracture Diary 평행)",
+  "title": "Concussion Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "뇌진탕 처치·회복 영상 가이드(Fracture Video 평행)",
+  "title": "Concussion Video"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "에어컨 설치·점검 관리 앱(실재)",
+  "title": "Conditioner App"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "Conditioner App 승인 선례의 Tips 평행",
+  "title": "Conditioner Tips"
+ },
+ {
+  "industry": "it_devops",
+  "original_reason": "설정·구성 관리 앱(실재)",
+  "title": "Configuration App"
+ },
+ {
+  "industry": "it_devops",
+  "original_reason": "Configuration App 승인 선례의 Tips 평행",
+  "title": "Configuration Tips"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "화물 통합 집하 앱(Lane App 평행)",
+  "title": "Consolidation App"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "Consolidation App 승인 선례의 Tips 평행",
+  "title": "Consolidation Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "배변·식이 기록 일지(배변일지 실재, Fracture Diary 평행)",
+  "title": "Constipation Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "변비 완화 운동·식이 영상 가이드(Fracture Video 평행)",
+  "title": "Constipation Video"
+ },
+ {
+  "industry": "government",
+  "original_reason": "주민 민원·소통 앱(실재)",
+  "title": "Constituent App"
+ },
+ {
+  "industry": "government",
+  "original_reason": "Constituent App 승인 선례의 Tips 평행",
+  "title": "Constituent Tips"
+ },
+ {
+  "industry": "energy_utilities",
+  "original_reason": "에너지·자원 소비 추적 앱(실재)",
+  "title": "Consumption App"
+ },
+ {
+  "industry": "energy_utilities",
+  "original_reason": "Consumption App 승인 선례의 Tips 평행",
+  "title": "Consumption Tips"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "연락처 관리 앱(실재)",
+  "title": "Contact App"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "Contact App 승인 선례의 Tips 평행",
+  "title": "Contact Tips"
+ },
+ {
+  "industry": "marketing",
+  "original_reason": "콘텐츠 기획·발행 관리 앱(실재)",
+  "title": "Content App"
+ },
+ {
+  "industry": "marketing",
+  "original_reason": "Content App 승인 선례의 Tips 평행",
+  "title": "Content Tips"
+ },
+ {
+  "industry": "pool_maintenance_services",
+  "original_reason": "스트레스 대처 기술 연습 앱(실재)",
+  "title": "Coping App"
+ },
+ {
+  "industry": "pool_maintenance_services",
+  "original_reason": "Coping App 승인 선례의 Tips 평행",
+  "title": "Coping Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "저작물 등록·로열티 관리 앱(실재)",
+  "title": "Copyright App"
+ }
+]

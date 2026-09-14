@@ -1,0 +1,200 @@
+Cistern Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Souvenir Quantity	R	F	T	T	0.6	수량 대상 불분명
+Trombone Login	R	F	T	T	0.6	제품 불분명
+Savings Coach	R	F	T	T	0.6	코칭 대상 불분명
+Judge Habit	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Jury Portal	R	F	T	T	0.6	포털 지칭으로 제품 불분명
+Lawsuit Post	R	F	T	T	0.6	게시물·우편 중의로 불분명
+Divorce Index	R	F	T	T	0.6	색인·지수 중의로 불분명
+Custody Price	R	F	T	T	0.6	가격 결합 불성립
+Immigration Asset	R	F	T	T	0.6	자산 결합 불성립
+Testament Generator	R	F	T	T	0.6	생성 도구 지칭으로 제품 불분명
+Notary Agreement	R	F	T	T	0.6	계약서 문서 지칭으로 제품 불분명
+Mediation Recipe	R	F	T	T	0.6	결합 불성립
+Guardianship Wattage	R	F	T	T	0.6	결합 불성립
+Trademark Handbook	A	T	T	T	0.55	상표 등록 절차 핸드북(Patent Handbook 평행)
+Streetlight App	A	T	T	T	0.55	가로등 점검·관리 앱(실재)
+Publisher Tips	A	T	T	T	0.55	Publisher App 승인 선례의 Tips 평행
+Salary Advice	R	T	F	T	0.65	이번 배치 승인 Salary Tips와 동일 기능 의미 중복
+Background Workbook	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Windshield Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Bakery Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Exam Quantity	R	F	T	T	0.6	수량 대상 불분명
+Sedation Login	R	F	T	T	0.6	제품 불분명
+Playtime Analysis	R	F	T	T	0.6	분석 대상 불분명
+Conditioner Coach	R	F	T	T	0.6	코칭 대상 불분명
+Pickup Habit	R	F	T	T	0.6	결합 불성립
+Patent Compass	R	F	T	T	0.6	나침반 기능 지칭으로 제품 불분명
+Copyright Zone	R	F	T	T	0.6	구역 지칭으로 제품 불분명
+Migraine Match	R	F	T	T	0.6	매칭·경기 중의로 불분명
+Insomnia Availability	R	F	T	T	0.6	상태 명사로 제품명 부자연
+Skydiving Appointment	R	F	T	T	0.6	약속 대상 불분명
+Acne Feedback	R	F	T	T	0.6	결합 불성립
+Snowboarding Warranty	R	F	T	T	0.6	결합 불성립
+Eczema Deposit	R	F	T	T	0.6	결합 불성립
+Ziplining Correction	R	F	T	T	0.6	결합 불성립
+Psoriasis Revision	R	F	T	T	0.6	결합 불성립
+Sledding Simulator	R	F	T	T	0.6	결합 불성립
+Vertigo Predictor	R	F	T	T	0.6	예측 대상 불분명
+Diving Recipe	R	F	T	T	0.6	결합 불성립
+Arthritis Video	A	T	T	T	0.55	관절염 관리 영상 가이드(Hypertension Video 평행)
+Sailing Expense	R	F	T	T	0.6	결합 불성립
+Menopause Newsletter	R	F	T	T	0.6	결합 불성립
+Rafting Onboarding	R	F	T	T	0.6	결합 불성립
+Pregnancy Checkin	R	F	T	T	0.6	결합 불성립
+Climbing Weight	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Fertility Distance	R	F	T	T	0.6	결합 불성립
+Biking Type	R	F	T	T	0.6	결합 불성립(분류 대상 부자연)
+Thyroid Clock	R	F	T	T	0.6	결합 불성립
+Golf Depth	R	F	T	T	0.6	결합 불성립
+Cholesterol Height	R	F	T	T	0.6	결합 불성립
+Fishing Pressure	R	F	T	T	0.6	결합 불성립
+Hypertension Load	R	F	T	T	0.6	결합 불성립
+Camping Brightness	R	F	T	T	0.6	결합 불성립
+Anemia Frequency	R	F	T	T	0.6	결합 불성립
+Glamping Usage	R	F	T	T	0.6	사용 지칭으로 제품 불분명
+Heartburn Condition	R	F	T	T	0.6	상태 명사로 제품명 부자연
+Stargazing Cycle	R	F	T	T	0.6	주기 지칭으로 제품 불분명
+Constipation Breakdown	R	F	T	T	0.6	내역·고장 중의로 불분명
+Birdwatching Followup	R	F	T	T	0.6	후속 지칭으로 제품 불분명
+Concussion Approval	R	F	T	T	0.6	승인 지칭으로 제품 불분명
+Canyon Evaluation	R	F	T	T	0.6	평가 대상 불분명
+Sprain Questionnaire	R	F	T	T	0.6	설문 대상 불분명
+Geyser Utilization	R	F	T	T	0.6	활용 지칭으로 제품 불분명
+Fracture Benefit	R	F	T	T	0.6	혜택 지칭으로 제품 불분명
+Fjord Requirement	R	F	T	T	0.6	요건 지칭으로 제품 불분명
+Insulin Depreciation	R	F	T	T	0.6	결합 불성립
+Savanna Resignation	R	F	T	T	0.6	결합 불성립
+Tundra Hazard	R	F	T	T	0.6	결합 불성립
+Prairie Guarantor	R	F	T	T	0.6	보증인 명사 결합 불성립
+Marsh Tuner	R	F	T	T	0.6	튜너 기능 지칭으로 제품 불분명
+Cove Tutorial	R	F	T	T	0.6	terrain 대상 결합 불성립
+Cliff Handbook	R	F	T	T	0.6	terrain 대상 결합 불성립
+Cavern Timetable	R	F	T	T	0.6	terrain 대상 결합 불성립
+Oasis Opinion	R	F	T	T	0.6	terrain 대상 결합 불성립
+Dune Gift	R	F	T	T	0.6	결합 불성립
+Whale Retreat	R	F	T	T	0.6	동물 대상 결합 불성립
+Dolphin Tournament	R	F	T	T	0.6	동물 대상 결합 불성립
+Penguin Flyer	R	F	T	T	0.6	동물 대상 결합 불성립
+Flamingo App	R	F	T	T	0.6	동물 지칭으로 제품 불분명
+Turtle Tips	R	F	T	T	0.6	선례 기각(App 기각)의 Tips 평행 불가
+Moose Advice	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Bison Workbook	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Reindeer Mode	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Satisfaction App	A	T	T	T	0.55	고객 만족도 조사·관리 앱(실재)
+Offer Tips	A	T	T	T	0.55	Offer App 승인 선례의 Tips 평행
+Sponsor Advice	R	T	F	T	0.65	이번 배치 승인 Sponsor Tips와 동일 기능 의미 중복
+Reservation Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Grooming Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Hygiene Quantity	R	F	T	T	0.6	수량 대상 불분명
+Curriculum Analysis	R	F	T	T	0.6	분석 대상 불분명
+Incident Coach	R	F	T	T	0.6	코칭 대상 불분명
+Meal App	A	T	T	T	0.55	식단 기록·계획 관리 앱(실재)
+Loyalty Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Fleet Habit	R	F	T	T	0.6	결합 불성립
+Lawyer Volume	R	F	T	T	0.6	결합 불성립
+Attorney Refund	R	F	T	T	0.6	결합 불성립
+Court Sensor	R	F	T	T	0.6	결합 불성립
+Invite Advice	R	T	F	T	0.65	이번 배치 승인 Invite Tips와 동일 기능 의미 중복
+Coping Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Wheel Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Cistern Quantity	R	F	T	T	0.6	수량 대상 불분명
+Souvenir Login	R	F	T	T	0.6	제품 불분명
+Trombone Analysis	R	F	T	T	0.6	분석 대상 불분명
+Savings Habit	R	F	T	T	0.6	결합 불성립
+Judge Tracker	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Jury Console	R	F	T	T	0.6	콘솔 중의로 불분명
+Lawsuit Harbor	R	F	T	T	0.6	항구 지칭으로 제품 불분명
+Divorce Ticket	R	F	T	T	0.6	티켓 중의로 불분명
+Custody Fare	R	F	T	T	0.6	요금 결합 불성립
+Immigration Levy	R	F	T	T	0.6	부과금 결합 불성립
+Testament Recorder	R	F	T	T	0.6	녹음 도구 지칭으로 제품 불분명
+Notary Reply	R	F	T	T	0.6	결합 불성립
+Mediation Video	R	F	T	T	0.6	영상 대상 불분명(Attorney Video 기각 선례)
+Guardianship Brightness	R	F	T	T	0.6	결합 불성립
+Trademark Timetable	A	T	T	T	0.55	상표 등록 절차 일정 관리(Judge Timetable 평행)
+Suspension App	A	T	T	T	0.55	차량 서스펜션 정비 관리 앱(Wheel App 평행)
+Streetlight Tips	A	T	T	T	0.55	Streetlight App 승인 선례의 Tips 평행
+Publisher Advice	R	T	F	T	0.65	이번 배치 승인 Publisher Tips와 동일 기능 의미 중복
+Salary Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Background Mode	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Windshield Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Bakery Quantity	R	F	T	T	0.6	수량 대상 불분명
+Exam Login	R	F	T	T	0.6	제품 불분명
+Sedation Analysis	R	F	T	T	0.6	분석 대상 불분명
+Playtime Coach	R	F	T	T	0.6	코칭 대상 불분명
+Conditioner Habit	R	F	T	T	0.6	결합 불성립
+Patent Beacon	R	F	T	T	0.6	신호 기능 지칭으로 제품 불분명
+Copyright Portal	R	F	T	T	0.6	포털 지칭으로 제품 불분명
+Migraine Validation	R	F	T	T	0.6	결합 불성립
+Insomnia Eligibility	R	F	T	T	0.6	결합 불성립
+Skydiving Feedback	R	F	T	T	0.6	결합 불성립
+Acne Invoice	R	F	T	T	0.6	결합 불성립
+Snowboarding Deposit	R	F	T	T	0.6	결합 불성립
+Eczema Certification	R	F	T	T	0.6	결합 불성립
+Ziplining Revision	R	F	T	T	0.6	결합 불성립
+Psoriasis Payment	R	F	T	T	0.6	결합 불성립
+Sledding Predictor	R	F	T	T	0.6	예측 대상 불분명
+Vertigo Seal	R	F	T	T	0.6	결합 불성립
+Diving Video	A	T	T	T	0.55	다이빙 강습 영상 가이드(Golf Video 평행)
+Arthritis Diary	A	T	T	T	0.55	관절염 증상 기록 일지(Hypertension Diary 평행)
+Sailing Newsletter	R	F	T	T	0.6	결합 불성립
+Menopause Inventory	R	F	T	T	0.6	결합 불성립
+Rafting Checkin	R	F	T	T	0.6	결합 불성립
+Pregnancy Size	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Climbing Distance	R	F	T	T	0.6	결합 불성립
+Fertility Range	R	F	T	T	0.6	결합 불성립
+Biking Clock	R	F	T	T	0.6	결합 불성립
+Thyroid Time	R	F	T	T	0.6	결합 불성립
+Golf Height	R	F	T	T	0.6	결합 불성립
+Cholesterol Width	R	F	T	T	0.6	결합 불성립
+Fishing Load	R	F	T	T	0.6	결합 불성립
+Hypertension Voltage	R	F	T	T	0.6	결합 불성립
+Camping Frequency	R	F	T	T	0.6	결합 불성립
+Anemia Compatibility	R	F	T	T	0.6	상태 명사로 제품명 부자연
+Glamping Condition	R	F	T	T	0.6	상태 명사로 제품명 부자연
+Heartburn Humidity	R	F	T	T	0.6	결합 불성립
+Stargazing Breakdown	R	F	T	T	0.6	내역·고장 중의로 불분명
+Constipation Sensor	R	F	T	T	0.6	결합 불성립
+Birdwatching Approval	R	F	T	T	0.6	승인 지칭으로 제품 불분명
+Concussion Matrix	R	F	T	T	0.6	행렬·매트릭스 중의로 불분명
+Canyon Questionnaire	R	F	T	T	0.6	설문 대상 불분명
+Sprain Utilization	R	F	T	T	0.6	활용 지칭으로 제품 불분명
+Geyser Benefit	R	F	T	T	0.6	혜택 지칭으로 제품 불분명
+Fracture Requirement	R	F	T	T	0.6	요건 지칭으로 제품 불분명
+Fjord Depreciation	R	F	T	T	0.6	결합 불성립
+Insulin Resignation	R	F	T	T	0.6	결합 불성립
+Savanna Hazard	R	F	T	T	0.6	결합 불성립
+Tundra Guarantor	R	F	T	T	0.6	보증인 명사 결합 불성립
+Prairie Tuner	R	F	T	T	0.6	튜너 기능 지칭으로 제품 불분명
+Marsh Tutorial	R	F	T	T	0.6	terrain 대상 결합 불성립
+Cove Handbook	R	F	T	T	0.6	terrain 대상 결합 불성립
+Cliff Timetable	R	F	T	T	0.6	terrain 대상 결합 불성립
+Cavern Opinion	R	F	T	T	0.6	terrain 대상 결합 불성립
+Oasis Gift	R	F	T	T	0.6	결합 불성립
+Dune Retreat	R	F	T	T	0.6	terrain 대상 결합 불성립
+Whale Tournament	R	F	T	T	0.6	동물 대상 결합 불성립
+Dolphin Flyer	R	F	T	T	0.6	동물 대상 결합 불성립
+Penguin App	R	F	T	T	0.6	동물 지칭으로 제품 불분명
+Flamingo Tips	R	F	T	T	0.6	선례 기각(App 기각)의 Tips 평행 불가
+Turtle Advice	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Moose Workbook	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Bison Mode	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Reindeer Spec	R	F	T	T	0.6	선례 기각(App 기각) 계열
+Backup App	A	T	T	T	0.55	데이터 백업·복원 관리 앱(실재)
+Satisfaction Tips	A	T	T	T	0.55	Satisfaction App 승인 선례의 Tips 평행
+Offer Advice	R	T	F	T	0.65	이번 배치 승인 Offer Tips와 동일 기능 의미 중복
+Sponsor Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Reservation Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Grooming Quantity	R	F	T	T	0.6	수량 대상 불분명
+Hygiene Login	R	F	T	T	0.6	제품 불분명
+Curriculum Coach	R	F	T	T	0.6	코칭 대상 불분명
+Incident Habit	R	F	T	T	0.6	결합 불성립
+Program App	R	F	T	T	0.6	프로그램 대상 불분명(적립·방송·소프트웨어 중의)
+Meal Tips	A	T	T	T	0.55	Meal App 승인 선례의 Tips 평행
+Loyalty Quantity	R	F	T	T	0.6	수량 대상 불분명
+Lawyer Diagnostic	R	F	T	T	0.6	진단 대상 불분명
+Attorney Expense	R	F	T	T	0.6	결합 불성립
+Court Reception	R	F	T	T	0.6	리셉션·수신 중의로 불분명
+Apostille App	A	T	T	T	0.55	아포스티유 인증 절차 관리 앱(실재)
+Invite Workbook	R	F	T	T	0.6	워크북 대상 불분명

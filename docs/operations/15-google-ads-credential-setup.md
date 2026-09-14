@@ -107,10 +107,52 @@ curl -s -X POST https://oauth2.googleapis.com/token \
   --data-urlencode "grant_type=authorization_code"
 ```
 
+### 휴대폰(Termius SSH)만으로 재발급하기 (2026-09-15 추가)
+
+PC 브라우저를 열 수 없는 원격 세션(휴대폰 Termius)에서는 `get_refresh_token.py`의
+모드 플래그로 전 과정을 완결한다:
+
+```bash
+# 1) 인가 URL 출력 (브라우저·서버 없이 URL 문자열만 출력)
+python tools/get_refresh_token.py --print-url
+
+# 2) 출력된 URL을 휴대폰 브라우저로 열어 Google 승인.
+#    승인 후 http://localhost:8080/?code=... 로 리다이렉트되는데 휴대폰에서는
+#    "연결할 수 없음" 화면이 떠도 주소창에 code=... 가 남는다 — 통째로 복사.
+#    (code는 1회용, 유효 약 10분. 교환 시 redirect_uri가 동일해야 한다.)
+
+# 3) code를 교환해 .env.local의 GOOGLE_ADS_REFRESH_TOKEN만 원자적으로 교체
+python tools/get_refresh_token.py --code "4/0Axxx..."
+
+# 4) 재발급 결과 시험 (오류 코드만 출력, 토큰 값 미출력)
+python tools/get_refresh_token.py --verify
+```
+
+대안: Termius가 local port forwarding(휴대폰 8080 → PC 8080)을 지원하므로 이를
+켜두면 `--print-url`/`--code` 없이 기존 서버 수신 방식(`get_refresh_token.py` 무인자)이
+그대로 동작한다. OAuth 디바이스 플로우(`google.com/device`)는 허용 스코프가
+OIDC/Drive/YouTube로 한정돼 `adwords` 스코프에서 사용 불가하다(공식 문서 확인).
+
 **주의**: OAuth 앱이 "테스트" 게시 상태인 동안 발급되는 REFRESH_TOKEN은
 `refresh_token_expires_in`이 약 **7일(604799초)**로 제한된다(응답 JSON에서
-직접 확인됨). 7일마다 재발급이 필요하다 — 영구적으로 쓰려면 GCP 프로젝트를
-"프로덕션" 게시 상태로 전환(Google 검증 절차 필요)해야 한다.
+직접 확인됨, 2026-09-05 재발급분이 7일 뒤 만료된 것으로 재실측). 7일마다
+재발급이 필요하다.
+
+**7일 만료를 없애는 방법 (2026-09-15 조사, 공식 문서 근거)**:
+- **프로덕션 게시(권장)**: Cloud Console → Google Auth Platform → Audience →
+  Publishing status → "Publish App". 게시 자체는 심사 없는 즉시 자기 서비스다.
+  `adwords`는 sensitive 스코프라 승인 시 "확인되지 않은 앱" 경고 화면이 한 번
+  뜨지만(Advanced → 이동) 우회 가능하고, 게시 후 refresh token은 7일 만료가
+  사라진다. 이후 Google 검증(verification)을 신청하더라도 기각돼도
+  unverified-프로덕션 상태로 토큰은 계속 무기한 유효하다(사용자 1~2명 기준;
+  미검증 프로덕션의 100명 상한과 무관). 동의 화면 게시 상태와 developer token의
+  "테스트 계정 액세스" 등급은 서로 독립이라 키워드 조회 운영엔 영향 없다.
+- **서비스 계정(SA) 전환**: Google Ads API 공식 SA 워크플로우(SA 이메일을 Ads
+  계정 사용자로 추가 + 키 파일 JWT 인증)는 OAuth 동의 화면·refresh token 만료
+  개념 자체가 없다. 다만 클라이언트 코드에 JWT 서명 의존성 추가와 QA가 필요하다.
+- `invalid_grant`가 반드시 7일 만료인 것은 아니다 — 2026-08-27 실측에서는
+  계정 잠금이 원인이었고 몇 시간 뒤 같은 토큰으로 자가 해소됐다. 만료 여부가
+  불확실하면 먼저 몇 시간 간격으로 재시도해 본다.
 
 ### 5단계 — 개발자 토큰이 다른 프로젝트에 페어링된 경우
 개발자 토큰은 **처음 성공한 API 요청의 GCP 프로젝트에 영구적으로 고정**된다

@@ -1,0 +1,382 @@
+[
+ {
+  "industry": "healthcare",
+  "original_reason": "치료 비용 계산기(Cholesterol Calculator 승인 선례 평행)",
+  "title": "Acne Calculator"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "증상 체크 가이드(Eczema Checker 승인 선례 평행)",
+  "title": "Acne Checker"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "여드름 증상 기록 일지(Eczema Diary 평행)",
+  "title": "Acne Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "여드름 관리 가이드 콘텐츠(Eczema Guide 평행)",
+  "title": "Acne Guide"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "여드름 관리 도우미(Psoriasis/Eczema Helper 평행)",
+  "title": "Acne Helper"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "여드름 발작 기록(Eczema Record 평행)",
+  "title": "Acne Record"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "여드름 발작 기록(Eczema Recorder 승인 선례 평행)",
+  "title": "Acne Recorder"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "여드름 관리 영상 가이드(Eczema Video 평행)",
+  "title": "Acne Video"
+ },
+ {
+  "industry": "telecom",
+  "original_reason": "유심·서비스 개통 앱(실재)",
+  "title": "Activation App"
+ },
+ {
+  "industry": "telecom",
+  "original_reason": "Activation App 승인 선례의 Tips 평행",
+  "title": "Activation Tips"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "보험 손해사정 업무 앱(실재)",
+  "title": "Adjuster App"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "Adjuster App 승인 선례의 Tips 평행",
+  "title": "Adjuster Tips"
+ },
+ {
+  "industry": "hospitality",
+  "original_reason": "투숙객 어메니티 예약 앱(실재)",
+  "title": "Amenity App"
+ },
+ {
+  "industry": "hospitality",
+  "original_reason": "Amenity App 승인 선례의 Tips 평행",
+  "title": "Amenity Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "빈혈 증상 기록 일지(Heartburn Diary 평행)",
+  "title": "Anemia Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "빈혈 관리 영상 가이드(Heartburn Video 평행)",
+  "title": "Anemia Video"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "마취 기록·투여 계산 앱(실재)",
+  "title": "Anesthesia App"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "Anesthesia App 승인 선례의 Tips 평행",
+  "title": "Anesthesia Tips"
+ },
+ {
+  "industry": "interpreter_translation_services",
+  "original_reason": "아포스티유 인증 절차 관리 앱(실재)",
+  "title": "Apostille App"
+ },
+ {
+  "industry": "interpreter_translation_services",
+  "original_reason": "Apostille App 승인 선례의 Tips 평행",
+  "title": "Apostille Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "관절염 증상 기록 일지(Hypertension Diary 평행)",
+  "title": "Arthritis Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "관절염 관리 가이드 콘텐츠(Fertility/Menopause Guide 평행)",
+  "title": "Arthritis Guide"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "관절염 관리 영상 가이드(Hypertension Video 평행)",
+  "title": "Arthritis Video"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "역량·성과 평가 시행 관리 앱(실재)",
+  "title": "Assessment App"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "Assessment App 승인 선례의 Tips 평행",
+  "title": "Assessment Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "법적 마감 기한 관리(Patent Deadline 승인 선례 평행)",
+  "title": "Attorney Deadline"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "변호사 선정 가이드 콘텐츠(Guide 관용구)",
+  "title": "Attorney Guide"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "변호사 검색 도구(탐색 대상 명확)",
+  "title": "Attorney Lookup"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "변호사-의뢰인 매칭 앱(실재)",
+  "title": "Attorney Match"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "관광 명소 티켓·안내 앱(실재)",
+  "title": "Attraction App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Attraction App 승인 선례의 Tips 평행",
+  "title": "Attraction Tips"
+ },
+ {
+  "industry": "marketing",
+  "original_reason": "마케팅 기여도 추적 앱(실재)",
+  "title": "Attribution App"
+ },
+ {
+  "industry": "marketing",
+  "original_reason": "Attribution App 승인 선례의 Tips 평행",
+  "title": "Attribution Tips"
+ },
+ {
+  "industry": "it_devops",
+  "original_reason": "데이터 백업·복원 관리 앱(실재)",
+  "title": "Backup App"
+ },
+ {
+  "industry": "it_devops",
+  "original_reason": "Backup App 승인 선례의 Tips 평행",
+  "title": "Backup Tips"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "베이커리 주문·재고 관리 앱(실재)",
+  "title": "Bakery App"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "Bakery App 승인 선례의 Tips 평행",
+  "title": "Bakery Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "응급 처치 가이드 앱(실재)",
+  "title": "Bandage App"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "Bandage App 승인 선례의 Tips 평행",
+  "title": "Bandage Tips"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "파산 절차 관리 앱(실재)",
+  "title": "Bankruptcy App"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "Bankruptcy App 승인 선례의 Tips 평행",
+  "title": "Bankruptcy Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "바비큐 주문·대여 관리 앱(실재)",
+  "title": "Barbecue App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Barbecue App 승인 선례의 Tips 평행",
+  "title": "Barbecue Tips"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "수익자 지정 관리 앱(실재)",
+  "title": "Beneficiary App"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "Beneficiary App 승인 선례의 Tips 평행",
+  "title": "Beneficiary Tips"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "직원 복리후생 관리 앱(실재)",
+  "title": "Benefits App"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "Benefits App 승인 선례의 Tips 평행",
+  "title": "Benefits Tips"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "입찰 관리 앱(실재)",
+  "title": "Bid App"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "Bid App 승인 선례의 Tips 평행",
+  "title": "Bid Tips"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "자전거 라이드·정비 관리 앱(실재)",
+  "title": "Bike App"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "Bike App 승인 선례의 Tips 평행",
+  "title": "Bike Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "자전거 라이딩 기록 일지(Camping Diary 평행)",
+  "title": "Biking Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "자전거 라이딩 가이드 영상(Golf Video 평행)",
+  "title": "Biking Video"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "조류 관찰 기록·동정 앱(실재)",
+  "title": "Birdwatching App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "조류 관찰 일지(birding journal 실재)",
+  "title": "Birdwatching Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "관찰 장비·투어 리뷰 콘텐츠(장비 리뷰 실재)",
+  "title": "Birdwatching Review"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Birdwatching App 승인 선례의 Tips 평행",
+  "title": "Birdwatching Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "조류 관찰 기록 추적(Birdwatching App 승인, eBird 류)",
+  "title": "Birdwatching Tracker"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "조류 관찰 영상 콘텐츠(관찰 기록 영상 실재)",
+  "title": "Birdwatching Video"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "볼트 체결·토크 관리 앱(산업 현장 실재)",
+  "title": "Bolt App"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "Bolt App 승인 선례의 Tips 평행",
+  "title": "Bolt Tips"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "치아 교정 착용·관리 앱(실재)",
+  "title": "Braces App"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "Braces App 승인 선례의 Tips 평행",
+  "title": "Braces Tips"
+ },
+ {
+  "industry": "marketing",
+  "original_reason": "브랜드 자산 관리 앱(실재)",
+  "title": "Brand App"
+ },
+ {
+  "industry": "marketing",
+  "original_reason": "Brand App 승인 선례의 Tips 평행",
+  "title": "Brand Tips"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "중개 거래·고객 관리 앱(실재)",
+  "title": "Broker App"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "Broker App 승인 선례의 Tips 평행",
+  "title": "Broker Tips"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "브런치 예약·검색 앱(실재, Snack App 평행)",
+  "title": "Brunch App"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "Brunch App 승인 선례의 Tips 평행",
+  "title": "Brunch Tips"
+ },
+ {
+  "industry": "automotive",
+  "original_reason": "범퍼 수리 견적 앱(실재)",
+  "title": "Bumper App"
+ },
+ {
+  "industry": "automotive",
+  "original_reason": "Bumper App 승인 선례의 Tips 평행",
+  "title": "Bumper Tips"
+ },
+ {
+  "industry": "manufacturing",
+  "original_reason": "측정기 교정 이력 관리 앱(실재)",
+  "title": "Calibration App"
+ },
+ {
+  "industry": "manufacturing",
+  "original_reason": "Calibration App 승인 선례의 Tips 평행",
+  "title": "Calibration Tips"
+ },
+ {
+  "industry": "nonprofit",
+  "original_reason": "마케팅 캠페인 운영 관리 앱(실재)",
+  "title": "Campaign App"
+ },
+ {
+  "industry": "nonprofit",
+  "original_reason": "Campaign App 승인 선례의 Tips 평행",
+  "title": "Campaign Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "캠핑장 검색·예약 앱(Campsite App 평행)",
+  "title": "Camping App"
+ }
+]

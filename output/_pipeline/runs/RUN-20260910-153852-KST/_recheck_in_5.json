@@ -1,0 +1,382 @@
+[
+ {
+  "industry": "automotive",
+  "original_reason": "Headlight App 승인 선례의 Tips 평행",
+  "title": "Headlight Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "속쓰림·식이 기록 일지(Fracture Diary 평행)",
+  "title": "Heartburn Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "속쓰림 완화 생활 영상 가이드(Constipation Video 평행)",
+  "title": "Heartburn Video"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "등산 코스·기록 관리 앱(실재)",
+  "title": "Hiking App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Hiking App 승인 선례의 Tips 평행",
+  "title": "Hiking Tips"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "허니문 계획·예약 앱(Itinerary App 평행)",
+  "title": "Honeymoon App"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "Honeymoon App 승인 선례의 Tips 평행",
+  "title": "Honeymoon Tips"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "위생 점검·관리 앱(실재)",
+  "title": "Hygiene App"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "Hygiene App 승인 선례의 Tips 평행",
+  "title": "Hygiene Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "혈압 기록 일지(실재)",
+  "title": "Hypertension Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "고혈압 관리 영상 가이드(Anemia Video 평행)",
+  "title": "Hypertension Video"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "이민 절차 자문 콘텐츠(Mediation Advisory 승인 선례 평행)",
+  "title": "Immigration Advisory"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "비자·이민 소식 브리핑(Immigration Bulletin 평행)",
+  "title": "Immigration Brief"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "비자 공고 브리틴 콘텐츠(Visa Bulletin 실재)",
+  "title": "Immigration Bulletin"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "비자·체류 연장 절차 관리(Deadline 절차 명사 선례 평행)",
+  "title": "Immigration Extension"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "이민 서류 준비 키트(Kit 절차 명사 선례 평행)",
+  "title": "Immigration Kit"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "이민 절차 안내 매뉴얼(Patent Handbook 평행)",
+  "title": "Immigration Manual"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "이민 관련 메시지 알림 관리(Message 절차 명사 선례 평행)",
+  "title": "Immigration Message"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "이민 절차 알림 관리(Notification 절차 명사 선례 평행)",
+  "title": "Immigration Notification"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "이민 신청서·청원 관리(실재 업무)",
+  "title": "Immigration Petition"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "비자 절차 로드맵 관리(Immigration Brief 평행)",
+  "title": "Immigration Plan"
+ },
+ {
+  "industry": "senior_care",
+  "original_reason": "사고·장애 보고 관리 앱(실재)",
+  "title": "Incident App"
+ },
+ {
+  "industry": "senior_care",
+  "original_reason": "Incident App 승인 선례의 Tips 평행",
+  "title": "Incident Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "수면 시간 계산기(실재 관용구)",
+  "title": "Insomnia Calculator"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "수면 질 체크(Eczema/Acne Checker 평행)",
+  "title": "Insomnia Checker"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "불면 증상 기록 일지(Vertigo Diary 평행)",
+  "title": "Insomnia Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "불면 개선 가이드 콘텐츠(Eczema Guide 평행)",
+  "title": "Insomnia Guide"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "수면 관리 도우미(Eczema/Psoriasis Helper 평행)",
+  "title": "Insomnia Helper"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "수면 루틴 리마인드 메시지(Message 관용구)",
+  "title": "Insomnia Message"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "수면 기록(Vertigo Record 평행)",
+  "title": "Insomnia Record"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "수면·코골이 기록 앱(실재)",
+  "title": "Insomnia Recorder"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "불면 관리 영상 가이드(Vertigo Video 평행)",
+  "title": "Insomnia Video"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "할부 결제 일정 관리 앱(실재)",
+  "title": "Installment App"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "Installment App 승인 선례의 Tips 평행",
+  "title": "Installment Tips"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "단열 시공·점검 관리 앱(실재)",
+  "title": "Insulation App"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "Insulation App 승인 선례의 Tips 평행",
+  "title": "Insulation Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "인슐린 투여 기록 관리 앱(Sedation App 평행)",
+  "title": "Insulin App"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "인슐린 투여 기록 일지(당뇨 기록 앱 실재)",
+  "title": "Insulin Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "Insulin App 승인 선례의 Tips 평행",
+  "title": "Insulin Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "인슐린 투여 추적 관리(Deadline Tracker 선례 평행)",
+  "title": "Insulin Tracker"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "인슐린 주입법 영상 가이드(실재 콘텐츠)",
+  "title": "Insulin Video"
+ },
+ {
+  "industry": "pharmacy",
+  "original_reason": "보험 가입·청구 관리 앱(실재)",
+  "title": "Insurance App"
+ },
+ {
+  "industry": "pharmacy",
+  "original_reason": "Insurance App 승인 선례의 Tips 평행",
+  "title": "Insurance Tips"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "복합운송 화물 관리 앱(실재)",
+  "title": "Intermodal App"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "Intermodal App 승인 선례의 Tips 평행",
+  "title": "Intermodal Tips"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "면접관 일정 포털 접속(포털 청중 명확)",
+  "title": "Interviewer Login"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "행사 초대장 발송·관리 앱(실재)",
+  "title": "Invite App"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "Invite App 승인 선례의 Tips 평행",
+  "title": "Invite Tips"
+ },
+ {
+  "industry": "hospitality",
+  "original_reason": "여행 일정 관리 앱(실재)",
+  "title": "Itinerary App"
+ },
+ {
+  "industry": "hospitality",
+  "original_reason": "Itinerary App 승인 선례의 Tips 평행",
+  "title": "Itinerary Tips"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "건설 현장 관리 앱(실재)",
+  "title": "Jobsite App"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "Jobsite App 승인 선례의 Tips 평행",
+  "title": "Jobsite Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "재판 일정 관리(Patent Timetable 평행)",
+  "title": "Judge Timetable"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "배심 통지·참석 관리 앱(jury duty 앱 실재)",
+  "title": "Jury App"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "배심 심리 일정 캘린더(Calendar 절차 명사 선례 평행)",
+  "title": "Jury Calendar"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "배심 참여 팁(Jury App 승인 선례의 Tips 평행)",
+  "title": "Jury Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "배심 통지·참여 상태 추적(Jury App 선례 평행)",
+  "title": "Jury Tracker"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "새끼 고양이 케어·성장 기록 앱(실재)",
+  "title": "Kitten App"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "Kitten App 승인 선례의 Tips 평행",
+  "title": "Kitten Tips"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "지식 베이스 구축·관리 앱(실재)",
+  "title": "Knowledge App"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "Knowledge App 승인 선례의 Tips 평행",
+  "title": "Knowledge Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "랜드마크 정보·탐색 앱(실재)",
+  "title": "Landmark App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Landmark App 승인 선례의 Tips 평행",
+  "title": "Landmark Tips"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "물류 라인 운영 앱(실재)",
+  "title": "Lane App"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "Lane App 승인 선례의 Tips 평행",
+  "title": "Lane Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "소송 일정 알림 관리(Reminder/Notification 절차 명사 선례 평행)",
+  "title": "Lawsuit Alert"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "소송 일정 캘린더(Judge Timetable 평행)",
+  "title": "Lawsuit Calendar"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "소송 비용 장부 관리(Ledger Coach 승인 선례)",
+  "title": "Lawsuit Ledger"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "소송 통계 지도 콘텐츠(Map 관용구)",
+  "title": "Lawsuit Map"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "소송 진행 확인 포털(Immigration Portal 승인 선례 평행)",
+  "title": "Lawsuit Portal"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "소송 기한 알림 도구(Notification·Deadline 절차 명사 평행)",
+  "title": "Lawsuit Reminder"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "소송 절차 타임라인 관리(Court Timetable 절차 명사 평행)",
+  "title": "Lawsuit Timeline"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "변호사 수수료 계산기(Notary Calculator 평행)",
+  "title": "Lawyer Calculator"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "법률 절차 마감일 관리(Notary Deadline 평행)",
+  "title": "Lawyer Deadline"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "법률 절차 안내 가이드(Notary Guide 평행)",
+  "title": "Lawyer Guide"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "법률 문서 준비 키트(Notary Kit 승인 선례 평행)",
+  "title": "Lawyer Kit"
+ }
+]

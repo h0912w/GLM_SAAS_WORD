@@ -1,0 +1,200 @@
+Patch Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Configuration Quantity	R	F	T	T	0.6	수량 대상 불분명
+Chat Login	R	F	T	T	0.6	제품 불분명
+Logistics Coach	R	F	T	T	0.6	코칭 대상 불분명
+Lawyer Schematic	R	F	T	T	0.6	도식 대상 불분명
+Attorney Diagnostic	R	F	T	T	0.6	진단 대상 불분명
+Court Review	R	F	T	T	0.6	리뷰 대상 불분명
+Judge Condition	R	F	T	T	0.6	상태 명사로 제품명 부자연
+Undercarriage App	R	F	T	T	0.6	하부 지칭으로 앱 용도 불분명
+Drainpipe Tips	R	F	T	T	0.6	선례 기각(App 기각)의 Tips 평행 불가
+Tourist Advice	R	T	F	T	0.65	이번 배치 승인 Tourist Tips와 동일 기능 의미 중복
+Percussion Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Jury Quantity	R	F	T	T	0.6	수량 대상 불분명
+Lane Login	R	F	T	T	0.6	제품 불분명
+Walkthrough Analysis	R	F	T	T	0.6	분석 대상 불분명
+Liability Coach	R	F	T	T	0.6	코칭 대상 불분명
+Garnishment Habit	R	F	T	T	0.6	결합 불성립
+Lawsuit Station	R	F	T	T	0.6	스테이션 지칭으로 제품 불분명
+Divorce Counter	R	F	T	T	0.6	카운터 지칭으로 제품 불분명
+Custody Feed	R	F	T	T	0.6	피드 기능 지칭으로 제품 불분명
+Immigration Fee	R	F	T	T	0.6	수수료 지칭으로 제품 불분명
+Testament Serial	R	F	T	T	0.6	일련번호 지칭으로 제품 불분명
+Notary Message	A	T	T	T	0.55	공증 기한·진행 안내 메시지(Notary Notification 승인 선례 평행)
+Mediation Duration	R	F	T	T	0.6	기간 속성 지칭으로 제품명 부자연
+Guardianship Deposit	R	F	T	T	0.6	결합 불성립
+Trademark Type	R	F	T	T	0.6	결합 불성립(분류 대상 부자연)
+Patent Approval	R	F	T	T	0.6	승인 지칭으로 제품 불분명
+Pool App	A	T	T	T	0.55	수영장 관리·수질 균형 앱(실재)
+Surfing Tips	A	T	T	T	0.55	Surfing App 승인 선례의 Tips 평행
+Tempo Advice	R	T	F	T	0.65	이번 배치 승인 Tempo Tips와 동일 기능 의미 중복
+Bandage Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Bankruptcy Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Copyright Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Consolidation Quantity	R	F	T	T	0.6	수량 대상 불분명
+Staging Login	R	F	T	T	0.6	제품 불분명
+Beneficiary Analysis	R	F	T	T	0.6	분석 대상 불분명
+Seniority Coach	R	F	T	T	0.6	코칭 대상 불분명
+Waterproofing Habit	R	F	T	T	0.6	결합 불성립
+Migraine Announcement	R	F	T	T	0.6	결합 불성립
+Insomnia Estimator	R	F	T	T	0.6	산출 대상 불분명
+Skydiving Workshop	R	F	T	T	0.6	결합 불성립(Workshop 계열 기각 선례)
+Acne Guardian	R	F	T	T	0.6	감시자 명사 결합 불성립
+Snowboarding Streak	R	F	T	T	0.6	앱 기능 지칭으로 제품 불분명
+Eczema Rank	R	F	T	T	0.6	순위 대상 불분명
+Ziplining Proposal	R	F	T	T	0.6	제안 대상 불분명
+Psoriasis Guarantee	R	F	T	T	0.6	결합 불성립
+Sledding Reading	R	F	T	T	0.6	독서·측정 중의로 불분명
+Vertigo Reference	R	F	T	T	0.6	참조 대상 불분명
+Diving Duration	R	F	T	T	0.6	기간 속성 지칭으로 제품명 부자연
+Arthritis Volume	R	F	T	T	0.6	결합 불성립
+Sailing Authorization	R	F	T	T	0.6	결합 불성립
+Menopause Template	R	F	T	T	0.6	결합 불성립
+Rafting Agreement	R	F	T	T	0.6	결합 불성립
+Pregnancy Reply	R	F	T	T	0.6	결합 불성립
+Climbing Match	R	F	T	T	0.6	매칭·경기 중의로 불분명
+Fertility Validation	R	F	T	T	0.6	결합 불성립
+Biking Model	R	F	T	T	0.6	모델 지칭으로 제품 불분명
+Thyroid Availability	R	F	T	T	0.6	상태 명사로 제품명 부자연
+Golf Barcode	R	F	T	T	0.6	결합 불성립
+Cholesterol Appointment	R	F	T	T	0.6	약속 대상 불분명
+Fishing Renewal	R	F	T	T	0.6	결합 불성립
+Hypertension Quote	R	F	T	T	0.6	인용·견적 중의로 불분명
+Camping Certification	R	F	T	T	0.6	결합 불성립
+Anemia Nomination	R	F	T	T	0.6	결합 불성립
+Glamping Payment	R	F	T	T	0.6	결합 불성립
+Heartburn Verification	R	F	T	T	0.6	결합 불성립
+Stargazing Seal	R	F	T	T	0.6	결합 불성립
+Constipation Review	R	F	T	T	0.6	리뷰 대상 불분명
+Birdwatching Diary	A	T	T	T	0.55	조류 관찰 일지(birding journal 실재)
+Concussion Refund	R	F	T	T	0.6	결합 불성립
+Canyon Newsletter	R	F	T	T	0.6	결합 불성립
+Sprain Inventory	R	F	T	T	0.6	결합 불성립
+Geyser Claim	R	F	T	T	0.6	결합 불성립
+Fracture Onboarding	R	F	T	T	0.6	결합 불성립
+Fjord Checkin	R	F	T	T	0.6	결합 불성립
+Insulin Size	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Savanna Length	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Tundra Weight	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Prairie Distance	R	F	T	T	0.6	결합 불성립
+Marsh Range	R	F	T	T	0.6	결합 불성립
+Cove Limit	R	F	T	T	0.6	결합 불성립
+Cliff Type	R	F	T	T	0.6	결합 불성립(분류 대상 부자연)
+Cavern Clock	R	F	T	T	0.6	결합 불성립
+Oasis Time	R	F	T	T	0.6	결합 불성립
+Dune Speed	R	F	T	T	0.6	결합 불성립
+Whale Depth	R	F	T	T	0.6	결합 불성립
+Dolphin Height	R	F	T	T	0.6	결합 불성립
+Penguin Width	R	F	T	T	0.6	결합 불성립
+Flamingo Temperature	R	F	T	T	0.6	결합 불성립
+Turtle Pressure	R	F	T	T	0.6	결합 불성립
+Moose Load	R	F	T	T	0.6	결합 불성립
+Bison Voltage	R	F	T	T	0.6	결합 불성립
+Reindeer Wattage	R	F	T	T	0.6	결합 불성립
+Bid Tips	A	T	T	T	0.55	Bid App 승인 선례의 Tips 평행
+Fulfillment Advice	R	T	F	T	0.65	직전 승인 Fulfillment Tips와 동일 기능 의미 중복
+Amenity Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Tuition Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Downtime Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Crop Quantity	R	F	T	T	0.6	수량 대상 불분명
+Fundraising Analysis	R	F	T	T	0.6	분석 대상 불분명
+Constituent Coach	R	F	T	T	0.6	코칭 대상 불분명
+Brand Habit	R	F	T	T	0.6	결합 불성립
+Stewardship App	A	T	T	T	0.6	기부자 관리·감사 커뮤니케이션 앱(실재)
+Content Advice	R	T	F	T	0.65	직전 승인 Content Tips와 동일 기능 의미 중복
+Circulation Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Activation Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Patch Quantity	R	F	T	T	0.6	수량 대상 불분명
+Configuration Login	R	F	T	T	0.6	제품 불분명
+Chat Analysis	R	F	T	T	0.6	분석 대상 불분명
+Logistics Habit	R	F	T	T	0.6	결합 불성립
+Lawyer Layout	R	F	T	T	0.6	배치 대상 불분명
+Attorney Progress	R	F	T	T	0.6	진행 대상 불분명
+Court Recipe	R	F	T	T	0.6	결합 불성립
+Judge Humidity	R	F	T	T	0.6	결합 불성립
+Winterization App	A	T	T	T	0.55	월동 준비·동파 방지 관리 앱(실재 서비스 카테고리)
+Undercarriage Tips	R	F	T	T	0.6	선례 기각(App 기각)의 Tips 평행 불가
+Drainpipe Advice	R	F	T	T	0.6	선례 기각(App 기각)의 Advice 불가
+Tourist Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Percussion Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Jury Login	R	F	T	T	0.6	제품 불분명
+Lane Analysis	R	F	T	T	0.6	분석 대상 불분명
+Walkthrough Coach	R	F	T	T	0.6	코칭 대상 불분명
+Liability Habit	R	F	T	T	0.6	결합 불성립
+Lawsuit Terminal	R	F	T	T	0.6	단말·터미널 중의로 불분명
+Divorce Booth	R	F	T	T	0.6	부스 지칭으로 제품 불분명
+Custody Draft	R	F	T	T	0.6	초안 대상 불분명
+Immigration Item	R	F	T	T	0.6	항목 지칭으로 제품 불분명
+Testament Token	R	F	T	T	0.6	토큰 기능 지칭으로 제품 불분명
+Notary Total	R	F	T	T	0.6	합계 지칭으로 제품 불분명
+Mediation Volume	R	F	T	T	0.6	결합 불성립
+Guardianship Certification	R	F	T	T	0.6	결합 불성립
+Trademark Clock	R	F	T	T	0.6	결합 불성립
+Patent Matrix	R	F	T	T	0.6	행렬·매트릭스 중의로 불분명
+Panic App	A	T	T	T	0.55	긴급 호출 패닉 버튼 앱(실재)
+Pool Tips	A	T	T	T	0.55	Pool App 승인 선례의 Tips 평행
+Surfing Advice	R	T	F	T	0.65	이번 배치 승인 Surfing Tips와 동일 기능 의미 중복
+Tempo Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Bandage Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Bankruptcy Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Copyright Quantity	R	F	T	T	0.6	수량 대상 불분명
+Consolidation Login	R	F	T	T	0.6	제품 불분명
+Staging Analysis	R	F	T	T	0.6	분석 대상 불분명
+Beneficiary Coach	R	F	T	T	0.6	코칭 대상 불분명
+Seniority Habit	R	F	T	T	0.6	결합 불성립
+Migraine Calculator	A	T	T	T	0.55	편두통 트리거·카페인 한도 계산기(Acne Calculator 평행)
+Insomnia Checker	A	T	T	T	0.55	수면 질 체크(Eczema/Acne Checker 평행)
+Skydiving Guardian	R	F	T	T	0.6	감시자 명사 결합 불성립
+Acne Helper	A	T	T	T	0.55	여드름 관리 도우미(Psoriasis/Eczema Helper 평행)
+Snowboarding Rank	R	F	T	T	0.6	순위 대상 불분명
+Eczema Trend	R	F	T	T	0.6	결합 불성립
+Ziplining Guarantee	R	F	T	T	0.6	결합 불성립
+Psoriasis Record	A	T	T	T	0.55	건선 증상 기록(Vertigo/Menopause Record 승인 선례 평행)
+Sledding Reference	R	F	T	T	0.6	참조 대상 불분명
+Vertigo Forecast	R	F	T	T	0.6	예측 대상 불분명
+Diving Volume	R	F	T	T	0.6	결합 불성립
+Arthritis Diagnostic	R	F	T	T	0.6	진단 대상 불분명
+Sailing Template	R	F	T	T	0.6	결합 불성립
+Menopause Guide	A	T	T	T	0.55	폐경 단계별 가이드 콘텐츠(Fertility/Pregnancy Guide 평행)
+Rafting Reply	R	F	T	T	0.6	결합 불성립
+Pregnancy Account	R	F	T	T	0.6	결합 불성립
+Climbing Validation	R	F	T	T	0.6	결합 불성립
+Fertility Lookup	R	F	T	T	0.6	탐색 대상 불분명
+Biking Availability	R	F	T	T	0.6	상태 명사로 제품명 부자연
+Thyroid Eligibility	R	F	T	T	0.6	결합 불성립
+Golf Appointment	R	F	T	T	0.6	약속 대상 불분명
+Cholesterol Feedback	R	F	T	T	0.6	결합 불성립
+Fishing Quote	R	F	T	T	0.6	인용·견적 중의로 불분명
+Hypertension Warranty	R	F	T	T	0.6	결합 불성립
+Camping Nomination	R	F	T	T	0.6	결합 불성립
+Anemia Correction	R	F	T	T	0.6	결합 불성립
+Glamping Verification	R	F	T	T	0.6	결합 불성립
+Heartburn Simulator	R	F	T	T	0.6	결합 불성립
+Stargazing Review	A	T	T	T	0.55	별보 명소·장비 리뷰(Fjord/Birdwatching Review 평행)
+Constipation Recipe	R	F	T	T	0.6	결합 불성립
+Birdwatching Refund	R	F	T	T	0.6	결합 불성립
+Concussion Expense	R	F	T	T	0.6	결합 불성립
+Canyon Inventory	R	F	T	T	0.6	결합 불성립
+Sprain Claim	R	F	T	T	0.6	결합 불성립
+Geyser Onboarding	R	F	T	T	0.6	결합 불성립
+Fracture Checkin	R	F	T	T	0.6	결합 불성립
+Fjord Size	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Insulin Length	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Savanna Weight	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Tundra Distance	R	F	T	T	0.6	결합 불성립
+Prairie Range	R	F	T	T	0.6	결합 불성립
+Marsh Limit	R	F	T	T	0.6	결합 불성립
+Cove Type	R	F	T	T	0.6	결합 불성립(분류 대상 부자연)
+Cliff Clock	R	F	T	T	0.6	결합 불성립
+Cavern Time	R	F	T	T	0.6	결합 불성립
+Oasis Speed	R	F	T	T	0.6	결합 불성립
+Dune Depth	R	F	T	T	0.6	결합 불성립
+Whale Height	R	F	T	T	0.6	결합 불성립
+Dolphin Width	R	F	T	T	0.6	결합 불성립
+Penguin Temperature	R	F	T	T	0.6	결합 불성립
+Flamingo Pressure	R	F	T	T	0.6	결합 불성립
+Turtle Load	R	F	T	T	0.6	결합 불성립
+Moose Voltage	R	F	T	T	0.6	결합 불성립
+Bison Wattage	R	F	T	T	0.6	결합 불성립
+Reindeer Brightness	R	F	T	T	0.6	결합 불성립
+Adjuster App	A	T	T	T	0.6	보험 손해사정 업무 앱(실재)

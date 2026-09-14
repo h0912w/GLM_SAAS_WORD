@@ -1,0 +1,382 @@
+[
+ {
+  "industry": "healthcare",
+  "original_reason": "염좌 처치·재활 영상 가이드(Fracture Video 평행)",
+  "title": "Sprain Video"
+ },
+ {
+  "industry": "senior_care",
+  "original_reason": "인력 운영 포털 접속(포털 청중 명확)",
+  "title": "Staffing Login"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "홈 스테이징 계획 앱(실재)",
+  "title": "Staging App"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "Staging App 승인 선례의 Tips 평행",
+  "title": "Staging Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "별 관측 보조 앱(실재, Birdwatching App 평행)",
+  "title": "Stargazing App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "관측 기록 일지(Birdwatching Diary 평행)",
+  "title": "Stargazing Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "별보 명소·장비 리뷰(Fjord/Birdwatching Review 평행)",
+  "title": "Stargazing Review"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Stargazing App 승인 선례의 Tips 평행",
+  "title": "Stargazing Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "별 관측 추적 보조(Stargazing App 승인, SkyView 류)",
+  "title": "Stargazing Tracker"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "관측 가이드 영상(Birdwatching Video 평행)",
+  "title": "Stargazing Video"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "기구 멸균 기록·관리 앱(실재)",
+  "title": "Sterilization App"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "Sterilization App 승인 선례의 Tips 평행",
+  "title": "Sterilization Tips"
+ },
+ {
+  "industry": "nonprofit",
+  "original_reason": "기부자 관리·감사 커뮤니케이션 앱(실재)",
+  "title": "Stewardship App"
+ },
+ {
+  "industry": "nonprofit",
+  "original_reason": "Stewardship App 승인 선례의 Tips 평행",
+  "title": "Stewardship Tips"
+ },
+ {
+  "industry": "government",
+  "original_reason": "가로등 점검·관리 앱(실재)",
+  "title": "Streetlight App"
+ },
+ {
+  "industry": "government",
+  "original_reason": "Streetlight App 승인 선례의 Tips 평행",
+  "title": "Streetlight Tips"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "하도급 업체 계약·관리 앱(실재)",
+  "title": "Subcontractor App"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "Subcontractor App 승인 선례의 Tips 평행",
+  "title": "Subcontractor Tips"
+ },
+ {
+  "industry": "manufacturing",
+  "original_reason": "공급업체 발주·관리 앱(실재)",
+  "title": "Supplier App"
+ },
+ {
+  "industry": "manufacturing",
+  "original_reason": "Supplier App 승인 선례의 Tips 평행",
+  "title": "Supplier Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "서핑 스팟·파도 정보 앱(실재)",
+  "title": "Surfing App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Surfing App 승인 선례의 Tips 평행",
+  "title": "Surfing Tips"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "설문 설계·응답 분석 앱(실재)",
+  "title": "Survey App"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "Survey App 승인 선례의 Tips 평행",
+  "title": "Survey Tips"
+ },
+ {
+  "industry": "education",
+  "original_reason": "차량 서스펜션 정비 관리 앱(Wheel App 평행)",
+  "title": "Suspension App"
+ },
+ {
+  "industry": "education",
+  "original_reason": "Suspension App 승인 선례의 Tips 평행",
+  "title": "Suspension Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "증상 기록·확인 앱(실재)",
+  "title": "Symptom App"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "Symptom App 승인 선례의 Tips 평행",
+  "title": "Symptom Tips"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "콘텐츠 신디케이션 배포 관리 앱(실재)",
+  "title": "Syndication App"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "Syndication App 승인 선례의 Tips 평행",
+  "title": "Syndication Tips"
+ },
+ {
+  "industry": "pharmacy",
+  "original_reason": "단풍시럽 채집·제조 기록 앱(실재 니치)",
+  "title": "Syrup App"
+ },
+ {
+  "industry": "pharmacy",
+  "original_reason": "Syrup App 승인 선례의 Tips 평행",
+  "title": "Syrup Tips"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "메트로놈·템포 트레이닝 앱(실재)",
+  "title": "Tempo App"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "Tempo App 승인 선례의 Tips 평행",
+  "title": "Tempo Tips"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "고용·계약 해지 절차 관리 앱(실재)",
+  "title": "Termination App"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "Termination App 승인 선례의 Tips 평행",
+  "title": "Termination Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "유언 관련 공지 관리(Notification 절차 명사 선례 평행)",
+  "title": "Testament Announcement"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "유언·상속 기한 관리(Deadline 절차 명사 선례 평행)",
+  "title": "Testament Deadline"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "유언·상속 절차 가이드(Guide 절차 명사 선례 평행)",
+  "title": "Testament Guide"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "유언장 작성 키트(실재)",
+  "title": "Testament Kit"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "유언장 작성 절차 안내 매뉴얼(Patent Handbook 평행)",
+  "title": "Testament Manual"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "유언 전달 메시지 관리(Message 절차 명사 선례 평행)",
+  "title": "Testament Message"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "유언 관련 통지 관리(Notary Notification 평행)",
+  "title": "Testament Notification"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "유언장 양식 템플릿(Template 절차 명사 선례 평행)",
+  "title": "Testament Template"
+ },
+ {
+  "industry": "photography_services",
+  "original_reason": "고객 후기·추천사 수집 앱(실재)",
+  "title": "Testimonial App"
+ },
+ {
+  "industry": "photography_services",
+  "original_reason": "Testimonial App 승인 선례의 Tips 평행",
+  "title": "Testimonial Tips"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "증언 기록·정리 앱(Transcript App 평행)",
+  "title": "Testimony App"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "Testimony App 승인 선례의 Tips 평행",
+  "title": "Testimony Tips"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "열전쌍 온도 측정·보정 앱(산업 측정기 연동 실재)",
+  "title": "Thermocouple App"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "Thermocouple App 승인 선례의 Tips 평행",
+  "title": "Thermocouple Tips"
+ },
+ {
+  "industry": "photography_services",
+  "original_reason": "썸네일 이미지 제작 앱(실재)",
+  "title": "Thumbnail App"
+ },
+ {
+  "industry": "photography_services",
+  "original_reason": "Thumbnail App 승인 선례의 Tips 평행",
+  "title": "Thumbnail Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "갑상선 증상 기록 일지(Hypertension Diary 평행)",
+  "title": "Thyroid Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "갑상선 관리 영상 가이드(Cholesterol Video 평행)",
+  "title": "Thyroid Video"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "타임라인 작성·관리 앱(실재)",
+  "title": "Timeline App"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "Timeline App 승인 선례의 Tips 평행",
+  "title": "Timeline Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "투어 예약·오디오 안내 앱(실재)",
+  "title": "Tour App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Tour App 승인 선례의 Tips 평행",
+  "title": "Tour Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "관광 안내 앱(실재)",
+  "title": "Tourist App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Tourist App 승인 선례의 Tips 평행",
+  "title": "Tourist Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "상표 출원·관리 앱(실재)",
+  "title": "Trademark App"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "상표 청구·침해 대응 관리(실재 법률 업무)",
+  "title": "Trademark Claim"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "상표 등록 절차 핸드북(Patent Handbook 평행)",
+  "title": "Trademark Handbook"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "상표 등록 절차 일정 관리(Judge Timetable 평행)",
+  "title": "Trademark Timetable"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "Trademark App 승인 선례의 Tips 평행",
+  "title": "Trademark Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "상표 출원 상태 추적 관리(Deadline Tracker 선례 평행)",
+  "title": "Trademark Tracker"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "상표 등록 절차 튜토리얼(Patent Handbook 평행)",
+  "title": "Trademark Tutorial"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "상표 출원 감시 서비스(실재, Trademark Tracker 평행)",
+  "title": "Trademark Watch"
+ },
+ {
+  "industry": "education",
+  "original_reason": "음성 녹취록 생성·관리 앱(실재)",
+  "title": "Transcript App"
+ },
+ {
+  "industry": "education",
+  "original_reason": "Transcript App 승인 선례의 Tips 평행",
+  "title": "Transcript Tips"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "통행료 트랜스폰더 관리 앱(실재)",
+  "title": "Transponder App"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "Transponder App 승인 선례의 Tips 평행",
+  "title": "Transponder Tips"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "트롬본 레슨·연습 앱(Trumpet App 평행)",
+  "title": "Trombone App"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "Trombone App 승인 선례의 Tips 평행",
+  "title": "Trombone Tips"
+ },
+ {
+  "industry": "moving_relocation_services",
+  "original_reason": "트럭 운송·차량 관리 앱(실재)",
+  "title": "Truck App"
+ },
+ {
+  "industry": "moving_relocation_services",
+  "original_reason": "Truck App 승인 선례의 Tips 평행",
+  "title": "Truck Tips"
+ }
+]

@@ -1,0 +1,382 @@
+[
+ {
+  "industry": "healthcare",
+  "original_reason": "습진 증상 기록 일지(Hypertension Diary 평행)",
+  "title": "Eczema Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "습진 관리 가이드 콘텐츠(Psoriasis Guide 평행)",
+  "title": "Eczema Guide"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "증상 관리 도우미(Psoriasis/Arthritis Helper 평행)",
+  "title": "Eczema Helper"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "습진 증상 기록(Psoriasis/Vertigo Record 평행)",
+  "title": "Eczema Record"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "습진 관리 영상 가이드(Hypertension Video 평행)",
+  "title": "Eczema Video"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "문서·이미지 편집 앱(실재)",
+  "title": "Editor App"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "Editor App 승인 선례의 Tips 평행",
+  "title": "Editor Tips"
+ },
+ {
+  "industry": "mining",
+  "original_reason": "장비 대여·유지보수 관리 앱(실재)",
+  "title": "Equipment App"
+ },
+ {
+  "industry": "mining",
+  "original_reason": "Equipment App 승인 선례의 Tips 평행",
+  "title": "Equipment Tips"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "주식 보상·지분 관리 앱(실재)",
+  "title": "Equity App"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "Equity App 승인 선례의 Tips 평행",
+  "title": "Equity Tips"
+ },
+ {
+  "industry": "landscaping",
+  "original_reason": "공사·서비스 견적 산정 앱(실재, Quote App 평행)",
+  "title": "Estimate App"
+ },
+ {
+  "industry": "landscaping",
+  "original_reason": "Estimate App 승인 선례의 Tips 평행",
+  "title": "Estimate Tips"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "시험 준비·일정 관리 앱(실재)",
+  "title": "Exam App"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "Exam App 승인 선례의 Tips 평행",
+  "title": "Exam Tips"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "굴착 공사 관리 앱(실재)",
+  "title": "Excavation App"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "Excavation App 승인 선례의 Tips 평행",
+  "title": "Excavation Tips"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "경비 지출 처리 관리 앱(실재)",
+  "title": "Expense App"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "Expense App 승인 선례의 Tips 평행",
+  "title": "Expense Tips"
+ },
+ {
+  "industry": "pharmacy",
+  "original_reason": "유통기한·만료일 관리 앱(실재)",
+  "title": "Expiration App"
+ },
+ {
+  "industry": "pharmacy",
+  "original_reason": "Expiration App 승인 선례의 Tips 평행",
+  "title": "Expiration Tips"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "페이셜 시술 예약 관리 앱(실재)",
+  "title": "Facial App"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "Facial App 승인 선례의 Tips 평행",
+  "title": "Facial Tips"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "울타리 시공·견적 관리 앱(실재)",
+  "title": "Fence App"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "Fence App 승인 선례의 Tips 평행",
+  "title": "Fence Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "배란·가임 기록 일지(실재)",
+  "title": "Fertility Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "불임 치료 가이드 콘텐츠(Thyroid/Hypertension Guide 평행)",
+  "title": "Fertility Guide"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "가임기 관리 영상 가이드(Hypertension Video 평행)",
+  "title": "Fertility Video"
+ },
+ {
+  "industry": "agriculture",
+  "original_reason": "비료 시비·관리 앱(실재)",
+  "title": "Fertilizer App"
+ },
+ {
+  "industry": "agriculture",
+  "original_reason": "Fertilizer App 승인 선례의 Tips 평행",
+  "title": "Fertilizer Tips"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "현장학습 계획·승인 관리 앱(실재)",
+  "title": "Fieldtrip App"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "Fieldtrip App 승인 선례의 Tips 평행",
+  "title": "Fieldtrip Tips"
+ },
+ {
+  "industry": "cybersecurity",
+  "original_reason": "네트워크 방화벽 관리 앱(실재)",
+  "title": "Firewall App"
+ },
+ {
+  "industry": "cybersecurity",
+  "original_reason": "Firewall App 승인 선례의 Tips 평행",
+  "title": "Firewall Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "낚시 기록·포인트 관리 앱(실재, Fishbrain 류)",
+  "title": "Fishing App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "조황 기록 일지(catch log 실재)",
+  "title": "Fishing Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Fishing App 승인 선례의 Tips 평행",
+  "title": "Fishing Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "낚시 기법 영상 가이드(Camping Video 평행)",
+  "title": "Fishing Video"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "피오르 투어 리뷰 콘텐츠(X Review 관용구)",
+  "title": "Fjord Review"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "피오르 투어 영상 콘텐츠(Video 관용구)",
+  "title": "Fjord Video"
+ },
+ {
+  "industry": "aviation",
+  "original_reason": "차량 관제(플릿) 관리 앱(실재)",
+  "title": "Fleet App"
+ },
+ {
+  "industry": "aviation",
+  "original_reason": "Fleet App 승인 선례의 Tips 평행",
+  "title": "Fleet Tips"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "출입 키 포브 발급·관리 앱(실재)",
+  "title": "Fob App"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "Fob App 승인 선례의 Tips 평행",
+  "title": "Fob Tips"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "경매 물건 검색·관리 앱(실재)",
+  "title": "Foreclosure App"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "Foreclosure App 승인 선례의 Tips 평행",
+  "title": "Foreclosure Tips"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "운송주선(포워더) 화물 관리 앱(실재)",
+  "title": "Forwarder App"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "Forwarder App 승인 선례의 Tips 평행",
+  "title": "Forwarder Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "골절 재활 기록 일지(Insulin Diary 평행)",
+  "title": "Fracture Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "골절 재활 영상 가이드(Insulin Video 평행)",
+  "title": "Fracture Video"
+ },
+ {
+  "industry": "retail_ecommerce",
+  "original_reason": "주문 풀필먼트 관리 앱(실재)",
+  "title": "Fulfillment App"
+ },
+ {
+  "industry": "retail_ecommerce",
+  "original_reason": "Fulfillment App 승인 선례의 Tips 평행",
+  "title": "Fulfillment Tips"
+ },
+ {
+  "industry": "nonprofit",
+  "original_reason": "모금 캠페인 관리 앱(실재)",
+  "title": "Fundraising App"
+ },
+ {
+  "industry": "nonprofit",
+  "original_reason": "Fundraising App 승인 선례의 Tips 평행",
+  "title": "Fundraising Tips"
+ },
+ {
+  "industry": "laundry_dry_cleaning",
+  "original_reason": "의류 관리·수선 기록 앱(실재)",
+  "title": "Garment App"
+ },
+ {
+  "industry": "laundry_dry_cleaning",
+  "original_reason": "Garment App 승인 선례의 Tips 평행",
+  "title": "Garment Tips"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "Garnishment App 승인 선례의 Tips 평행",
+  "title": "Garnishment Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "간헐천 분출 예측 앱(Old Faithful 실재)",
+  "title": "Geyser Predictor"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "간헐천 투어 리뷰 콘텐츠(Fjord Review 평행, X Review 관용구)",
+  "title": "Geyser Review"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "간헐천 분출 영상 콘텐츠(실검색)",
+  "title": "Geyser Video"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "글램핑장 검색·예약 앱(Campsite App 평행)",
+  "title": "Glamping App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "글램핑 숙소 리뷰(Fjord/Geyser Review 평행)",
+  "title": "Glamping Review"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Glamping App 승인 선례의 Tips 평행",
+  "title": "Glamping Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "글램핑 숙소 소개 영상(Geyser/Fjord Video 평행)",
+  "title": "Glamping Video"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "골프 스코어·부킹 관리 앱(실재)",
+  "title": "Golf App"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "골프 스코어·라운드 기록 일지(실재)",
+  "title": "Golf Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "Golf App 승인 선례의 Tips 평행",
+  "title": "Golf Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "골프 스윙 레슨 영상(Video 평행)",
+  "title": "Golf Video"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "민원·불만 접수 처리 관리 앱(실재)",
+  "title": "Grievance App"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "Grievance App 승인 선례의 Tips 평행",
+  "title": "Grievance Tips"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "반려동물 미용 예약 관리 앱(실재)",
+  "title": "Grooming App"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "Grooming App 승인 선례의 Tips 평행",
+  "title": "Grooming Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "후견인 지정 서류 관리(Immigration Petition 평행)",
+  "title": "Guardianship Nomination"
+ },
+ {
+  "industry": "mining",
+  "original_reason": "화물 운송 관리 앱(실재)",
+  "title": "Haulage App"
+ },
+ {
+  "industry": "mining",
+  "original_reason": "Haulage App 승인 선례의 Tips 평행",
+  "title": "Haulage Tips"
+ },
+ {
+  "industry": "automotive",
+  "original_reason": "헤드라이트 교체·수리 관리 앱(Windshield App 평행)",
+  "title": "Headlight App"
+ }
+]

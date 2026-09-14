@@ -1,0 +1,337 @@
+[
+ {
+  "industry": "music_lessons",
+  "original_reason": "트럼펫 레슨·연습 앱(실재)",
+  "title": "Trumpet App"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "Trumpet App 승인 선례의 Tips 평행",
+  "title": "Trumpet Tips"
+ },
+ {
+  "industry": "education",
+  "original_reason": "학비 납부·관리 앱(실재)",
+  "title": "Tuition App"
+ },
+ {
+  "industry": "education",
+  "original_reason": "Tuition App 승인 선례의 Tips 평행",
+  "title": "Tuition Tips"
+ },
+ {
+  "industry": "automotive",
+  "original_reason": "차량·기기 정비 관리 앱(실재)",
+  "title": "Tuneup App"
+ },
+ {
+  "industry": "automotive",
+  "original_reason": "Tuneup App 승인 선례의 Tips 평행",
+  "title": "Tuneup Tips"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "악기 조율 보조 앱(실재)",
+  "title": "Tuning App"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "Tuning App 승인 선례의 Tips 평행",
+  "title": "Tuning Tips"
+ },
+ {
+  "industry": "interpreter_translation_services",
+  "original_reason": "경영 회생 프로젝트 관리 앱(실재)",
+  "title": "Turnaround App"
+ },
+ {
+  "industry": "interpreter_translation_services",
+  "original_reason": "Turnaround App 승인 선례의 Tips 평행",
+  "title": "Turnaround Tips"
+ },
+ {
+  "industry": "education",
+  "original_reason": "과외·튜터링 매칭 앱(실재)",
+  "title": "Tutoring App"
+ },
+ {
+  "industry": "education",
+  "original_reason": "Tutoring App 승인 선례의 Tips 평행",
+  "title": "Tutoring Tips"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "노조 회원·협상 관리 앱(실재)",
+  "title": "Union App"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "Union App 승인 선례의 Tips 평행",
+  "title": "Union Tips"
+ },
+ {
+  "industry": "pool_maintenance_services",
+  "original_reason": "청소기·진공 관리 앱(실재)",
+  "title": "Vacuum App"
+ },
+ {
+  "industry": "pool_maintenance_services",
+  "original_reason": "Vacuum App 승인 선례의 Tips 평행",
+  "title": "Vacuum Tips"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "자산 가치 평가 관리 앱(실재)",
+  "title": "Valuation App"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "Valuation App 승인 선례의 Tips 평행",
+  "title": "Valuation Tips"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "배기·환기 덕트 점검 관리 앱(실재)",
+  "title": "Vent App"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "Vent App 승인 선례의 Tips 평행",
+  "title": "Vent Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "어지럼증 증상 기록 일지(Hypertension Diary 평행)",
+  "title": "Vertigo Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "어지럼 관리 가이드 콘텐츠(Arthritis Guide 평행)",
+  "title": "Vertigo Guide"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "어지럼 발작 기록(Menopause Record 승인 선례 평행)",
+  "title": "Vertigo Record"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "어지럼증 관리 영상 가이드(Hypertension Video 평행)",
+  "title": "Vertigo Video"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "동영상 촬영·편집 앱(실재)",
+  "title": "Video App"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "Video App 승인 선례의 Tips 평행",
+  "title": "Video Tips"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "비올라 학습·연주 보조 앱(Violin App 평행)",
+  "title": "Viola App"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "Viola App 승인 선례의 Tips 평행",
+  "title": "Viola Tips"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "바이올린 학습·연주 보조 앱(실재)",
+  "title": "Violin App"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "Violin App 승인 선례의 Tips 평행",
+  "title": "Violin Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "방문 일정·기록 관리 앱(실재)",
+  "title": "Visit App"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "Visit App 승인 선례의 Tips 평행",
+  "title": "Visit Tips"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "결혼 서원·축사 작성 앱(vow 작성 도구 실재)",
+  "title": "Vow App"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "Vow App 승인 선례의 Tips 평행",
+  "title": "Vow Tips"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "매물 가상 워크스루 투어 앱(실재)",
+  "title": "Walkthrough App"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "Walkthrough App 승인 선례의 Tips 평행",
+  "title": "Walkthrough Tips"
+ },
+ {
+  "industry": "cleaning_services",
+  "original_reason": "옷장 정리·코디 기록 앱(실재)",
+  "title": "Wardrobe App"
+ },
+ {
+  "industry": "cleaning_services",
+  "original_reason": "Wardrobe App 승인 선례의 Tips 평행",
+  "title": "Wardrobe Tips"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "창고·재고 관리 앱(실재)",
+  "title": "Warehouse App"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "Warehouse App 승인 선례의 Tips 평행",
+  "title": "Warehouse Tips"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "보증·AS 이력 관리 앱(실재)",
+  "title": "Warranty App"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "Warranty App 승인 선례의 Tips 평행",
+  "title": "Warranty Tips"
+ },
+ {
+  "industry": "photography_services",
+  "original_reason": "사진·문서 워터마크 앱(실재)",
+  "title": "Watermark App"
+ },
+ {
+  "industry": "photography_services",
+  "original_reason": "Watermark App 승인 선례의 Tips 평행",
+  "title": "Watermark Tips"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "Waterproofing App 승인 선례의 Tips 평행",
+  "title": "Waterproofing Tips"
+ },
+ {
+  "industry": "car_wash_detailing_services",
+  "original_reason": "왁싱 예약·왁스 제품 관리 앱(실재)",
+  "title": "Wax App"
+ },
+ {
+  "industry": "car_wash_detailing_services",
+  "original_reason": "Wax App 승인 선례의 Tips 평행",
+  "title": "Wax Tips"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "왁싱 시술 예약·관리 앱(실재)",
+  "title": "Waxing App"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "Waxing App 승인 선례의 Tips 평행",
+  "title": "Waxing Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "고래 크기 비교 콘텐츠(실검색 장르, 속성 명사 실재 결합)",
+  "title": "Whale Size"
+ },
+ {
+  "industry": "car_wash_detailing_services",
+  "original_reason": "타이어·휠 정비 관리 앱(실재)",
+  "title": "Wheel App"
+ },
+ {
+  "industry": "car_wash_detailing_services",
+  "original_reason": "Wheel App 승인 선례의 Tips 평행",
+  "title": "Wheel Tips"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "치아 미백 관리 앱(실재)",
+  "title": "Whitening App"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "Whitening App 승인 선례의 Tips 평행",
+  "title": "Whitening Tips"
+ },
+ {
+  "industry": "automotive",
+  "original_reason": "앞유리 수리·교체 관리 앱(실재)",
+  "title": "Windshield App"
+ },
+ {
+  "industry": "automotive",
+  "original_reason": "Windshield App 승인 선례의 Tips 평행",
+  "title": "Windshield Tips"
+ },
+ {
+  "industry": "pool_maintenance_services",
+  "original_reason": "월동 준비·동파 방지 관리 앱(실재 서비스 카테고리)",
+  "title": "Winterization App"
+ },
+ {
+  "industry": "pool_maintenance_services",
+  "original_reason": "Winterization App 승인 선례의 Tips 평행",
+  "title": "Winterization Tips"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "원천징수 세금 계산 관리 앱(실재)",
+  "title": "Withholding App"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "Withholding App 승인 선례의 Tips 평행",
+  "title": "Withholding Tips"
+ },
+ {
+  "industry": "plumbing_services",
+  "original_reason": "자동차 정비 예약·작업 관리 앱(실재)",
+  "title": "Wrench App"
+ },
+ {
+  "industry": "plumbing_services",
+  "original_reason": "Wrench App 승인 선례의 Tips 평행",
+  "title": "Wrench Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "짚라인 기록 일지(Rafting Diary 평행)",
+  "title": "Ziplining Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "짚라인 투어 가이드(Climbing Guide 평행)",
+  "title": "Ziplining Guide"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "짚라인 강습 영상(Golf Video 평행)",
+  "title": "Ziplining Video"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "토지 용도지역 조회·알림 앱(실재)",
+  "title": "Zoning App"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "Zoning App 승인 선례의 Tips 평행",
+  "title": "Zoning Tips"
+ }
+]

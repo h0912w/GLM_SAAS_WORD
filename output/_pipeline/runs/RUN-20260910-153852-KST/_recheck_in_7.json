@@ -1,0 +1,382 @@
+[
+ {
+  "industry": "nonprofit",
+  "original_reason": "Outreach App 승인 선례의 Tips 평행",
+  "title": "Outreach Tips"
+ },
+ {
+  "industry": "photography_services",
+  "original_reason": "택배·물류 패키지 추적 앱(실재)",
+  "title": "Package App"
+ },
+ {
+  "industry": "photography_services",
+  "original_reason": "Package App 승인 선례의 Tips 평행",
+  "title": "Package Tips"
+ },
+ {
+  "industry": "moving_relocation_services",
+  "original_reason": "여행 짐 싸기 체크리스트 앱(실재)",
+  "title": "Packing App"
+ },
+ {
+  "industry": "moving_relocation_services",
+  "original_reason": "Packing App 승인 선례의 Tips 평행",
+  "title": "Packing Tips"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "긴급 호출 패닉 버튼 앱(실재)",
+  "title": "Panic App"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "Panic App 승인 선례의 Tips 평행",
+  "title": "Panic Tips"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "제과 레시피·주문 관리 앱(실재)",
+  "title": "Pastry App"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "Pastry App 승인 선례의 Tips 평행",
+  "title": "Pastry Tips"
+ },
+ {
+  "industry": "cybersecurity",
+  "original_reason": "보안 패치 관리 앱(실재)",
+  "title": "Patch App"
+ },
+ {
+  "industry": "cybersecurity",
+  "original_reason": "Patch App 승인 선례의 Tips 평행",
+  "title": "Patch Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "특허 검색·출원 관리 앱(실재)",
+  "title": "Patent App"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "특허 후속 기한 관리(docketing 실재)",
+  "title": "Patent Followup"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "특허 실무 핸드북 콘텐츠(Guide류 관용구)",
+  "title": "Patent Handbook"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "특허 출원·등록 감시 서비스(실재, Trademark Watch 평행)",
+  "title": "Patent Monitor"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "특허 의견서 관리(실재 업무)",
+  "title": "Patent Opinion"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "발명 공개 문진 관리(실재 업무)",
+  "title": "Patent Questionnaire"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "특허 절차 일정 관리(Patent Followup 평행)",
+  "title": "Patent Timetable"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "Patent App 승인 선례의 Tips 평행",
+  "title": "Patent Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "특허 절차 추적 관리(Tracker 절차 명사 선례 평행)",
+  "title": "Patent Tracker"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "특허 출원 튜토리얼 콘텐츠(실재)",
+  "title": "Patent Tutorial"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "특허 사용 현황·로열티 관리(실재)",
+  "title": "Patent Usage"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "도로 포장 시공 관리 앱(실재)",
+  "title": "Paving App"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "Paving App 승인 선례의 Tips 평행",
+  "title": "Paving Tips"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "타악기 레슨·연습 앱(실재)",
+  "title": "Percussion App"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "Percussion App 승인 선례의 Tips 평행",
+  "title": "Percussion Tips"
+ },
+ {
+  "industry": "pharmacy",
+  "original_reason": "수거·픽업 예약 관리 앱(실재)",
+  "title": "Pickup App"
+ },
+ {
+  "industry": "pharmacy",
+  "original_reason": "Pickup App 승인 선례의 Tips 평행",
+  "title": "Pickup Tips"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "아이·반려동물 놀이 일정 기록 앱(실재)",
+  "title": "Playtime App"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "Playtime App 승인 선례의 Tips 평행",
+  "title": "Playtime Tips"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "배관 수리 접수·관리 앱(실재)",
+  "title": "Plumbing App"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "Plumbing App 승인 선례의 Tips 평행",
+  "title": "Plumbing Tips"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "팟캐스트 제작·배포 관리 앱(실재)",
+  "title": "Podcast App"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "Podcast App 승인 선례의 Tips 평행",
+  "title": "Podcast Tips"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "광택·폴리싱 서비스 앱(실재)",
+  "title": "Polish App"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "Polish App 승인 선례의 Tips 평행",
+  "title": "Polish Tips"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "수영장 관리·수질 균형 앱(실재)",
+  "title": "Pool App"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "Pool App 승인 선례의 Tips 평행",
+  "title": "Pool Tips"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "포트폴리오 관리 앱(실재)",
+  "title": "Portfolio App"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "Portfolio App 승인 선례의 Tips 평행",
+  "title": "Portfolio Tips"
+ },
+ {
+  "industry": "government",
+  "original_reason": "포트홀 신고·추적 앱(실재)",
+  "title": "Pothole App"
+ },
+ {
+  "industry": "government",
+  "original_reason": "Pothole App 승인 선례의 Tips 평행",
+  "title": "Pothole Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "임신 주차 기록 일지(실재)",
+  "title": "Pregnancy Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "임신 주차별 가이드 콘텐츠(Fertility Guide 평행)",
+  "title": "Pregnancy Guide"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "임신 관리 영상 가이드(Hypertension Video 평행)",
+  "title": "Pregnancy Video"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "서비스 제공자 포털 앱(실재)",
+  "title": "Provider App"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "Provider App 승인 선례의 Tips 평행",
+  "title": "Provider Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "건선 증상 기록 일지(Hypertension Diary 평행)",
+  "title": "Psoriasis Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "건선 관리 가이드 콘텐츠(Arthritis Guide 평행)",
+  "title": "Psoriasis Guide"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "증상 관리 도우미(Arthritis/Vertigo Helper 승인 선례 평행)",
+  "title": "Psoriasis Helper"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "건선 증상 기록(Vertigo/Menopause Record 승인 선례 평행)",
+  "title": "Psoriasis Record"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "건선 관리 영상 가이드(Hypertension Video 평행)",
+  "title": "Psoriasis Video"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "콘텐츠 발행·구독 관리 앱(실재)",
+  "title": "Publisher App"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "Publisher App 승인 선례의 Tips 평행",
+  "title": "Publisher Tips"
+ },
+ {
+  "industry": "pool_maintenance_services",
+  "original_reason": "펌프·유축 관리 앱(실재)",
+  "title": "Pump App"
+ },
+ {
+  "industry": "pool_maintenance_services",
+  "original_reason": "Pump App 승인 선례의 Tips 평행",
+  "title": "Pump Tips"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "견적서 작성 앱(실재)",
+  "title": "Quote App"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "Quote App 승인 선례의 Tips 평행",
+  "title": "Quote Tips"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "래프팅 기록 일지(Camping Diary 평행)",
+  "title": "Rafting Diary"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "래프팅 강 등급·투어 가이드(Climbing Guide 평행)",
+  "title": "Rafting Guide"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "래프팅 강습 영상 가이드(Golf Video 평행)",
+  "title": "Rafting Video"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "부동산 중개 매물·고객 관리 앱(실재)",
+  "title": "Realtor App"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "Realtor App 승인 선례의 Tips 평행",
+  "title": "Realtor Tips"
+ },
+ {
+  "industry": "events",
+  "original_reason": "회의·음성 녹음 관리 앱(실재)",
+  "title": "Recording App"
+ },
+ {
+  "industry": "events",
+  "original_reason": "Recording App 승인 선례의 Tips 평행",
+  "title": "Recording Tips"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "냉매 사용 추적·규정 준수 앱(실재)",
+  "title": "Refrigerant App"
+ },
+ {
+  "industry": "hvac_services",
+  "original_reason": "Refrigerant App 승인 선례의 Tips 평행",
+  "title": "Refrigerant Tips"
+ },
+ {
+  "industry": "pharmacy",
+  "original_reason": "냉장 설비 점검·관리 앱(실재)",
+  "title": "Refrigeration App"
+ },
+ {
+  "industry": "pharmacy",
+  "original_reason": "Refrigeration App 승인 선례의 Tips 평행",
+  "title": "Refrigeration Tips"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "연습·리허설 일정 관리 앱(실재)",
+  "title": "Rehearsal App"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "Rehearsal App 승인 선례의 Tips 평행",
+  "title": "Rehearsal Tips"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "자물쇠 재교체(리키잉) 관리 앱(실재)",
+  "title": "Rekeying App"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "Rekeying App 승인 선례의 Tips 평행",
+  "title": "Rekeying Tips"
+ },
+ {
+  "industry": "photography_services",
+  "original_reason": "임대 물건·계약 관리 앱(실재)",
+  "title": "Rental App"
+ },
+ {
+  "industry": "photography_services",
+  "original_reason": "Rental App 승인 선례의 Tips 평행",
+  "title": "Rental Tips"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "예약 접수·관리 앱(실재)",
+  "title": "Reservation App"
+ }
+]

@@ -1,0 +1,200 @@
+Bid Advice	R	T	F	T	0.65	직전 승인 Bid Tips와 동일 기능 의미 중복
+Fulfillment Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Amenity Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Tuition Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Downtime Quantity	R	F	T	T	0.6	수량 대상 불분명
+Crop Login	R	F	T	T	0.6	제품 불분명
+Fundraising Coach	R	F	T	T	0.6	코칭 대상 불분명
+Constituent Habit	R	F	T	T	0.6	결합 불성립
+Stewardship Tips	A	T	T	T	0.55	Stewardship App 승인 선례의 Tips 평행
+Content Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Circulation Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Activation Quantity	R	F	T	T	0.6	수량 대상 불분명
+Patch Login	R	F	T	T	0.6	제품 불분명
+Configuration Analysis	R	F	T	T	0.6	분석 대상 불분명
+Chat Coach	R	F	T	T	0.6	코칭 대상 불분명
+Lawyer Sketch	R	F	T	T	0.6	스케치 대상 불분명
+Attorney Authorization	R	F	T	T	0.6	결합 불성립
+Court Video	R	F	T	T	0.6	영상 대상 불분명
+Judge Episode	R	F	T	T	0.6	결합 불성립
+Winterization Tips	A	T	T	T	0.55	Winterization App 승인 선례의 Tips 평행
+Undercarriage Advice	R	F	T	T	0.6	선례 기각(App 기각)의 Advice 불가
+Drainpipe Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Tourist Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Percussion Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Jury Analysis	R	F	T	T	0.6	분석 대상 불분명
+Lane Coach	R	F	T	T	0.6	코칭 대상 불분명
+Walkthrough Habit	R	F	T	T	0.6	결합 불성립
+Lawsuit Center	R	F	T	T	0.6	센터 지칭으로 제품 불분명
+Divorce Kiosk	R	F	T	T	0.6	키오스크 지칭으로 제품 불분명
+Custody Summary	R	F	T	T	0.6	요약 지칭으로 제품 불분명
+Immigration Unit	R	F	T	T	0.6	단위·부서 중의로 불분명
+Testament Signature	R	F	T	T	0.6	서명 지칭으로 제품 불분명
+Notary Widget	R	F	T	T	0.6	위젯 기능 지칭으로 제품 불분명
+Mediation Diagnostic	R	F	T	T	0.6	진단 대상 불분명
+Guardianship Nomination	A	T	T	T	0.55	후견인 지정 서류 관리(Immigration Petition 평행)
+Trademark Time	R	F	T	T	0.6	결합 불성립
+Patent Evaluation	R	F	T	T	0.6	평가 대상 불분명
+Thermocouple App	A	T	T	T	0.55	열전쌍 온도 측정·보정 앱(산업 측정기 연동 실재)
+Panic Tips	A	T	T	T	0.55	Panic App 승인 선례의 Tips 평행
+Pool Advice	R	T	F	T	0.65	직전 승인 Pool Tips와 동일 기능 의미 중복
+Surfing Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Tempo Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Bandage Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Bankruptcy Quantity	R	F	T	T	0.6	수량 대상 불분명
+Copyright Login	R	F	T	T	0.6	제품 불분명
+Consolidation Analysis	R	F	T	T	0.6	분석 대상 불분명
+Staging Coach	R	F	T	T	0.6	코칭 대상 불분명
+Beneficiary Habit	R	F	T	T	0.6	결합 불성립
+Migraine Converter	R	F	T	T	0.6	변환 대상 불분명
+Insomnia Detector	R	F	T	T	0.6	탐지 대상 불분명
+Skydiving Helper	R	F	T	T	0.6	도우미 대상 불분명
+Acne Stage	R	F	T	T	0.6	단계 대상 불분명
+Snowboarding Trend	R	F	T	T	0.6	결합 불성립
+Eczema Comparison	R	F	T	T	0.6	비교 대상 불분명
+Ziplining Record	R	F	T	T	0.6	기록 대상 불분명
+Psoriasis Copy	R	F	T	T	0.6	복사·원고 중의로 불분명
+Sledding Forecast	R	F	T	T	0.6	예측 대상 불분명
+Vertigo Deadline	R	F	T	T	0.6	결합 불성립
+Diving Diagnostic	R	F	T	T	0.6	진단 대상 불분명
+Arthritis Progress	R	F	T	T	0.6	진행 대상 불분명
+Sailing Guide	A	T	T	T	0.55	항해·해상 가이드 콘텐츠(Golf/Biking Guide 평행)
+Menopause Rating	R	F	T	T	0.6	평가 대상 불분명
+Rafting Account	R	F	T	T	0.6	결합 불성립
+Pregnancy Case	R	F	T	T	0.6	결합 불성립(Case 계열 기각 선례)
+Climbing Lookup	R	F	T	T	0.6	탐색 대상 불분명
+Fertility Ping	R	F	T	T	0.6	결합 불성립
+Biking Eligibility	R	F	T	T	0.6	결합 불성립
+Thyroid Broadcast	R	F	T	T	0.6	결합 불성립
+Golf Feedback	R	F	T	T	0.6	결합 불성립
+Cholesterol Invoice	R	F	T	T	0.6	결합 불성립
+Fishing Warranty	R	F	T	T	0.6	결합 불성립
+Hypertension Deposit	R	F	T	T	0.6	결합 불성립
+Camping Correction	R	F	T	T	0.6	결합 불성립
+Anemia Revision	R	F	T	T	0.6	결합 불성립
+Glamping Simulator	R	F	T	T	0.6	결합 불성립
+Heartburn Predictor	R	F	T	T	0.6	예측 대상 불분명
+Stargazing Recipe	R	F	T	T	0.6	결합 불성립
+Constipation Video	A	T	T	T	0.55	변비 완화 운동·식이 영상 가이드(Fracture Video 평행)
+Birdwatching Expense	R	F	T	T	0.6	결합 불성립
+Concussion Newsletter	R	F	T	T	0.6	결합 불성립
+Canyon Claim	R	F	T	T	0.6	결합 불성립
+Sprain Onboarding	R	F	T	T	0.6	결합 불성립
+Geyser Checkin	R	F	T	T	0.6	결합 불성립
+Fracture Size	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Fjord Length	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Insulin Weight	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Savanna Distance	R	F	T	T	0.6	결합 불성립
+Tundra Range	R	F	T	T	0.6	결합 불성립
+Prairie Limit	R	F	T	T	0.6	결합 불성립
+Marsh Type	R	F	T	T	0.6	결합 불성립(분류 대상 부자연)
+Cove Clock	R	F	T	T	0.6	결합 불성립
+Cliff Time	R	F	T	T	0.6	결합 불성립
+Cavern Speed	R	F	T	T	0.6	결합 불성립
+Oasis Depth	R	F	T	T	0.6	결합 불성립
+Dune Height	R	F	T	T	0.6	결합 불성립
+Whale Width	R	F	T	T	0.6	결합 불성립
+Dolphin Temperature	R	F	T	T	0.6	결합 불성립
+Penguin Pressure	R	F	T	T	0.6	결합 불성립
+Flamingo Load	R	F	T	T	0.6	결합 불성립
+Turtle Voltage	R	F	T	T	0.6	결합 불성립
+Moose Wattage	R	F	T	T	0.6	결합 불성립
+Bison Brightness	R	F	T	T	0.6	결합 불성립
+Reindeer Frequency	R	F	T	T	0.6	결합 불성립
+Adjuster Tips	A	T	T	T	0.55	Adjuster App 승인 선례의 Tips 평행
+Bid Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Fulfillment Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Amenity Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Tuition Quantity	R	F	T	T	0.6	수량 대상 불분명
+Downtime Login	R	F	T	T	0.6	제품 불분명
+Crop Analysis	R	F	T	T	0.6	분석 대상 불분명
+Fundraising Habit	R	F	T	T	0.6	결합 불성립
+Rotation App	A	T	T	T	0.6	교대·순환 근무 로테이션 관리 앱(실재)
+Stewardship Advice	R	T	F	T	0.65	이번 배치 승인 Stewardship Tips와 동일 기능 의미 중복
+Content Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Circulation Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Activation Login	R	F	T	T	0.6	제품 불분명
+Patch Analysis	R	F	T	T	0.6	분석 대상 불분명
+Configuration Coach	R	F	T	T	0.6	코칭 대상 불분명
+Chat Habit	R	F	T	T	0.6	결합 불성립
+Lawyer Outline	R	F	T	T	0.6	개요 대상 불분명
+Attorney Template	R	F	T	T	0.6	템플릿 대상 불분명
+Court Diary	R	F	T	T	0.6	일지 대상 불분명
+Judge Cycle	R	F	T	T	0.6	주기 지칭으로 제품 불분명
+Vow App	A	T	T	T	0.55	결혼 서원·축사 작성 앱(vow 작성 도구 실재)
+Winterization Advice	R	T	F	T	0.65	이번 배치 승인 Winterization Tips와 동일 기능 의미 중복
+Undercarriage Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Drainpipe Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Tourist Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Percussion Quantity	R	F	T	T	0.6	수량 대상 불분명
+Jury Coach	R	F	T	T	0.6	코칭 대상 불분명
+Lane Habit	R	F	T	T	0.6	결합 불성립
+Lawsuit Zone	R	F	T	T	0.6	존 지칭으로 제품 불분명
+Divorce Bay	R	F	T	T	0.6	베이 지칭으로 제품 불분명
+Custody Timeline	A	T	T	T	0.55	양육 절차 타임라인 기록(Custody History 평행)
+Immigration Plan	A	T	T	T	0.55	비자 절차 로드맵 관리(Immigration Brief 평행)
+Testament Marker	R	F	T	T	0.6	마커 기능 지칭으로 제품 불분명
+Notary Repository	R	F	T	T	0.6	결합 불성립
+Mediation Progress	R	F	T	T	0.6	진행 대상 불분명
+Guardianship Correction	R	F	T	T	0.6	결합 불성립
+Trademark Speed	R	F	T	T	0.6	결합 불성립
+Patent Questionnaire	A	T	T	T	0.55	발명 공개 문진 관리(실재 업무)
+Thermocouple Tips	A	T	T	T	0.55	Thermocouple App 승인 선례의 Tips 평행
+Panic Advice	R	T	F	T	0.65	이번 배치 승인 Panic Tips와 동일 기능 의미 중복
+Pool Workbook	R	F	T	T	0.6	워크북 대상 불분명
+Surfing Mode	R	F	T	T	0.6	기능 토글로 읽혀 제품 불분명
+Tempo Spec	R	F	T	T	0.6	사양 참조로 제품 불분명
+Bandage Quantity	R	F	T	T	0.6	수량 대상 불분명
+Bankruptcy Login	R	F	T	T	0.6	제품 불분명
+Copyright Analysis	R	F	T	T	0.6	분석 대상 불분명
+Consolidation Coach	R	F	T	T	0.6	코칭 대상 불분명
+Staging Habit	R	F	T	T	0.6	결합 불성립
+Migraine Generator	R	F	T	T	0.6	생성 대상 불분명
+Insomnia Timer	R	F	T	T	0.6	결합 불성립(Timer 계열 기각 선례)
+Skydiving Stage	R	F	T	T	0.6	단계 대상 불분명
+Acne Result	R	F	T	T	0.6	결과 지칭으로 제품 불분명
+Snowboarding Comparison	R	F	T	T	0.6	비교 대상 불분명
+Eczema Proposal	R	F	T	T	0.6	제안 대상 불분명
+Ziplining Copy	R	F	T	T	0.6	복사·원고 중의로 불분명
+Psoriasis Reading	R	F	T	T	0.6	독서·측정 중의로 불분명
+Sledding Deadline	R	F	T	T	0.6	결합 불성립
+Vertigo Duration	R	F	T	T	0.6	기간 속성 지칭으로 제품명 부자연
+Diving Progress	R	F	T	T	0.6	진행 대상 불분명
+Arthritis Authorization	R	F	T	T	0.6	결합 불성립
+Sailing Rating	R	F	T	T	0.6	평가 대상 불분명
+Menopause Agreement	R	F	T	T	0.6	결합 불성립
+Rafting Case	R	F	T	T	0.6	결합 불성립(Case 계열 기각 선례)
+Pregnancy Match	R	F	T	T	0.6	매칭 대상 불분명
+Climbing Ping	R	F	T	T	0.6	결합 불성립
+Fertility Model	R	F	T	T	0.6	모델 지칭으로 제품 불분명
+Biking Broadcast	R	F	T	T	0.6	결합 불성립
+Thyroid Barcode	R	F	T	T	0.6	결합 불성립
+Golf Invoice	R	F	T	T	0.6	결합 불성립
+Cholesterol Renewal	R	F	T	T	0.6	결합 불성립
+Fishing Deposit	R	F	T	T	0.6	결합 불성립
+Hypertension Certification	R	F	T	T	0.6	결합 불성립
+Camping Revision	R	F	T	T	0.6	결합 불성립
+Anemia Payment	R	F	T	T	0.6	결합 불성립
+Glamping Predictor	R	F	T	T	0.6	예측 대상 불분명
+Heartburn Seal	R	F	T	T	0.6	결합 불성립
+Stargazing Video	A	T	T	T	0.55	관측 가이드 영상(Birdwatching Video 평행)
+Constipation Diary	A	T	T	T	0.55	배변·식이 기록 일지(배변일지 실재, Fracture Diary 평행)
+Birdwatching Newsletter	R	F	T	T	0.6	결합 불성립
+Concussion Inventory	R	F	T	T	0.6	결합 불성립
+Canyon Onboarding	R	F	T	T	0.6	결합 불성립
+Sprain Checkin	R	F	T	T	0.6	결합 불성립
+Geyser Size	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Fracture Length	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Fjord Weight	R	F	T	T	0.6	결합 불성립(속성 지칭)
+Insulin Distance	R	F	T	T	0.6	결합 불성립
+Savanna Range	R	F	T	T	0.6	결합 불성립
+Tundra Limit	R	F	T	T	0.6	결합 불성립
+Prairie Type	R	F	T	T	0.6	결합 불성립(분류 대상 부자연)
+Marsh Clock	R	F	T	T	0.6	결합 불성립
+Cove Time	R	F	T	T	0.6	결합 불성립
+Cliff Speed	R	F	T	T	0.6	결합 불성립
+Cavern Depth	R	F	T	T	0.6	결합 불성립
+Oasis Height	R	F	T	T	0.6	결합 불성립
+Dune Width	R	F	T	T	0.6	결합 불성립
+Whale Temperature	R	F	T	T	0.6	결합 불성립
+Dolphin Pressure	R	F	T	T	0.6	결합 불성립

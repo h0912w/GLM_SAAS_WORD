@@ -1,0 +1,382 @@
+[
+ {
+  "industry": "legal",
+  "original_reason": "법률 문서 마크업·레드라인(실재 업무)",
+  "title": "Lawyer Markup"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "사건 진행 안내 메시지(Notary Message 평행)",
+  "title": "Lawyer Message"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "사건·기한 알림(Notary Notification 승인 선례 평행)",
+  "title": "Lawyer Notification"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "법률 문서 템플릿 관리(Notary Template 평행)",
+  "title": "Lawyer Template"
+ },
+ {
+  "industry": "plumbing_services",
+  "original_reason": "누수 감지·신고 관리 앱(실재)",
+  "title": "Leak App"
+ },
+ {
+  "industry": "plumbing_services",
+  "original_reason": "Leak App 승인 선례의 Tips 평행",
+  "title": "Leak Tips"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "배상책임 보험 관리 앱(실재)",
+  "title": "Liability App"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "Liability App 승인 선례의 Tips 평행",
+  "title": "Liability Tips"
+ },
+ {
+  "industry": "interpreter_translation_services",
+  "original_reason": "통번역 인력 매칭 앱(실재)",
+  "title": "Linguist App"
+ },
+ {
+  "industry": "interpreter_translation_services",
+  "original_reason": "Linguist App 승인 선례의 Tips 평행",
+  "title": "Linguist Tips"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "매물·상품 리스팅 관리 앱(실재)",
+  "title": "Listing App"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "Listing App 승인 선례의 Tips 평행",
+  "title": "Listing Tips"
+ },
+ {
+  "industry": "events",
+  "original_reason": "실시간 방송 송출 앱(실재)",
+  "title": "Livestream App"
+ },
+ {
+  "industry": "events",
+  "original_reason": "Livestream App 승인 선례의 Tips 평행",
+  "title": "Livestream Tips"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "잠금·출입 통제 절차 관리 앱(실재)",
+  "title": "Lockout App"
+ },
+ {
+  "industry": "locksmith_security_services",
+  "original_reason": "Lockout App 승인 선례의 Tips 평행",
+  "title": "Lockout Tips"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "자물쇠·도어 수리 서비스 앱(실재)",
+  "title": "Locksmith App"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "Locksmith App 승인 선례의 Tips 평행",
+  "title": "Locksmith Tips"
+ },
+ {
+  "industry": "events",
+  "original_reason": "행사 물류 관리 앱(실재)",
+  "title": "Logistics App"
+ },
+ {
+  "industry": "events",
+  "original_reason": "Logistics App 승인 선례의 Tips 평행",
+  "title": "Logistics Tips"
+ },
+ {
+  "industry": "laundry_dry_cleaning",
+  "original_reason": "포인트·로열티 프로그램 관리 앱(실재)",
+  "title": "Loyalty App"
+ },
+ {
+  "industry": "laundry_dry_cleaning",
+  "original_reason": "Loyalty App 승인 선례의 Tips 평행",
+  "title": "Loyalty Tips"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "우편함·메일 관리 앱(실재)",
+  "title": "Mailbox App"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "Mailbox App 승인 선례의 Tips 평행",
+  "title": "Mailbox Tips"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "원고 작성 팁(Tips 관용구)",
+  "title": "Manuscript Tips"
+ },
+ {
+  "industry": "retail_ecommerce",
+  "original_reason": "마크다운 문서 편집 앱(실재)",
+  "title": "Markdown App"
+ },
+ {
+  "industry": "retail_ecommerce",
+  "original_reason": "Markdown App 승인 선례의 Tips 평행",
+  "title": "Markdown Tips"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "마사지 예약·방문 서비스 앱(실재)",
+  "title": "Massage App"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "Massage App 승인 선례의 Tips 평행",
+  "title": "Massage Tips"
+ },
+ {
+  "industry": "cleaning_services",
+  "original_reason": "매트리스 쇼핑·추천 앱(실재)",
+  "title": "Mattress App"
+ },
+ {
+  "industry": "cleaning_services",
+  "original_reason": "Mattress App 승인 선례의 Tips 평행",
+  "title": "Mattress Tips"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "식단 기록·계획 관리 앱(실재)",
+  "title": "Meal App"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "Meal App 승인 선례의 Tips 평행",
+  "title": "Meal Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "조정 절차 기한 관리(Attorney Deadline 승인 선례 평행)",
+  "title": "Mediation Deadline"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "조정 절차 가이드 콘텐츠(Attorney Guide 평행)",
+  "title": "Mediation Guide"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "멤버십 등록·갱신 관리 앱(실재)",
+  "title": "Membership App"
+ },
+ {
+  "industry": "salon_spa",
+  "original_reason": "Membership App 승인 선례의 Tips 평행",
+  "title": "Membership Tips"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "폐경 증상 기록 일지(Hypertension Diary 평행)",
+  "title": "Menopause Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "폐경 단계별 가이드 콘텐츠(Fertility/Pregnancy Guide 평행)",
+  "title": "Menopause Guide"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "폐경 관리 영상 가이드(Hypertension Video 평행)",
+  "title": "Menopause Video"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "편두통 트리거·카페인 한도 계산기(Acne Calculator 평행)",
+  "title": "Migraine Calculator"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "편두통 증상 체크(Acne/Eczema Checker 평행)",
+  "title": "Migraine Checker"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "편두통 증상 기록 일지(Vertigo Diary 평행)",
+  "title": "Migraine Diary"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "편두통 관리 가이드 콘텐츠(Eczema Guide 평행)",
+  "title": "Migraine Guide"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "편두통 관리 도우미(Insomnia Helper 평행)",
+  "title": "Migraine Helper"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "편두통 케어 키트(Insomnia Kit 승인 선례 평행)",
+  "title": "Migraine Kit"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "복약·기록 리마인드 메시지(Insomnia Message 평행)",
+  "title": "Migraine Message"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "복약·발작 기록 알림(Notification 관용구)",
+  "title": "Migraine Notification"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "편두통 발작 기록(Vertigo Record 평행)",
+  "title": "Migraine Record"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "편두통 발작 기록(Acne/Eczema Recorder 평행)",
+  "title": "Migraine Recorder"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "편두통 관리 영상 가이드(Hypertension Video 평행)",
+  "title": "Migraine Video"
+ },
+ {
+  "industry": "senior_care",
+  "original_reason": "마이크로모빌리티·이동 서비스 앱(실재)",
+  "title": "Mobility App"
+ },
+ {
+  "industry": "senior_care",
+  "original_reason": "Mobility App 승인 선례의 Tips 평행",
+  "title": "Mobility Tips"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "낮잠 기록·관리 앱(실재)",
+  "title": "Nap App"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "Nap App 승인 선례의 Tips 평행",
+  "title": "Nap Tips"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "반려동물 중절 수술 예약·사후관리 앱(실재)",
+  "title": "Neuter App"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "Neuter App 승인 선례의 Tips 평행",
+  "title": "Neuter Tips"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "뉴스레터 발행·구독 관리 앱(실재)",
+  "title": "Newsletter App"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "Newsletter App 승인 선례의 Tips 평행",
+  "title": "Newsletter Tips"
+ },
+ {
+  "industry": "interpreter_translation_services",
+  "original_reason": "온라인 공증 절차 앱(실재)",
+  "title": "Notarization App"
+ },
+ {
+  "industry": "interpreter_translation_services",
+  "original_reason": "Notarization App 승인 선례의 Tips 평행",
+  "title": "Notarization Tips"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "공증 수수료·기한 계산기(Acne/Insomnia Calculator 평행)",
+  "title": "Notary Calculator"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "공증 기한 관리(Deadline 절차 명사 선례 평행)",
+  "title": "Notary Deadline"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "공증 절차 도식 콘텐츠(Diagram 관용구 계열)",
+  "title": "Notary Diagram"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "공증 절차 안내 가이드(Patent Handbook 평행)",
+  "title": "Notary Guide"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "공증 서류 준비 키트(법률 문서 킷 실재)",
+  "title": "Notary Kit"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "공증 기한·진행 안내 메시지(Notary Notification 승인 선례 평행)",
+  "title": "Notary Message"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "공증 기한 알림(Notary Reminder 승인 선례 평행)",
+  "title": "Notary Notification"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "공증 문서 템플릿 관리(Testament Kit 평행)",
+  "title": "Notary Template"
+ },
+ {
+  "industry": "funeral_services",
+  "original_reason": "부고 작성·게시 앱(실재)",
+  "title": "Obituary App"
+ },
+ {
+  "industry": "funeral_services",
+  "original_reason": "Obituary App 승인 선례의 Tips 평행",
+  "title": "Obituary Tips"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "채용 오퍼·제안 관리 앱(실재)",
+  "title": "Offer App"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "Offer App 승인 선례의 Tips 평행",
+  "title": "Offer Tips"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "주례 일정·예식 관리 앱(실재)",
+  "title": "Officiant App"
+ },
+ {
+  "industry": "wedding_planning_services",
+  "original_reason": "Officiant App 승인 선례의 Tips 평행",
+  "title": "Officiant Tips"
+ },
+ {
+  "industry": "nonprofit",
+  "original_reason": "영업 아웃리치 관리 앱(실재)",
+  "title": "Outreach App"
+ }
+]
