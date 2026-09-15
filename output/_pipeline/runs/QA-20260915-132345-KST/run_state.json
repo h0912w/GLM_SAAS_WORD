@@ -1,0 +1,946 @@
+{
+  "awaiting_judgment": null,
+  "context": {
+    "approval_anomaly": {
+      "baseline_mean_pct": 63.58,
+      "baseline_stdev_pct": 34.45,
+      "current_rate_pct": 50.0,
+      "sample_rounds": 85,
+      "status": "normal",
+      "z_score": -0.39
+    },
+    "approved": [],
+    "backlog": [],
+    "candidate_industry": {
+      "Acne Compatibility": "healthcare",
+      "Anemia Desk": "healthcare",
+      "Arthritis Requirement": "healthcare",
+      "Bike Analysis": "property_management_services",
+      "Biking Tips": "travel_tourism",
+      "Birdwatching Scope": "travel_tourism",
+      "Camping Hub": "travel_tourism",
+      "Canyon Wave": "travel_tourism",
+      "Cholesterol Quantity": "healthcare",
+      "Climbing Retreat": "travel_tourism",
+      "Compost Mode": "property_management_services",
+      "Concussion Loop": "healthcare",
+      "Constipation Bridge": "healthcare",
+      "Copyright Roll": "legal",
+      "Diving Benefit": "travel_tourism",
+      "Eczema Episode": "healthcare",
+      "Fertility Tournament": "healthcare",
+      "Fishing Coach": "travel_tourism",
+      "Fjord Frame": "travel_tourism",
+      "Fracture Map": "healthcare",
+      "Geyser Point": "travel_tourism",
+      "Glamping Vault": "travel_tourism",
+      "Golf Spec": "travel_tourism",
+      "Guardianship Flow": "legal",
+      "Heartburn Compass": "healthcare",
+      "Hypertension Habit": "healthcare",
+      "Insomnia Load": "healthcare",
+      "Insulin Base": "healthcare",
+      "Marsh Deck": "travel_tourism",
+      "Menopause Guarantor": "healthcare",
+      "Migraine Depth": "healthcare",
+      "Patent Register": "legal",
+      "Prairie Board": "travel_tourism",
+      "Pregnancy Timetable": "healthcare",
+      "Psoriasis Reception": "healthcare",
+      "Rafting Handbook": "travel_tourism",
+      "Recovery Habit": "healthcare",
+      "Recycling App": "property_management_services",
+      "Sailing Hazard": "travel_tourism",
+      "Savanna Core": "travel_tourism",
+      "Skydiving Frequency": "travel_tourism",
+      "Sledding Matrix": "travel_tourism",
+      "Snowboarding Humidity": "travel_tourism",
+      "Sprain Path": "healthcare",
+      "Stargazing Cascade": "travel_tourism",
+      "Thyroid Advice": "healthcare",
+      "Trademark Lab": "legal",
+      "Tundra Ledger": "travel_tourism",
+      "Vertigo Evaluation": "healthcare",
+      "Ziplining Sensor": "travel_tourism"
+    },
+    "golden_eval": {
+      "agreed": 7,
+      "agreement_pct": 100.0,
+      "checked": 7,
+      "mismatches": []
+    },
+    "review_all_items": [
+      {
+        "industry": "canary",
+        "title": "Falcon Ledger"
+      },
+      {
+        "industry": "canary",
+        "title": "Quantum Notary"
+      },
+      {
+        "industry": "canary",
+        "title": "Slack Messenger"
+      },
+      {
+        "industry": "canary",
+        "title": "Photoshop Canvas"
+      },
+      {
+        "industry": "canary",
+        "title": "Data Thing"
+      },
+      {
+        "industry": "canary",
+        "title": "Ledger Sentinel"
+      },
+      {
+        "industry": "canary",
+        "title": "Ledger Watchman"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Recovery Habit"
+      },
+      {
+        "industry": "legal",
+        "title": "Guardianship Flow"
+      },
+      {
+        "industry": "legal",
+        "title": "Trademark Lab"
+      },
+      {
+        "industry": "legal",
+        "title": "Patent Register"
+      },
+      {
+        "industry": "legal",
+        "title": "Copyright Roll"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Migraine Depth"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Insomnia Load"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Skydiving Frequency"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Acne Compatibility"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Snowboarding Humidity"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Eczema Episode"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Ziplining Sensor"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Psoriasis Reception"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Sledding Matrix"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Vertigo Evaluation"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Diving Benefit"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Arthritis Requirement"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Sailing Hazard"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Menopause Guarantor"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Rafting Handbook"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Pregnancy Timetable"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Climbing Retreat"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Fertility Tournament"
+      },
+      {
+        "industry": "property_management_services",
+        "title": "Recycling App"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Biking Tips"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Thyroid Advice"
+      },
+      {
+        "industry": "property_management_services",
+        "title": "Compost Mode"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Golf Spec"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Cholesterol Quantity"
+      },
+      {
+        "industry": "property_management_services",
+        "title": "Bike Analysis"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Fishing Coach"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Hypertension Habit"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Camping Hub"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Anemia Desk"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Glamping Vault"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Heartburn Compass"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Stargazing Cascade"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Constipation Bridge"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Birdwatching Scope"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Concussion Loop"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Canyon Wave"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Sprain Path"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Geyser Point"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Fracture Map"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Fjord Frame"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Insulin Base"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Savanna Core"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Tundra Ledger"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Prairie Board"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Marsh Deck"
+      }
+    ],
+    "review_attempts": {},
+    "review_chunk_decisions": {
+      "Acne Compatibility": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "reason": "여드름성 피부 대상 화장품·루틴 적합성 검사 도구로 짐작 가능",
+        "title": "Acne Compatibility"
+      },
+      "Anemia Desk": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "reason": "명확성 실패: 질환명+Desk 결합이 서비스 개념으로 읽히지 않음",
+        "title": "Anemia Desk"
+      },
+      "Arthritis Requirement": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "명확성 실패: 'Requirement'가 관절염 제품 개념으로 읽히지 않음",
+        "title": "Arthritis Requirement"
+      },
+      "Bike Analysis": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "자전거 주행·이용 데이터 분석 도구로 명확",
+        "title": "Bike Analysis"
+      },
+      "Biking Tips": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "자전거 팁·정보 콘텐츠 앱으로 명확",
+        "title": "Biking Tips"
+      },
+      "Birdwatching Scope": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "reason": "조류 관찰 기록·명소 탐색 도구로 명확",
+        "title": "Birdwatching Scope"
+      },
+      "Camping Hub": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.9,
+        "reason": "캠핑 정보·예약 허브로 명확",
+        "title": "Camping Hub"
+      },
+      "Canyon Wave": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "명확성 실패: 시적 조합일 뿐 제품 기능을 유추하게 하지 않음",
+        "title": "Canyon Wave"
+      },
+      "Cholesterol Quantity": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "명확성 실패: 'Quantity'가 건강 지표 관리 제품으로 읽히지 않음",
+        "title": "Cholesterol Quantity"
+      },
+      "Climbing Retreat": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "reason": "클라이밍 리트리트 예약·기획 서비스로 명확",
+        "title": "Climbing Retreat"
+      },
+      "Compost Mode": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "명확성 실패: 'Mode'가 독립 제품 개념이 되지 않음",
+        "title": "Compost Mode"
+      },
+      "Concussion Loop": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "명확성 실패: 'Loop'가 뇌진탕 관리 제품으로 읽히지 않음",
+        "title": "Concussion Loop"
+      },
+      "Constipation Bridge": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "reason": "명확성 실패: 'Bridge'와 변비의 결합이 무의미",
+        "title": "Constipation Bridge"
+      },
+      "Copyright Roll": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "reason": "명확성 실패: 'Roll'이 저작권 관리의 어떤 기능인지 유추하게 하지 않음",
+        "title": "Copyright Roll"
+      },
+      "Data Thing": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.9,
+        "reason": "명확성 실패: 'Thing'이 어떤 제품인지 유추하게 하지 않음",
+        "title": "Data Thing"
+      },
+      "Diving Benefit": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "명확성 실패: 'Benefit'이 다이빙 관련 어떤 제품인지 유추 불가",
+        "title": "Diving Benefit"
+      },
+      "Eczema Episode": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "reason": "습진·아토피 발작 에피소드 기록·추적 도구로 명확",
+        "title": "Eczema Episode"
+      },
+      "Falcon Ledger": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "reason": "장부/기록 관리 SaaS로 명확, 브랜드형 도메인어+기능어 결합이 자연스러움",
+        "title": "Falcon Ledger"
+      },
+      "Fertility Tournament": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "reason": "명확성 실패: 가임과 토너먼트의 결합이 무의미",
+        "title": "Fertility Tournament"
+      },
+      "Fishing Coach": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.9,
+        "reason": "낚시 코칭 앱으로 명확",
+        "title": "Fishing Coach"
+      },
+      "Fjord Frame": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "명확성 실패: 'Frame'이 피오르드 서비스 기능으로 읽히지 않음",
+        "title": "Fjord Frame"
+      },
+      "Fracture Map": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "골절 케이스·부위 매핑 추적 도구로 짐작 가능",
+        "title": "Fracture Map"
+      },
+      "Geyser Point": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.62,
+        "reason": "간헐천 명소·포인트 가이드로 짐작 가능",
+        "title": "Geyser Point"
+      },
+      "Glamping Vault": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "reason": "명확성 실패: 'Vault'가 글램핑 서비스 기능으로 읽히지 않음",
+        "title": "Glamping Vault"
+      },
+      "Golf Spec": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "reason": "골프 장비 스펙 데이터베이스·피팅 도구로 짐작 가능",
+        "title": "Golf Spec"
+      },
+      "Guardianship Flow": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "reason": "후견 등기·절차 워크플로우 도구로 명확",
+        "title": "Guardianship Flow"
+      },
+      "Heartburn Compass": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "속쓰림 유발 요인 탐색·관리 내비게이션 도구로 짐작 가능",
+        "title": "Heartburn Compass"
+      },
+      "Hypertension Habit": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "reason": "고혈압 관리 습관 트래커로 명확",
+        "title": "Hypertension Habit"
+      },
+      "Insomnia Load": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "명확성 실패: 'Load'가 불면증 관리 제품으로 읽히지 않음",
+        "title": "Insomnia Load"
+      },
+      "Insulin Base": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.62,
+        "reason": "인슐린 투여 기록·정보 저장소로 짐작 가능",
+        "title": "Insulin Base"
+      },
+      "Ledger Sentinel": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "reason": "장부 감시·이상모니터링 도구로 명확",
+        "title": "Ledger Sentinel"
+      },
+      "Ledger Watchman": {
+        "approve": false,
+        "checks": {
+          "clarity": true,
+          "duplication": false,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "의미 중복: 같은 배치의 Ledger Sentinel과 '장부 감시자'로 동일 제품 개념이며 Watchman이 더 어색함",
+        "title": "Ledger Watchman"
+      },
+      "Marsh Deck": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "reason": "명확성 실패: 'Deck'이 습지 관련 제품 개념으로 읽히지 않음",
+        "title": "Marsh Deck"
+      },
+      "Menopause Guarantor": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "reason": "명확성 실패: 'Guarantor'와 폐경의 결합이 무의미",
+        "title": "Menopause Guarantor"
+      },
+      "Migraine Depth": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "명확성 실패: 'Depth'가 편두통 제품의 기능으로 읽히지 않음",
+        "title": "Migraine Depth"
+      },
+      "Patent Register": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "reason": "특허 등록·대장 관리 도구로 명확",
+        "title": "Patent Register"
+      },
+      "Photoshop Canvas": {
+        "approve": false,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": false
+        },
+        "confidence": 0.95,
+        "reason": "상표 유사: Photoshop은 유명 이미지 편집 브랜드",
+        "title": "Photoshop Canvas"
+      },
+      "Prairie Board": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.6,
+        "reason": "명확성 실패: 'Board'가 초원 관련 어떤 제품인지 유추 불가",
+        "title": "Prairie Board"
+      },
+      "Pregnancy Timetable": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.9,
+        "reason": "임신 주차별 일정·검진 관리 도구로 명확",
+        "title": "Pregnancy Timetable"
+      },
+      "Psoriasis Reception": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "명확성 실패: 접수/리셉션 개념이 특정 질환명과 결합해 제품이 되지 않음",
+        "title": "Psoriasis Reception"
+      },
+      "Quantum Notary": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "reason": "디지털 공증 서비스로 명확",
+        "title": "Quantum Notary"
+      },
+      "Rafting Handbook": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "래프팅 가이드·안전 핸드북 앱으로 명확",
+        "title": "Rafting Handbook"
+      },
+      "Recovery Habit": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "reason": "회복(재활·중독·부상) 습관 트래커로 명확",
+        "title": "Recovery Habit"
+      },
+      "Recycling App": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "재활용 관리 앱으로 명확",
+        "title": "Recycling App"
+      },
+      "Sailing Hazard": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "항해 위험·해상 경보 정보 도구로 명확",
+        "title": "Sailing Hazard"
+      },
+      "Savanna Core": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "명확성 실패: 'Core'가 사파리·생태 관광 제품으로 읽히지 않음",
+        "title": "Savanna Core"
+      },
+      "Skydiving Frequency": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.7,
+        "reason": "명확성 실패: 'Frequency'가 스카이다이빙 서비스의 기능으로 읽히지 않음",
+        "title": "Skydiving Frequency"
+      },
+      "Slack Messenger": {
+        "approve": false,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": false
+        },
+        "confidence": 0.95,
+        "reason": "상표 유사: Slack은 유명 협업 메신저 브랜드",
+        "title": "Slack Messenger"
+      },
+      "Sledding Matrix": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "명확성 실패: 'Matrix'가 스렏딩 서비스 기능으로 읽히지 않음",
+        "title": "Sledding Matrix"
+      },
+      "Snowboarding Humidity": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "명확성 실패: 습도와 스노보드 서비스의 결합이 제품 개념이 되지 않음",
+        "title": "Snowboarding Humidity"
+      },
+      "Sprain Path": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "reason": "염좌 회복 경로(care pathway) 관리 도구로 짐작 가능",
+        "title": "Sprain Path"
+      },
+      "Stargazing Cascade": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "명확성 실패: 'Cascade'가 별보기 서비스 기능으로 읽히지 않음",
+        "title": "Stargazing Cascade"
+      },
+      "Thyroid Advice": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.75,
+        "reason": "갑상선 관련 조언·가이드 앱으로 명확",
+        "title": "Thyroid Advice"
+      },
+      "Trademark Lab": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.85,
+        "reason": "상표 조사·분석 도구로 명확, 유명 브랜드 모방 아님",
+        "title": "Trademark Lab"
+      },
+      "Tundra Ledger": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.65,
+        "reason": "명확성 실패: 생태계 지역명과 장부의 결합이 제품 개념이 되지 않음",
+        "title": "Tundra Ledger"
+      },
+      "Vertigo Evaluation": {
+        "approve": true,
+        "checks": {
+          "clarity": true,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.8,
+        "reason": "어지럼증 자가·임상 평가 도구로 명확",
+        "title": "Vertigo Evaluation"
+      },
+      "Ziplining Sensor": {
+        "approve": false,
+        "checks": {
+          "clarity": false,
+          "duplication": true,
+          "trademark": true
+        },
+        "confidence": 0.62,
+        "reason": "명확성 실패: 질주 활동+센서 결합이 대상 사용자·제품 형태를 특정하기 어려움",
+        "title": "Ziplining Sensor"
+      }
+    },
+    "review_chunk_index": 1,
+    "round_stats": {
+      "ai_approved": 25,
+      "backlog_carried": 0,
+      "generated": 50,
+      "kp_passed": 0
+    }
+  },
+  "created_at": "2026-09-15T13:23:45.898128+09:00",
+  "mode": "qa",
+  "run_id": "QA-20260915-132345-KST",
+  "stage": "generate_and_review_titles",
+  "status": "RUNNING",
+  "updated_at": "2026-09-15T13:30:00.616042+09:00"
+}
