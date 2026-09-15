@@ -8,6 +8,10 @@ read_order:
   - output/deliverables/history/generated_candidates.csv
   - output/deliverables/history/keyword_metrics_passed.csv
   - memory/WORD_GENERATION_LEARNINGS.md
+archive_documents:
+  # 세션 시작 read_order에 넣지 않는다 - 요약으로 부족할 때만 해당 섹션을 조회.
+  # 이슈가 해결되면 전문을 이 파일에 append하고 ACTIVE_ISSUES.md에는 요약만 남긴다.
+  resolved_issues: memory/archive/ACTIVE_ISSUES_ARCHIVE.md
 canonical_documents:
   charter: docs/project/01-project-charter.md
   io_contract: docs/contracts/02-input-output-contracts.md
