@@ -1,6 +1,52 @@
 {
   "awaiting_judgment": null,
   "context": {
+    "approval_anomaly": {
+      "baseline_mean_pct": 64.25,
+      "baseline_stdev_pct": 34.1,
+      "current_rate_pct": 7.51,
+      "sample_rounds": 84,
+      "status": "normal",
+      "z_score": -1.66
+    },
+    "approved": [
+      {
+        "industry": "manufacturing",
+        "title": "Calibration App"
+      },
+      {
+        "industry": "travel_tourism",
+        "title": "Camping Video"
+      },
+      {
+        "industry": "customer_support",
+        "title": "Chat Tips"
+      },
+      {
+        "industry": "plumbing_services",
+        "title": "Leak App"
+      },
+      {
+        "industry": "laundry_dry_cleaning",
+        "title": "Loyalty Tips"
+      },
+      {
+        "industry": "healthcare",
+        "title": "Pregnancy Video"
+      },
+      {
+        "industry": "food_service",
+        "title": "Server Tips"
+      },
+      {
+        "industry": "veterinary",
+        "title": "Shelter App"
+      },
+      {
+        "industry": "music_lessons",
+        "title": "Tempo Tips"
+      }
+    ],
     "backlog": [],
     "candidate_industry": {
       "Acne Account": "healthcare",
@@ -10003,6 +10049,19 @@
       "Zoning Spec": "hvac_services",
       "Zoning Tips": "hvac_services",
       "Zoning Workbook": "hvac_services"
+    },
+    "golden_eval": {
+      "agreed": 6,
+      "agreement_pct": 85.71,
+      "checked": 7,
+      "mismatches": [
+        {
+          "actual_approve": false,
+          "expected_approve": true,
+          "rationale": "명확·비중복·상표 무관 - 의미중복 대조쌍의 기준(승인) 항목",
+          "title": "Ledger Sentinel"
+        }
+      ]
     },
     "review_all_items": [
       {
@@ -160114,12 +160173,18 @@
         "title": "Zoning Workbook"
       }
     },
-    "review_chunk_index": 51
+    "review_chunk_index": 51,
+    "round_stats": {
+      "ai_approved": 741,
+      "backlog_carried": 0,
+      "generated": 10000,
+      "kp_passed": 9
+    }
   },
   "created_at": "2026-09-10T15:38:52.033514+09:00",
   "mode": "production",
   "run_id": "RUN-20260910-153852-KST",
   "stage": "generate_and_review_titles",
-  "status": "FAILED",
-  "updated_at": "2026-09-15T00:47:56.107186+09:00"
+  "status": "RUNNING",
+  "updated_at": "2026-09-15T13:17:54.805857+09:00"
 }
