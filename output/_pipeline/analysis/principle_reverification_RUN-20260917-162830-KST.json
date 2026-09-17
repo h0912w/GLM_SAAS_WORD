@@ -1,0 +1,118 @@
+{
+  "decisions": [
+    {
+      "approve": true,
+      "confidence": 0.6,
+      "reason": "2026-09-06 재정리 이후 반례 없음 - 이번 라운드(RUN-20260917-162830 선행 라운드 RUN-20260916-235908) KP통과 74건에서도 금융표면형 재기 없이 속성/식별·콘텐츠 형식 축이 통과 유지. 반박 불성립.",
+      "title": "원칙1 기능어 확장 기본 축은 속성/식별 관용구, 금융표면형은 차선"
+    },
+    {
+      "approve": true,
+      "confidence": 0.55,
+      "reason": "반박 시도: 일상어 확장 만능 반례로 B2C 임상어 실측(RUN-20260910, 소비자 실검색어도 경쟁지수 탈락)이 오히려 '확장이 능사 아님' 방향을 지지 - 원칙 유지와 인용 한정 조건 모두 타당.",
+      "title": "원칙2 도메인어 확장 위험 - 인용 범위 한정(전문용어까지)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.85,
+      "reason": "Freon/Toast/Compass/Realtor 선례 이후 반례 없음 - 이번 라운드 재검토(895건 뒤집기)에서도 상표 유사 회수 사례 없음. validated 유지.",
+      "title": "원칙3 실제 상표와 겹치는 도메인어 회피"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "동의어 다량 동시 제안 실패 실측 이후 반례 없음 - 논리적으로도 같은 도메인어 조합 중복 낭비 설명 일관.",
+      "title": "원칙4 기능어끼리 의미 중복 금지"
+    },
+    {
+      "approve": true,
+      "confidence": 0.6,
+      "reason": "직접 반면교사 사례가 아직 관측되지 않아 승격 조건 미충족이지만, 반증도 없음 - candidate 유지가 옳다.",
+      "title": "원칙5 은퇴 패턴(SaaS 전문용어풍 합성어) 재제안 금지"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "절차 기정 이후 중복등록 재발 없음 - 2회 연속 실패의 원인이 대조 실행 누락임이 확인된 뒤 반례 없음.",
+      "title": "원칙6 신규 단어 사전 중복 대조(주입된 목록 훑기)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.65,
+      "reason": "2026-09-09 순환성 복원(실재 도구 지시 속성 결합 승인 경로) 후에도 방향 반례 없음 - 이번 라운드 재검토에서 비도구 속성 조합(Vines Type 등)을 뒤집은 것은 '실재 도구 전제'와 모순 없음.",
+      "title": "원칙7 구체적 식별/정보 대상 > 추상 스키마 용어"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "광고 포화 카테고리 설명이 반례 없이 유지 - 이번 라운드에도 해당 계열 재시도 없음(규칙 준수).",
+      "title": "원칙8 판촉/인센티브 명사 기능어 금지"
+    },
+    {
+      "approve": true,
+      "confidence": 0.6,
+      "reason": "재시험 미실시 - 반증도 승격 근거도 없어 candidate 유지 타당.",
+      "title": "원칙9 회계 상태/차액 추상명사 기능어 금지"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "이번 라운드에도 Diagram 조합이 KP통과(Zoning Diagram 등) - Flowchart 경계(2026-09-06) 유지 중 반례 없음.",
+      "title": "원칙10 시각 구조화 문서(Diagram/Graph) 승자 계열"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "이번 라운드 재검토에서 Message/Notification 조합이 전부 명확성 유지 판정 - 반례 없음.",
+      "title": "원칙11 소통/알림 계열(Notification/Message) 강세"
+    },
+    {
+      "approve": true,
+      "confidence": 0.6,
+      "reason": "이번 라운드에서도 구체 대상 Calculator(사육 비용·1RM·페이스 등) 승인 일관 - 인접어(Estimator류) 독립 재현은 여전히 미충족이라 candidate 유지.",
+      "title": "원칙12 계산 도구(Calculator) 강세"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "logistics/healthcare 2라운드 + B2C 임상어 단서 실측까지 반례 없음 - 소비자 실검색어라도 경쟁 존재 경로로 탈락함이 확인돼 원칙 본문은 계속 유효.",
+      "title": "원칙13 일상어 도메인어 > 업계 내부자 전문용어"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "다섯 독립 단어 재현(Tips까지) 누적 - 이번 라운드 재검토에서도 해당 계열 명확성 유지. 반례 없음.",
+      "title": "원칙14 소비자 실검색 콘텐츠 형식 명사(Review/Questionnaire/Handbook/Timetable/Tutorial/Tips)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.6,
+      "reason": "승격 조건(Count/Level/Depth/Capacity 독립 시험)이 최근 라운드들에서 미실시 - 반증은 없고 경로 복원(2026-09-09) 상태 유지가 옳다.",
+      "title": "원칙15 규격·분류·측정 속성 관용구(Size/Type류)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.75,
+      "reason": "2026-09-09 Load 명확성 전제 개정 이후 이번 라운드에서 양방향 승인·과잉 귀속 반례 없음.",
+      "title": "원칙16 Frequency→Load 귀속(앵커 Load 명확성 전제)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "이번 라운드 51청크+재검토 응답 기록에서 타이틀-사유 정합 검증 통과 - 결함 발각(31건) 후 무재발 관측 지속.",
+      "title": "원칙17 사유-제목 대조 후 응답 기록"
+    },
+    {
+      "approve": true,
+      "confidence": 0.6,
+      "reason": "이번 라운드 재검토에서 업무 프로세스 언어 조합은 명확성 결함으로 다수 뒤집힌 반면 초일상 관용구는 유지 - 방향 일치. 다만 독립 KP 재현(인접어 시험)은 미충족이라 candidate 유지.",
+      "title": "원칙18 초일상 관용구(Tips/App/Login) vs 업무 프로세스 언어(Analysis/Workbook)"
+    }
+  ],
+  "judged_at": "2026-09-17T16:32:24.288945+09:00",
+  "judged_by": "main-session",
+  "request_hash": "26bb135593daa176083dedf22f612d71e48156bad4a8bc4c3f10e0a71beafeda",
+  "round": 1,
+  "run_id": "RUN-20260917-162830-KST",
+  "stage": "principle_reverification"
+}
