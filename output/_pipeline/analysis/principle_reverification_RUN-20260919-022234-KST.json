@@ -1,0 +1,118 @@
+{
+  "decisions": [
+    {
+      "approve": true,
+      "confidence": 0.6,
+      "reason": "2026-09-06 재정리된 현재 문구와 반례 없음. 이번 라운드 신규 기능어 중 Dictionary/Options(기록·선택 관용구)가 즉시 통과해 같은 방향 1관측 추가. 단 교란 라운드라 승격 근거는 아님.",
+      "title": "원칙1: 기능어 확장 기본 축은 속성/식별 관용구, 금융거래 표면형은 차선"
+    },
+    {
+      "approve": true,
+      "confidence": 0.65,
+      "reason": "2026-09-09 개정 범위가 여전히 유효. 이번 라운드 일상 음식 24종은 AI 승인만 되고 KP 0이어서 '일상어 도메인어 확장이 유리하다'는 반증도 나오지 않았다(승인≠통과 재확인).",
+      "title": "원칙2: 니치 전문용어 업계 확장 위험 — 일상어 한정 재시험 전까지 인용 범위 한정"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "이번 라운드 포함 최근 라운드에서 상표 도메인어 사고 없음. 반례 없음.",
+      "title": "원칙3: 실제 상표와 겹치는 도메인어 회피(Freon/Toast/Realtor)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "이번 라운드 12종 신규 기능어도 상호 동의군 없이 제안돼 문제 없었음. 반례 없음.",
+      "title": "원칙4: 한 라운드 기능어끼리 의미 중복 금지"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "반면교사(은퇴 패턴 재제안 실패) 신규 관측 없음. candidate 유지 조건 그대로.",
+      "title": "원칙5: 은퇴 패턴(SaaS 전문용어풍 합성어) 재제안 금지"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "이번 라운드 41 proposals 전부 코드 수용(무중복 무반려) — 절차 준수 라운드. 반례 없음.",
+      "title": "원칙6: 신규 단어 사전 중복 대조 절차(주입된 목록을 실제로 훑기)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.75,
+      "reason": "블랭킷 해제 경로(2026-09-09 복원)가 이번 라운드에서 실제 KP 데이터를 냈다 — Parking Options 8,100 통과. 복원 결정이 시장 재검증 경로를 여는 데 성공. 반증 시도 불성립.",
+      "title": "원칙7: 구체적 식별/정보 대상 > 추상 스키마 용어 + 속성 결합 블랭킷 금지"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "최근 라운드에서 해당 계열 재시도 없음(재제안 금지 준수). 반례 없음.",
+      "title": "원칙8: 판촉/인센티브 명사(쿠폰/캐시백/Deal류) 기능어 금지"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "재시도 관측 없음 — 승격(반면교사) 조건 미충족, 금지 지침 자체는 유효.",
+      "title": "원칙9: 회계 상태/차액 추상명사(Overdue/Payoff류) 기능어 금지"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "Diagram 누적 상위권 유지 중이고 이번 라운드 반례 없음. Flowchart 경계(2026-09-06)도 유지 유효.",
+      "title": "원칙10: Diagram/Graph 단일어 시각 구조 관용구(validated)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.75,
+      "reason": "이번 라운드에서 음식 first word 결합만 거절됐을 뿐(음식+업무 라벨 일반 규칙), 계열 자체에 대한 반증 없음.",
+      "title": "원칙11: 소통/알림 계열(Notification/Message) 강한 후보"
+    },
+    {
+      "approve": true,
+      "confidence": 0.65,
+      "reason": "Estimator 인접어 독립 시험은 아직(음식 결합만 시장에 노출). 반례 없음, candidate 유지.",
+      "title": "원칙12: Calculator류 실계산 도구 명사 강한 후보"
+    },
+    {
+      "approve": true,
+      "confidence": 0.75,
+      "reason": "이번 라운드 b2c_searched_insider_term 대조 실험(자동차 부품 5종)이 원칙을 강화 — AI 승인 최다(약 60건)인데 KP 0. 내부자 부품명은 승인 설득력과 검색량이 분리됨을 재실증. 반증 시도가 오히려 지지 근거가 됨.",
+      "title": "원칙13: 내부자 전문용어 도메인어 < 일상어 + B2C 임상어 경쟁 단서"
+    },
+    {
+      "approve": false,
+      "confidence": 0.6,
+      "reason": "반증 사례: Lessons — 세계에서 가장 흔한 콘텐츠 형식 검색어 중 하나임에도 이번 라운드 329건 조회 중 215건 무메트릭, 검색량 있는 114건 전부 경쟁지수>0으로 0통과. Kit 17/18, Shop 18/18도 같은 경로. 즉 '실검색 콘텐츠 형식'만으로는 불충분하고, 상업/서비스 의도 쿼리(Lessons·Kit·Shop=수업·구매 의도)는 광고 포화 카테고리라 경쟁 0 게이트와 상성이 나쁘다. 정보/콘텐츠 의도(Review/Tutorial/Tips)와 상업 의도(Lessons/Kit/Shop)의 경계 조건을 원칙에 명시하는 재정리 필요 — 재검증 결론에 따라 단서 추가 권장.",
+      "title": "원칙14: 소비자 실검색 콘텐츠 형식 명사(Review/Questionnaire/Tutorial/Tips류) 강한 후보"
+    },
+    {
+      "approve": true,
+      "confidence": 0.65,
+      "reason": "인접 속성어(Count/Level/Depth/Capacity) 독립 시험은 미실시. 이번 라운드 Options(선택 속성) 1통과는 같은 방향 참고관측이나 교란 라운드라 승격 근거 불가. 반례 없음.",
+      "title": "원칙15: 규격/분류/측정 속성 명사(Size/Type/Length류) 강한 후보"
+    },
+    {
+      "approve": true,
+      "confidence": 0.75,
+      "reason": "이번 라운드에 F/L 신규 조합 충돌 없음. 예외 조항(물리량·주기) 포함 현재 문구 유효.",
+      "title": "원칙16: Frequency/Load 쌍 1차 판정 시점 Load 귀속(Load 명확성 전제)"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "이번 라운드 전 청크(521승인)에서 제목-사유 정렬 검증 수행, 불일치 0건. 절차 유효.",
+      "title": "원칙17: 응답 기록 전 사유-제목 대조 절차"
+    },
+    {
+      "approve": true,
+      "confidence": 0.6,
+      "reason": "이번 라운드 Dictionary/Options(관용구) 통과 vs Lessons 0통과는 방향 일치. 다만 Lessons 사례는 '초일상'에 상업 의도 카테고리 단서가 필요함을 시사(원칙 14 재검증과 연동) — 본체는 유효.",
+      "title": "원칙18: 초일상 관용구 기능어(Tips/App/Login) vs 업무 프로세스 언어"
+    }
+  ],
+  "judged_at": "2026-09-19T02:27:29.182929+09:00",
+  "judged_by": "main-session",
+  "request_hash": "a8d009480062564c1ae6c86adb8bd897fd0616bb20119dd8df1a431907f0cad8",
+  "round": 1,
+  "run_id": "RUN-20260919-022234-KST",
+  "stage": "principle_reverification"
+}
