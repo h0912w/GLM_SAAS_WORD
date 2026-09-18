@@ -190066,6 +190066,7 @@ Pet Sheet,4400.0,54.0,success,False,2026-08-19T22:04:23.242123+09:00
 Pet Signal,70.0,1.0,success,False,2026-08-19T21:50:49.199189+09:00
 Pet Signature,40.0,0.0,success,False,2026-08-23T13:27:51.587934+09:00
 Pet Simulator,18100.0,34.0,success,False,2026-09-01T00:50:13.263352+09:00
+Pet Sitting,201000.0,39.0,success,False,2026-09-18T21:33:52.178499+09:00
 Pet Size,260.0,9.0,success,False,2026-09-06T09:00:45.441127+09:00
 Pet Slip,20.0,0.0,success,False,2026-08-19T21:47:43.048701+09:00
 Pet Slot,260.0,22.0,success,False,2026-08-19T21:48:11.031110+09:00
@@ -190115,6 +190116,7 @@ Pet View,1900.0,6.0,success,False,2026-08-19T22:05:40.444282+09:00
 Pet Volume,30.0,18.0,success,False,2026-08-28T21:14:20.504881+09:00
 Pet Voucher,140.0,39.0,success,False,2026-08-21T00:32:11.459467+09:00
 Pet Waitlist,,,failed,False,2026-08-31T01:03:32.504400+09:00
+Pet Walking,2400.0,54.0,success,False,2026-09-18T21:33:52.178499+09:00
 Pet Wallet,40.0,65.0,success,False,2026-08-27T22:46:59.897454+09:00
 Pet Warranty,10.0,9.0,success,False,2026-08-31T02:43:00.367911+09:00
 Pet Watch,5400.0,40.0,success,False,2026-08-19T21:50:57.841127+09:00
@@ -205723,6 +205725,7 @@ Puppy Shelf,10.0,57.0,success,False,2026-08-29T14:00:46.086396+09:00
 Puppy Signal,,,failed,False,2026-08-29T13:53:49.920476+09:00
 Puppy Signature,,,failed,False,2026-08-29T13:44:18.191171+09:00
 Puppy Simulator,170.0,0.0,success,False,2026-09-01T00:52:16.062265+09:00
+Puppy Sitting,2900.0,25.0,success,False,2026-09-18T21:33:52.178499+09:00
 Puppy Size,320.0,4.0,success,False,2026-09-06T09:00:57.199921+09:00
 Puppy Sketch,1900.0,51.0,success,False,2026-08-29T13:47:21.534930+09:00
 Puppy Slip,10.0,18.0,success,False,2026-08-29T14:06:17.701571+09:00
@@ -205775,6 +205778,7 @@ Puppy View,40.0,8.0,success,False,2026-08-29T14:03:32.866021+09:00
 Puppy Volume,10.0,0.0,success,False,2026-08-29T13:51:31.262266+09:00
 Puppy Voucher,20.0,12.0,success,False,2026-08-29T14:06:42.018657+09:00
 Puppy Waitlist,10.0,0.0,success,False,2026-08-31T01:04:12.027157+09:00
+Puppy Walking,1900.0,48.0,success,False,2026-09-18T21:33:52.178499+09:00
 Puppy Wallet,140.0,74.0,success,False,2026-08-29T13:47:54.803416+09:00
 Puppy Warranty,10.0,18.0,success,False,2026-08-31T02:43:58.267085+09:00
 Puppy Watch,140.0,45.0,success,False,2026-08-29T13:53:55.258346+09:00
