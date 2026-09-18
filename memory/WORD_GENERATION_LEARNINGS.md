@@ -2747,3 +2747,47 @@ Model/Lot/Availability/Eligibility))
 - **다음 라운드 과제**: 초일상 관용구 기능어 인접어(Help/Ideas/Deals류)
   독립 시험(원칙 18 승격 조건), 임상 도메인어 추가 확장 보류, 업무
   프로세스 기능어(Analysis/Workbook/Coach류) 재제안 금지.
+
+### RUN-20260918-145816-KST (2026-09-18) — legal-arm 시험: 기록 도구 계열 대량 승인 + Library Hours 90,500, 관용구 기능어 19종은 관용구 성립 조합에서만 생존 (expand_word_bank 있음)
+
+- **단어뱅크 확장 44종**: legal 실무어 11(Bail/Alimony/Subpoena/Verdict/
+  Appeal/Arrest/Felony/Oath/Embezzlement/Acquittal/Arraignment, 태그
+  b2c_searched_insider_term) + 일상 도메인어 14(Backpacking/Villa/Island/
+  Motel/Pretzel/Smoothie/Cupcake/Pancake/Waffle/Nachos/Drums/Barbell/
+  Kettlebell/Deadlift) + 기능어 19(Sitting/Walking/Visits/Checkups/
+  Refills/Appointments/Screenings/Walkthroughs=consumer_care_service_
+  idiom, Designs/Portraits/Albums/Collages/Stickers/Printables=visual_
+  asset_search_idiom, Hours=operating_hours_search_idiom, Stores/
+  Suppliers=consumer_shopping_source_noun, Interviews/Stories=
+  searchable_content_format_noun).
+- **결과**: 생성 10,000 / AI 승인 225(2.25%) / recheck 반박 확정 41 flip /
+  KP 조회 225 / 통과 2 — **Library Hours 90,500·Subpoena Examples
+  1,000(전부 경쟁지수 0)**. 통과율 0.02%로 저하 플래그(-95.4%, 직전
+  0.43% 대비).
+- **legal-arm(원칙 13 연장 관측)**: 대장/기록 도구 계열(Ledger/Register/
+  Registry/Directory/Journal/Log/Note/Chart/Timeline/Calendar/Index/
+  Locator/Finder/Atlas/Watch) × legal 절차 first word는 승인 주력이 됐고
+  Subpoena Examples가 KP 통과로 실증 — "검색되는 법률 실무어 + 사무기록
+  도구" 라인 유효. 반면 **Verdict/Acquittal(결과 추상)·Bail/Alimony(금전)
+  first word는 어떤 second word와도 전멸** — "검색되는 법률 용어"라도
+  결과 추상·돈 의미는 도구 결합이 성립하지 않는다.
+- **기능어 19종 실측**: AI 승인은 초일상 관용구가 그대로 성립하는 조합
+  (Cat/Dog/Kennel/Toddler Sitting·Walking, Backpacking/Villa/Island/Motel
+  Guide·Lookup 류)에만 국가. 추상·물리 라벨 first word(Trade/Badge/Silo/
+  Broom/Stickers 류 결합)와는 전멸. **KP 통과는 Hours(Library Hours)
+  하나** — consumer_care_service_idiom·visual_asset_search_idiom 두 태그는
+  "first word가 관용구·실검색 대상을 이룰 때 한정"이라는 단서 없이는
+  무력했다. 원칙 18의 승격 조건(인접 관용구 재현)은 미충족 — Sitting류는
+  AI 승인만 있고 KP 0통과였다.
+- **recheck 41 flip(15.4%) 구조**: 사람 읽힘(Planner/Assistant/Scheduler)
+  16 + 금전 strict R(Bail/Alimony) 11 + Playbook 5 + Summary(기록 라벨,
+  fitness carve-out 외) 7 + Acquittal(결과 추상) 1 + Steakhouse
+  Appointments(식당은 Reservation) 1. 직전 라운드 flip 22/2,660(0.8%)
+  대비 급증 — 라운드 초반 청크가 경화 규칙을 즉시 적용하지 못한 비용이
+  recheck가 라운드 내 자기일관성을 회복한 형태. 초기 청크부터 경화 규칙
+  (사람 읽힘 R·금전 strict R·기록 라벨 R)을 적용하는 게 다음 라운드 과제.
+- **다음 라운드 과제**: consumer_care_service_idiom·visual_asset_search_
+  idiom 재제출 금지(dead_pattern_tags 확인), legal 도메인어는 기록 도구
+  계열 second word와의 조합만 유지, 결과 추상(Verdict/Acquittal)·금전
+  (Bail/Alimony) first word 재제안 금지, Library/Steakhouse/Pizzeria 같은
+  "시설+Hours" 실검색 라인은 유지할 가치 있음.
