@@ -2791,3 +2791,48 @@ Model/Lot/Availability/Eligibility))
   계열 second word와의 조합만 유지, 결과 추상(Verdict/Acquittal)·금전
   (Bail/Alimony) first word 재제안 금지, Library/Steakhouse/Pizzeria 같은
   "시설+Hours" 실검색 라인은 유지할 가치 있음.
+
+### RUN-20260918-225637-KST (2026-09-18~19) — 일상 음식 29종 + 자동차 부품 5종 도메인어, 관용구 기능어 12종 확장: Dictionary·Options 첫 라운드 즉시 통과, 부품 insider-term은 승인만 되고 통과 미실증 (expand_word_bank 있음)
+
+- **확장 내용(41 proposals)**: 기능어 12종(Lessons/Dictionary/Answers/
+  Dimensions/Color/Options/Stats/Support/Builder/Shop/Setup/Replacement) +
+  도메인어 29종(일상 음식 15 — Burger/Pizza/Ramen/Curry/Kebab/Falafel/
+  Hummus/Pita/Dumpling/Chowder/Lasagna/Risotto/Burrito/Baguette/Brisket,
+  디저트·베이커리 5 — Gelato/Churro/Croissant/Muffin/Scone, 음료 4 —
+  Lemonade/Cider/Kombucha/Cappuccino, 자동차 부품 5 — Alternator/
+  Carburetor/Muffler/Camshaft/Rotor).
+- **라운드 실측**: 생성 10,000 / AI 승인 521(5.2%) / recheck 521 검토 0
+  flip(경화 규칙을 청크 1부터 적용 — 직전 라운드 권고 이행 확인) / KP 521
+  조회 → 통과 3(**Battery Stats 40,500·Database Dictionary 18,100·Parking
+  Options 8,100, 전부 경쟁지수 0**). 통과율 0.03% — 개선 플래그(직전 0.00%).
+- **신규 기능어 즉시 기여**: 통과 3건 중 2건이 이번 확장 기능어 —
+  Database Dictionary(data dictionary 실재 카테고리)·Parking Options.
+  12종 중 통과 기여는 2종뿐이지만 "기록·선택 비교 관용구 + 실검색
+  도메인어" 라인이 또 통과를 냈다(원칙 18·기존 관측과 같은 방향 관측
+  1회 추가 — 단 이번 라운드는 4개 태그군 동시 투입이라 교란 상태,
+  승격 근거로는 불충분).
+- **Lessons 승인 최다·통과 0 재확인**: Lessons 조합 약 170건 AI 승인(
+  음악 악기·직업 트레이드·가전·건강 전 영역으로 가족 확장 — 부품명
+  Alternator Lessons도 Brake Replacement 선례로 승인)했지만 KP 통과 0.
+  "승인 다수 ≠ 통과" 패턴 반복 관측.
+- **음식 도메인어 24종 전멸(KP 0)**: AI 승인은 음식+키트(구매·제조 키트
+  쇼핑 독해)와 요리 학습 라인(Sushi/Steakhouse/Espresso Lessons 등)으로
+  국한해 내렸고, 음식+사무/지표/속성 라벨은 "X 라벨이 음식 라벨과 결합
+  불성립"으로 전멸시켰지만, 승인된 키트·학습 라인도 KP 통과 0 — 일상
+  음식 first word는 도구 결합 독해가 되어도 실검색 수요가 조합에 없었다.
+- **P13 대조 실험(b2c_searched_insider_term) 부분 반증**: 부품 5종
+  (Alternator/Carburetor/Muffler/Camshaft/Rotor) × 소비자 관용구 2차어는
+  AI 승인 약 60건으로 이번 라운드 최대 승인군을 형성(가설대로 판정자
+  설득력은 최상). 그러나 KP 통과 0. 같은 automotive에서 기존 도메인어
+  Battery는 Battery Stats 40,500 통과 — 부품 내부명은 전문가 용어라
+  일반 검색량이 조합에 따라오지 않는다. "실검색"의 기준은 전문가가
+  쓰는 말이 아니라 일반인이 검색창에 치는 말이어야 한다.
+- **카나리아 1건 불일치(세션 노트 오염)**: Ledger Watchman을 A로 판정
+  (요약 압축이 정답 R을 A로 오염 전달 — canary calibration 기록과 동일
+  패턴 3번째). run_state golden_eval로 규명, 정답 R은 메모리 기록과
+  일치. 판정값은 항상 캘리브레이션 파일에서 직접 읽어야 한다.
+- **다음 라운드 과제**: 음식 24종 도메인어 유지하되 추가 음식어 확장
+  중단(승인만 나오는 라인), 부품 b2c_searched_insider_term 태그 재제출
+  보류(통과 미실증), Dictionary/Options류 기록·비교 관용구 + 실검색
+  도메인어 라인 유지 확대, Battery 같은 "일반인 실검색 부품/제품명"
+  발굴로 회귀.
