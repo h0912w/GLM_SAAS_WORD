@@ -133,6 +133,19 @@ python tools/get_refresh_token.py --verify
 그대로 동작한다. OAuth 디바이스 플로우(`google.com/device`)는 허용 스코프가
 OIDC/Drive/YouTube로 한정돼 `adwords` 스코프에서 사용 불가하다(공식 문서 확인).
 
+**터미널 복사 줄바꿈→공백 문제 (2026-09-24 실측)**: Termius 화면에서 긴 인가 URL을
+길게 눌러 복사하면 터미널 자동 줄바꿈 지점마다 공백이 끼어들어(화면상 `%20%20`),
+Google이 `Error 400: Bad Request`를 낸다. 실측에서 249자 URL에 3곳(터미널 폭마다)
+끼어들었다. 해결책 두 가지:
+1. 단축 URL 우회(권장) — 인가 URL에는 공개 값인 client_id 외 비밀 정보가 없어 안전하다:
+   ```bash
+   curl -s -G "https://tinyurl.com/api-create.php" --data-urlencode "url=<인가URL>"
+   ```
+   반환된 짧은 URL을 휴대폰 주소창에 넣으면 공백 문제가 원천 차단된다.
+2. 주소창 수동 수정 — 붙여넣은 뒤 줄바꿈 지점의 공백을 직접 삭제(실측 6글자).
+3. 터미널 글자 크기 축소(2026-09-24 사용자 실측) — URL이 한 줄에 들어가게 폰트를
+   줄이면 줄바꿈 자체가 없어져 복사 손상이 원천 차단된다.
+
 **주의**: OAuth 앱이 "테스트" 게시 상태인 동안 발급되는 REFRESH_TOKEN은
 `refresh_token_expires_in`이 약 **7일(604799초)**로 제한된다(응답 JSON에서
 직접 확인됨, 2026-09-05 재발급분이 7일 뒤 만료된 것으로 재실측). 7일마다
