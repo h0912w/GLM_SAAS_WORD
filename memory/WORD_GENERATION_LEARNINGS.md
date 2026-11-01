@@ -630,6 +630,24 @@ candidate; 최소 반복 근거와 QA를 통과해야 validated로 승격한다"
     Deals류 — 기존 시도어와 겹치지 않는 새 단어)를 독립 시도해 같은
     방향이 재현되면 `validated`.
 
+19. `candidate` (2026-11-02, RUN-20260924-032216-KST — 이 문서 최초 관측)
+    **기능어가 "사용자가 검색창에 실제로 치는 쿼리의 절"을 그대로 재현하면
+    통과율이 급등한다 — 사전형 관용구 Meanings가 그 사례다.** 실측(같은
+    라운드 expand_word_bank로 동시 투입된 신규 기능어 12개, 각 약 242회
+    시도): Meanings 19통과(누적 19/113=16.81%, 전체 기능어 1위)로 이번
+    라운드 통과 50건 중 19건을 단독 기여했다 — "X Meanings"는 일반인이
+    실제로 입력하는 사전형 쿼리("what does X mean")의 절 그 자체다
+    (Appraisal/Beat/Concrete/Crew/Delivery/Headstone/Kayak/Matter/Surgery/
+    Terminology/Vet Meanings 등, 최고 135,000/월). 반면 같은 라운드의
+    문서·양식·경고 장르 기능어는 AI 승인률이 90~98%로 만점임에도 전멸:
+    Spreadsheet 240승인·0통과, Guidelines 215·0, Flashcards 216·0,
+    Mistakes 199·0, Brands 130·0, Recalls 93·0 — 명확성(1차 판정)과
+    실검색 수요(KP 게이트)가 이 장르에서 정확히 반대로 갔다. Rewards
+    242시도·0통과(의도적 반대 방향 대조 실험)도 같은 결론을 지지한다.
+    **승격 조건**: 다른 라운드에서 인접 사전형·쿼리절 관용구(예:
+    Definitions, How To류 — 기존 시도어와 겹치지 않는 새 단어)를 독립
+    시도해 같은 방향이 재현되면 `validated`.
+
 ## 라운드별 로그
 
 ### RUN-20260819-201533-KST (2026-08-19, 도메인어 22 + 기능어 재사용 10)
@@ -2849,3 +2867,50 @@ Model/Lot/Availability/Eligibility))
   보류(통과 미실증), Dictionary/Options류 기록·비교 관용구 + 실검색
   도메인어 라인 유지 확대, Battery 같은 "일반인 실검색 부품/제품명"
   발굴로 회귀.
+
+### RUN-20260924-032216-KST (2026-09-24~11-02) — identity noun 기능어 12종 + 일상 도메인어 117종 확장: Meanings 단독 19통과, Rewards 대조군 0통과로 반증, 중단 라운드의 재개 완수 + recheck 6,160건 병렬 반박 (expand_word_bank 있음)
+
+- **확장 내용(129 proposals)**: 기능어 12종(Nicknames/Brands/Meanings/
+  Facts/Mistakes/Spreadsheet/Flashcards/Etiquette/Rewards/Guidelines/
+  Permits/Recalls — 각각 전용 pattern_tag, Rewards는 의도적 반대 방향
+  대조 실험 consumer_banking_noun) + 도메인어 117종(일상 음식 25,
+  반려동물 24, 축제·이벤트 19, 보드게임 11, 공예·취미 11, 야외활동 9,
+  자연·지형 7, 아시아 요리 6, 여가여행 5 등).
+- **라운드 경과(2세션에 걸친 재개)**: 청크 0~41 판정(5,310승인) 후 청크 42
+  응답 미작성 상태로 PAUSED → 2026-11-01 OAuth 프로덕션 게시로 자격증명
+  복구 → 청크 42~50(1,807건)을 200건씩 단일 서브에이전트 병렬 판정(승인
+  853, 평균 신뢰도 0.65, 승인율 47~61%) → 회로차단기(저신뢰 승인 다수)
+  발동 → **recheck 6,160건을 200건씩 31조각 병렬 반박 위임 → flip 1,463
+  (23.8%)**, 사후검증 3종 통과(형식 위반 0, 사유 중복 0건, 사유-제목
+  미대응 20/308은 전부 동의어·의역 개별 서술로 확인) → 최종 승인 4,697 →
+  KP 4,697 전량 조회 → **통과 50(0.50%)**.
+- **Meanings 단독 대승**: 신규 12종 중 통과 기여는 Meanings 19/50(단일
+  기능어 기여 신기록, 누적 16.81%로 전체 1위 — 원칙 19 candidate 신설) +
+  Etiquette 2(Digital 4,400·Tip 1,300) + Permits 1(Occupancy 8,100) +
+  Nicknames 1(Beat 1,000), 나머지 8종 0. "X Meanings"는 일반인이 실제로
+  치는 사전형 쿼리의 절이다(최고 Appraisal Meanings 135,000/월).
+- **Rewards 대조군 결과: 반증 확정** — 242 생성·AI승인 143·recheck 후
+  최종 143·**KP 통과 0**. 리워드 프로그램 독해는 판정자를 설득해도
+  "실검색 + 경쟁지수 0" 조합이 성립하지 않는다. 원칙 1·8과 같은 방향
+  관측 1회 추가(이번 라운드는 12태그 동시 투입이라 교란 상태 — 승격
+  근거로는 불충분).
+- **"승인 다수 ≠ 통과" 3번째 대규모 재확인**: Spreadsheet 240/241 승인
+  (98%+)·통과 0, Guidelines 215·0, Flashcards 216·0, Mistakes 199·0,
+  Brands 130·0, Recalls 93·0. 문서·양식·경고 장르는 명확성 만점이지만
+  경쟁지수 0인 실검색이 없다 — 1차 판정과 KP 게이트가 이 장르에서
+  정확히 반대 방향을 가리킨다.
+- **recheck의 실질 기여**: flip 1,463건의 집중 패턴은 ① 행정·측정 명사
+  결합(Recalls·Permits의 제조물·인허가 대상 부재) ② 조각 내 근동의쌍
+  (Advice↔Tips, Atlas↔Map, Register↔Registry 등 — 1차 판정이 놓친 쌍
+  다수) ③ Confetti SaaS 계열 상표 14건. 통과 50건은 전부 recheck 생존군
+  에서 나왔다. 429 레이트리트 실측: 병렬 12 에이전트에서 5건 실패 →
+  동시성 8 이하 억제 후 완주(대규모 병렬 위임의 동시성 상한 운용 근거).
+- **Sketching Tutorial 301,000/월** — 프로젝트 사상 최대 검색량 단일
+  통과(직전 최고 Pizza Chain 246,000). 이 외 고검색 통과: Diwali Date
+  165,000, Bengal Video·Result 90,500, Tubing Size 74,000, Beat
+  Meanings 49,500.
+- 카나리아 7/7, 승인율 이상탐지 정상(61.6% vs 기준선 57.3%, z=0.12),
+  정체 점검 stagnant(0.50% vs 0.52%, -3.1%) — 원인: 신규 12태그 중 11개가
+  0통과로 생성 슬롯 2,900+를 소비. 다음 확장은 사전형·기록·비교 관용구
+  등 검증 방향 중심 + 소량 신규(원칙 19 승격용 독립 검증 기회 포함)로
+  설계할 것.
