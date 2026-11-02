@@ -57,6 +57,8 @@ Alumni Card,1000.0,0.0,success,True,2026-08-19T13:29:19.231161+09:00
 Alumni Portal,8100.0,0.0,success,True,2026-08-17T20:31:58.373055+09:00
 Amendment Bill,1300.0,0.0,success,True,2026-08-21T01:40:55.486600+09:00
 Amendment Examples,1600.0,0.0,success,True,2026-09-17T16:11:44.152694+09:00
+Amendment Facts,1000.0,0.0,success,True,2026-11-03T07:26:15.571328+09:00
+Amendment Meanings,74000.0,0.0,success,True,2026-11-03T07:26:15.571328+09:00
 Amenity Fee,1600.0,0.0,success,True,2026-08-21T01:53:17.199833+09:00
 Amortization Examples,1300.0,0.0,success,True,2026-09-18T14:44:20.874690+09:00
 Amortization Expense,1900.0,0.0,success,True,2026-09-07T22:50:14.545184+09:00
@@ -88,6 +90,7 @@ Appointment Order,1000.0,0.0,success,True,2026-08-19T21:52:31.796696+09:00
 Appointment Type,1000.0,0.0,success,True,2026-09-06T08:58:31.486638+09:00
 Appraisal Meanings,135000.0,0.0,success,True,2026-11-02T03:32:54.850564+09:00
 Aptitude Examples,1300.0,0.0,success,True,2026-09-17T16:11:55.066023+09:00
+Archery Hub,33100.0,0.0,success,True,2026-11-03T07:26:40.616952+09:00
 Archery Names,2400.0,0.0,success,True,2026-11-03T01:47:05.148886+09:00
 Archive App,2400.0,0.0,success,True,2026-09-10T15:22:42.371514+09:00
 Archive Code,5400.0,0.0,success,True,2026-08-19T22:02:19.043714+09:00
@@ -231,9 +234,12 @@ Benefits Log,12100.0,0.0,success,True,2026-08-19T13:39:01.193066+09:00
 Benefits Payment,9900.0,0.0,success,True,2026-08-31T03:58:20.406625+09:00
 Benefits Status,27100.0,0.0,success,True,2026-08-19T20:48:59.251157+09:00
 Benefits Summary,1600.0,0.0,success,True,2026-08-19T21:03:18.431019+09:00
+Bengal Date,6600.0,0.0,success,True,2026-11-03T07:28:00.406595+09:00
 Bengal Diary,3600.0,0.0,success,True,2026-11-03T01:48:18.337377+09:00
+Bengal Names,8100.0,0.0,success,True,2026-11-03T07:28:08.477731+09:00
 Bengal Recipe,3600.0,0.0,success,True,2026-11-02T03:33:58.083714+09:00
 Bengal Result,90500.0,0.0,success,True,2026-11-02T03:33:58.083714+09:00
+Bengal Stories,9900.0,0.0,success,True,2026-11-03T07:28:13.562358+09:00
 Bengal Video,90500.0,0.0,success,True,2026-11-02T03:33:58.083714+09:00
 Bengal Weight,1000.0,0.0,success,True,2026-11-03T01:48:22.379579+09:00
 Bid Timer,4400.0,0.0,success,True,2026-08-28T00:21:19.709791+09:00
@@ -260,6 +266,8 @@ Billing Tips,1000.0,0.0,success,True,2026-09-10T15:22:55.794781+09:00
 Billing Update,1000.0,0.0,success,True,2026-08-19T20:44:05.928260+09:00
 Billing View,450000.0,0.0,success,True,2026-08-19T20:43:33.378176+09:00
 Binder Forge,2900.0,0.0,success,True,2026-08-17T21:35:41.309233+09:00
+Bingo Generator,22200.0,0.0,success,True,2026-11-03T07:28:35.867724+09:00
+Bingo Result,9900.0,0.0,success,True,2026-11-03T07:28:39.940465+09:00
 Biometric Check,110000.0,0.0,success,True,2026-08-19T21:14:29.704334+09:00
 Biometric Checker,110000.0,0.0,success,True,2026-08-27T23:52:35.044281+09:00
 Biometric Pass,27100.0,0.0,success,True,2026-08-21T00:28:44.167575+09:00
@@ -319,6 +327,7 @@ Broadcast Station,1300.0,0.0,success,True,2026-08-17T21:36:05.315924+09:00
 Budget Balance,5400.0,0.0,success,True,2026-08-23T13:48:17.793072+09:00
 Budget Circular,1000.0,0.0,success,True,2026-08-21T01:03:59.232813+09:00
 Budget Estimate,4400.0,0.0,success,True,2026-08-19T21:08:43.971729+09:00
+Budget Meanings,33100.0,0.0,success,True,2026-11-03T07:29:42.571158+09:00
 Budget Rail,2400.0,0.0,success,True,2026-08-17T20:32:08.584337+09:00
 Budget Score,8100.0,0.0,success,True,2026-08-19T13:41:47.769675+09:00
 Budget Total,1300.0,0.0,success,True,2026-08-27T23:10:02.620929+09:00
@@ -326,6 +335,7 @@ Budget Update,5400.0,0.0,success,True,2026-08-19T20:38:50.239529+09:00
 Buff Portal,60500.0,0.0,success,True,2026-08-30T23:56:47.522675+09:00
 Bulbs Diagram,2900.0,0.0,success,True,2026-09-18T10:05:28.706445+09:00
 Bulk Post,4400.0,0.0,success,True,2026-08-29T12:42:10.117906+09:00
+Bulldog Coach,1300.0,0.0,success,True,2026-11-03T07:29:54.606710+09:00
 Bump Dictionary,1000.0,0.0,success,True,2026-09-24T02:57:35.439943+09:00
 Bump Log,1900.0,0.0,success,True,2026-08-19T21:19:25.343582+09:00
 Bump Map,8100.0,0.0,success,True,2026-08-19T21:06:57.837919+09:00
@@ -334,7 +344,9 @@ Bumper Message,2900.0,0.0,success,True,2026-08-29T14:18:42.000232+09:00
 Bumper Result,2900.0,0.0,success,True,2026-08-29T14:19:40.123010+09:00
 Bundle Code,1300.0,0.0,success,True,2026-08-19T21:54:03.410939+09:00
 Bundle Identifier,1900.0,0.0,success,True,2026-08-23T13:08:17.193422+09:00
+Bundle Meanings,33100.0,0.0,success,True,2026-11-03T07:30:02.709116+09:00
 Bunker Code,5400.0,0.0,success,True,2026-08-19T21:53:40.177257+09:00
+Bunny Size,1600.0,0.0,success,True,2026-11-03T07:30:10.667904+09:00
 Burger Dictionary,12100.0,0.0,success,True,2026-09-24T02:57:41.825902+09:00
 Burger Names,2900.0,0.0,success,True,2026-09-24T02:57:47.542709+09:00
 Burrito History,1000.0,0.0,success,True,2026-09-24T02:57:58.551289+09:00
@@ -393,6 +405,7 @@ Capsule Signature,4400.0,0.0,success,True,2026-08-29T14:10:32.603111+09:00
 Caption Copy,18100.0,0.0,success,True,2026-08-29T16:49:15.785162+09:00
 Caption Examples,2900.0,0.0,success,True,2026-09-17T19:07:05.968602+09:00
 Caption Ideas,6600.0,0.0,success,True,2026-09-17T16:13:17.896876+09:00
+Caption Meanings,33100.0,0.0,success,True,2026-11-03T07:30:38.569812+09:00
 Caption Price,74000.0,0.0,success,True,2026-08-29T16:42:48.517893+09:00
 Caption Reading,9900.0,0.0,success,True,2026-08-29T16:49:15.785162+09:00
 Caption Status,1900.0,0.0,success,True,2026-08-29T16:39:17.250303+09:00
@@ -433,6 +446,7 @@ Cat Reference,5400.0,0.0,success,True,2026-09-18T10:06:05.931709+09:00
 Catalog Note,1900.0,0.0,success,True,2026-08-19T13:40:05.769727+09:00
 Catalog Number,2900.0,0.0,success,True,2026-08-23T03:15:32.798139+09:00
 Catalog Update,1300.0,0.0,success,True,2026-08-19T20:39:03.354865+09:00
+Caving Map,2900.0,0.0,success,True,2026-11-03T07:30:56.178875+09:00
 Cemetery Gate,12100.0,0.0,success,True,2026-08-17T23:27:42.956477+09:00
 Cemetery Quote,1000.0,0.0,success,True,2026-08-31T02:55:31.657300+09:00
 Ceramic Usage,1300.0,0.0,success,True,2026-09-08T06:49:46.017740+09:00
@@ -532,6 +546,7 @@ Chess Newsletter,40500.0,0.0,success,True,2026-09-17T21:41:08.783019+09:00
 Chess Stats,1600.0,0.0,success,True,2026-09-24T02:59:27.664568+09:00
 Chess Support,1000.0,0.0,success,True,2026-09-24T02:59:27.664568+09:00
 Chess Video,5400.0,0.0,success,True,2026-09-17T21:41:08.783019+09:00
+Chihuahua Color,2900.0,0.0,success,True,2026-11-03T07:31:39.942627+09:00
 Chihuahua Time,1600.0,0.0,success,True,2026-11-03T01:50:57.507364+09:00
 Chihuahua Weight,2400.0,0.0,success,True,2026-11-03T01:50:57.507364+09:00
 Chiller Diagram,1900.0,0.0,success,True,2026-08-27T22:07:09.283408+09:00
@@ -545,6 +560,7 @@ Chord Help,5400.0,0.0,success,True,2026-09-17T19:07:37.937086+09:00
 Christmas Date,33100.0,0.0,success,True,2026-11-03T01:51:12.493895+09:00
 Christmas Hours,1600.0,0.0,success,True,2026-11-03T01:51:12.493895+09:00
 Christmas Simulator,1600.0,0.0,success,True,2026-11-02T03:36:00.687143+09:00
+Christmas Tracker,2400.0,0.0,success,True,2026-11-03T07:32:02.354319+09:00
 Circulation Portal,14800.0,0.0,success,True,2026-08-17T20:40:51.053535+09:00
 Citation Log,2900.0,0.0,success,True,2026-08-19T13:27:22.269137+09:00
 Citation Payment,5400.0,0.0,success,True,2026-08-31T04:12:45.389876+09:00
@@ -669,6 +685,7 @@ Configuration Message,1900.0,0.0,success,True,2026-08-27T23:13:41.688189+09:00
 Configuration Update,1000.0,0.0,success,True,2026-08-19T20:39:32.642664+09:00
 Consecutive Number,40500.0,0.0,success,True,2026-08-23T03:19:49.312069+09:00
 Consecutive Sample,2900.0,0.0,success,True,2026-08-19T21:52:04.287712+09:00
+Consent Meanings,135000.0,0.0,success,True,2026-11-03T07:32:35.526560+09:00
 Consent Type,2900.0,0.0,success,True,2026-09-06T08:59:08.811130+09:00
 Consignment Account,1600.0,0.0,success,True,2026-08-29T14:59:28.646565+09:00
 Consignment Number,12100.0,0.0,success,True,2026-08-28T20:51:40.153805+09:00
@@ -698,6 +715,7 @@ Contract Asset,1900.0,0.0,success,True,2026-08-23T13:45:55.611142+09:00
 Contract Base,1600.0,0.0,success,True,2026-08-17T20:32:36.001496+09:00
 Contract Cost,1600.0,0.0,success,True,2026-08-21T02:09:08.901398+09:00
 Contract Meanings,49500.0,0.0,success,True,2026-11-03T01:51:53.607823+09:00
+Contract Mistakes,1600.0,0.0,success,True,2026-11-03T07:32:39.035899+09:00
 Contract Note,1300.0,0.0,success,True,2026-08-19T13:24:22.197081+09:00
 Contract Number,2900.0,0.0,success,True,2026-08-23T03:14:42.643964+09:00
 Contract Verification,2400.0,0.0,success,True,2026-08-31T03:57:44.293558+09:00
@@ -790,7 +808,9 @@ Crossword Level,1000.0,0.0,success,True,2026-11-03T01:52:43.158055+09:00
 Crossword Monitor,4400.0,0.0,success,True,2026-11-03T01:52:46.778077+09:00
 Crossword Nexus,12100.0,0.0,success,True,2026-11-03T01:52:46.778077+09:00
 Crossword Note,2900.0,0.0,success,True,2026-11-03T01:52:46.778077+09:00
+Crossword Order,4400.0,0.0,success,True,2026-11-03T07:33:31.632081+09:00
 Crossword Post,2900.0,0.0,success,True,2026-11-03T01:52:46.778077+09:00
+Crossword Rule,1000.0,0.0,success,True,2026-11-03T07:33:31.632081+09:00
 Crossword Score,2400.0,0.0,success,True,2026-11-03T01:52:46.778077+09:00
 Crossword Tracker,8100.0,0.0,success,True,2026-11-02T03:37:00.436079+09:00
 Crossword View,3600.0,0.0,success,True,2026-11-03T01:52:50.455480+09:00
@@ -801,10 +821,12 @@ Curfew Message,1300.0,0.0,success,True,2026-08-29T16:28:38.093235+09:00
 Curriculum Evaluation,1900.0,0.0,success,True,2026-09-08T15:55:46.940955+09:00
 Curriculum Guide,14800.0,0.0,success,True,2026-08-29T13:02:32.008618+09:00
 Curriculum Hub,1600.0,0.0,success,True,2026-08-17T20:33:42.611240+09:00
+Curriculum Meanings,3600.0,0.0,success,True,2026-11-03T07:33:36.729638+09:00
 Curry Portal,1900.0,0.0,success,True,2026-09-24T03:01:05.614023+09:00
 Curry Stats,49500.0,0.0,success,True,2026-09-24T03:01:13.054665+09:00
 Custody Meanings,74000.0,0.0,success,True,2026-11-03T01:52:50.455480+09:00
 Customs Examples,1900.0,0.0,success,True,2026-09-17T21:42:24.269020+09:00
+Customs Meanings,60500.0,0.0,success,True,2026-11-03T07:33:36.729638+09:00
 Customs Portal,74000.0,0.0,success,True,2026-08-17T20:43:30.530213+09:00
 Customs Rate,1300.0,0.0,success,True,2026-08-19T20:40:17.061535+09:00
 Customs Tariff,12100.0,0.0,success,True,2026-08-21T02:36:37.228119+09:00
@@ -883,6 +905,7 @@ Dialect Examples,3600.0,0.0,success,True,2026-09-18T10:07:37.336678+09:00
 Dialect Journal,2900.0,0.0,success,True,2026-08-18T22:07:16.682645+09:00
 Dialect Map,1900.0,0.0,success,True,2026-08-18T22:11:59.574853+09:00
 Diaper Report,1300.0,0.0,success,True,2026-08-29T15:26:25.930635+09:00
+Diet Meanings,12100.0,0.0,success,True,2026-11-03T07:34:17.901919+09:00
 Diet Portal,33100.0,0.0,success,True,2026-08-29T13:56:51.422912+09:00
 Diet Requirement,12100.0,0.0,success,True,2026-09-08T21:33:34.336527+09:00
 Digital Diagram,6600.0,0.0,success,True,2026-08-29T16:37:27.013276+09:00
@@ -899,6 +922,8 @@ Discharge Agreement,4400.0,0.0,success,True,2026-08-29T12:59:49.035834+09:00
 Discharge Date,1000.0,0.0,success,True,2026-09-17T16:15:00.230122+09:00
 Discharge Form,1000.0,0.0,success,True,2026-08-19T13:25:47.267780+09:00
 Discharge Format,1000.0,0.0,success,True,2026-08-23T13:06:33.832553+09:00
+Discharge Meanings,90500.0,0.0,success,True,2026-11-03T07:34:21.552131+09:00
+Discharge Permits,1000.0,0.0,success,True,2026-11-03T07:34:21.552131+09:00
 Discharge Petition,22200.0,0.0,success,True,2026-08-21T01:06:46.678178+09:00
 Discharge Summary,9900.0,0.0,success,True,2026-08-19T21:04:17.654082+09:00
 Discharge Unit,1000.0,0.0,success,True,2026-08-21T01:58:31.192900+09:00
@@ -911,6 +936,7 @@ Discovery Widget,1300.0,0.0,success,True,2026-08-27T23:14:27.057874+09:00
 Dispatch Center,1300.0,0.0,success,True,2026-08-17T20:31:49.556843+09:00
 Dispatch Code,1000.0,0.0,success,True,2026-08-19T21:49:32.440919+09:00
 Dispatch Guide,6600.0,0.0,success,True,2026-08-29T12:57:37.692522+09:00
+Dispatch Guidelines,6600.0,0.0,success,True,2026-11-03T07:34:26.978652+09:00
 Dispatch Ledger,5400.0,0.0,success,True,2026-08-17T20:36:39.507807+09:00
 Dispatch Log,1300.0,0.0,success,True,2026-08-19T13:23:22.980764+09:00
 Dispatch Payment,2900.0,0.0,success,True,2026-08-31T03:58:36.077197+09:00
@@ -941,7 +967,11 @@ Dividend Questions,2400.0,0.0,success,True,2026-09-17T16:15:08.777345+09:00
 Dividend Recap,3600.0,0.0,success,True,2026-08-21T01:06:02.674001+09:00
 Diving App,1600.0,0.0,success,True,2026-09-16T19:16:38.853263+09:00
 Diving Recorder,6600.0,0.0,success,True,2026-09-10T15:24:02.757800+09:00
+Diwali Chart,5400.0,0.0,success,True,2026-11-03T07:34:31.282201+09:00
 Diwali Date,165000.0,0.0,success,True,2026-11-02T03:37:28.179419+09:00
+Diwali Office,1900.0,0.0,success,True,2026-11-03T07:34:38.474729+09:00
+Diwali Post,3600.0,0.0,success,True,2026-11-03T07:34:38.474729+09:00
+Diwali Status,18100.0,0.0,success,True,2026-11-03T07:34:38.474729+09:00
 Docket Sheet,6600.0,0.0,success,True,2026-08-19T13:30:35.292295+09:00
 Doctor Deadline,1600.0,0.0,success,True,2026-08-29T13:09:33.976850+09:00
 Doctor Feedback,1300.0,0.0,success,True,2026-08-31T01:07:09.707956+09:00
@@ -953,12 +983,14 @@ Doctor Serial,1600.0,0.0,success,True,2026-08-29T12:59:39.133653+09:00
 Doctor Sketch,1300.0,0.0,success,True,2026-08-29T13:03:56.681904+09:00
 Dog Reference,1300.0,0.0,success,True,2026-09-18T10:07:55.490982+09:00
 Dolphin Diagram,1900.0,0.0,success,True,2026-09-10T15:24:08.064326+09:00
+Dolphin Meanings,2900.0,0.0,success,True,2026-11-03T07:34:51.051237+09:00
 Dolphin Roster,14800.0,0.0,success,True,2026-09-16T19:16:59.406744+09:00
 Dominoes History,1900.0,0.0,success,True,2026-11-02T03:37:40.065487+09:00
 Donation Progress,3600.0,0.0,success,True,2026-09-07T22:51:00.102279+09:00
 Donor Card,1900.0,0.0,success,True,2026-08-19T13:37:36.286521+09:00
 Dosage Form,12100.0,0.0,success,True,2026-08-29T13:06:39.480726+09:00
 Dosage Format,12100.0,0.0,success,True,2026-08-29T13:17:27.385488+09:00
+Dosage Guidelines,1000.0,0.0,success,True,2026-11-03T07:34:51.051237+09:00
 Drawing Calculator,9900.0,0.0,success,True,2026-09-17T21:43:07.000153+09:00
 Drawing Facts,1300.0,0.0,success,True,2026-11-03T01:53:40.417426+09:00
 Drawing Index,1600.0,0.0,success,True,2026-09-17T19:09:15.739815+09:00
@@ -980,11 +1012,13 @@ Driver Studio,1600.0,0.0,success,True,2026-08-18T07:52:06.675931+09:00
 Driver Token,1300.0,0.0,success,True,2026-08-23T13:27:43.093757+09:00
 Driveway Length,1600.0,0.0,success,True,2026-09-06T12:32:31.981992+09:00
 Driveway Tax,1300.0,0.0,success,True,2026-08-21T02:08:44.609671+09:00
+Drone Diagram,1000.0,0.0,success,True,2026-11-03T07:34:56.023632+09:00
 Drum Rank,1000.0,0.0,success,True,2026-09-08T21:33:38.583480+09:00
 Dumpling History,1000.0,0.0,success,True,2026-09-24T03:01:56.275468+09:00
 Dust Advisory,1600.0,0.0,success,True,2026-09-17T19:09:24.594047+09:00
 Easter Date,74000.0,0.0,success,True,2026-11-03T01:54:01.028480+09:00
 Easter Time,12100.0,0.0,success,True,2026-11-02T03:37:57.067654+09:00
+Easter Zone,4400.0,0.0,success,True,2026-11-03T07:35:25.156882+09:00
 Editing Brief,1900.0,0.0,success,True,2026-08-21T01:05:55.165491+09:00
 Editing Draft,6600.0,0.0,success,True,2026-08-19T20:44:48.132741+09:00
 Editing Examples,1600.0,0.0,success,True,2026-09-17T16:15:41.577316+09:00
@@ -1170,6 +1204,7 @@ Fixture Match,6600.0,0.0,success,True,2026-09-01T00:44:18.571578+09:00
 Fixture Note,1900.0,0.0,success,True,2026-09-01T00:44:18.571578+09:00
 Fjord Diagram,1600.0,0.0,success,True,2026-09-10T15:24:32.036606+09:00
 Fjord Examples,1000.0,0.0,success,True,2026-09-17T19:09:55.517209+09:00
+Flamingo Meanings,8100.0,0.0,success,True,2026-11-03T07:36:07.198234+09:00
 Fleet Review,1000.0,0.0,success,True,2026-09-05T22:55:46.772795+09:00
 Flexibility Examples,3600.0,0.0,success,True,2026-09-18T14:48:09.571374+09:00
 Flight Announcement,1900.0,0.0,success,True,2026-08-27T23:36:17.600549+09:00
@@ -1327,7 +1362,10 @@ Guest Profile,1900.0,0.0,success,True,2026-08-19T13:29:58.473439+09:00
 Guitar History,1000.0,0.0,success,True,2026-09-08T21:34:05.195415+09:00
 Gum History,1000.0,0.0,success,True,2026-08-29T14:36:48.625392+09:00
 Gum Line,4400.0,0.0,success,True,2026-08-29T14:35:55.491103+09:00
+Gym Facts,2400.0,0.0,success,True,2026-11-03T07:37:16.705969+09:00
+Gym Meanings,14800.0,0.0,success,True,2026-11-03T07:37:16.705969+09:00
 Gym Questions,1300.0,0.0,success,True,2026-09-17T16:17:05.593110+09:00
+Gyoza Center,8100.0,0.0,success,True,2026-11-03T07:37:20.336908+09:00
 Haircut Calendar,1900.0,0.0,success,True,2026-08-29T15:08:58.512549+09:00
 Haircut Cascade,1600.0,0.0,success,True,2026-08-29T15:04:00.082028+09:00
 Haircut Flow,110000.0,0.0,success,True,2026-08-29T15:03:03.724926+09:00
@@ -1347,7 +1385,11 @@ Hearing Status,1000.0,0.0,success,True,2026-08-19T20:43:44.541784+09:00
 Heater Engine,9900.0,0.0,success,True,2026-08-19T21:12:15.731161+09:00
 Heater Label,1000.0,0.0,success,True,2026-08-27T22:08:36.718327+09:00
 Hedge Ledger,2240000.0,0.0,success,True,2026-09-18T10:10:01.698512+09:00
+Hedgehog Review,1600.0,0.0,success,True,2026-11-03T07:38:08.916216+09:00
+Hedgehog Size,1000.0,0.0,success,True,2026-11-03T07:38:08.916216+09:00
+Heritage Chart,2400.0,0.0,success,True,2026-11-03T07:38:13.682784+09:00
 Heritage Meanings,5400.0,0.0,success,True,2026-11-03T01:57:04.090565+09:00
+Heritage Portal,1300.0,0.0,success,True,2026-11-03T07:38:19.505208+09:00
 Heritage Portraits,1900.0,0.0,success,True,2026-11-03T01:57:04.090565+09:00
 Highlight Match,22200.0,0.0,success,True,2026-08-31T01:06:04.648158+09:00
 Highlight Profile,1000.0,0.0,success,True,2026-08-31T01:14:23.071617+09:00
@@ -1402,6 +1444,7 @@ Housekeeping Note,22200.0,0.0,success,True,2026-08-19T13:39:51.910868+09:00
 Housekeeping Payment,2400.0,0.0,success,True,2026-08-31T04:08:33.700680+09:00
 Hydration Calculator,8100.0,0.0,success,True,2026-09-06T12:33:01.917324+09:00
 Hypertension Portal,74000.0,0.0,success,True,2026-09-16T19:19:43.998832+09:00
+Idiom Meanings,60500.0,0.0,success,True,2026-11-03T07:38:36.969398+09:00
 Iguana Recipe,1300.0,0.0,success,True,2026-11-02T03:40:18.231885+09:00
 Illness Examples,1000.0,0.0,success,True,2026-09-17T16:17:46.007629+09:00
 Illness Stage,1300.0,0.0,success,True,2026-08-29T13:10:12.781091+09:00
@@ -1443,6 +1486,7 @@ Inquiry Questions,2400.0,0.0,success,True,2026-09-18T14:49:19.678302+09:00
 Inspection Type,1300.0,0.0,success,True,2026-09-06T09:00:01.154184+09:00
 Insulation Diagram,1000.0,0.0,success,True,2026-08-27T22:13:43.125947+09:00
 Insulin Index,1300.0,0.0,success,True,2026-09-16T19:20:04.472161+09:00
+Insurance Meanings,9900.0,0.0,success,True,2026-11-03T07:39:23.392048+09:00
 Intake Center,1000.0,0.0,success,True,2026-08-17T21:36:38.708092+09:00
 Interaction Log,4400.0,0.0,success,True,2026-08-19T13:21:11.802983+09:00
 Interaction Model,2900.0,0.0,success,True,2026-08-30T23:59:58.338049+09:00
@@ -1470,6 +1514,8 @@ Invite Code,12100.0,0.0,success,True,2026-08-19T21:58:32.626205+09:00
 Invite Reply,2400.0,0.0,success,True,2026-08-29T13:48:00.858481+09:00
 Invite Tracker,18100.0,0.0,success,True,2026-08-19T13:37:53.958127+09:00
 Irrigation Meanings,60500.0,0.0,success,True,2026-11-03T01:57:57.257098+09:00
+Island Facts,1000.0,0.0,success,True,2026-11-03T07:39:34.202580+09:00
+Island Nicknames,18100.0,0.0,success,True,2026-11-03T07:39:34.202580+09:00
 Itinerary Converter,1000.0,0.0,success,True,2026-08-27T23:36:36.607319+09:00
 Job Alert,823000.0,0.0,success,True,2026-08-29T15:58:45.218831+09:00
 Job Card,450000.0,0.0,success,True,2026-08-29T15:59:35.375498+09:00
@@ -1592,6 +1638,7 @@ Licensing Renewal,110000.0,0.0,success,True,2026-08-31T02:48:05.546092+09:00
 Licensing Status,18100.0,0.0,success,True,2026-08-19T20:44:29.865338+09:00
 Licensing Verification,33100.0,0.0,success,True,2026-08-31T04:08:30.196889+09:00
 Lien Balance,6600.0,0.0,success,True,2026-08-23T13:48:17.793072+09:00
+Lighting Facts,4400.0,0.0,success,True,2026-11-03T07:40:29.519806+09:00
 Lighting Field,5400.0,0.0,success,True,2026-08-23T13:08:58.766460+09:00
 Lighting Frequency,6600.0,0.0,success,True,2026-09-07T16:45:07.069050+09:00
 Lighting Map,673000.0,0.0,success,True,2026-08-19T12:24:48.425289+09:00
@@ -1672,6 +1719,7 @@ Marathon Checker,3600.0,0.0,success,True,2026-09-18T10:11:11.169343+09:00
 Marathon Newsletter,3600.0,0.0,success,True,2026-09-18T12:47:32.188156+09:00
 Marina Appointment,2900.0,0.0,success,True,2026-09-07T22:51:32.436407+09:00
 Markdown File,49500.0,0.0,success,True,2026-08-19T20:46:39.045000+09:00
+Marsh Meanings,33100.0,0.0,success,True,2026-11-03T07:41:31.048340+09:00
 Massage Feedback,1300.0,0.0,success,True,2026-08-31T01:02:12.723576+09:00
 Massage Finder,33100.0,0.0,success,True,2026-08-29T15:03:03.724926+09:00
 Material Code,1300.0,0.0,success,True,2026-08-19T22:07:52.466558+09:00
@@ -1696,6 +1744,7 @@ Mayor Dictionary,2400.0,0.0,success,True,2026-09-24T03:11:53.550840+09:00
 Mayor Duty,1900.0,0.0,success,True,2026-08-29T16:29:37.051985+09:00
 Mayor Office,9900.0,0.0,success,True,2026-08-29T16:26:42.415908+09:00
 Mayor Portal,14800.0,0.0,success,True,2026-08-29T16:25:43.274367+09:00
+Meadow Bridge,1300.0,0.0,success,True,2026-11-03T07:41:45.964203+09:00
 Meal Allowance,2900.0,0.0,success,True,2026-08-21T02:44:54.822530+09:00
 Mediation Stats,5400.0,0.0,success,True,2026-09-24T03:12:00.399455+09:00
 Medication History,12100.0,0.0,success,True,2026-08-19T20:39:50.711958+09:00
@@ -1708,6 +1757,7 @@ Medicine Slip,6600.0,0.0,success,True,2026-08-29T14:08:04.534149+09:00
 Meeting Bill,49500.0,0.0,success,True,2026-08-29T16:23:46.206354+09:00
 Meeting Deadline,2900.0,0.0,success,True,2026-08-29T16:27:28.654898+09:00
 Meeting Feedback,1000.0,0.0,success,True,2026-08-31T01:12:39.489906+09:00
+Meeting Meanings,22200.0,0.0,success,True,2026-11-03T07:42:00.444794+09:00
 Meeting Serial,6600.0,0.0,success,True,2026-08-29T16:25:24.556097+09:00
 Melody Examples,1000.0,0.0,success,True,2026-09-18T12:47:49.890087+09:00
 Membership Barcode,1600.0,0.0,success,True,2026-08-31T01:02:42.898826+09:00
@@ -1717,6 +1767,7 @@ Membership Cost,2900.0,0.0,success,True,2026-08-21T02:07:29.886940+09:00
 Membership Count,1300.0,0.0,success,True,2026-08-27T22:44:57.466905+09:00
 Membership Counter,1300.0,0.0,success,True,2026-08-18T23:59:24.120788+09:00
 Membership Fee,4400.0,0.0,success,True,2026-08-21T01:50:28.240015+09:00
+Membership Guidelines,1300.0,0.0,success,True,2026-11-03T07:42:06.207022+09:00
 Membership List,1600.0,0.0,success,True,2026-08-19T21:54:34.064665+09:00
 Membership Log,201000.0,0.0,success,True,2026-08-19T13:21:40.944519+09:00
 Membership Number,4400.0,0.0,success,True,2026-08-23T03:18:03.824260+09:00
@@ -1748,6 +1799,7 @@ Mileage Converter,5400.0,0.0,success,True,2026-08-27T23:33:24.139257+09:00
 Mileage Record,6600.0,0.0,success,True,2026-08-28T01:23:17.706181+09:00
 Mileage Recorder,6600.0,0.0,success,True,2026-08-27T23:33:24.139257+09:00
 Milestone Payment,1900.0,0.0,success,True,2026-08-31T04:12:17.579436+09:00
+Milestone Rewards,1000.0,0.0,success,True,2026-11-03T07:42:20.162766+09:00
 Minor Note,33100.0,0.0,success,True,2026-08-21T01:41:54.360418+09:00
 Minor Report,301000.0,0.0,success,True,2026-08-21T01:41:30.332578+09:00
 Minor Scale,33100.0,0.0,success,True,2026-08-21T01:38:16.172375+09:00
@@ -1763,9 +1815,12 @@ Molar Volume,12100.0,0.0,success,True,2026-08-29T14:42:14.109325+09:00
 Monitoring Check,3600.0,0.0,success,True,2026-08-19T13:27:07.663216+09:00
 Monitoring Diagram,1600.0,0.0,success,True,2026-08-27T22:07:45.490805+09:00
 Monitoring Scale,27100.0,0.0,success,True,2026-08-17T20:46:23.888336+09:00
+Moose Facts,3600.0,0.0,success,True,2026-11-03T07:42:44.558715+09:00
+Moose Nicknames,1000.0,0.0,success,True,2026-11-03T07:42:44.558715+09:00
 Mortgage Meanings,165000.0,0.0,success,True,2026-11-03T02:00:12.768320+09:00
 Mortgage Redemption,1600.0,0.0,success,True,2026-08-23T16:40:02.738352+09:00
 Mortise View,9900.0,0.0,success,True,2026-08-19T21:05:14.341737+09:00
+Mosaic Chart,9900.0,0.0,success,True,2026-11-03T07:42:49.069376+09:00
 Mosquito Alert,1000.0,0.0,success,True,2026-09-07T23:50:03.932090+09:00
 Motor Diagram,3600.0,0.0,success,True,2026-08-31T02:41:09.437786+09:00
 Motor Tax,110000.0,0.0,success,True,2026-08-31T02:36:40.978443+09:00
@@ -1784,6 +1839,7 @@ Negligence Duty,2400.0,0.0,success,True,2026-08-21T02:39:44.265069+09:00
 Neighborhood Code,8100.0,0.0,success,True,2026-08-21T01:43:23.087757+09:00
 Neighborhood Draft,1900.0,0.0,success,True,2026-08-21T01:42:40.721389+09:00
 Neighborhood Map,3600.0,0.0,success,True,2026-08-21T01:37:11.320785+09:00
+Neighborhood Nicknames,1900.0,0.0,success,True,2026-11-03T07:43:07.931825+09:00
 Network Beacon,1300.0,0.0,success,True,2026-08-17T20:40:06.808560+09:00
 Network Calculator,12100.0,0.0,success,True,2026-08-27T23:33:53.153275+09:00
 Network Code,1600.0,0.0,success,True,2026-08-19T21:51:50.352396+09:00
@@ -1821,8 +1877,10 @@ Nurse Result,8100.0,0.0,success,True,2026-08-29T13:05:23.407364+09:00
 Nurse Revision,9900.0,0.0,success,True,2026-08-31T04:04:53.383511+09:00
 Nurse Rule,1000.0,0.0,success,True,2026-08-29T12:56:50.870243+09:00
 Nutrition Comparison,1300.0,0.0,success,True,2026-08-28T01:07:27.619930+09:00
+Nutrition Facts,368000.0,0.0,success,True,2026-11-03T07:43:14.740063+09:00
 Nutrition Status,4400.0,0.0,success,True,2026-08-19T20:37:31.186118+09:00
 Nutrition Type,18100.0,0.0,success,True,2026-09-06T09:00:33.761316+09:00
+Oasis Meanings,74000.0,0.0,success,True,2026-11-03T07:43:18.858401+09:00
 Obituary Guardian,18100.0,0.0,success,True,2026-08-28T00:24:10.123784+09:00
 Obituary Journal,2900.0,0.0,success,True,2026-08-18T22:08:19.564377+09:00
 Obituary Monitor,2400.0,0.0,success,True,2026-08-17T23:26:24.551704+09:00
@@ -1882,6 +1940,7 @@ Padding Margin,9900.0,0.0,success,True,2026-08-23T02:58:03.774409+09:00
 Panic Log,1000.0,0.0,success,True,2026-08-19T21:17:47.761016+09:00
 Parade Route,6600.0,0.0,success,True,2026-11-03T02:01:04.655384+09:00
 Parade Tracker,6600.0,0.0,success,True,2026-11-02T03:42:56.779854+09:00
+Paragliding Map,2900.0,0.0,success,True,2026-11-03T07:44:00.568881+09:00
 Parking Detail,1600.0,0.0,success,True,2026-08-23T03:18:44.540602+09:00
 Parking Fee,5400.0,0.0,success,True,2026-08-21T01:56:51.063242+09:00
 Parking Invoice,1600.0,0.0,success,True,2026-08-31T01:05:19.942839+09:00
@@ -1893,6 +1952,8 @@ Parking Type,5400.0,0.0,success,True,2026-09-06T09:00:39.220624+09:00
 Parking Validation,3600.0,0.0,success,True,2026-08-30T23:55:18.343863+09:00
 Password Monitor,33100.0,0.0,success,True,2026-09-07T23:50:03.932090+09:00
 Password Status,2400.0,0.0,success,True,2026-09-07T16:45:19.969833+09:00
+Pasta Facts,1000.0,0.0,success,True,2026-11-03T07:44:10.129563+09:00
+Pasta Meanings,3600.0,0.0,success,True,2026-11-03T07:44:16.102269+09:00
 Pastry Portal,1600.0,0.0,success,True,2026-09-09T06:25:43.598640+09:00
 Patch Note,60500.0,0.0,success,True,2026-08-19T13:37:14.131003+09:00
 Patent Calculator,4400.0,0.0,success,True,2026-09-16T23:53:56.337800+09:00
@@ -1928,9 +1989,11 @@ Payment Status,9900.0,0.0,success,True,2026-08-19T20:42:12.538195+09:00
 Payout Calculator,1900.0,0.0,success,True,2026-08-27T23:33:31.795696+09:00
 Payout Rate,6600.0,0.0,success,True,2026-08-19T22:02:47.197172+09:00
 Pencil Diagram,1300.0,0.0,success,True,2026-09-17T16:19:59.799873+09:00
+Peninsula Bridge,1000.0,0.0,success,True,2026-11-03T07:44:30.160972+09:00
 Peninsula Examples,3600.0,0.0,success,True,2026-11-03T02:01:32.909878+09:00
 Pension Board,2900.0,0.0,success,True,2026-08-21T01:15:49.368632+09:00
 Pension List,14800.0,0.0,success,True,2026-08-21T01:23:46.927027+09:00
+Pension Meanings,33100.0,0.0,success,True,2026-11-03T07:44:37.701328+09:00
 Pension Portal,90500.0,0.0,success,True,2026-08-21T01:16:36.813672+09:00
 Pension Slip,2400.0,0.0,success,True,2026-08-21T01:23:46.927027+09:00
 Pension Status,135000.0,0.0,success,True,2026-08-21T01:21:56.845957+09:00
@@ -1949,7 +2012,9 @@ Permit Portal,4400.0,0.0,success,True,2026-08-17T20:34:34.179062+09:00
 Permit Renewal,2900.0,0.0,success,True,2026-08-31T02:51:05.397451+09:00
 Permit Rule,1000.0,0.0,success,True,2026-08-23T03:19:56.707699+09:00
 Permit Status,2400.0,0.0,success,True,2026-08-19T20:46:30.162701+09:00
+Persian Names,14800.0,0.0,success,True,2026-11-03T07:44:44.764925+09:00
 Persian Quote,2400.0,0.0,success,True,2026-11-03T02:01:47.069375+09:00
+Persian Temperature,6600.0,0.0,success,True,2026-11-03T07:44:48.479735+09:00
 Persian Type,2900.0,0.0,success,True,2026-11-03T02:01:47.069375+09:00
 Pet Tax,1600.0,0.0,success,True,2026-08-21T02:13:09.073610+09:00
 Pet Widget,5400.0,0.0,success,True,2026-08-27T23:12:32.092351+09:00
@@ -2111,6 +2176,7 @@ Public Post,1300.0,0.0,success,True,2026-08-29T16:28:41.850434+09:00
 Public Statement,1000.0,0.0,success,True,2026-08-29T16:22:39.640707+09:00
 Public View,90500.0,0.0,success,True,2026-08-29T16:29:37.051985+09:00
 Publisher Center,1900.0,0.0,success,True,2026-08-29T16:39:30.151022+09:00
+Pug Matrix,9900.0,0.0,success,True,2026-11-03T07:45:57.007761+09:00
 Pug Type,1900.0,0.0,success,True,2026-11-03T02:02:59.186766+09:00
 Pug Video,1000.0,0.0,success,True,2026-11-03T02:02:59.186766+09:00
 Pump Diagram,1300.0,0.0,success,True,2026-08-27T22:08:54.322972+09:00
@@ -2151,6 +2217,7 @@ Rabies Diagram,1900.0,0.0,success,True,2026-09-18T14:52:00.623293+09:00
 Rack Rate,3600.0,0.0,success,True,2026-08-19T20:48:12.973996+09:00
 Radiator Diagram,2400.0,0.0,success,True,2026-08-27T22:07:30.403670+09:00
 Rafting App,12100.0,0.0,success,True,2026-09-16T19:23:14.085100+09:00
+Ragdoll Color,12100.0,0.0,success,True,2026-11-03T07:46:39.204163+09:00
 Ragdoll Size,1900.0,0.0,success,True,2026-11-03T02:03:34.713686+09:00
 Rating Calculator,3600.0,0.0,success,True,2026-08-27T23:36:17.600549+09:00
 Rating Chart,2900.0,0.0,success,True,2026-08-21T01:22:07.036293+09:00
@@ -2344,11 +2411,13 @@ Rider Score,2900.0,0.0,success,True,2026-08-19T13:40:47.127510+09:00
 Rights Examples,1900.0,0.0,success,True,2026-09-18T10:13:42.666391+09:00
 Rights Redemption,1900.0,0.0,success,True,2026-08-23T16:39:03.767500+09:00
 Rights Value,1300.0,0.0,success,True,2026-08-23T02:52:33.355566+09:00
+Rim Meanings,40500.0,0.0,success,True,2026-11-03T07:47:12.211373+09:00
 Rim Tracker,1600.0,0.0,success,True,2026-08-19T21:07:19.840236+09:00
 Roadtest Result,18100.0,0.0,success,True,2026-08-29T14:18:33.151454+09:00
 Roaming List,2400.0,0.0,success,True,2026-08-19T22:02:09.365210+09:00
 Rodent Examples,2900.0,0.0,success,True,2026-09-18T12:50:26.289740+09:00
 Rodent Type,1300.0,0.0,success,True,2026-09-07T22:52:05.256166+09:00
+Roof Meanings,12100.0,0.0,success,True,2026-11-03T07:47:16.418845+09:00
 Roster Duty,1600.0,0.0,success,True,2026-08-21T02:45:28.044980+09:00
 Roster Form,4400.0,0.0,success,True,2026-08-19T13:29:07.755274+09:00
 Roster Format,4400.0,0.0,success,True,2026-08-23T13:05:07.059909+09:00
@@ -2358,9 +2427,11 @@ Rotation Graph,1300.0,0.0,success,True,2026-08-27T22:09:58.164830+09:00
 Rotation Point,1600.0,0.0,success,True,2026-08-17T21:33:05.832312+09:00
 Rotation Rate,2400.0,0.0,success,True,2026-08-19T20:40:37.869711+09:00
 Rotation Rule,12100.0,0.0,success,True,2026-08-23T03:23:31.641874+09:00
+Rottweiler Color,2900.0,0.0,success,True,2026-11-03T07:47:19.977707+09:00
 Rottweiler Height,1000.0,0.0,success,True,2026-11-03T02:04:01.513415+09:00
 Rottweiler Weight,3600.0,0.0,success,True,2026-11-03T02:04:05.479210+09:00
 Route Code,2400.0,0.0,success,True,2026-08-19T21:46:33.632095+09:00
+Route Permits,1900.0,0.0,success,True,2026-11-03T07:47:30.992173+09:00
 Route Slip,1600.0,0.0,success,True,2026-08-19T21:47:24.408619+09:00
 Route Slot,6600.0,0.0,success,True,2026-08-19T21:47:49.967174+09:00
 Rowing Manager,8100.0,0.0,success,True,2026-09-18T12:50:30.202561+09:00
@@ -2382,6 +2453,7 @@ Safe Alternatives,1000.0,0.0,success,True,2026-09-18T14:52:21.632044+09:00
 Safe Margin,2400.0,0.0,success,True,2026-08-23T02:57:55.201782+09:00
 Safe Route,1000.0,0.0,success,True,2026-08-18T23:52:08.201955+09:00
 Safety Margin,2400.0,0.0,success,True,2026-08-23T02:57:40.926366+09:00
+Safety Meanings,12100.0,0.0,success,True,2026-11-03T07:47:38.927682+09:00
 Safety Record,2900.0,0.0,success,True,2026-08-28T01:21:29.223123+09:00
 Safety Route,1000.0,0.0,success,True,2026-08-17T23:27:23.938977+09:00
 Salary Alert,1900.0,0.0,success,True,2026-08-21T01:26:44.593664+09:00
@@ -2401,6 +2473,7 @@ Saltwater Facts,1000.0,0.0,success,True,2026-11-02T03:45:14.982281+09:00
 Satisfaction Feedback,3600.0,0.0,success,True,2026-08-31T01:04:03.261607+09:00
 Satisfaction Level,1600.0,0.0,success,True,2026-08-19T20:42:25.910879+09:00
 Satisfaction Tab,1300.0,0.0,success,True,2026-08-21T00:34:21.181247+09:00
+Savanna Facts,1600.0,0.0,success,True,2026-11-03T07:47:50.115915+09:00
 Savanna Monitor,33100.0,0.0,success,True,2026-09-16T19:24:00.574287+09:00
 Savings Progress,1600.0,0.0,success,True,2026-09-08T08:07:56.945730+09:00
 Saxophone Tutorial,8100.0,0.0,success,True,2026-09-09T06:27:08.536482+09:00
@@ -2519,7 +2592,9 @@ Sibling Number,1600.0,0.0,success,True,2026-08-29T15:22:39.712040+09:00
 Sidewalk Rule,5400.0,0.0,success,True,2026-08-23T03:24:42.957554+09:00
 Sightseeing Trail,1300.0,0.0,success,True,2026-09-05T22:57:36.493964+09:00
 Skateboarding App,2400.0,0.0,success,True,2026-11-02T03:45:33.746416+09:00
+Skateboarding Map,1900.0,0.0,success,True,2026-11-03T07:48:37.897201+09:00
 Skating App,2400.0,0.0,success,True,2026-11-02T03:45:37.553003+09:00
+Skating Map,1900.0,0.0,success,True,2026-11-03T07:48:49.277139+09:00
 Skating Stats,4400.0,0.0,success,True,2026-11-03T02:05:09.518089+09:00
 Sketching Facts,3600.0,0.0,success,True,2026-11-03T02:05:13.589857+09:00
 Sketching Tutorial,301000.0,0.0,success,True,2026-11-02T03:45:47.296597+09:00
@@ -2554,6 +2629,7 @@ Snake Trail,1000.0,0.0,success,True,2026-09-01T00:56:00.891773+09:00
 Snow Advisory,450000.0,0.0,success,True,2026-08-21T00:58:34.367334+09:00
 Snow Calculator,6600.0,0.0,success,True,2026-08-27T23:33:37.262266+09:00
 Snow Depth,2400.0,0.0,success,True,2026-09-07T22:52:20.762162+09:00
+Snow Facts,3600.0,0.0,success,True,2026-11-03T07:49:00.693317+09:00
 Snow Level,2900.0,0.0,success,True,2026-08-19T20:38:03.591827+09:00
 Snow Map,27100.0,0.0,success,True,2026-08-17T23:30:30.158673+09:00
 Snow Meanings,1900.0,0.0,success,True,2026-11-03T02:05:22.417824+09:00
@@ -2578,6 +2654,7 @@ Spa Calculator,1000.0,0.0,success,True,2026-08-29T15:15:00.111669+09:00
 Spa Check,1000.0,0.0,success,True,2026-08-29T15:03:08.492031+09:00
 Spa Checker,1000.0,0.0,success,True,2026-08-29T15:15:26.000432+09:00
 Spa Log,40500.0,0.0,success,True,2026-08-29T15:02:45.439239+09:00
+Spa Meanings,40500.0,0.0,success,True,2026-11-03T07:49:32.998599+09:00
 Spa Portal,2400.0,0.0,success,True,2026-08-29T14:57:20.553286+09:00
 Spa Ring,110000.0,0.0,success,True,2026-08-29T14:58:05.479350+09:00
 Speaker Check,27100.0,0.0,success,True,2026-08-29T16:15:03.797820+09:00
@@ -2678,6 +2755,7 @@ Substitution Table,2400.0,0.0,success,True,2026-08-29T14:07:50.830483+09:00
 Substitution Value,1600.0,0.0,success,True,2026-08-29T13:44:12.251283+09:00
 Sudoku Answers,18100.0,0.0,success,True,2026-11-02T03:46:31.023610+09:00
 Sudoku Coach,33100.0,0.0,success,True,2026-11-02T03:46:31.023610+09:00
+Sudoku History,2400.0,0.0,success,True,2026-11-03T07:50:15.725523+09:00
 Sunset Map,6600.0,0.0,success,True,2026-09-10T00:36:00.083514+09:00
 Superintendent Office,1600.0,0.0,success,True,2026-08-21T00:46:15.039620+09:00
 Supplement Note,1600.0,0.0,success,True,2026-08-29T13:48:03.488761+09:00
@@ -2702,6 +2780,7 @@ Swag Bay,3600.0,0.0,success,True,2026-08-29T16:07:18.610887+09:00
 Swag Code,6600.0,0.0,success,True,2026-08-29T16:09:01.786891+09:00
 Swag Estimate,1900.0,0.0,success,True,2026-08-29T16:08:53.805290+09:00
 Swag Lab,2900.0,0.0,success,True,2026-08-29T16:15:03.797820+09:00
+Swag Meanings,110000.0,0.0,success,True,2026-11-03T07:50:23.077770+09:00
 Swag Quote,2400.0,0.0,success,True,2026-08-31T02:52:41.229945+09:00
 Swimming Newsletter,12100.0,0.0,success,True,2026-09-17T16:23:45.400796+09:00
 Swimming Video,2400.0,0.0,success,True,2026-09-17T16:23:45.400796+09:00
@@ -2725,6 +2804,7 @@ Talent List,2900.0,0.0,success,True,2026-08-29T15:58:45.218831+09:00
 Talent Tax,1600.0,0.0,success,True,2026-08-29T15:43:54.422412+09:00
 Tanker Engine,6600.0,0.0,success,True,2026-08-28T21:13:21.735907+09:00
 Tanker Weight,2400.0,0.0,success,True,2026-09-06T12:34:17.548778+09:00
+Tarantula Facts,2400.0,0.0,success,True,2026-11-03T07:50:33.692626+09:00
 Tarantula Names,1000.0,0.0,success,True,2026-11-03T02:06:53.935110+09:00
 Technician Tips,1900.0,0.0,success,True,2026-09-10T15:27:34.679220+09:00
 Tempo Tips,1600.0,0.0,success,True,2026-09-15T13:17:18.366606+09:00
@@ -2789,6 +2869,7 @@ Tick Diagram,1300.0,0.0,success,True,2026-08-29T14:03:04.336959+09:00
 Tick Engine,1900.0,0.0,success,True,2026-08-29T13:46:37.402970+09:00
 Tick Map,2400.0,0.0,success,True,2026-08-29T13:43:44.047058+09:00
 Tick Marker,74000.0,0.0,success,True,2026-08-29T14:00:13.376818+09:00
+Tick Meanings,5400.0,0.0,success,True,2026-11-03T07:51:15.576422+09:00
 Tick Questions,1000.0,0.0,success,True,2026-09-17T16:23:58.615019+09:00
 Tick Rate,2400.0,0.0,success,True,2026-08-29T13:52:18.717435+09:00
 Tick Roll,201000.0,0.0,success,True,2026-08-29T13:50:47.209314+09:00
@@ -2832,13 +2913,16 @@ Toilet Diagram,4400.0,0.0,success,True,2026-09-01T00:58:32.506822+09:00
 Toilet Finder,2400.0,0.0,success,True,2026-09-01T00:58:32.506822+09:00
 Tourist Tracker,1000.0,0.0,success,True,2026-09-05T22:58:02.430058+09:00
 Tourist Type,14800.0,0.0,success,True,2026-09-06T09:01:29.681085+09:00
+Toy Recalls,2900.0,0.0,success,True,2026-11-03T07:51:52.483820+09:00
 Tractor Status,1300.0,0.0,success,True,2026-09-07T16:45:44.594103+09:00
 Trade Badge,1000.0,0.0,success,True,2026-08-21T00:27:55.902205+09:00
 Trade Deadline,22200.0,0.0,success,True,2026-08-28T20:51:40.153805+09:00
+Trade Permits,1000.0,0.0,success,True,2026-11-03T07:51:52.483820+09:00
 Trade Quota,3600.0,0.0,success,True,2026-08-21T00:28:42.115555+09:00
 Trade Renewal,1300.0,0.0,success,True,2026-08-31T02:38:39.314426+09:00
 Trade Tariff,5400.0,0.0,success,True,2026-08-21T02:42:02.551252+09:00
 Trademark Journal,2900.0,0.0,success,True,2026-09-16T19:25:10.983925+09:00
+Trading Permits,1000.0,0.0,success,True,2026-11-03T07:51:58.343058+09:00
 Trailer Flow,4400.0,0.0,success,True,2026-08-28T20:53:26.973807+09:00
 Trailer Watch,1000.0,0.0,success,True,2026-08-28T20:54:52.045880+09:00
 Training Radar,40500.0,0.0,success,True,2026-08-21T01:19:32.138069+09:00
@@ -2873,6 +2957,7 @@ Transmission Model,9900.0,0.0,success,True,2026-08-31T00:29:51.387387+09:00
 Transmission Signal,1600.0,0.0,success,True,2026-08-29T14:20:05.827451+09:00
 Transmission Wave,1900.0,0.0,success,True,2026-08-29T14:20:20.789482+09:00
 Trap App,1300.0,0.0,success,True,2026-09-10T15:28:03.626844+09:00
+Trap Meanings,22200.0,0.0,success,True,2026-11-03T07:51:58.343058+09:00
 Trap Review,1600.0,0.0,success,True,2026-09-06T02:18:11.458140+09:00
 Treatment Meanings,74000.0,0.0,success,True,2026-11-03T02:08:05.537449+09:00
 Treatment Type,1000.0,0.0,success,True,2026-09-06T09:01:29.681085+09:00
@@ -2897,18 +2982,22 @@ Trust Meanings,33100.0,0.0,success,True,2026-11-03T02:08:13.435092+09:00
 Trust Status,1300.0,0.0,success,True,2026-09-08T03:42:18.477416+09:00
 Tubing Size,74000.0,0.0,success,True,2026-11-02T03:47:24.340391+09:00
 Tuition Cost,4400.0,0.0,success,True,2026-08-21T02:11:23.948204+09:00
+Tuition Facts,2900.0,0.0,success,True,2026-11-03T07:52:10.913826+09:00
 Tuition Fee,40500.0,0.0,success,True,2026-08-21T01:55:44.868962+09:00
 Tuition Feed,40500.0,0.0,success,True,2026-08-19T20:37:52.054454+09:00
 Tuition Message,2900.0,0.0,success,True,2026-08-27T23:16:53.480733+09:00
 Tuition Note,14800.0,0.0,success,True,2026-08-19T13:39:37.773489+09:00
 Tuition Review,1600.0,0.0,success,True,2026-09-05T22:58:07.992634+09:00
 Tundra Examples,1600.0,0.0,success,True,2026-09-17T19:17:59.972360+09:00
+Tundra Facts,4400.0,0.0,success,True,2026-11-03T07:52:14.421295+09:00
 Turbidity Flow,2400.0,0.0,success,True,2026-08-19T21:30:07.251599+09:00
 Turf Dictionary,2400.0,0.0,success,True,2026-09-24T03:17:16.913279+09:00
 Turf Guide,1000.0,0.0,success,True,2026-09-17T21:51:34.204409+09:00
 Turnover Message,1000.0,0.0,success,True,2026-08-27T23:13:09.078623+09:00
 Turnover Number,2400.0,0.0,success,True,2026-08-23T03:22:03.644415+09:00
 Turnover Sale,1600.0,0.0,success,True,2026-08-21T02:25:50.623607+09:00
+Turtle Meanings,1000.0,0.0,success,True,2026-11-03T07:52:18.201555+09:00
+Tutor Flashcards,2400.0,0.0,success,True,2026-11-03T07:52:21.610232+09:00
 Umbrella Status,3600.0,0.0,success,True,2026-08-21T00:09:11.987938+09:00
 Union Agreement,1600.0,0.0,success,True,2026-08-29T13:17:00.902762+09:00
 Union Bulletin,4400.0,0.0,success,True,2026-08-21T01:19:35.649490+09:00
@@ -2953,6 +3042,7 @@ Vaccine Table,1000.0,0.0,success,True,2026-08-29T13:14:41.100027+09:00
 Vacuum Journal,1300.0,0.0,success,True,2026-08-19T21:16:59.496910+09:00
 Valley Examples,2900.0,0.0,success,True,2026-11-03T02:08:47.434693+09:00
 Valley Names,1000.0,0.0,success,True,2026-11-03T02:08:57.998167+09:00
+Valley Portal,1000.0,0.0,success,True,2026-11-03T07:52:39.690073+09:00
 Valuation Allowance,1000.0,0.0,success,True,2026-08-21T02:45:23.002534+09:00
 Valuation Map,1900.0,0.0,success,True,2026-08-21T01:39:18.143916+09:00
 Valve Announcement,1900.0,0.0,success,True,2026-08-31T01:06:52.381789+09:00
@@ -3054,6 +3144,8 @@ Wheelchair Card,1000.0,0.0,success,True,2026-08-31T04:13:45.377908+09:00
 Wifi History,9900.0,0.0,success,True,2026-08-29T16:10:14.941822+09:00
 Wifi Token,1300.0,0.0,success,True,2026-08-29T16:12:52.698364+09:00
 Windshield Code,1300.0,0.0,success,True,2026-08-29T14:26:27.632925+09:00
+Windsurfing Journal,2900.0,0.0,success,True,2026-11-03T07:53:06.702461+09:00
+Wire Meanings,5400.0,0.0,success,True,2026-11-03T07:53:15.558510+09:00
 Withdrawal Agreement,1000.0,0.0,success,True,2026-08-29T13:12:47.757150+09:00
 Withdrawal Charge,8100.0,0.0,success,True,2026-08-21T02:43:28.304823+09:00
 Withdrawal Check,1000.0,0.0,success,True,2026-08-21T01:41:42.095051+09:00

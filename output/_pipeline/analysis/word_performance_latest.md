@@ -1,55 +1,55 @@
 # 단어 성과 리포트 (자동 생성)
 
-- 생성 시각: 2026-11-03T02:09:49.617629+09:00
-- 누적 통과율: 3087/316845 = 0.97%
+- 생성 시각: 2026-11-03T07:53:34.521156+09:00
+- 누적 통과율: 3179/324355 = 0.98%
 - 은퇴 기능어: 97개 (`config/retired_function_words.csv`)
 
 ## 기능어 통과율 상위 (시도 100회 이상)
 
 | 기능어 | 통과 | 시도 | 통과율 |
 |---|---|---|---|
-| Meanings | 49 | 350 | 14.00% |
-| Examples | 146 | 1404 | 10.40% |
-| Type | 34 | 398 | 8.54% |
-| Diagram | 67 | 807 | 8.30% |
-| Number | 60 | 925 | 6.49% |
-| Code | 59 | 951 | 6.20% |
-| Video | 14 | 228 | 6.14% |
-| Portal | 63 | 1064 | 5.92% |
-| Dictionary | 17 | 318 | 5.35% |
-| Status | 53 | 1044 | 5.08% |
-| List | 50 | 1073 | 4.66% |
-| Calculator | 42 | 904 | 4.65% |
-| Map | 48 | 1059 | 4.53% |
-| Result | 26 | 592 | 4.39% |
-| Recipe | 6 | 149 | 4.03% |
-| Rate | 39 | 972 | 4.01% |
-| Newsletter | 11 | 280 | 3.93% |
-| Questions | 53 | 1414 | 3.75% |
-| Fee | 36 | 993 | 3.63% |
-| Message | 32 | 900 | 3.56% |
+| Meanings | 77 | 580 | 13.28% |
+| Examples | 146 | 1422 | 10.27% |
+| Type | 34 | 406 | 8.37% |
+| Diagram | 68 | 815 | 8.34% |
+| Number | 60 | 931 | 6.44% |
+| Code | 59 | 959 | 6.15% |
+| Video | 14 | 234 | 5.98% |
+| Portal | 65 | 1101 | 5.90% |
+| Status | 54 | 1053 | 5.13% |
+| Dictionary | 17 | 351 | 4.84% |
+| Map | 52 | 1106 | 4.70% |
+| List | 50 | 1084 | 4.61% |
+| Calculator | 42 | 912 | 4.61% |
+| Result | 27 | 596 | 4.53% |
+| Rate | 39 | 979 | 3.98% |
+| Recipe | 6 | 153 | 3.92% |
+| Newsletter | 11 | 287 | 3.83% |
+| Questions | 53 | 1434 | 3.70% |
+| Fee | 36 | 1002 | 3.59% |
+| History | 40 | 1120 | 3.57% |
 
 ## 은퇴 대상(통과 0 / 시도 300회 이상)
 
-Almanac, Analyzer, Anchor, Basics, Benchmark, Blueprint, Book, Brands, Builder, Cabinet, Cashback, Catalog, Checklist, Cockpit, Codex, Compendium, Contribution, Copayment, Coupon, Dashboard, Deal, Depot, Diagnosis, Dial, Digest, Dock, Dossier, Downpayment, Endowment, Excerpt, Flag, Flashcards, Flowchart, Flyer, Folder, Giveaway, Grade, Guard, Guidebook, Helpdesk, Hotline, Inbox, Incentive, Insight, Inspection, Installment, Lens, Lessons, Lock, Locker, Lot, Meter, Metrics, Mockup, Navigator, Node, Objection, Organizer, Outpost, Overage, Overdraft, Overdue, Overview, Payoff, Pilot, Plaza, Poll, Preview, Profit, Prognosis, Publication, Pulse, Queue, Readout, Recommendation, Referral, Refill, Repairs, Rewards, Roadmap, Roundup, Scanner, Seminar, Sentry, Shelf, Shortfall, Snapshot, Spreadsheet, Stamp, Stipend, Subscription, Suite, Surtax, Sync, Tally, Threshold, Tier, Toll, Toolbox, Toolkit, Tower, Verdict, Waitlist, Wallet, Workbench, Workbook, Yard
+Almanac, Analyzer, Anchor, Basics, Benchmark, Blueprint, Book, Brands, Builder, Cabinet, Cashback, Catalog, Checklist, Cockpit, Codex, Compendium, Contribution, Copayment, Coupon, Dashboard, Deal, Depot, Diagnosis, Dial, Digest, Dock, Dossier, Downpayment, Endowment, Excerpt, Flag, Flowchart, Flyer, Folder, Giveaway, Grade, Guard, Guidebook, Helpdesk, Hotline, Inbox, Incentive, Insight, Inspection, Installment, Lens, Lessons, Lock, Locker, Lot, Meter, Metrics, Mockup, Navigator, Node, Objection, Organizer, Outpost, Overage, Overdraft, Overdue, Overview, Payoff, Pilot, Plaza, Poll, Preview, Profit, Prognosis, Publication, Pulse, Queue, Readout, Recommendation, Referral, Refill, Repairs, Roadmap, Roundup, Scanner, Seminar, Sentry, Shelf, Shop, Shortfall, Snapshot, Spreadsheet, Stamp, Stipend, Subscription, Suite, Surtax, Sync, Tally, Threshold, Tier, Toll, Toolbox, Toolkit, Tower, Verdict, Waitlist, Wallet, Workbench, Workbook, Yard
 
 ## 도메인어 통과율 상위 (시도 30회 이상)
 
 | 도메인어 | 통과 | 시도 | 통과율 |
 |---|---|---|---|
 | Spelling | 20 | 77 | 25.97% |
-| Crossword | 11 | 74 | 14.86% |
 | Exam | 37 | 300 | 12.33% |
+| Crossword | 13 | 110 | 11.82% |
 | Court | 10 | 88 | 11.36% |
 | Drawing | 9 | 88 | 10.23% |
 | Beach | 4 | 41 | 9.76% |
 | Background | 26 | 282 | 9.22% |
 | Chess | 7 | 83 | 8.43% |
 | License | 25 | 297 | 8.42% |
-| Bengal | 5 | 66 | 7.58% |
-| Formula | 19 | 260 | 7.31% |
+| Formula | 19 | 269 | 7.06% |
 | Library | 6 | 86 | 6.98% |
 | Transfer | 20 | 295 | 6.78% |
+| Bengal | 8 | 119 | 6.72% |
 | Family | 20 | 309 | 6.47% |
 | Method | 2 | 31 | 6.45% |
 | Desert | 4 | 64 | 6.25% |
