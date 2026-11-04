@@ -16,6 +16,7 @@ Ad Pass
 Ad Rewards
 Ad Slot
 Ad Stats
+Ad Symbols
 Adjustment Entry
 Admission Calendar
 Admission Card
@@ -40,6 +41,7 @@ Alarm Map
 Alarm Meanings
 Alarm Message
 Alarm Portal
+Alarm Symptoms
 Alarm Volume
 Alarm Widget
 Album Meanings
@@ -66,10 +68,14 @@ Amendment Meanings
 Amenity Fee
 Amortization Examples
 Amortization Expense
+Anesthesia Effects
+Anesthesia Risks
 Anesthesia Stage
 Anesthesia Tab
 Anesthesia Type
 Anniversary Calculator
+Anniversary Effects
+Anniversary Meanings
 Annuity Due
 Applicant Copy
 Applicant Detail
@@ -196,6 +202,7 @@ Backlog Order
 Backup Plan
 Backup Planner
 Backup Signal
+Backwash Effects
 Badge Cascade
 Badge Center
 Badge Notification
@@ -203,6 +210,7 @@ Baklava Origins
 Balcony View
 Balloons Date
 Bandwidth Unit
+Barbecue Calories
 Barcode Board
 Barcode Item
 Barcode Slot
@@ -217,6 +225,7 @@ Bass Meanings
 Batch Check
 Batch Checker
 Batch Code
+Batch Effects
 Batch File
 Batch Identifier
 Batch Kit
@@ -392,15 +401,20 @@ Bundle Identifier
 Bundle Meanings
 Bunker Code
 Bunny Size
+Bunny Symbols
+Burger Calories
 Burger Dictionary
 Burger Names
+Burger Origins
 Burrito History
+Burrito Origins
 Buyer Review
 Byline Examples
 Bypass Check
 Bypass Checker
 Bypass Code
 Bypass Link
+Bypass Tools
 Cafe Calories
 Cafe Feedback
 Cafe Steps
@@ -534,6 +548,7 @@ Change Signature
 Change Tab
 Channel Capacity
 Channel Code
+Channel Effects
 Channel Guide
 Channel Identifier
 Channel Link
@@ -615,6 +630,8 @@ Chip Comparison
 Chip Passport
 Chlorine Charge
 Chlorine Facts
+Chlorine Symbols
+Chlorine Symptoms
 Choir Meanings
 Choir Parts
 Cholesterol Meanings
@@ -818,9 +835,11 @@ Conversion Volume
 Cooler Generator
 Cooler Number
 Cooler Sketch
+Cooler Symbols
 Cooler Widget
 Copyright Duration
 Copyright Status
+Copyright Symbols
 Corgi Origins
 Cosplay App
 Cosplay Video
@@ -853,6 +872,7 @@ Court Note
 Court Portal
 Court Registry
 Court Status
+Court Symbols
 Court Update
 Cover Calculator
 Cover Flow
@@ -874,6 +894,7 @@ Credential Deck
 Credential Examples
 Credential Identifier
 Credit Meanings
+Credit Symbols
 Crew Center
 Crew Meanings
 Crew Portal
@@ -915,6 +936,7 @@ Crossword Tracker
 Crossword View
 Crown Lab
 Crown Meanings
+Crown Symbols
 Curb Line
 Curb Weight
 Curfew Message
@@ -923,6 +945,8 @@ Curriculum Guide
 Curriculum Guidelines
 Curriculum Hub
 Curriculum Meanings
+Curry Calories
+Curry Origins
 Curry Portal
 Curry Stats
 Custody Meanings
@@ -942,6 +966,7 @@ Cylinder Volume
 Dachshund Sitting
 Damage Barcode
 Damage Calculator
+Damage Causes
 Damage Charge
 Damage Frame
 Damage Item
@@ -1008,6 +1033,7 @@ Desert Facts
 Desert Meanings
 Desert Quote
 Desert Review
+Desert Symbols
 Dessert Meanings
 Dessert Nicknames
 Detention Charge
@@ -1076,6 +1102,7 @@ Diversity Examples
 Diversity Index
 Diversity Meanings
 Diversity Quote
+Diversity Symbols
 Dividend Discount
 Dividend Model
 Dividend Proposal
@@ -1138,6 +1165,7 @@ Drone Diagram
 Drone Tuner
 Drum Rank
 Dumpling History
+Dumpling Origins
 Dust Advisory
 Dust Origins
 Easter Date
@@ -1160,6 +1188,7 @@ Editor Brief
 Editor Examples
 Editor Payment
 Editor Profile
+Editor Symbols
 Editor Zone
 Editorial App
 Editorial Board
@@ -1168,10 +1197,12 @@ Editorial Form
 Editorial Format
 Editorial Model
 Editorial Sample
+Editorial Symbols
 Efficiency Calculator
 Efficiency Cost
 Efficiency Engine
 Efficiency Examples
+Efficiency Symbols
 Electrical History
 Electrical Meanings
 Electrical Spec
@@ -1199,6 +1230,7 @@ Equity Debt
 Equity Examples
 Equity Meanings
 Equity Redemption
+Equity Remedies
 Equity Stake
 Equity Statement
 Equity Total
@@ -1275,6 +1307,7 @@ Facial Meanings
 Facial Quote
 Facial Reference
 Facial Window
+Falafel Origins
 Family Account
 Family Check
 Family Companion
@@ -1328,6 +1361,7 @@ Filter Diagram
 Filter Examples
 Filter Questions
 Filter Quote
+Filter Symbols
 Filter Template
 Filtration Diagram
 Filtration Examples
@@ -1432,6 +1466,8 @@ Gallery Tag
 Garage Journal
 Garbage Bill
 Garbage Rule
+Garbage Time
+Garden Remedies
 Garland Forecast
 Garland Tools
 Garment Barcode
@@ -1441,6 +1477,7 @@ Gate Eligibility
 Gate Fee
 Gate Login
 Gate Score
+Gate Symbols
 Gauge Map
 Gecko Meanings
 Gelato Origins
@@ -1452,6 +1489,7 @@ Geography Facts
 Geography Locator
 Geography Meanings
 Geography Note
+Geography Symbols
 Geyser Diagram
 Giftcard Barcode
 Glacier Examples
@@ -1501,6 +1539,7 @@ Graduation Calculator
 Graduation List
 Grammar Case
 Grammar Kit
+Grammar Meanings
 Grammar Message
 Grammar Quote
 Grant Agreement
@@ -1508,6 +1547,7 @@ Grant Count
 Grant Meanings
 Grant Stats
 Greenhouse Diagram
+Greenhouse Effects
 Grid Atlas
 Grid Calculator
 Grid Code
@@ -1550,6 +1590,7 @@ Harvest File
 Harvest Index
 Harvest Meanings
 Headlight Diagram
+Headlight Symbols
 Headline Examples
 Headline Sample
 Headstone Meanings
@@ -1624,6 +1665,7 @@ Hotspot Status
 Hotspot Tracker
 Housekeeping Note
 Housekeeping Payment
+Hummus Origins
 Hydration Calculator
 Hypertension Portal
 Idiom Meanings
@@ -1672,6 +1714,7 @@ Insulin Index
 Insulin Uses
 Insurance Meanings
 Intake Center
+Interaction Effects
 Interaction Log
 Interaction Model
 Intercom Note
@@ -1717,6 +1760,8 @@ Judge Directory
 Judge List
 Jury Notification
 Kayak Meanings
+Kebab Calories
+Kebab Origins
 Key Attribute
 Key Base
 Key Courses
@@ -1725,9 +1770,11 @@ Key Examples
 Key Facts
 Key Field
 Key Ideas
+Key Ingredients
 Key Questions
 Key Report
 Key Sheet
+Key Symbols
 Key Value
 Kimchi History
 Kindergarten Recipe
@@ -1753,6 +1800,7 @@ Lane Number
 Lane Portal
 Lane Price
 Lapse Rate
+Lasagna Origins
 Laundry List
 Laundry View
 Lawn Steps
@@ -1915,6 +1963,7 @@ Marathon Checker
 Marathon Newsletter
 Marina Appointment
 Markdown File
+Markdown Symbols
 Marsh Meanings
 Massage Feedback
 Massage Finder
@@ -1928,6 +1977,7 @@ Material List
 Material Meanings
 Material Status
 Material Steps
+Material Symbols
 Material Tab
 Material Type
 Material Usage
@@ -1994,6 +2044,7 @@ Meter Bridge
 Meter Examples
 Meter Number
 Meter Signature
+Meter Symbols
 Method Examples
 Method Questionnaire
 Migration Certification
@@ -2016,6 +2067,7 @@ Mirror History
 Mirror Portal
 Mirror Rule
 Mirror Streak
+Mirror Symbols
 Molar Calculator
 Molar Level
 Molar Unit
@@ -2040,6 +2092,7 @@ Move Reminder
 Move Rule
 Museum Meanings
 Museum Type
+Nachos Origins
 Nanny Fine
 Nap Meanings
 Nap Portal
@@ -2130,6 +2183,7 @@ Order Meanings
 Order Panel
 Order Questions
 Order Stats
+Order Symbols
 Order Total
 Ordinance Examples
 Organ Examples
@@ -2140,6 +2194,7 @@ Outage Finder
 Outage Tracker
 Outdoor Card
 Outdoor Ticket
+Outlet Meanings
 Overflow Bridge
 Overflow Examples
 Overflow Link
@@ -2189,6 +2244,7 @@ Patent Journal
 Patent Meanings
 Patent Outline
 Patent Status
+Patent Symbols
 Patient Gate
 Patient History
 Patient Identifier
@@ -2218,6 +2274,7 @@ Payout Calculator
 Payout Rate
 Pencil Diagram
 Pencil Meanings
+Pencil Symbols
 Penguin Origins
 Peninsula Bridge
 Peninsula Examples
@@ -2282,15 +2339,20 @@ Photo Usage
 Photographer Payment
 Piano Facts
 Pickup Hub
+Picnic Origins
 Pinata History
+Pinata Origins
+Pipe Symbols
 Pipe Volume
 Pipe Zone
 Pitch Dictionary
 Pitch Meanings
 Pitch Stats
+Pizza Calories
 Pizza Chain
 Pizza Facts
 Pizza Names
+Pizza Origins
 Pizza Recalls
 Placement Check
 Placement Checker
@@ -2311,11 +2373,15 @@ Podcast Form
 Podcast Line
 Podcast Review
 Poetry Analysis
+Poetry Chart
 Poetry Form
 Poetry Format
 Poetry Line
+Poetry Meanings
 Poetry Note
+Poetry Parts
 Poetry Questions
+Poetry Symbols
 Poetry Type
 Poetry Video
 Policy Guide
@@ -2339,7 +2405,10 @@ Pool Facts
 Pool Forecast
 Pool Quota
 Pool Result
+Pool Risks
+Popcorn Calculator
 Popcorn Hub
+Popcorn Timer
 Port Check
 Port Checker
 Port Code
@@ -2476,6 +2545,7 @@ Quote Feedback
 Quote Line
 Quote Meanings
 Quote Notification
+Quote Parts
 Quote Questions
 Quote Reference
 Quote Reply
@@ -2486,12 +2556,14 @@ Rabbit Lab
 Rabbit Meanings
 Rabbit Timer
 Rabies Diagram
+Rabies Origins
 Rack Rate
 Radiator Diagram
 Rafting App
 Ragdoll Color
 Ragdoll Engine
 Ragdoll Size
+Ramen Origins
 Rating Calculator
 Rating Chart
 Rating Deck
@@ -2668,6 +2740,7 @@ Return Statement
 Return Status
 Return Value
 Return Verification
+Reunion Station
 Reunion Time
 Review Companion
 Review Guardian
@@ -2728,6 +2801,7 @@ Rubric Score
 Running Index
 Running Newsletter
 Running Reference
+Running Risks
 Safe Alternatives
 Safe Margin
 Safe Route
@@ -2798,11 +2872,13 @@ Season List
 Season Office
 Season Order
 Season Simulator
+Sedation Effects
 Sedation Level
 Sedation Score
 Seeds Diagram
 Seeds Finder
 Seeds Lab
+Seeds Parts
 Seeds Tracker
 Segment Circular
 Segment Code
@@ -3111,15 +3187,18 @@ Syllabus Courses
 Syllabus Examples
 Syllabus History
 Syllabus Sample
+Symptom Causes
 Syndication Broadcast
 Syntax Examples
 Syntax Loop
 Syntax Score
+Syrup Uses
 Tablet Layout
 Tablet Notification
 Tablet Number
 Tablet Serial
 Tablet Steps
+Tablet Symbols
 Taco Origins
 Talent Calculator
 Talent Examples
@@ -3138,6 +3217,7 @@ Terminal Map
 Terminal Rate
 Terminal Record
 Terminal Report
+Terminal Symbols
 Terminal Value
 Termination Line
 Termination Number
@@ -3146,6 +3226,7 @@ Terminology Meanings
 Termite Diagram
 Test Copy
 Test Directory
+Test Effects
 Test Examples
 Test File
 Test List
@@ -3177,10 +3258,12 @@ Therapy Index
 Thermocouple Diagram
 Thermostat Diagram
 Thermostat Note
+Thermostat Symbols
 Thermostat Widget
 Thesis Examples
 Thesis Quote
 Thesis Statement
+Threading Calculator
 Threading Questions
 Threading Video
 Threat App
@@ -3245,6 +3328,7 @@ Toast Meanings
 Toilet App
 Toilet Diagram
 Toilet Finder
+Tort Type
 Tourist Tracker
 Tourist Type
 Toy Recalls
@@ -3256,6 +3340,7 @@ Trade Quota
 Trade Renewal
 Trade Tariff
 Trademark Journal
+Trademark Symbols
 Trading Permits
 Trailer Flow
 Trailer Watch
@@ -3302,6 +3387,7 @@ Tree Examples
 Tree Meanings
 Tree Newsletter
 Tree Reference
+Tree Uses
 Triage Category
 Triage Level
 Triathlon Newsletter
@@ -3354,6 +3440,7 @@ Union Nexus
 Union Rewards
 Union Sample
 Union Score
+Union Symbols
 Union Table
 Union Tag
 Utility Allowance
@@ -3404,9 +3491,11 @@ Verification Examples
 Verification Guide
 Verification Questions
 Verification Rating
+Verification Symbols
 Verification Tax
 Verification Ticket
 Vertigo Analysis
+Vertigo Effects
 Vertigo Summary
 Vesting Balance
 Vet Facts
@@ -3427,6 +3516,7 @@ Video Result
 Video Rule
 Video Seal
 Video Serial
+Video Symbols
 Video Tag
 Video Ticker
 Video Total
@@ -3452,6 +3542,7 @@ Volcano Questions
 Volcano Risks
 Volunteer Sample
 Waffle Answers
+Waffle Origins
 Wage Level
 Wage List
 Waiter Tips
@@ -3484,6 +3575,7 @@ Waterpark Video
 Wax Meanings
 Wealth Effects
 Weaving Journal
+Weeds Effects
 Weeds Facts
 Weightlifting Calculator
 Weights Calculator
@@ -3536,6 +3628,8 @@ Yield Meanings
 Yield Point
 Zoning Diagram
 Zoo Facts
+Zoo Layout
 Zoo Meanings
 Zoo Newsletter
+Zoo Rule
 Zoo Video
