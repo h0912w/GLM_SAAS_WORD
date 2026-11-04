@@ -1,0 +1,82 @@
+{
+  "decisions": [
+    {
+      "approve": true,
+      "confidence": 0.9,
+      "reason": "반박 시도: 이번 확장 라운드에서도 Slack/Photoshop/Canvas/Finch/Ring/Signal/Sketch 계열이 review_titles에서 반복 거절됐고 새 반례(상표인데도 승인된 사례) 없음 — 여전히 유효.",
+      "title": "P3 (validated): 상표와 겹치는 도메인어는 expand_word_bank 단계에서부터 피한다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.85,
+      "reason": "반박 시도: 이번 12개 신규 기능어는 전부 상이한 검색 관용구(Origins/Parts/Tools...)였고 동의어 반복으로 인한 승인 붕괴 신호 없음 — 원칙 유지. 다만 이번 41.3% 급감은 동의어가 아니라 결합력 문제였음이 확인돼 원칙의 적용 범위가 오히려 명확해짐.",
+      "title": "P4 (validated): 한 번에 제안하는 기능어들끼리 뜻이 겹치지 않게 한다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "반박 시도: 이번 라운드 Tools(범용 결합력 최상, 승인 90%)가 KP 2건에 그치고 Symbols(결합력 낮음, 승인 28%)가 KP 18건 — '범용 결합력=KP 성공' 해석은 반증. 그러나 원칙 7의 2026-09-06 정식 문구는 '구체 식별/정보 대상 > 추상 스키마'라는 하위 구분이며 Symbols는 추상 스키마가 아니라 검색 관용구(원칙 19 계열)라 반례가 아님. 다만 '범용 결합력' 축 자체의 예측력은 다시 약화됐음을 로그에 기록할 것 — 원칙 유지하되 해석 경계 명확화.",
+      "title": "P7 (validated): 범용 결합력 중에서도 '구체적 식별/정보 대상'이 '추상 스키마 용어'보다 우세하다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.9,
+      "reason": "반박 시도: 이번 라운드에 판촉 계열 신규 제안 없어 신규 반증 데이터 없음 — 기존 실측(0% 수렴) 반례 없음, 유지.",
+      "title": "P8 (validated): 판촉/인센티브류 명사(쿠폰·캐시백·Deal류)는 기능어로 제안하지 않는다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.85,
+      "reason": "반박 시도: Diagram 최신 누적 7.81%로 여전히 전체 상위권 — 반례 없음, 유지.",
+      "title": "P10 (validated): 구조 시각화 문서 계열(Diagram/Graph)은 강한 기능어다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.75,
+      "reason": "반박 시도: 이번 라운드 신규 데이터 없음. 기존 실측(Message 4.49% 등장 즉시 10위권) 반례 없음 — 유지하되 이번 라운드 미재현으로 근거 강도는 약함.",
+      "title": "P11 (validated): 소통/알림 계열(Notification/Message)은 강한 기능어다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.65,
+      "reason": "반박 시도(이번 라운드 반례 실험 Tort): 내부자 용어 Tort가 범용 기능어와 결합해 1차 승인 49%를 기록 — '승인 단계'에서는 원칙이 성립하지 않음을 확인. 그러나 본래 근거인 KP통과 기준으로는 Tort 조합 0건으로 원칙 유지. 결론: P13 유지하되 'KP통과 기준 원칙'이며 승인 단계에는 적용되지 않는다는 범위 한정을 로그에 기록 — 향후 내부자 용어 제안 판단에 반영.",
+      "title": "P13 (validated): 업계 내부자 전문용어 도메인어는 일상어보다 통과율이 크게 저조하다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.95,
+      "reason": "반박 시도 실패 — 오히려 강한 재확인: 같은 축의 신규 관용구 Symbols가 등장 즉시 11.32%(18/159)로 전체 2위 진입, Degree Symbols 450,000으로 역대 최고 타이틀. Meanings(12.02%) 1위 유지. 이 축이 현재 가장 검증된 확장 방향.",
+      "title": "P14 (validated): 실제 소비자가 검색하는 콘텐츠 형식 명사(X Review류)는 강한 기능어다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.7,
+      "reason": "반박 시도: 이번 라운드에 Frequency/Load 쌍 없어 신규 검증 데이터 없음 — 기존 청크 선례 30건+ 반례 없음, 유지.",
+      "title": "P16 (validated): 동일 앵커의 Frequency/Load 후보는 1차 판정에서 Load를 승인하고 Frequency를 의미중복 처리한다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "반박 시도: 이번 라운드 51청크 표본 검사에서 사유-제목 불일치 대량 발생 없음(개별화된 사유 확인) — 절차가 결함을 잡았던 과거 실측과 일치, 유지.",
+      "title": "P17 (validated): 1차 판정 기록 전 각 승인 사유가 해당 title·industry를 실제 서술하는지 대조한다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.8,
+      "reason": "반박 시도: Type 최신 8.41%로 상위권 유지, 반례 없음 — 유지. 승격 논점 아님(이미 candidate로 적절).",
+      "title": "P15 하위 (candidate): 규격·측정 속성 관용구(Size/Type/Length류)는 강한 기능어다"
+    },
+    {
+      "approve": true,
+      "confidence": 0.95,
+      "reason": "반박 시도 실패 + 승격 근거 발생: Meanings 12.02% 1위에 더해 같은 축 Symbols 11.32% 2위 진입(서로 다른 두 단어, 같은 원칙, 2회 방향 일치 + 반례 없음) — PROJECT_PLAYBOOK 승격 규칙(서로 다른 관측 2회+) 충족. 세션 권한으로 P19를 validated로 승격할 것을 권고. 단 이번 Tools 사례가 보여주듯 '쿼리 재현'이어도 검색량이 없는 조합은 죽는다 — 승격 문구에 '쿼리 절 재현 + 해당 대상에 실제 검색 수요가 있을 것' 조건을 명시할 것.",
+      "title": "P19 (candidate→승격 검토): 기능어가 사용자 검색 쿼리의 절을 그대로 재현하면 통과율이 급등한다"
+    }
+  ],
+  "judged_at": "2026-11-04T09:44:05.339828+09:00",
+  "judged_by": "main-orchestrator",
+  "request_hash": "ce2c1de37b8a82787a51b3576450321c357750eaba7163cc959d78b8005a1bb8",
+  "round": 1,
+  "run_id": "RUN-20261104-094218-KST",
+  "stage": "principle_reverification"
+}
