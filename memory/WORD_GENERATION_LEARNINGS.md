@@ -2914,3 +2914,11 @@ Model/Lot/Availability/Eligibility))
   0통과로 생성 슬롯 2,900+를 소비. 다음 확장은 사전형·기록·비교 관용구
   등 검증 방향 중심 + 소량 신규(원칙 19 승격용 독립 검증 기회 포함)로
   설계할 것.
+
+### RUN-20261104-071325-KST (2026-11-04, expand_word_bank 5차 — 검색쿼리 관용구 12종 + 일상어 도메인어 23종)
+- **제안**: 조합공간 소진(직전 라운드 2,418개만 생성)으로 expand_word_bank 개시. 신규 기능어 12개(Origins/Symbols/Ingredients/Calories/Symptoms/Remedies/Parts/Tools/Uses/Effects/Risks/Causes — 전부 "사람이 실제로 검색하는 쿼리 절" 관용구, 원칙 19·14·15 축) + 신규 도메인어 23개(전부 일상어, 원칙 13 축. food/travel/fitness/education/events/salon/childcare/cleaning/retail/vet/music/crafts에 분산) + 반례 실험 1개(Tort=legal 내부자 전문용어, 원칙 13 대조 실험용). P6 기계 대조로 제출 전 충돌 29건 사전 차단(18+11건이 주입 목록과 중복 — 절차가 실제로 작동한 첫 대량 사례).
+- **결과**: 신규 10,000개 생성(확장이 조합공간 전체 복원), 1차 승인 4,133(41.3% — 직전 라운드 55~57% 대비 급감. 신규 검색쿼리 기능어가 B2B 전문 도메인어와는 자연스럽지 않은 조합이 다수), KP통과 72(0.72%).
+- **기능어별 실측(각 ~561회 시도, 1차 승인률 / KP통과)**: Tools 90%/2 · Origins 63%/11 · Risks 72%/2 · Remedies 48%/0 · Effects 45%/7 · Parts 37%/4 · Symbols 28%/**18(11.32%, 등장 즉시 전체 2위 — Meanings 12.02% 다음)** · Symptoms 28%/0 · Uses 26%/5 · Causes 19%/1 · Ingredients 14%/0 · Calories 11%/2. KP 상위 타이틀: Degree Symbols 450,000(**역대 최고 기록 달성**), Vocal Parts 49,500, Giftcard Barcode 33,100, Sushi Calories 27,100, Battery Symbols 22,200.
+- **교훈 1(원칙 19 축 재확인, validated 유지)**: 검색쿼리 관용구 축이 다시 강함을 확인 — Symbols는 Meanings와 같은 "기호/의미 설명" 관용구라 등장 즉시 최상위권. 다만 동일 축 내에서도 편차가 큼: 승인률 1위 Tools(90%)는 KP 2건뿐이고 승인률 최하위권 Symbols(28%)가 KP 18건 — **review_titles 승인률과 KP통과율의 분리가 이 축에서도 재확인됨**(원칙 1의 Memo 사례와 동일 패턴). 승인률은 "조합이 말이 되는가", KP는 "사람이 실제 검색하는가"를 측정 — 둘을 혼동하지 말 것.
+- **교훈 2(원칙 13 범위 의문, candidate 신규 관측)**: 반례 실험 Tort(내부자 전문용어)가 1차 승인 71/146(49%)를 기록 — 원칙 13이 예상한 "내부자 용어는 대량 거절"과 달리, 범용 기능어(Alert/Answers/Assistant 등)와 결합하면 승인이 잘 된다. 다만 이것은 review_titles 승인 실측이고 KP통과는 이번 라운드 Tort 조합 0건 — 원칙 13의 본래 근거도 KP통과 기준이므로 **P13은 유지되되, "승인 단계에서는 범용 기능어와 결합하면 내부자 용어도 통과한다"는 범위 한정 관측으로 기록**. 다음 내부자 용어 제안 시 검토 기준.
+- **교훈 3(P6 절차 실효성 확인)**: 제출 전 기계 대조(주입된 전체 목록과 단어 단위 비교)가 29건 중복을 사전 차단 — 원칙 6의 절차가 대량 제안에서도 작동함을 확인. 이후 모든 expand_word_bank에서 필수 유지.
