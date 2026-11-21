@@ -333,6 +333,7 @@ def _export_final_words_and_history_snapshots(project_root: Path, when) -> None:
             _history_snapshots_dir(project_root) / f"{prefix}_{stamp}.{ext}",
             src_path.read_text(encoding="utf-8"),
         )
+    return stamp
 
 
 def _build_keyword_metrics_client(project_root: Path) -> KeywordMetricsClient:

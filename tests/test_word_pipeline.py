@@ -1359,3 +1359,24 @@ def test_run_pipeline_completes_after_judgment_response_provided(tmp_path, monke
     assert result == 0
     final_state = run_state.load(tmp_path, options.run_id)
     assert final_state.status == "DONE"
+
+
+def test_export_final_words_snapshots_returns_stamp(tmp_path):
+    """2026-11-21 QA-20261121-214638-KST 실측 회귀: return 문이 빠져 None이
+    반환돼 외부 미러 동기화가 'passed_words_None.txt'를 받은 사고의 재발 방지.
+    반환값 계약(스냅샷 파일명)을 직접 검사한다."""
+    history_dir = tmp_path / "output" / "deliverables" / "history"
+    history_dir.mkdir(parents=True)
+    (history_dir / "keyword_metrics_passed.csv").write_text(
+        "title,avg_monthly_searches,competition_index,api_status,gate_passed,checked_at\n"
+        "Access Map,1300,0,success,True,2026-11-21T09:00:00+09:00\n",
+        encoding="utf-8",
+    )
+    when = datetime(2026, 11, 21, 9, 0, 0)
+
+    stamp = word_pipeline._export_final_words_and_history_snapshots(tmp_path, when)
+
+    assert stamp == "20261121_090000_KST"
+    final_words_dir = tmp_path / "output" / "deliverables" / "final_words"
+    assert (final_words_dir / f"passed_words_{stamp}.txt").read_text(encoding="utf-8") == "Access Map\n"
+    assert (final_words_dir / "passed_words_latest.txt").read_text(encoding="utf-8") == "Access Map\n"
