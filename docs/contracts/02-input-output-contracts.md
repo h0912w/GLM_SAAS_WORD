@@ -238,3 +238,18 @@ competition_index,api_status,gate_passed,checked_at`.
 아니다.
 
 ---
+
+### 외부 미러: dudreat/File_share (2026-11-21 추가, 사용자 지시)
+
+라운드 체크포인트 단계(`word_pipeline._stage_update_memory_and_git_checkpoint`)마다
+문서④의 마스터(`passed_words_latest.txt`)와 당 라운드 스냅샷이 외부 저장소
+`github.com/dudreat/File_share`의 `saas-words/` 아래로 복제·푸시된다
+(`scripts/sync_word_list_to_file_share.py`).
+
+- `saas-words/passed_words_latest.txt` — 문서④ 마스터의 부차 복제본(누적 전체)
+- `saas-words/snapshots/passed_words_<KST타임스탬프>.txt` — 문서④ 스냅샷의 복제본
+- 미러는 **공식 산출물이 아니라 복제본**이다 — 위 4개 문서 계약을 바꾸지 않으며,
+  미러 기준으로 무엇도 판정·집계하지 않는다.
+- 미러 푸시 실패는 라운드를 실패로 만들지 않는다 — 콘솔 경고 + HANDOFF에 한 줄
+  기록(§8 실패 은폐 금지 준수: 실패가 눈에 보이게 남는다). 로컬 클론 경로는
+  `FILE_SHARE_MIRROR_DIR` 환경변수 또는 `--mirror-dir`로 바꿀 수 있다.

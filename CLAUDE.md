@@ -225,6 +225,14 @@ AI(및 1단계 안전망)의 몫이다.
 run 재개든 새 run이든) 시작 시 `_stage_load_state`가 자동으로 쓸어담아 재판정 없이
 게이트에 먼저 태운다 — 예산 소진/네트워크 크래시로 중단돼도 유실되지 않는다.
 
+**외부 미러(2026-11-21, 사용자 지시)**: 라운드 체크포인트 단계마다 문서④의
+마스터(`passed_words_latest.txt`)와 당 라운드 스냅샷이 외부 저장소
+`github.com/dudreat/File_share`의 `saas-words/` 아래로 복제·푸시된다
+(`scripts/sync_word_list_to_file_share.py`). 미러는 공식 산출물 문서의 부차
+복제본일 뿐이며 4개 문서 계약을 바꾸지 않는다. 미러 푸시 실패는 라운드를
+실패로 만들지 않고 콘솔 경고 + HANDOFF에 한 줄을 남긴다. 상세는
+`docs/operations/15-file-share-word-list-mirror.md` 참고.
+
 **자가확장 단어뱅크(2026-08-18)**: `config/word_bank_expansions.csv`는 위 4개
 산출물 문서와 다른 카테고리다 — 판정 결과가 아니라 `word_bank.py`(정적 원본)를
 보완하는 원재료 어휘 소스다. 조합공간이 소진되면 `word_pipeline`이

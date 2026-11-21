@@ -1,4 +1,5 @@
 title,industry,ai_approved,ai_reason,judged_at
+Acai Extension,food_service,False,Clarity: it is unclear what an acai bowl business would 'extend'; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Access Account,cybersecurity,True,,2026-08-29T14:51:07.420006+09:00
 Access Advance,cybersecurity,False,접근권은 선지급 대상이 아니어서 불명확함,2026-08-23T16:11:01.847543+09:00
 Access Advice,cybersecurity,True,,2026-09-16T19:12:23.972609+09:00
@@ -2359,6 +2360,7 @@ Acne Check,healthcare,True,,2026-09-16T23:48:33.918464+09:00
 Acne Checker,healthcare,True,,2026-09-15T13:14:08.390190+09:00
 Acne Checkin,healthcare,False,결합 불성립,2026-09-15T13:14:08.390190+09:00
 Acne Checkups,healthcare,False,Checkups는 질환 라벨과 결합 시 관용구가 아님,2026-09-18T21:33:43.093657+09:00
+Acne Chords,healthcare,False,Clarity: acne care has no chords-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Acne Circular,healthcare,False,결합 불성립,2026-09-10T15:22:21.585140+09:00
 Acne Claim,healthcare,False,결합 불성립,2026-09-15T13:14:08.390190+09:00
 Acne Clock,healthcare,False,결합 불성립,2026-09-15T13:14:08.390190+09:00
@@ -8901,6 +8903,7 @@ Agent Analysis,customer_support,True,,2026-09-16T19:12:23.972609+09:00
 Agent Analyzer,customer_support,True,,2026-08-27T23:50:34.672139+09:00
 Agent Announcement,customer_support,False,Vague; agent status changes aren't naturally called 'announcements',2026-08-27T23:31:08.916412+09:00
 Agent Answers,customer_support,True,,2026-09-24T03:11:17.121305+09:00
+Agent Antonyms,customer_support,False,Clarity: support-agent tooling has no antonym-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Agent App,customer_support,True,,2026-09-16T19:12:23.972609+09:00
 Agent Appointment,customer_support,True,,2026-08-31T00:57:53.723007+09:00
 Agent Appointments,customer_support,False,Appointments 예약은 상담사 사람 읽힘과 결합 시 관용구가 아님,2026-09-18T21:33:43.093657+09:00
@@ -37259,6 +37262,7 @@ Background Seal,events,True,,2026-09-01T00:33:13.370888+09:00
 Background Secrets,events,False,Clarity: 'background secrets' is not an idiom; photography backdrop tips use other phrasing.,2026-11-17T01:29:36.620594+09:00
 Background Seminar,events,False,배경 세미나 결합 불성립,2026-09-09T06:19:33.809546+09:00
 Background Sensor,events,False,배경 감지 센서는 성립하지 않아 의미 불명,2026-09-08T03:36:04.699414+09:00
+Background Sentences,recruiting,True,,2026-11-21T21:49:23.801625+09:00
 Background Serial,recruiting,True,,2026-08-29T15:43:23.428742+09:00
 Background Setup,events,False,Setup 라벨이 Background와 결합 시 관용구가 아님,2026-09-19T05:01:02.129306+09:00
 Background Sheet,recruiting,True,,2026-08-29T15:43:23.428742+09:00
@@ -47659,6 +47663,7 @@ Barbecue Check,travel_tourism,False,"clarity 실패 - 확인 행위 오독, 도�
 Barbecue Checker,travel_tourism,False,clarity 실패 - 바베큐+점검기 결합 목적 불명,2026-09-06T12:31:33.253187+09:00
 Barbecue Checkin,travel_tourism,False,clarity 실패 - Checkin 계열 체크인 행위 오독,2026-09-06T08:58:23.408826+09:00
 Barbecue Checkups,travel_tourism,False,Checkups는 물리 바비큐 읽힘 결합 불명확,2026-09-18T21:33:43.093657+09:00
+Barbecue Chords,travel_tourism,False,Clarity: barbecue tourism has no chords-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Barbecue Circular,travel_tourism,False,clarity 실패 - 회람 콘텐츠로 읽힘,2026-09-06T12:31:33.253187+09:00
 Barbecue Claim,travel_tourism,False,clarity 실패 - 청구 명목 명사,2026-09-06T08:58:23.408826+09:00
 Barbecue Clock,travel_tourism,False,clarity 실패 - 바베큐 시계 불명,2026-09-06T08:58:23.408826+09:00
@@ -62280,6 +62285,7 @@ Bingo Ops,crafts_hobbies,True,,2026-11-04T05:51:34.644021+09:00
 Bingo Options,crafts_hobbies,False,Options is a settings abstraction that names no concrete bingo-tool function.,2026-11-04T01:34:55.757336+09:00
 Bingo Order,crafts_hobbies,False,Order는 순서라는 추상어로 빙고 호출 순서인지 정렬인지 뜻이 갈려 제품이 특정되지 않음(clarity 실패),2026-11-02T03:32:30.943376+09:00
 Bingo Origins,crafts_hobbies,True,,2026-11-05T03:50:16.598281+09:00
+Bingo Orthography,crafts_hobbies,False,Clarity: bingo as a hobby does not carry a spelling-product reading; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Bingo Outline,crafts_hobbies,False,"redteam_recheck_rejected: Duplication: Bingo Outline is the weaker twin of Bingo Sketch in this slice, since Sketch and Outline are a same concept pair for card layout design.",2026-11-03T01:46:26.126115+09:00
 Bingo Panel,crafts_hobbies,True,,2026-11-04T05:51:34.644021+09:00
 Bingo Parts,crafts_hobbies,True,,2026-11-05T03:50:16.598281+09:00
@@ -66192,6 +66198,7 @@ Bleach Retreat,cleaning_services,False,Retreat 결합이 불성립,2026-09-17T21
 Bleach Review,cleaning_services,False,Review 결합 대상이 불명확해 성립하지 않음,2026-09-17T19:04:59.620319+09:00
 Bleach Revision,cleaning_services,False,Revision 결합 대상이 불명확해 성립하지 않음,2026-09-17T19:04:59.620319+09:00
 Bleach Rewards,cleaning_services,False,"Clarity fails because a chemical agent is no basis for a rewards workflow, so the pairing reads as nonsense.",2026-11-04T05:51:34.644021+09:00
+Bleach Rhymes,cleaning_services,False,"Trademark: Bleach is a famous manga/anime franchise (also clarity fails - cleaning services have no rhyming demand), so the pair is not usable.",2026-11-21T21:49:23.801625+09:00
 Bleach Ring,cleaning_services,False,Ring 은유가 불성립,2026-09-18T10:03:58.377358+09:00
 Bleach Risks,cleaning_services,True,,2026-11-05T03:50:16.598281+09:00
 Bleach Roll,cleaning_services,False,Roll 라벨 결합 불성립,2026-09-18T12:40:10.683977+09:00
@@ -67083,6 +67090,7 @@ Blog Suppliers,media_publishing,False,Suppliers는 블로그 라벨과 결합 �
 Blog Support,media_publishing,False,블로그 지원의 대상과 기능이 불명확,2026-09-24T03:11:17.121305+09:00
 Blog Symbols,media_publishing,True,,2026-11-05T03:50:16.598281+09:00
 Blog Symptoms,media_publishing,False,"Clarity fail: a blog is not a patient; 'symptoms' names no diagnosis a reader can guess, and the blog-fix genre is normally expressed as remedies/problems.",2026-11-05T03:50:16.598281+09:00
+Blog Synonyms,media_publishing,True,,2026-11-21T21:49:23.801625+09:00
 Blog Tab,media_publishing,True,,2026-08-29T16:36:19.210809+09:00
 Blog Table,media_publishing,True,,2026-08-29T16:36:19.210809+09:00
 Blog Tag,media_publishing,True,,2026-08-29T16:36:19.210809+09:00
@@ -71865,6 +71873,7 @@ Bond Login,insurance,True,,2026-09-16T19:12:23.972609+09:00
 Bond Lookup,insurance,True,,2026-08-30T23:43:36.841011+09:00
 Bond Loop,insurance,True,,2026-08-21T00:43:30.343168+09:00
 Bond Lot,insurance,True,,2026-08-30T23:43:36.841011+09:00
+Bond Lyrics,insurance,False,Clarity: insurance bonds have no lyrics-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Bond Manager,insurance,True,,2026-08-21T00:43:30.343168+09:00
 Bond Manual,insurance,True,,2026-08-27T22:06:33.802513+09:00
 Bond Map,insurance,True,,2026-08-21T00:43:30.343168+09:00
@@ -81492,6 +81501,7 @@ Brunch Workbook,food_service,False,워크북 대상 불분명,2026-09-15T13:14:0
 Brunch Worksheet,food_service,False,redteam_recheck_rejected: 워크시트 결합 불명확 - 반박 성립,2026-09-09T02:01:03.010333+09:00
 Brunch Workshop,food_service,True,,2026-09-09T02:01:03.010333+09:00
 Brunch Zone,food_service,False,Zone 불성립,2026-09-09T06:19:33.809546+09:00
+Bruschetta Graph,food_service,False,Clarity: bruschetta menu items have no graph-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Bruxism Account,dental,False,계정 대상 불명,2026-09-09T06:19:33.809546+09:00
 Bruxism Advance,dental,False,이갈이 선수금 결합은 Advance 불성립,2026-09-09T02:01:03.010333+09:00
 Bruxism Advice,dental,False,콘텐츠형 결합이 성립하지 않음,2026-09-16T19:12:23.972609+09:00
@@ -116421,6 +116431,7 @@ Certification Worksheet,aviation,True,,2026-08-27T22:06:33.802513+09:00
 Certification Workshop,aviation,True,,2026-08-28T00:20:51.433885+09:00
 Certification Yard,aviation,False,"'Yard'을 포함해 이번 라운드에 대량 자가확장된 보관/장소 계열 기능어(Yard/Bay/Post/Outpost/Plaza/Harbor/Tower/Shelf/Locker/Booth/Kiosk) 중 다수가 'Certification'와 결합됐으나, 자연스러운 영어 관용구로 성립하지 않고 서로 의미가 구별되지 않는 중복 후보임",2026-08-19T00:36:32.503481+09:00
 Certification Zone,,True,,2026-08-17T23:27:03.515384+09:00
+Ceviche Outline,food_service,False,"Clarity: an 'outline' for ceviche names no recognizable standalone SaaS product; recipe searches target 'recipe', not 'outline'.",2026-11-21T21:49:23.801625+09:00
 Chair Account,salon_spa,True,,2026-08-29T14:51:07.420006+09:00
 Chair Advance,salon_spa,True,,2026-08-29T14:51:07.420006+09:00
 Chair Advice,salon_spa,False,부스 임대 조언 콘텐츠로 읽혀 SaaS 제품 개체가 드러나지 않음,2026-09-16T19:12:23.972609+09:00
@@ -125496,6 +125507,7 @@ Chiller Seal,hvac_services,True,,2026-09-01T00:33:13.370888+09:00
 Chiller Secrets,hvac_services,False,Clarity: 'chiller secrets' is not an established tips phrase; chiller efficiency guides is the real phrasing.,2026-11-17T01:29:36.620594+09:00
 Chiller Seminar,hvac_services,True,,2026-09-09T06:19:33.809546+09:00
 Chiller Sensor,hvac_services,False,칠러 감지 센서는 성립하지 않아 의미 불명,2026-09-08T03:36:04.699414+09:00
+Chiller Sentences,hvac_services,False,Clarity: HVAC chiller services have no sentence-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Chiller Serial,hvac_services,False,'Serial'이 일련번호 필드처럼 읽혀 제품을 유추하기 어려움,2026-08-23T13:26:11.115718+09:00
 Chiller Setup,hvac_services,True,,2026-09-24T03:11:17.121305+09:00
 Chiller Sheet,hvac_services,True,,2026-08-19T21:03:14.678005+09:00
@@ -149870,6 +149882,7 @@ Concierge Compatibility,hospitality,False,clarity 실패 - 컨시어지 호환�
 Concierge Compendium,hospitality,True,,2026-08-18T22:02:25.317804+09:00
 Concierge Condition,hospitality,False,컨시어지 상태가 무엇의 상태인지 불분명,2026-09-08T03:36:04.699414+09:00
 Concierge Confirmation,hospitality,True,,2026-08-21T01:09:23.227405+09:00
+Concierge Conjugations,property_management_services,False,Clarity: concierge property services have no conjugation-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Concierge Console,,True,,2026-08-17T20:43:36.337910+09:00
 Concierge Contribution,property_management_services,True,,2026-08-23T16:11:01.847543+09:00
 Concierge Converter,property_management_services,False,'Concierge'은(는) 사람/역할 명사라 'Converter'와 결합해도 무엇을 계산·변환·생성하는지 불명확해 자연스러운 2단어 상품명으로 읽히지 않음,2026-08-27T23:31:08.916412+09:00
@@ -152410,6 +152423,7 @@ Conference Tournament,events,False,대회 결합 불성립,2026-09-09T06:19:33.8
 Conference Tower,events,True,,2026-08-29T16:07:06.044339+09:00
 Conference Tracker,events,True,,2026-08-29T16:07:06.044339+09:00
 Conference Trail,events,True,,2026-08-29T16:07:06.044339+09:00
+Conference Translations,events,True,,2026-11-21T21:49:23.801625+09:00
 Conference Trend,events,True,,2026-08-29T16:07:06.044339+09:00
 Conference Trial,events,True,,2026-08-29T16:07:06.044339+09:00
 Conference Tuner,events,False,컨퍼런스 조율기 결합은 Tuner 결합 불성립,2026-09-08T19:27:03.985222+09:00
@@ -160563,6 +160577,7 @@ Cooler Albums,food_service,False,Albums는 물리 냉각기 읽힘 결합 불명
 Cooler Alert,food_service,True,,2026-08-31T03:19:02.661554+09:00
 Cooler Allowance,food_service,True,,2026-08-31T03:19:02.661554+09:00
 Cooler Alternatives,food_service,True,,2026-09-18T10:03:58.377358+09:00
+Cooler Anagrams,food_service,False,Clarity: foodservice coolers have no anagram-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Cooler Analysis,food_service,False,장비 분석인지 음식 보관 분석인지 불명,2026-09-16T19:12:23.972609+09:00
 Cooler Announcement,food_service,True,,2026-08-31T03:19:02.661554+09:00
 Cooler Answers,food_service,True,,2026-09-24T03:11:17.121305+09:00
@@ -163908,6 +163923,7 @@ Council Retreat,government,False,리트리트 결합 불성립,2026-09-09T06:19:
 Council Review,government,True,,2026-09-05T22:54:07.056168+09:00
 Council Revision,government,True,,2026-08-31T03:57:39.015971+09:00
 Council Rewards,government,True,,2026-11-04T05:51:34.644021+09:00
+Council Rhymes,government,False,Clarity: council/government workflows have no rhyming demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Council Ring,government,True,,2026-08-29T16:22:28.067855+09:00
 Council Risks,government,True,,2026-11-05T03:50:16.598281+09:00
 Council Roll,government,True,,2026-08-29T16:22:28.067855+09:00
@@ -168836,6 +168852,7 @@ Coverage Surtax,insurance,True,,2026-08-23T15:50:08.302516+09:00
 Coverage Symbols,insurance,False,Clarity fails: no symbol system belongs to insurance coverage.,2026-11-04T09:16:56.623281+09:00
 Coverage Symptoms,insurance,False,Clarity fails: 'symptoms' belongs to health/machine diagnosis and has no natural meaning for coverage.,2026-11-04T09:16:56.623281+09:00
 Coverage Sync,insurance,True,,2026-08-18T07:43:20.334023+09:00
+Coverage Synonyms,telecom,False,"Clarity: telecom coverage is about signal/plans, not word choice; a synonym lookup for coverage names no recognizable product.",2026-11-21T21:49:23.801625+09:00
 Coverage Tab,insurance,True,,2026-08-21T00:24:34.903558+09:00
 Coverage Table,insurance,True,,2026-08-19T21:45:47.758451+09:00
 Coverage Tag,telecom,True,,2026-08-19T13:36:42.244388+09:00
@@ -171223,6 +171240,7 @@ Credit Summary,education,True,,2026-08-21T01:35:11.363970+09:00
 Credit Suppliers,education,False,Suppliers는 학점 라벨과 결합 시 관용구가 아님,2026-09-18T21:33:43.093657+09:00
 Credit Support,education,False,유의어 앵커: Credit Builder과 의미 중복 — 학점 지원이나 학점 설계나 같은 학점 관리 도구,2026-09-24T03:11:17.121305+09:00
 Credit Surtax,education,False,학점/크레딧과 부가세 결합이 불명확함,2026-08-23T15:50:08.302516+09:00
+Credit Syllables,education,False,Clarity: course credits have no syllable-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Credit Symbols,education,True,,2026-11-05T03:50:16.598281+09:00
 Credit Symptoms,education,False,"Clarity fail: for education, credit means course credit - 'symptoms' attaches to nothing academic, and the financial 'warning signs' reading is a stretch.",2026-11-05T03:50:16.598281+09:00
 Credit Tab,education,True,,2026-08-21T01:35:11.363970+09:00
@@ -175408,6 +175426,7 @@ Crown Login,dental,False,크라운에 로그인이라는 고객 행위가 자연
 Crown Lookup,dental,True,,2026-08-30T23:43:36.841011+09:00
 Crown Loop,dental,True,,2026-08-29T14:32:53.001567+09:00
 Crown Lot,dental,True,,2026-08-30T23:43:36.841011+09:00
+Crown Lyrics,dental,False,Clarity: dental crowns have no lyrics-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Crown Manager,dental,True,,2026-08-29T14:32:53.001567+09:00
 Crown Manual,dental,True,,2026-08-29T14:32:53.001567+09:00
 Crown Map,dental,True,,2026-08-29T14:32:53.001567+09:00
@@ -178514,6 +178533,7 @@ Cursive Ops,education,False,"Clarity: 'ops' attaches to operations you run (even
 Cursive Options,education,True,,2026-11-05T03:50:16.598281+09:00
 Cursive Order,education,True,,2026-11-04T09:16:56.623281+09:00
 Cursive Origins,education,True,,2026-11-05T03:50:16.598281+09:00
+Cursive Orthography,education,True,,2026-11-21T21:49:23.801625+09:00
 Cursive Outline,education,True,,2026-11-04T09:16:56.623281+09:00
 Cursive Panel,education,False,Duplication: near-synonym twin of 'Cursive Console' (both name a control/practice interface for cursive handwriting practice); 'Cursive Console' is the stronger member.,2026-11-05T03:50:16.598281+09:00
 Cursive Parts,education,True,,2026-11-05T03:50:16.598281+09:00
@@ -211810,6 +211830,7 @@ Doghouse Screenings,veterinary,False,Screenings는 개집 물리 읽힘 결합 �
 Doghouse Seal,veterinary,False,Seal 결합이 불명확해 성립하지 않음,2026-09-17T19:04:59.620319+09:00
 Doghouse Secrets,veterinary,False,Clarity: 'doghouse secrets' is not an established tips genre; forced.,2026-11-17T01:29:36.620594+09:00
 Doghouse Sensor,veterinary,False,Sensor 결합 대상이 불명확해 성립하지 않음,2026-09-17T19:04:59.620319+09:00
+Doghouse Sentences,veterinary,False,Clarity: pet housing products have no sentence-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Doghouse Serial,veterinary,False,Serial 속성 결합 불성립,2026-09-18T14:44:09.204826+09:00
 Doghouse Setup,veterinary,False,개집 셋업이 무슨 SaaS 기능인지 불분명,2026-09-24T03:11:17.121305+09:00
 Doghouse Sheet,veterinary,False,Sheet 라벨 결합 불성립,2026-09-18T12:40:10.683977+09:00
@@ -224964,6 +224985,7 @@ Eczema Workbook,healthcare,False,Workbook은 교재 개념이라 서비스 개�
 Eczema Worksheet,healthcare,False,워크시트 근거 약함,2026-09-10T15:22:21.585140+09:00
 Eczema Workshop,healthcare,False,결합 불성립(Workshop 계열 기각 선례),2026-09-15T13:14:08.390190+09:00
 Eczema Zone,healthcare,False,Zone이 습진 제품에서 무엇을 뜻하는지 불명확,2026-09-16T19:12:23.972609+09:00
+Edamame Layout,food_service,False,Clarity: edamame menu items have no layout-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Editing Account,photography_services,True,,2026-08-29T14:51:07.420006+09:00
 Editing Advance,photography_services,True,,2026-08-23T16:11:01.847543+09:00
 Editing Advice,photography_services,False,동일 배치 승인된 Editing Tips와 동일 기능 의미 중복,2026-09-10T15:22:21.585140+09:00
@@ -231989,6 +232011,7 @@ Endodontics Total,dental,False,치수과 총액 결합은 Total 불성립,2026-0
 Endodontics Tournament,dental,False,대회 결합 불성립,2026-09-09T06:19:33.809546+09:00
 Endodontics Tracker,dental,False,추적 대상 불명,2026-09-09T06:19:33.809546+09:00
 Endodontics Trail,dental,False,Trail 불성립,2026-09-09T23:39:23.647355+09:00
+Endodontics Translations,dental,True,,2026-11-21T21:49:23.801625+09:00
 Endodontics Trend,dental,False,치수과 추이 속성 결합은 Trend 불성립,2026-09-09T02:01:03.010333+09:00
 Endodontics Trial,dental,False,치수과 시험 결합은 Trial 다의어 불성립,2026-09-09T02:01:03.010333+09:00
 Endodontics Tuner,dental,False,튜너 대상 불명,2026-09-09T06:19:33.809546+09:00
@@ -232512,6 +232535,7 @@ Endpoint Analyzer,cybersecurity,True,,2026-08-27T23:50:34.672139+09:00
 Endpoint Anchor,,True,,2026-08-17T20:45:55.190861+09:00
 Endpoint Announcement,cybersecurity,False,'Endpoint'과 'Announcement'의 조합이 cybersecurity 맥락에서 실제로 통하는 자연스러운 2단어 상품명으로 읽히지 않아(또는 지나치게 모호해) 거절.,2026-08-27T23:31:08.916412+09:00
 Endpoint Answers,cybersecurity,True,,2026-09-24T03:11:17.121305+09:00
+Endpoint Antonyms,cybersecurity,False,Clarity: endpoint security has no antonym-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Endpoint App,cybersecurity,True,,2026-09-16T19:12:23.972609+09:00
 Endpoint Appointment,cybersecurity,True,,2026-08-31T00:57:53.723007+09:00
 Endpoint Appointments,cybersecurity,False,Appointments 예약은 엔드포인트 라벨과 결합 시 관용구가 아님,2026-09-18T22:51:44.715495+09:00
@@ -243011,6 +243035,7 @@ Exhibitor Alert,events,False,경보 대상이 될 위험/이벤트/이탈 개념
 Exhibitor Allowance,events,True,,2026-08-21T02:36:28.722223+09:00
 Exhibitor Almanac,events,True,,2026-08-18T22:02:25.317804+09:00
 Exhibitor Alternatives,events,True,,2026-09-18T12:40:10.683977+09:00
+Exhibitor Anagrams,events,False,Clarity: exhibitor management has no anagram-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Exhibitor Analysis,events,True,,2026-09-16T19:12:23.972609+09:00
 Exhibitor Analyzer,events,True,,2026-08-27T23:50:34.672139+09:00
 Exhibitor Anchor,,True,,2026-08-17T21:31:46.266854+09:00
@@ -247093,6 +247118,7 @@ Falafel Alternatives,food_service,False,Alternatives 라벨이 음식 라벨 Fal
 Falafel Analysis,food_service,False,Analysis 라벨이 음식 라벨 Falafel와 결합 불성립,2026-09-19T05:01:02.129306+09:00
 Falafel Announcement,food_service,False,Announcement 소통 라벨이 음식 라벨과 결합 불성립,2026-09-19T02:13:04.717397+09:00
 Falafel Answers,food_service,False,팔라펠 상식 Q&A 콘텐츠로 읽혀 소프트웨어 기능이 없음,2026-09-24T03:11:17.121305+09:00
+Falafel Antonyms,food_service,False,Clarity: falafel foodservice has no antonym-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Falafel App,food_service,False,App 라벨이 음식 라벨 Falafel와 결합 불성립,2026-09-19T05:01:02.129306+09:00
 Falafel Appointment,food_service,False,Appointment 라벨이 음식 라벨 Falafel와 결합 불성립,2026-09-19T05:01:02.129306+09:00
 Falafel Appointments,food_service,False,Appointments 라벨이 음식 라벨 Falafel와 결합 불성립,2026-09-19T05:01:02.129306+09:00
@@ -250226,6 +250252,7 @@ Feedback Tournament,events,False,피드백 토너먼트 결합 불성립,2026-09
 Feedback Tower,events,False,"'Tower'을 포함해 이번 라운드에 대량 자가확장된 보관/장소 계열 기능어(Yard/Bay/Post/Outpost/Plaza/Harbor/Tower/Shelf/Locker/Booth/Kiosk) 중 다수가 'Feedback'와 결합됐으나, 자연스러운 영어 관용구로 성립하지 않고 서로 의미가 구별되지 않는 중복 후보임",2026-08-19T00:36:32.503481+09:00
 Feedback Tracker,,True,,2026-08-17T20:33:59.012811+09:00
 Feedback Trail,events,True,,2026-08-18T07:43:20.334023+09:00
+Feedback Translations,customer_support,True,,2026-11-21T21:49:23.801625+09:00
 Feedback Trend,customer_support,True,,2026-08-28T01:01:27.354248+09:00
 Feedback Trial,events,True,,2026-08-27T21:12:37.708243+09:00
 Feedback Tuner,events,False,피드백 조율기 결합은 Tuner 결합 불성립,2026-09-08T15:54:57.611282+09:00
@@ -261518,6 +261545,7 @@ Flashcard Retreat,education,False,Retreat 결합이 불성립,2026-09-17T21:38:5
 Flashcard Review,education,False,Review 결합 대상이 불명확해 성립하지 않음,2026-09-17T19:04:59.620319+09:00
 Flashcard Revision,education,False,Revision 결합 대상이 불명확해 성립하지 않음,2026-09-17T19:04:59.620319+09:00
 Flashcard Rewards,education,True,,2026-11-04T01:34:55.757336+09:00
+Flashcard Rhymes,education,True,,2026-11-21T21:49:23.801625+09:00
 Flashcard Ring,education,False,Ring 은유가 불성립,2026-09-18T10:03:58.377358+09:00
 Flashcard Risks,education,True,,2026-11-05T03:50:16.598281+09:00
 Flashcard Roll,education,False,Roll 라벨 결합 불성립,2026-09-18T12:40:10.683977+09:00
@@ -301884,6 +301912,7 @@ Hallway Albums,property_management_services,False,Albums는 물리 복도 읽힘
 Hallway Alert,property_management_services,True,,2026-08-19T21:45:47.758451+09:00
 Hallway Allowance,property_management_services,True,,2026-08-21T02:36:28.722223+09:00
 Hallway Alternatives,property_management_services,True,,2026-09-17T21:38:57.409887+09:00
+Hallway Anagrams,property_management_services,False,Clarity: property hallway management has no anagram-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Hallway Analysis,property_management_services,False,선례 기각(App 기각) 계열,2026-09-15T13:14:08.390190+09:00
 Hallway Analyzer,property_management_services,True,,2026-08-27T23:50:34.672139+09:00
 Hallway Announcement,property_management_services,False,too vague/awkward,2026-08-27T23:31:08.916412+09:00
@@ -319289,6 +319318,7 @@ Housewarming Suppliers,events,True,,2026-11-05T03:50:16.598281+09:00
 Housewarming Support,events,False,Clarity: support of what for housewarmings is unspecified; vague fragment with no concrete reading.,2026-11-05T03:50:16.598281+09:00
 Housewarming Symbols,events,True,,2026-11-05T03:50:16.598281+09:00
 Housewarming Symptoms,events,False,Clarity: an event has no symptoms — no reading exists for this events pairing.,2026-11-05T03:50:16.598281+09:00
+Housewarming Synonyms,events,False,Clarity: housewarming event planning has no synonym-lookup demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Housewarming Tab,events,False,Clarity fails: tab does not form a guessable housewarming product.,2026-11-04T09:16:56.623281+09:00
 Housewarming Table,events,False,Table attaches to no natural housewarming concept.,2026-11-04T09:16:56.623281+09:00
 Housewarming Tag,events,True,,2026-11-04T09:16:56.623281+09:00
@@ -352934,6 +352964,7 @@ Kitten Check,veterinary,True,,2026-08-29T13:42:26.295198+09:00
 Kitten Checker,veterinary,True,,2026-08-29T13:42:26.295198+09:00
 Kitten Checkin,veterinary,False,clarity 실패 - 무의미한 결합,2026-09-05T22:54:07.056168+09:00
 Kitten Checkups,veterinary,False,Checkups는 새끼고양이 관리 읽힘과 결합 시 관용구가 아님,2026-09-18T21:33:43.093657+09:00
+Kitten Chords,veterinary,False,Clarity: veterinary care for kittens has no chords-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Kitten Circular,veterinary,True,,2026-08-29T13:42:26.295198+09:00
 Kitten Claim,veterinary,False,clarity 실패 - 무의미한 결합,2026-09-05T22:54:07.056168+09:00
 Kitten Clock,veterinary,False,clarity 실패 - 고양이 새끼 시계 독해 불명,2026-09-06T08:58:23.408826+09:00
@@ -367451,6 +367482,7 @@ Licensing Summary,media_publishing,True,,2026-08-19T21:03:14.678005+09:00
 Licensing Suppliers,media_publishing,False,Suppliers는 라이선싱 라벨과 결합 시 관용구가 아님,2026-09-18T22:51:44.715495+09:00
 Licensing Support,media_publishing,True,,2026-09-24T03:11:17.121305+09:00
 Licensing Surtax,government,True,,2026-08-23T15:50:08.302516+09:00
+Licensing Syllables,media_publishing,False,Clarity: licensing content has no syllable-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Licensing Symbols,media_publishing,False,Clarity: no symbol system attaches to licensing that a normal reader would recognize; unclear what it names.,2026-11-05T03:50:16.598281+09:00
 Licensing Symptoms,media_publishing,False,Clarity fails: licensing does not present symptoms - no natural reading.,2026-11-05T03:50:16.598281+09:00
 Licensing Sync,,True,,2026-08-17T21:36:07.544663+09:00
@@ -380092,6 +380124,7 @@ Maintenance Checker,transportation,True,,2026-08-27T23:50:34.672139+09:00
 Maintenance Checkin,property_management_services,True,,2026-09-05T22:54:07.056168+09:00
 Maintenance Checklist,mining,True,,2026-08-19T21:03:14.678005+09:00
 Maintenance Checkups,real_estate,False,Checkups 결합 대상 불명,2026-09-18T17:22:44.829590+09:00
+Maintenance Chords,automotive,False,Clarity: vehicle maintenance has no chords-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Maintenance Circular,energy_utilities,True,,2026-08-21T01:09:23.227405+09:00
 Maintenance Claim,property_management_services,True,,2026-09-05T22:54:07.056168+09:00
 Maintenance Clock,energy_utilities,True,,2026-09-06T08:58:23.408826+09:00
@@ -396001,6 +396034,7 @@ Menu Login,food_service,False,메뉴 '로그인'이 무엇에 로그인하는지
 Menu Lookup,food_service,True,,2026-08-30T23:43:36.841011+09:00
 Menu Loop,,True,,2026-08-17T20:48:21.583177+09:00
 Menu Lot,food_service,True,,2026-08-30T23:43:36.841011+09:00
+Menu Lyrics,food_service,False,"Clarity: menus call for descriptions, not lyrics; the pair names no recognizable product.",2026-11-21T21:49:23.801625+09:00
 Menu Manager,,True,,2026-08-17T20:39:31.272188+09:00
 Menu Manual,food_service,True,,2026-08-27T22:06:33.802513+09:00
 Menu Map,food_service,True,,2026-08-18T07:43:20.334023+09:00
@@ -398232,6 +398266,7 @@ Microchip Options,veterinary,False,칩 등록 요금제인지 칩 종류인지 �
 Microchip Order,veterinary,True,,2026-08-19T21:45:47.758451+09:00
 Microchip Organizer,,True,,2026-08-17T23:29:05.712614+09:00
 Microchip Origins,veterinary,True,,2026-11-05T03:50:16.598281+09:00
+Microchip Orthography,veterinary,False,Clarity: pet microchip registration has no spelling-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Microchip Outline,veterinary,False,"'Microchip'은(는) 추상적 개념/과정/역할/수치이거나 이미 그 자체로 시각적 산출물이라, 'Outline'(도면/배치/스케치/개요/렌더링류)의 대상이 되는 자연스러운 2단어 상품명으로 읽히지 않음",2026-08-27T22:28:32.531746+09:00
 Microchip Outpost,veterinary,False,"'Outpost'을 포함해 이번 라운드에 대량 자가확장된 보관/장소 계열 기능어(Yard/Bay/Post/Outpost/Plaza/Harbor/Tower/Shelf/Locker/Booth/Kiosk) 중 다수가 'Microchip'와 결합됐으나, 자연스러운 영어 관용구로 성립하지 않고 서로 의미가 구별되지 않는 중복 후보임",2026-08-19T00:36:32.503481+09:00
 Microchip Overage,veterinary,False,마이크로칩이 한도 초과 개념의 측정 대상이 아니어서 말이 안 됨,2026-08-27T21:45:49.802636+09:00
@@ -400573,6 +400608,7 @@ Mileage Retreat,moving_relocation_services,False,마일리지 리트리트 결�
 Mileage Review,transportation,True,,2026-09-05T22:54:07.056168+09:00
 Mileage Revision,transportation,True,,2026-08-31T03:57:39.015971+09:00
 Mileage Rewards,moving_relocation_services,True,,2026-11-03T01:46:26.126115+09:00
+Mileage Rhymes,transportation,False,Clarity: mileage tracking and rhyming have no plausible product connection.,2026-11-21T21:49:23.801625+09:00
 Mileage Ring,transportation,False,TITLE_UNCLEAR: 기능어 자리의 'Ring'은 추상적이라 어떤 SaaS 기능인지 연상 안 됨(기존 규칙 재적용),2026-08-18T07:51:55.730113+09:00
 Mileage Risks,moving_relocation_services,False,Clarity fails: mileage risks names no concept relocation customers recognize.,2026-11-04T09:16:56.623281+09:00
 Mileage Roadmap,transportation,True,,2026-08-18T22:02:25.317804+09:00
@@ -404577,6 +404613,7 @@ Monitoring Screenings,it_devops,False,Screenings는 모니터링 라벨과 결�
 Monitoring Seal,it_devops,True,,2026-09-01T00:33:13.370888+09:00
 Monitoring Secrets,it_devops,False,Clarity: 'Monitoring Secrets' is an awkward phrase with no established insider-tips reading.,2026-11-17T01:29:36.620594+09:00
 Monitoring Sensor,it_devops,False,모니터링 센서는 성립하지 않아 의미 불명,2026-09-08T06:49:16.376518+09:00
+Monitoring Sentences,it_devops,False,"Clarity: monitoring produces alerts and metrics, not sentences; the pair names no recognizable product.",2026-11-21T21:49:23.801625+09:00
 Monitoring Sentry,,True,,2026-08-17T20:36:47.157974+09:00
 Monitoring Serial,it_devops,False,모니터링(추상 활동)은 일련번호 대상이 아니라 추상적인 필드명처럼 읽힘,2026-08-23T13:26:11.115718+09:00
 Monitoring Setup,it_devops,True,,2026-09-24T03:11:17.121305+09:00
@@ -461895,6 +461932,7 @@ Pilates Ops,fitness_wellness,False,Ops 추상 줄임말 결합 불명확,2026-09
 Pilates Options,fitness_wellness,True,,2026-09-24T03:11:17.121305+09:00
 Pilates Order,fitness_wellness,False,Order 라벨 결합 불성립,2026-09-18T14:44:09.204826+09:00
 Pilates Origins,fitness_wellness,True,,2026-11-05T03:50:16.598281+09:00
+Pilates Orthography,fitness_wellness,False,Clarity: Pilates instruction has no spelling-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Pilates Outline,fitness_wellness,True,,2026-09-17T16:11:27.842418+09:00
 Pilates Panel,fitness_wellness,False,Panel 은유 결합 불명확,2026-09-18T12:40:10.683977+09:00
 Pilates Parts,fitness_wellness,True,,2026-11-05T03:50:16.598281+09:00
@@ -490179,6 +490217,7 @@ Property Worksheet,landscaping,True,,2026-08-27T22:06:33.802513+09:00
 Property Workshop,landscaping,True,,2026-08-28T00:20:51.433885+09:00
 Property Yard,real_estate,False,"'Yard'을 포함해 이번 라운드에 대량 자가확장된 보관/장소 계열 기능어(Yard/Bay/Post/Outpost/Plaza/Harbor/Tower/Shelf/Locker/Booth/Kiosk) 중 다수가 'Property'와 결합됐으나, 자연스러운 영어 관용구로 성립하지 않고 서로 의미가 구별되지 않는 중복 후보임",2026-08-19T00:36:32.503481+09:00
 Property Zone,,True,,2026-08-17T20:48:02.919436+09:00
+Prosciutto Manual,food_service,False,Clarity: a 'manual' for prosciutto names no recognizable standalone SaaS product for foodservice.,2026-11-21T21:49:23.801625+09:00
 Protein Account,fitness_wellness,False,계정 결합이 불성립,2026-09-17T21:38:57.409887+09:00
 Protein Advance,fitness_wellness,False,선불 결합이 불성립,2026-09-17T19:04:59.620319+09:00
 Protein Advice,fitness_wellness,True,,2026-09-18T12:40:10.683977+09:00
@@ -516322,6 +516361,7 @@ Refrigeration Alternatives,pharmacy,True,,2026-09-17T21:38:57.409887+09:00
 Refrigeration Analysis,pharmacy,False,분석 대상 불분명,2026-09-15T13:14:08.390190+09:00
 Refrigeration Announcement,pharmacy,True,,2026-08-29T13:42:26.295198+09:00
 Refrigeration Answers,pharmacy,False,Refrigeration Answers는 문답 집합으로 결합 시 수요 불명확,2026-09-19T05:01:02.129306+09:00
+Refrigeration Antonyms,pharmacy,False,Clarity: refrigeration (pharmacy cold chain) has no antonym-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Refrigeration App,pharmacy,True,,2026-09-15T13:14:08.390190+09:00
 Refrigeration Appointment,pharmacy,True,,2026-08-31T00:57:53.723007+09:00
 Refrigeration Appointments,pharmacy,False,Appointments 예약은 냉장 라벨과 결합 시 관용구가 아님,2026-09-18T21:33:43.093657+09:00
@@ -526601,6 +526641,7 @@ Requisition Compatibility,recruiting,False,채용 요청 호환성은 의미 불
 Requisition Compendium,recruiting,True,,2026-08-18T22:02:25.317804+09:00
 Requisition Condition,recruiting,False,채용 요청서 상태는 성립 대상이 불분명,2026-09-08T06:49:16.376518+09:00
 Requisition Confirmation,recruiting,True,,2026-08-21T01:09:23.227405+09:00
+Requisition Conjugations,recruiting,False,Clarity: requisitions (recruiting/purchasing) have no conjugation-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Requisition Console,recruiting,True,,2026-08-18T07:43:20.334023+09:00
 Requisition Contribution,recruiting,False,채용 요청서에 기여금 개념이 어울리지 않아 불명확함,2026-08-23T16:11:01.847543+09:00
 Requisition Converter,recruiting,False,'Requisition'과 'Converter'의 조합이 recruiting 맥락에서 실제로 통하는 자연스러운 2단어 상품명으로 읽히지 않아(또는 지나치게 모호해) 거절.,2026-08-27T23:31:08.916412+09:00
@@ -527954,6 +527995,7 @@ Reserve Summary,mining,True,,2026-08-19T21:03:14.678005+09:00
 Reserve Suppliers,mining,False,Suppliers는 물리 보호구역·예약 읽힘 결합 불명확,2026-09-18T19:11:29.830380+09:00
 Reserve Support,mining,False,Support 라벨이 Reserve와 결합 시 관용구가 아님,2026-09-19T05:01:02.129306+09:00
 Reserve Surtax,mining,True,,2026-08-23T15:50:08.302516+09:00
+Reserve Syllables,insurance,False,Clarity: insurance reserves have no syllable-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Reserve Symbols,mining,False,Clarity fails: mining reserves have no symbol system.,2026-11-05T01:06:11.096731+09:00
 Reserve Symptoms,mining,False,Clarity fails: mining reserves have no symptoms idiom.,2026-11-05T01:06:11.096731+09:00
 Reserve Sync,,True,,2026-08-17T23:32:02.596672+09:00
@@ -567900,6 +567942,7 @@ Shampoo Suppliers,salon_spa,False,Suppliers는 물리 샴푸 읽힘 결합 불�
 Shampoo Support,salon_spa,False,샴푸가 '지원'할 대상이나 받을 지원이 존재하지 않는 결합임,2026-09-24T03:11:17.121305+09:00
 Shampoo Symbols,salon_spa,True,,2026-11-05T03:50:16.598281+09:00
 Shampoo Symptoms,salon_spa,True,,2026-11-05T03:50:16.598281+09:00
+Shampoo Synonyms,salon_spa,False,Clarity: salon shampoo products have no synonym-lookup demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Shampoo Tab,salon_spa,True,,2026-08-29T14:51:07.420006+09:00
 Shampoo Table,salon_spa,True,,2026-08-29T14:51:07.420006+09:00
 Shampoo Tag,salon_spa,True,,2026-08-29T14:51:07.420006+09:00
@@ -579579,6 +579622,7 @@ Skydiving Albums,travel_tourism,False,Albums는 스카이다이빙 활동과 결
 Skydiving Alert,travel_tourism,True,,2026-09-16T23:48:33.918464+09:00
 Skydiving Allowance,travel_tourism,False,결합 불성립,2026-09-10T15:22:21.585140+09:00
 Skydiving Alternatives,travel_tourism,True,,2026-09-17T21:38:57.409887+09:00
+Skydiving Anagrams,travel_tourism,False,Clarity: skydiving tourism has no anagram-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Skydiving Analysis,travel_tourism,False,Analysis는 행위명으로 제품 형태가 불명확하다,2026-09-16T19:12:23.972609+09:00
 Skydiving Announcement,travel_tourism,False,결합 불성립,2026-09-15T13:14:08.390190+09:00
 Skydiving Answers,travel_tourism,False,Skydiving Answers는 문답 집합으로 결합 시 수요 불명확,2026-09-19T05:01:02.129306+09:00
@@ -582528,6 +582572,7 @@ Smog Compass,automotive,True,,2026-08-29T14:15:46.009425+09:00
 Smog Compatibility,automotive,False,clarity 탈락 - 의미 불명,2026-09-07T16:44:08.977562+09:00
 Smog Condition,automotive,False,스모그 상태가 무엇의 상태인지 불분명,2026-09-08T03:36:04.699414+09:00
 Smog Confirmation,automotive,True,,2026-08-29T14:15:46.009425+09:00
+Smog Conjugations,automotive,False,Clarity: smog check services have no conjugation-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Smog Console,automotive,True,,2026-08-29T14:15:46.009425+09:00
 Smog Converter,automotive,True,,2026-08-29T14:15:46.009425+09:00
 Smog Copayment,automotive,True,,2026-08-29T14:15:46.009425+09:00
@@ -621498,6 +621543,7 @@ Syrup Worksheet,pharmacy,True,,2026-08-29T13:42:26.295198+09:00
 Syrup Workshop,pharmacy,True,,2026-08-29T13:42:26.295198+09:00
 Syrup Yard,pharmacy,True,,2026-08-29T13:42:26.295198+09:00
 Syrup Zone,pharmacy,True,,2026-08-29T13:42:26.295198+09:00
+Tabbouleh Diagram,food_service,False,Clarity: tabbouleh menu items have no diagram-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Tablet Account,pharmacy,True,,2026-08-29T14:51:07.420006+09:00
 Tablet Advance,pharmacy,True,,2026-08-29T13:42:26.295198+09:00
 Tablet Advice,pharmacy,False,선례 기각(App 기각) 계열,2026-09-15T13:14:08.390190+09:00
@@ -631896,6 +631942,7 @@ Theory Log,music_lessons,False,이론 로그 결합은 Log 콘텐츠 불성립,2
 Theory Login,music_lessons,False,선례 기각(App 기각) 계열,2026-09-15T13:14:08.390190+09:00
 Theory Lookup,music_lessons,True,,2026-09-08T15:54:57.611282+09:00
 Theory Loop,music_lessons,False,이론 루프 결합은 Loop 불성립,2026-09-08T15:54:57.611282+09:00
+Theory Lyrics,music_lessons,True,,2026-11-21T21:49:23.801625+09:00
 Theory Manager,music_lessons,False,이론 관리자 결합은 Manager 기각 계열 불성립,2026-09-08T19:27:03.985222+09:00
 Theory Manual,music_lessons,True,,2026-09-08T21:32:31.297167+09:00
 Theory Map,music_lessons,False,이론 지도 결합은 Map 불성립,2026-09-08T15:54:57.611282+09:00
@@ -636309,6 +636356,7 @@ Thumbnail Compass,photography_services,True,,2026-08-31T02:36:20.410770+09:00
 Thumbnail Compatibility,photography_services,False,clarity 실패 - 썸네일 호환성은 UI 스펙으로만 읽혀 제품 불명확,2026-09-07T16:44:08.977562+09:00
 Thumbnail Condition,photography_services,False,썸네일 상태가 무엇의 상태인지 불분명,2026-09-08T03:36:04.699414+09:00
 Thumbnail Confirmation,photography_services,True,,2026-08-31T02:36:20.410770+09:00
+Thumbnail Conjugations,photography_services,False,Clarity: photography thumbnails have no conjugation-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Thumbnail Console,photography_services,True,,2026-08-31T02:36:20.410770+09:00
 Thumbnail Converter,photography_services,True,,2026-08-31T02:36:20.410770+09:00
 Thumbnail Copayment,photography_services,False,nonsensical pairing - copayment is a medical/insurance billing term unrelated to photo thumbnails,2026-08-31T02:36:20.410770+09:00
@@ -652543,6 +652591,7 @@ Transponder Tournament,locksmith_security_services,False,대회 결합 불성립
 Transponder Tower,locksmith_security_services,True,,2026-08-19T21:03:14.678005+09:00
 Transponder Tracker,locksmith_security_services,True,,2026-08-19T21:28:57.717683+09:00
 Transponder Trail,locksmith_security_services,True,,2026-08-19T21:03:14.678005+09:00
+Transponder Translations,locksmith_security_services,False,"Clarity: transponder key services involve programming, not language translation; the pair names no recognizable product.",2026-11-21T21:49:23.801625+09:00
 Transponder Trend,locksmith_security_services,True,,2026-08-28T01:01:27.354248+09:00
 Transponder Trial,locksmith_security_services,True,,2026-08-27T21:12:37.708243+09:00
 Transponder Tuner,locksmith_security_services,False,트랜스폰더 조율기 결합은 Tuner 결합 불성립,2026-09-08T15:54:57.611282+09:00
@@ -654675,6 +654724,7 @@ Tree Sum,landscaping,False,Sum 금전 결합 불성립,2026-09-18T14:44:09.20482
 Tree Summary,landscaping,True,,2026-09-18T12:40:10.683977+09:00
 Tree Suppliers,landscaping,False,Suppliers는 물리 나무 읽힘 결합 불명확,2026-09-18T21:33:43.093657+09:00
 Tree Support,landscaping,True,,2026-09-24T03:11:17.121305+09:00
+Tree Syllables,landscaping,False,Clarity: tree care services have no syllable-related demand; the pair names no recognizable product.,2026-11-21T21:49:23.801625+09:00
 Tree Symbols,landscaping,True,,2026-11-05T03:50:16.598281+09:00
 Tree Symptoms,landscaping,True,,2026-11-05T03:50:16.598281+09:00
 Tree Tab,landscaping,False,Tab 라벨 결합 불성립,2026-09-18T12:40:10.683977+09:00

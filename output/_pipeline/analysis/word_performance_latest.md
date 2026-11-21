@@ -1,7 +1,7 @@
 # 단어 성과 리포트 (자동 생성)
 
-- 생성 시각: 2026-11-17T01:39:19.863510+09:00
-- 누적 통과율: 4616/369709 = 1.25%
+- 생성 시각: 2026-11-21T21:49:36.395055+09:00
+- 누적 통과율: 4617/369717 = 1.25%
 - 은퇴 기능어: 97개 (`config/retired_function_words.csv`)
 
 ## 기능어 통과율 상위 (시도 100회 이상)
@@ -48,7 +48,7 @@ Almanac, Analyzer, Anchor, Basics, Benchmark, Blueprint, Book, Builder, Cabinet,
 | Crossword | 25 | 224 | 11.16% |
 | Math | 11 | 102 | 10.78% |
 | Museum | 5 | 51 | 9.80% |
-| Background | 28 | 296 | 9.46% |
+| Background | 28 | 297 | 9.43% |
 | Desert | 8 | 86 | 9.30% |
 | Geography | 9 | 99 | 9.09% |
 | Nachos | 3 | 33 | 9.09% |

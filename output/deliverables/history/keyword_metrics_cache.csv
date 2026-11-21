@@ -20536,6 +20536,7 @@ Background Schematic,,,failed,False,2026-08-29T15:43:43.717849+09:00
 Background Scope,10.0,0.0,success,False,2026-08-29T15:48:21.546918+09:00
 Background Score,2400.0,1.0,success,False,2026-08-29T15:53:20.734083+09:00
 Background Seal,1000.0,0.0,success,True,2026-09-01T00:34:33.019641+09:00
+Background Sentences,720.0,0.0,success,False,2026-11-21T21:49:33.613525+09:00
 Background Serial,10.0,0.0,success,False,2026-08-29T15:58:41.302884+09:00
 Background Sheet,720.0,77.0,success,False,2026-08-29T15:53:16.559812+09:00
 Background Shelf,1000.0,3.0,success,False,2026-08-29T15:52:11.951598+09:00
@@ -34355,6 +34356,7 @@ Blog Subsidy,,,failed,False,2026-08-29T16:53:10.260662+09:00
 Blog Sum,,,failed,False,2026-08-29T16:50:33.740856+09:00
 Blog Summary,40.0,0.0,success,False,2026-08-29T16:47:33.289700+09:00
 Blog Symbols,320.0,0.0,success,False,2026-11-05T04:07:01.842142+09:00
+Blog Synonyms,1300.0,0.0,success,True,2026-11-21T21:49:33.613525+09:00
 Blog Tab,30.0,0.0,success,False,2026-08-29T16:49:12.654897+09:00
 Blog Table,140.0,6.0,success,False,2026-08-29T16:48:23.944395+09:00
 Blog Tag,1000.0,0.0,success,True,2026-08-29T16:46:36.580410+09:00
@@ -78822,6 +78824,7 @@ Conference Total,,,failed,False,2026-08-29T16:07:31.468724+09:00
 Conference Tower,110.0,1.0,success,False,2026-08-29T16:11:53.404389+09:00
 Conference Tracker,480.0,6.0,success,False,2026-08-29T16:09:06.194665+09:00
 Conference Trail,10.0,0.0,success,False,2026-08-29T16:10:35.929321+09:00
+Conference Translations,,,failed,False,2026-11-21T21:49:33.613525+09:00
 Conference Trend,,,failed,False,2026-08-29T16:08:19.043054+09:00
 Conference Trial,90.0,1.0,success,False,2026-08-29T16:15:48.660177+09:00
 Conference Tutorial,10.0,0.0,success,False,2026-09-09T06:21:35.268908+09:00
@@ -93335,6 +93338,7 @@ Cursive Office,,,failed,False,2026-11-05T04:12:27.618546+09:00
 Cursive Options,,,failed,False,2026-11-05T03:54:52.826148+09:00
 Cursive Order,50.0,13.0,success,False,2026-11-04T09:23:33.531862+09:00
 Cursive Origins,,,failed,False,2026-11-05T03:58:20.432484+09:00
+Cursive Orthography,,,failed,False,2026-11-21T21:49:33.613525+09:00
 Cursive Outline,90.0,0.0,success,False,2026-11-04T09:35:11.542837+09:00
 Cursive Parts,,,failed,False,2026-11-05T03:59:28.091980+09:00
 Cursive Path,,,failed,False,2026-11-05T04:04:14.378806+09:00
@@ -120396,6 +120400,7 @@ Endodontics Template,,,failed,False,2026-09-09T06:23:05.140610+09:00
 Endodontics Timeline,,,failed,False,2026-09-09T23:41:50.369200+09:00
 Endodontics Timetable,,,failed,False,2026-09-09T06:23:05.140610+09:00
 Endodontics Tools,260.0,76.0,success,False,2026-11-05T04:00:30.691939+09:00
+Endodontics Translations,,,failed,False,2026-11-21T21:49:33.613525+09:00
 Endodontics Tutorial,,,failed,False,2026-09-09T06:23:05.140610+09:00
 Endodontics Uses,,,failed,False,2026-11-05T04:00:48.188611+09:00
 Endodontics Video,90.0,2.0,success,False,2026-09-09T06:23:05.140610+09:00
@@ -130722,6 +130727,7 @@ Feedback Tools,1000.0,56.0,success,False,2026-11-05T01:12:35.927038+09:00
 Feedback Total,,,failed,False,2026-08-27T23:11:25.184143+09:00
 Feedback Tracker,390.0,14.0,success,False,2026-08-17T20:33:59.012811+09:00
 Feedback Trail,,,failed,False,2026-08-17T20:36:56.303275+09:00
+Feedback Translations,590.0,0.0,success,False,2026-11-21T21:49:33.613525+09:00
 Feedback Trend,,,failed,False,2026-08-28T01:04:28.102899+09:00
 Feedback Trial,10.0,0.0,success,False,2026-08-27T21:13:10.326383+09:00
 Feedback Tutorial,10.0,0.0,success,False,2026-09-09T02:03:07.524897+09:00
@@ -135978,6 +135984,7 @@ Flashcard Register,,,failed,False,2026-09-18T10:08:50.151082+09:00
 Flashcard Registry,,,failed,False,2026-09-18T10:08:50.151082+09:00
 Flashcard Repository,,,failed,False,2026-09-17T16:16:14.128727+09:00
 Flashcard Rewards,,,failed,False,2026-11-04T01:50:45.276650+09:00
+Flashcard Rhymes,,,failed,False,2026-11-21T21:49:33.613525+09:00
 Flashcard Risks,,,failed,False,2026-11-05T04:01:55.308284+09:00
 Flashcard Scheduler,,,failed,False,2026-09-18T10:08:50.151082+09:00
 Flashcard Schematic,,,failed,False,2026-09-18T14:48:09.571374+09:00
@@ -327364,6 +327371,7 @@ Theory Help,140.0,25.0,success,False,2026-09-17T21:50:58.291685+09:00
 Theory Ideas,170.0,0.0,success,False,2026-09-17T21:50:58.291685+09:00
 Theory Lessons,480.0,20.0,success,False,2026-09-19T05:01:38.500828+09:00
 Theory Lookup,,,failed,False,2026-09-08T15:57:46.801687+09:00
+Theory Lyrics,20.0,0.0,success,False,2026-11-21T21:49:33.613525+09:00
 Theory Manual,20.0,55.0,success,False,2026-09-08T21:36:17.632162+09:00
 Theory Meanings,90.0,0.0,success,False,2026-11-04T01:53:20.080202+09:00
 Theory Memes,2900.0,0.0,success,True,2026-11-17T01:36:19.152344+09:00

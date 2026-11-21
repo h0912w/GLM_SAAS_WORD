@@ -310,7 +310,8 @@ def _export_final_words_and_history_snapshots(project_root: Path, when) -> None:
     """문서 ④(OK 단어 리스트)의 마스터(`passed_words_latest.txt`, 항상 최신
     전체 누적)와 날짜시간 스냅샷을 쓰고, 문서 ②③의 날짜시간 스냅샷도 함께
     쓴다. `words.txt`는 더 이상 존재하지 않으므로 스냅샷 소스에서 제외됐다
-    (2026-08-18 전환). 라운드당 1회 호출(_apply_keyword_metrics_filter 종료 시)."""
+    (2026-08-18 전환). 라운드당 1회 호출(_apply_keyword_metrics_filter 종료 시).
+    이번 라운드의 스냅샷 파일명을 반환한다(외부 미러 동기화가 사용)."""
     stamp = when.strftime("%Y%m%d_%H%M%S") + "_KST"
 
     passed_path = _metrics_passed_path(project_root)
@@ -1231,7 +1232,9 @@ def _stage_generate_and_review_titles(project_root: Path, options: RunOptions, s
         raise RetryRequired(f"keyword metrics filter unavailable: {exc}", status="RETRYING")
     finally:
         # 판정/API 조회 후 모든 스냅샷 생성 - 명시적 호출로 누락 방지
-        _export_final_words_and_history_snapshots(project_root, ids.now_kst())
+        snapshot_stamp = _export_final_words_and_history_snapshots(project_root, ids.now_kst())
+        # 외부 미러 동기화(2026-11-21)가 사용할 이번 라운드 스냅샷 파일명
+        state.context["final_words_snapshot"] = f"passed_words_{snapshot_stamp}.txt"
         # 학습 루프: 매 라운드 성과 리포트 자동 갱신(캐시 없으면 no-op)
         word_performance.write_report(project_root, ids.now_kst())
     state.context["approved"] = approved
@@ -1252,6 +1255,37 @@ def _stage_generate_and_review_titles(project_root: Path, options: RunOptions, s
 # ---------------------------------------------------------------------------
 # Stage: update_memory_and_git_checkpoint
 # ---------------------------------------------------------------------------
+
+
+def _sync_file_share_mirror(project_root: Path, state: run_state.RunState) -> str | None:
+    """통과 단어 리스트를 외부 미러(dudreat/File_share)로 동기화한다.
+
+    2026-11-21 사용자 지시. 미러는 공식 산출물 4개 문서의 부차 복제본이므로
+    실패해도 라운드를 막지 않는다 - 성공 시 None, 실패 시 경고 문구를 반환해
+    호출측이 HANDOFF에 한 줄로 남기게 한다(§8: 실패를 숨기지 않는다).
+    """
+    script_path = project_root / "scripts" / "sync_word_list_to_file_share.py"
+    command = [sys.executable, str(script_path), "--project-root", str(project_root)]
+    snapshot = state.context.get("final_words_snapshot")
+    if snapshot:
+        command += ["--snapshot", snapshot]
+    try:
+        result = subprocess.run(
+            command,
+            cwd=project_root,
+            capture_output=True,
+            text=True,
+            check=False,
+            timeout=300,
+        )
+    except subprocess.TimeoutExpired:
+        return "동기화 실패(타임아웃 300초)"
+    if result.returncode != 0:
+        lines = (result.stdout + result.stderr).strip().splitlines()
+        reason = lines[-1] if lines else f"종료코드 {result.returncode}"
+        return f"동기화 실패: {reason}"
+    print(result.stdout.strip())
+    return None
 
 
 def _stage_update_memory_and_git_checkpoint(project_root: Path, options: RunOptions, state: run_state.RunState) -> None:
@@ -1287,6 +1321,10 @@ def _stage_update_memory_and_git_checkpoint(project_root: Path, options: RunOpti
     if principle_reminder:
         print(principle_reminder)
 
+    # 외부 미러 동기화(2026-11-21, 사용자 지시): HANDOFF 기록 전에 실행해야
+    # 실패 경고 한 줄이 HANDOFF에 함께 커밋된다. 실패는 라운드를 막지 않는다.
+    mirror_warning = _sync_file_share_mirror(project_root, state)
+
     handoff_lines = [
         "# HANDOFF",
         "",
@@ -1303,6 +1341,8 @@ def _stage_update_memory_and_git_checkpoint(project_root: Path, options: RunOpti
     ]
     if principle_reminder:
         handoff_lines.append(f"- {principle_reminder}")
+    if mirror_warning:
+        handoff_lines.append(f"- [File_share 미러] {mirror_warning}")
     handoff_lines.append("- 다음 원자 작업: 필요하면 다시 실행(같은 run_id --resume 또는 새 run)")
 
     atomic_write_text(

@@ -27,3 +27,4 @@ Thumbs.db
 # data/raw and data/local.db being excluded. run_state.json itself (small,
 # structured) stays tracked for session-resume traceability.
 output/_pipeline/runs/*/judgment/
+File_share/
