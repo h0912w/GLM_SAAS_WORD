@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Exterior Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram-solver query for the real word 'exterior' is a coherent query-clause reading; no mark, no dup"
+ },
+ {
+  "title": "Harp Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling lookup for the instrument word 'harp' is a real search pattern"
+ },
+ {
+  "title": "Drainage Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'drainage' (landscaping/plumbing word) is a coherent query"
+ },
+ {
+  "title": "Grease Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'grease' reads in cooking context, a real query; no movie-mark reading forced"
+ },
+ {
+  "title": "Chair Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for the common word 'chair' is coherent"
+ },
+ {
+  "title": "Brand Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for the common word 'brand' is a real search pattern"
+ },
+ {
+  "title": "Boiler Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'boiler' (HVAC context) is coherent"
+ },
+ {
+  "title": "Bump Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation query for the common word 'bump' is coherent"
+ },
+ {
+  "title": "Briefing Conjugations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 'briefing' is the gerund of 'to brief' (briefing the team), so a verb-usage conjugation query is coherent per the batch-7 gerund-anchor line"
+ },
+ {
+  "title": "Export Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for the common word 'export' is coherent"
+ },
+ {
+  "title": "Elbow Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling lookup for the body-part word 'elbow' is a real query"
+ },
+ {
+  "title": "Cannula Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllabification of the medical term 'cannula' is a genuine spelling-learner query"
+ },
+ {
+  "title": "Application Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for the common word 'application' is coherent"
+ },
+ {
+  "title": "Science Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'science' is a real search pattern"
+ },
+ {
+  "title": "Confetti Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for the common word 'confetti' is coherent"
+ },
+ {
+  "title": "Waffle Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'waffle' (food or speech sense) is coherent"
+ },
+ {
+  "title": "Canary Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of the bird word 'canary' is a real learner query; no watchlist mark collision"
+ },
+ {
+  "title": "Garden Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for the common word 'garden' is coherent"
+ },
+ {
+  "title": "Comorbidity Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling of the medical term 'comorbidity' is a genuine hard-to-spell query"
+ },
+ {
+  "title": "Acai Barcode",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: barcode labeling on acai retail products is a real business-operations reading"
+ },
+ {
+  "title": "Bruschetta Feedback",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: customer feedback for a bruschetta/restaurant business is a coherent ops reading"
+ },
+ {
+  "title": "Prosciutto Renewal",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recurring-order/subscription renewal at a prosciutto deli is a plausible ops reading; Renewal is in the sustained business-ops family"
+ },
+ {
+  "title": "Edamame Certification",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: organic/non-GMO certification of edamame is a real industry field"
+ },
+ {
+  "title": "Ceviche Correction",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe/menu correction ops reading; Correction is in the sustained list and no Ceviche Revision exists in the ledger (verified) so no dup"
+ },
+ {
+  "title": "Guacamole Payment",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: payment for guacamole add-on (avocado surcharge) is a real kitchen-context reading; generic-word dominance per batch-4 line"
+ },
+ {
+  "title": "Escargot Recipe",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: recipe query for escargot is a plainly real search"
+ },
+ {
+  "title": "Gyro Diary",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: food-diary reading (diary of gyro meals) is a genuine genre; distinct from the software-context Diary flips"
+ },
+ {
+  "title": "Quinoa Expense",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: grocery/pantry expense tracking for quinoa is a coherent ops reading"
+ },
+ {
+  "title": "Mochi Newsletter",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: bakery/mochi-shop newsletter is a coherent ops reading"
+ },
+ {
+  "title": "Satay Inventory",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: restaurant inventory for satay ingredients is a sustained ops reading"
+ },
+ {
+  "title": "Gumbo Checkin",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: customer check-in for a restaurant waitlist/reservation is a coherent ops reading for a gumbo venue"
+ },
+ {
+  "title": "Inspection Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of the common word 'inspection' is coherent"
+ },
+ {
+  "title": "Catalog Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for the common word 'catalog' is coherent"
+ },
+ {
+  "title": "Occupancy Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'occupancy' is a real search pattern"
+ },
+ {
+  "title": "Cohort Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for the common word 'cohort' is coherent"
+ },
+ {
+  "title": "Scheduling Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'scheduling' is coherent"
+ },
+ {
+  "title": "Pesticide Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of the agricultural word 'pesticide' is a real learner query"
+ },
+ {
+  "title": "Beneficiary Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'beneficiary' (long, anagram-friendly word) is coherent"
+ },
+ {
+  "title": "Broadcast Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling of 'broadcast' is a real lookup"
+ },
+ {
+  "title": "Evaporator Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllabification of 'evaporator' is a genuine hard-word query"
+ },
+ {
+  "title": "Subtitling Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'subtitling' is coherent in the media-localization field"
+ },
+ {
+  "title": "Crate Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for the common word 'crate' is coherent"
+ },
+ {
+  "title": "Delivery Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'delivery' is coherent"
+ },
+ {
+  "title": "Catering Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'catering' is a real learner query"
+ },
+ {
+  "title": "Cover Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for the common word 'cover' is coherent"
+ },
+ {
+  "title": "Beach Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling lookup for 'beach' is a real learner query"
+ },
+ {
+  "title": "Sibling Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'sibling' is coherent"
+ },
+ {
+  "title": "Drainage Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'drainage' is coherent"
+ },
+ {
+  "title": "Grease Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'grease' is a real search pattern"
+ },
+ {
+  "title": "Chair Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'chair' is coherent"
+ },
+ {
+  "title": "Brand Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'brand' is coherent"
+ },
+ {
+  "title": "Boiler Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of the HVAC word 'boiler' is a real learner query"
+ },
+ {
+  "title": "Briefing Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'briefing' is coherent"
+ },
+ {
+  "title": "Hose Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling lookup for the hardware word 'hose' is a real query"
+ },
+ {
+  "title": "Felting Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllabification of the craft term 'felting' is coherent"
+ },
+ {
+  "title": "Cannula Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'cannula' is coherent"
+ },
+ {
+  "title": "Application Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'application' is a real search pattern"
+ },
+ {
+  "title": "Science Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'science' is coherent"
+ },
+ {
+  "title": "Confetti Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'confetti' is coherent"
+ },
+ {
+  "title": "Waffle Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'waffle' is a real learner query"
+ },
+ {
+  "title": "Fluoride Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'fluoride' is coherent"
+ },
+ {
+  "title": "Crossstitch Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling of the compound craft term 'crossstitch' (cross-stitch variant) is a genuine spelling query"
+ },
+ {
+  "title": "Acai Appointment",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: pickup/tasting appointment at an acai shop is a coherent ops reading; Appointment is in the sustained business-ops family"
+ },
+ {
+  "title": "Bruschetta Invoice",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: catering invoice for bruschetta orders is a real ops reading"
+ },
+ {
+  "title": "Prosciutto Quote",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: charcuterie catering quote for prosciutto is a real ops reading; Quote is in the sustained family"
+ },
+ {
+  "title": "Tabbouleh Deposit",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: catering deposit for a tabbouleh order is a plausible ops reading; Deposit is in the sustained family"
+ },
+ {
+  "title": "Bratwurst Review",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: customer review of bratwurst (restaurant/product review) is a generic, non-encumbered reading"
+ },
+ {
+  "title": "Gyro Refund",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: order refund at a gyro shop is a coherent ops reading"
+ },
+ {
+  "title": "Quinoa Newsletter",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: newsletter ops for a quinoa/health-food brand is coherent"
+ },
+ {
+  "title": "Mochi Inventory",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: bakery inventory for mochi is a sustained ops reading"
+ },
+ {
+  "title": "Satay Claim",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: reimbursement/insurance claim ops reading for satay catering is plausible; no dead-pattern fragment reading forced"
+ },
+ {
+  "title": "Moussaka Onboarding",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: staff onboarding at a moussaka restaurant is a coherent business-ops reading"
+ },
+ {
+  "title": "Borscht Checkin",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: customer check-in/waitlist ops reading for a borscht venue is coherent"
+ },
+ {
+  "title": "Recruiting Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of the common word 'recruiting' is coherent"
+ },
+ {
+  "title": "Inspection Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'inspection' is coherent"
+ },
+ {
+  "title": "Catalog Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'catalog' is a real search pattern"
+ },
+ {
+  "title": "Occupancy Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'occupancy' is coherent"
+ },
+ {
+  "title": "Cohort Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'cohort' is coherent"
+ },
+ {
+  "title": "Scheduling Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'scheduling' is a real learner query"
+ },
+ {
+  "title": "Substation Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'substation' is coherent"
+ },
+ {
+  "title": "Engagement Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling of 'engagement' is a real lookup"
+ },
+ {
+  "title": "Hangar Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of the aviation word 'hangar' is coherent"
+ },
+ {
+  "title": "Evaporator Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'evaporator' is coherent"
+ },
+ {
+  "title": "Subtitling Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'subtitling' is coherent"
+ },
+ {
+  "title": "Crate Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'crate' is coherent"
+ },
+ {
+  "title": "Delivery Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'delivery' is a real learner query"
+ },
+ {
+  "title": "Vacancy Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'vacancy' is coherent"
+ },
+ {
+  "title": "Snake Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling lookup for 'snake' is a real learner query"
+ },
+ {
+  "title": "Rowing Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'rowing' is coherent"
+ },
+ {
+  "title": "Sibling Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'sibling' is coherent"
+ },
+ {
+  "title": "Drainage Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'drainage' is a real search pattern"
+ },
+ {
+  "title": "Grease Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'grease' is coherent"
+ },
+ {
+  "title": "Chair Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'chair' is coherent"
+ },
+ {
+  "title": "Brand Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'brand' is a real learner query"
+ },
+ {
+  "title": "Bump Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for the common word 'bump' is coherent"
+ },
+ {
+  "title": "Pet Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling lookup for 'pet' is a real learner query"
+ },
+ {
+  "title": "Glacier Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'glacier' is coherent"
+ },
+ {
+  "title": "Felting Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for the craft term 'felting' is coherent"
+ },
+ {
+  "title": "Cannula Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for the medical term 'cannula' is coherent"
+ },
+ {
+  "title": "Application Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'application' is coherent"
+ },
+ {
+  "title": "Science Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'science' is coherent"
+ },
+ {
+  "title": "Confetti Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'confetti' is a real learner query"
+ },
+ {
+  "title": "Canary Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for the bird word 'canary' is coherent"
+ },
+ {
+  "title": "Volcano Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling of 'volcano' is a real learner query"
+ },
+ {
+  "title": "Acai Feedback",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: customer feedback ops for an acai shop; Feedback is distinct from Message/Notification and no counterpart title exists in the ledger"
+ },
+ {
+  "title": "Ceviche Payment",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: payment ops at a ceviche restaurant is a coherent reading"
+ },
+ {
+  "title": "Bratwurst Recipe",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: recipe query for bratwurst is a plainly real search"
+ },
+ {
+  "title": "Gyro Expense",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: expense tracking for a gyro business is a coherent ops reading"
+ },
+ {
+  "title": "Quinoa Inventory",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: grocery/pantry inventory for quinoa is a sustained ops reading"
+ },
+ {
+  "title": "Mochi Claim",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: reimbursement/warranty claim ops reading for mochi orders is plausible; no dead-fragment reading forced"
+ },
+ {
+  "title": "Satay Onboarding",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: staff onboarding at a satay restaurant is a coherent business-ops reading"
+ },
+ {
+  "title": "Moussaka Checkin",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: customer check-in ops reading for a moussaka venue is coherent"
+ },
+ {
+  "title": "Deductible Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllabification of the insurance term 'deductible' is a genuine learner query"
+ },
+ {
+  "title": "Recruiting Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'recruiting' is coherent"
+ },
+ {
+  "title": "Inspection Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'inspection' is a real search pattern"
+ },
+ {
+  "title": "Catalog Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'catalog' is coherent"
+ },
+ {
+  "title": "Occupancy Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'occupancy' is coherent"
+ },
+ {
+  "title": "Cohort Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'cohort' is a real learner query"
+ },
+ {
+  "title": "Pesticide Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'pesticide' is coherent"
+ },
+ {
+  "title": "Records Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: spelling lookup for the plural common noun 'records' is still a coherent learner query; query-clause family stands"
+ },
+ {
+  "title": "Hangar Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for the aviation word 'hangar' is coherent"
+ },
+ {
+  "title": "Evaporator Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'evaporator' is coherent"
+ },
+ {
+  "title": "Subtitling Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'subtitling' is coherent"
+ },
+ {
+  "title": "Crate Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'crate' is a real learner query"
+ },
+ {
+  "title": "Catering Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'catering' is coherent"
+ },
+ {
+  "title": "Exterior Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling of 'exterior' is a real learner query"
+ },
+ {
+  "title": "Veneer Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'veneer' is coherent"
+ },
+ {
+  "title": "Rowing Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'rowing' is coherent"
+ },
+ {
+  "title": "Sibling Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'sibling' is a real search pattern"
+ },
+ {
+  "title": "Drainage Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'drainage' is coherent"
+ },
+ {
+  "title": "Grease Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'grease' is coherent"
+ },
+ {
+  "title": "Chair Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'chair' is a real learner query"
+ },
+ {
+  "title": "Boiler Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'boiler' is coherent"
+ },
+ {
+  "title": "Export Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling of 'export' is a real learner query"
+ },
+ {
+  "title": "Courtyard Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'courtyard' is coherent"
+ },
+ {
+  "title": "Glacier Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'glacier' is coherent"
+ },
+ {
+  "title": "Felting Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for the craft term 'felting' is coherent"
+ },
+ {
+  "title": "Cannula Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'cannula' is coherent"
+ },
+ {
+  "title": "Application Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'application' is coherent"
+ },
+ {
+  "title": "Science Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'science' is a real learner query"
+ },
+ {
+  "title": "Waffle Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'waffle' is coherent"
+ },
+ {
+  "title": "Garden Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling of 'garden' is a real learner query"
+ },
+ {
+  "title": "Acai Invoice",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: invoice ops for acai wholesale/retail orders is a coherent reading"
+ },
+ {
+  "title": "Bruschetta Quote",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: catering quote for bruschetta orders is a sustained ops reading"
+ },
+ {
+  "title": "Prosciutto Deposit",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: deposit on a prosciutto catering order is a plausible ops reading; Deposit is in the sustained family"
+ },
+ {
+  "title": "Empanada Review",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: customer review of empanadas is generic; no Helper-style mark collision (Review is not an encumbered function word)"
+ },
+ {
+  "title": "Escargot Refund",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: order refund at an escargot restaurant is a coherent ops reading"
+ },
+ {
+  "title": "Gyro Newsletter",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: newsletter ops for a gyro shop is coherent"
+ },
+ {
+  "title": "Quinoa Claim",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: reimbursement/health-claim ops reading for quinoa is plausible; no dead-fragment reading forced"
+ },
+ {
+  "title": "Mochi Onboarding",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: staff onboarding at a mochi bakery is a coherent business-ops reading"
+ },
+ {
+  "title": "Satay Checkin",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: customer check-in ops reading for a satay venue is coherent"
+ },
+ {
+  "title": "Deductible Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'deductible' is coherent"
+ },
+ {
+  "title": "Recruiting Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'recruiting' is a real search pattern"
+ },
+ {
+  "title": "Inspection Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'inspection' is coherent"
+ },
+ {
+  "title": "Catalog Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'catalog' is coherent"
+ },
+ {
+  "title": "Occupancy Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'occupancy' is a real learner query"
+ },
+ {
+  "title": "Scheduling Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'scheduling' is coherent"
+ },
+ {
+  "title": "Beneficiary Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling of 'beneficiary' is a genuine hard-to-spell query"
+ },
+ {
+  "title": "Medicine Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'medicine' is a real learner query"
+ },
+ {
+  "title": "Hangar Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'hangar' is coherent"
+ },
+ {
+  "title": "Evaporator Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'evaporator' is coherent"
+ },
+ {
+  "title": "Subtitling Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'subtitling' is a real localization-field query"
+ },
+ {
+  "title": "Delivery Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'delivery' is coherent"
+ },
+ {
+  "title": "Cover Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling of 'cover' is a real learner query"
+ },
+ {
+  "title": "Collar Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'collar' is coherent"
+ },
+ {
+  "title": "Veneer Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'veneer' is coherent"
+ },
+ {
+  "title": "Rowing Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'rowing' is coherent"
+ },
+ {
+  "title": "Sibling Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'sibling' is coherent"
+ },
+ {
+  "title": "Drainage Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'drainage' is coherent"
+ },
+ {
+  "title": "Grease Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'grease' is a real learner query"
+ },
+ {
+  "title": "Brand Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'brand' is coherent"
+ },
+ {
+  "title": "Briefing Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling of 'briefing' is a real learner query"
+ },
+ {
+  "title": "Tartar Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'tartar' (dental term) is a genuine learner query"
+ },
+ {
+  "title": "Courtyard Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'courtyard' is coherent"
+ },
+ {
+  "title": "Glacier Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'glacier' is coherent"
+ },
+ {
+  "title": "Felting Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for the craft term 'felting' is coherent"
+ },
+ {
+  "title": "Cannula Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for the medical term 'cannula' is coherent"
+ },
+ {
+  "title": "Application Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'application' is a real learner query"
+ },
+ {
+  "title": "Confetti Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'confetti' is coherent"
+ },
+ {
+  "title": "Fluoride Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling of 'fluoride' is a genuine hard-to-spell query"
+ },
+ {
+  "title": "Container Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'container' is coherent"
+ },
+ {
+  "title": "Deductible Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for the insurance term 'deductible' is coherent"
+ },
+ {
+  "title": "Recruiting Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'recruiting' is coherent"
+ },
+ {
+  "title": "Inspection Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'inspection' is coherent"
+ },
+ {
+  "title": "Catalog Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'catalog' is a real learner query"
+ },
+ {
+  "title": "Cohort Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'cohort' is coherent"
+ },
+ {
+  "title": "Substation Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling of 'substation' is a real learner query"
+ },
+ {
+  "title": "Manicure Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'manicure' is a real learner query"
+ },
+ {
+  "title": "Medicine Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'medicine' is coherent"
+ },
+ {
+  "title": "Hangar Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'hangar' is coherent"
+ },
+ {
+  "title": "Evaporator Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'evaporator' is coherent"
+ },
+ {
+  "title": "Crate Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'crate' is coherent"
+ },
+ {
+  "title": "Vacancy Orthography",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: spelling of 'vacancy' is a real learner query"
+ },
+ {
+  "title": "Dessert Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'dessert' (dessert-vs-desert confusion) is a classic real spelling query"
+ },
+ {
+  "title": "Collar Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'collar' is coherent"
+ },
+ {
+  "title": "Veneer Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: thesaurus query for 'veneer' is coherent"
+ },
+ {
+  "title": "Rowing Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup for 'rowing' is coherent"
+ },
+ {
+  "title": "Sibling Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'sibling' is coherent"
+ },
+ {
+  "title": "Drainage Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: translation of 'drainage' is a real learner query"
+ },
+ {
+  "title": "Chair Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram query for 'chair' is coherent"
+ }
+]

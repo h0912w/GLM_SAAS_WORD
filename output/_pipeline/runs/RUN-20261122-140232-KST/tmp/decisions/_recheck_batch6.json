@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Heater Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: real query-clause pairing ('heater syllables' style lookup), generic anchor, no defect"
+ },
+ {
+  "title": "Ceramic Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause rhymes lookup on generic word, no trademark/dup defect"
+ },
+ {
+  "title": "Clog Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup is genuine query-clause; clog generic and plumbing-consistent"
+ },
+ {
+  "title": "Luggage Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause on generic travel word, no defect"
+ },
+ {
+  "title": "Flute Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence-example query-clause, music-consistent generic anchor"
+ },
+ {
+  "title": "Scrapbooking Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause on hobby term, no defect"
+ },
+ {
+  "title": "Insurance Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause, generic word"
+ },
+ {
+  "title": "Route Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: spelling query-clause; Route generic here, no travel-app trademark context"
+ },
+ {
+  "title": "Ferry Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause on generic maritime word"
+ },
+ {
+  "title": "Manifold Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause on HVAC part, no defect"
+ },
+ {
+  "title": "Deadlatch Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup on real locksmith term, query-clause stands"
+ },
+ {
+  "title": "Captioning Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause, translation-industry consistent"
+ },
+ {
+  "title": "Carton Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause on generic moving word"
+ },
+ {
+  "title": "Session Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause; Session generic photography term, not the trademark"
+ },
+ {
+  "title": "Notice Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause on generic word"
+ },
+ {
+  "title": "Spigot Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: spelling lookup on niche plumbing word; odd but word-level queries are real"
+ },
+ {
+  "title": "Balcony Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause, generic word"
+ },
+ {
+  "title": "Picnic Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause, generic word"
+ },
+ {
+  "title": "Tuning Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause; tuning is music-consistent gerund anchor"
+ },
+ {
+  "title": "Recovery Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause, healthcare-consistent generic word"
+ },
+ {
+  "title": "Mortgage Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause on finance word, no defect"
+ },
+ {
+  "title": "Intermodal Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: anagram lookup on logistics jargon; niche but word-query behavior is real"
+ },
+ {
+  "title": "Termination Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: spelling query-clause on HR term; niche anchor but pattern stands"
+ },
+ {
+  "title": "Ramen Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause on food word, real lookup behavior"
+ },
+ {
+  "title": "Horse Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause, generic word"
+ },
+ {
+  "title": "Halitosis Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup genuinely searched for this dental term"
+ },
+ {
+  "title": "Smoke Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause; smoke generic, no defect"
+ },
+ {
+  "title": "Rainforest Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause on travel word"
+ },
+ {
+  "title": "Speculum Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: translation lookup of a medical term is real behavior; awkward but coherent"
+ },
+ {
+  "title": "Recess Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause, education-consistent generic word"
+ },
+ {
+  "title": "Pony Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: spelling query-clause on generic word; niche pairing but pattern stands"
+ },
+ {
+  "title": "Acai Estimator",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as catering/order cost estimator for an acai shop, concrete ops"
+ },
+ {
+  "title": "Prosciutto Workshop",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: prosciutto-making workshop/cooking class, clear product reading"
+ },
+ {
+  "title": "Tabbouleh Helper",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: kitchen/recipe helper reading for prep, concrete ops"
+ },
+ {
+  "title": "Ceviche Rank",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "flipped: 'Rank' is an abstract metric fragment - no concrete restaurant operation or content product it clearly names; sits in the dead-pattern family (Matrix/Sensor-style abstract SaaS metric words) round 1 rejected"
+ },
+ {
+  "title": "Guacamole Comparison",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu/recipe comparison reading in food context, not a software-context Guacamole trademark reading"
+ },
+ {
+  "title": "Empanada Guarantee",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: freshness/quality guarantee is a concrete restaurant operation"
+ },
+ {
+  "title": "Bratwurst Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu-copy copywriting reading, concrete ops though thin"
+ },
+ {
+  "title": "Escargot Reference",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe/prep reference reading, concrete ops"
+ },
+ {
+  "title": "Gyro Deadline",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: catering/order deadline reading, concrete ops"
+ },
+ {
+  "title": "Quinoa Volume",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: order/sales volume reading, concrete ops"
+ },
+ {
+  "title": "Satay Progress",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: order progress tracking reading, concrete ops"
+ },
+ {
+  "title": "Borscht Template",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe/menu template reading, concrete ops"
+ },
+ {
+  "title": "Gumbo Guide",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: ordering/recipe guide reading, clear ops"
+ },
+ {
+  "title": "Jambalaya Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: customer review rating reading, concrete ops"
+ },
+ {
+  "title": "Naan Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: review-reply management reading, concrete ops"
+ },
+ {
+  "title": "Arepa Account",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: customer loyalty account reading, concrete ops"
+ },
+ {
+  "title": "Goulash Match",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: flavor/wine-pairing match reading; thin but coherent"
+ },
+ {
+  "title": "Vendor Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause on generic word"
+ },
+ {
+  "title": "Heater Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause, generic word"
+ },
+ {
+  "title": "Ceramic Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause, generic word"
+ },
+ {
+  "title": "Clog Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause, generic word"
+ },
+ {
+  "title": "Luggage Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause, generic travel word"
+ },
+ {
+  "title": "Flute Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause, music word"
+ },
+ {
+  "title": "Aloe Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause, houseplant word"
+ },
+ {
+  "title": "Deposition Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: spelling query-clause on legal term; niche but pattern stands"
+ },
+ {
+  "title": "Bottle Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause, generic word"
+ },
+ {
+  "title": "Ferry Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause"
+ },
+ {
+  "title": "Manifold Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause on HVAC part"
+ },
+ {
+  "title": "Deadlatch Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause on locksmith term"
+ },
+ {
+  "title": "Captioning Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause, translation-industry consistent"
+ },
+ {
+  "title": "Carton Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause, moving word"
+ },
+ {
+  "title": "Guestlist Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause, wedding word"
+ },
+ {
+  "title": "Odor Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: spelling lookup on generic word; odd anchor but pattern stands"
+ },
+ {
+  "title": "Testimonial Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause, photography word"
+ },
+ {
+  "title": "Balcony Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause"
+ },
+ {
+  "title": "Picnic Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause"
+ },
+ {
+  "title": "Tuning Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause, music-consistent"
+ },
+ {
+  "title": "Recovery Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause, healthcare word"
+ },
+ {
+  "title": "Mortgage Conjugations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: mortgage is a valid English verb, so a conjugation lookup is grammatically coherent; not a noun-dominant non-grammar anchor"
+ },
+ {
+  "title": "Guardianship Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause on legal term"
+ },
+ {
+  "title": "Quote Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: spelling query-clause; Quote used generically here, no trademark reading"
+ },
+ {
+  "title": "Streamers Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause, events word"
+ },
+ {
+  "title": "Ramen Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause, food word"
+ },
+ {
+  "title": "Horse Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause"
+ },
+ {
+  "title": "Halitosis Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup, dental-consistent"
+ },
+ {
+  "title": "Smoke Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause"
+ },
+ {
+  "title": "Rainforest Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause, travel word"
+ },
+ {
+  "title": "Underwriter Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause, insurance word"
+ },
+ {
+  "title": "Curry Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling query-clause, food word"
+ },
+ {
+  "title": "Acai Checker",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: allergen/freshness checker reading, concrete ops"
+ },
+ {
+  "title": "Bruschetta Timer",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: kitchen timer reading, clearly concrete ops"
+ },
+ {
+  "title": "Prosciutto Guardian",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: curing/quality monitoring guardian reading is coherent for cured-meat ops, though thin"
+ },
+ {
+  "title": "Tabbouleh Stage",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: prep stage tracking reading, concrete ops"
+ },
+ {
+  "title": "Edamame Streak",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: loyalty/order streak reading (streak rewards are real restaurant app mechanics)"
+ },
+ {
+  "title": "Ceviche Trend",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: menu trend tracking reading, concrete ops"
+ },
+ {
+  "title": "Empanada Record",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: order/health record reading, concrete ops"
+ },
+ {
+  "title": "Bratwurst Reading",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: thermometer doneness reading is a real cooking read for sausage, though thin"
+ },
+ {
+  "title": "Escargot Forecast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: demand forecast reading, concrete ops"
+ },
+ {
+  "title": "Gyro Duration",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: prep/cook duration reading, concrete ops"
+ },
+ {
+  "title": "Mochi Progress",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: order progress reading, concrete ops"
+ },
+ {
+  "title": "Moussaka Template",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe template reading, concrete ops"
+ },
+ {
+  "title": "Borscht Guide",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe/ordering guide reading"
+ },
+ {
+  "title": "Gumbo Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: review rating reading, concrete ops"
+ },
+ {
+  "title": "Shawarma Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: review-reply reading, concrete ops"
+ },
+ {
+  "title": "Naan Account",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: loyalty account reading, concrete ops"
+ },
+ {
+  "title": "Pierogi Match",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: pairing/match reading; thin but coherent"
+ },
+ {
+  "title": "Tzatziki Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu/nutrition lookup reading, concrete ops"
+ },
+ {
+  "title": "Photographer Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause, wedding word"
+ },
+ {
+  "title": "Vendor Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause"
+ },
+ {
+  "title": "Heater Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause"
+ },
+ {
+  "title": "Ceramic Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause"
+ },
+ {
+  "title": "Clog Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause"
+ },
+ {
+  "title": "Luggage Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause"
+ },
+ {
+  "title": "Scrapbooking Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause, hobby word"
+ },
+ {
+  "title": "Audit Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling query-clause, finance word"
+ },
+ {
+  "title": "Pedicure Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause, salon word"
+ },
+ {
+  "title": "Bottle Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause"
+ },
+ {
+  "title": "Ferry Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause"
+ },
+ {
+  "title": "Manifold Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause"
+ },
+ {
+  "title": "Deadlatch Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause on locksmith term"
+ },
+ {
+  "title": "Captioning Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause"
+ },
+ {
+  "title": "Session Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause, photography word"
+ },
+ {
+  "title": "Ladder Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling query-clause, pool word"
+ },
+ {
+  "title": "Impressioning Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: syllable lookup on genuine locksmith jargon; niche but real word-query behavior"
+ },
+ {
+  "title": "Testimonial Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause"
+ },
+ {
+  "title": "Balcony Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause"
+ },
+ {
+  "title": "Picnic Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause"
+ },
+ {
+  "title": "Tuning Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause, music-consistent"
+ },
+ {
+  "title": "Mortgage Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause, finance word"
+ },
+ {
+  "title": "Equity Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling query-clause, real estate word"
+ },
+ {
+  "title": "Pencil Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause, education word"
+ },
+ {
+  "title": "Streamers Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause"
+ },
+ {
+  "title": "Ramen Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause"
+ },
+ {
+  "title": "Horse Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause"
+ },
+ {
+  "title": "Halitosis Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause, dental term"
+ },
+ {
+  "title": "Smoke Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause"
+ },
+ {
+  "title": "Speculum Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: anagram lookup of a medical term is real word-game behavior; awkward but coherent"
+ },
+ {
+  "title": "Raffle Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling query-clause, events word"
+ },
+ {
+  "title": "Bruschetta Workshop",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: cooking workshop reading, clear product"
+ },
+ {
+  "title": "Prosciutto Helper",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: prep helper reading, concrete ops"
+ },
+ {
+  "title": "Edamame Rank",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "flipped: 'Rank' is an abstract metric fragment with no concrete restaurant operation or clear product behind 'Edamame Rank'; dead-pattern family (abstract SaaS metric words) round 1 rejected"
+ },
+ {
+  "title": "Ceviche Comparison",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu/recipe comparison reading, concrete ops"
+ },
+ {
+  "title": "Guacamole Guarantee",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: freshness guarantee reading in food context, not software-context Guacamole trademark"
+ },
+ {
+  "title": "Empanada Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu copywriting reading, concrete ops"
+ },
+ {
+  "title": "Bratwurst Reference",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe reference reading, concrete ops"
+ },
+ {
+  "title": "Escargot Deadline",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: order deadline reading, concrete ops"
+ },
+ {
+  "title": "Gyro Volume",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: order volume reading, concrete ops"
+ },
+ {
+  "title": "Quinoa Progress",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: order progress reading, concrete ops"
+ },
+ {
+  "title": "Satay Template",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe template reading, concrete ops"
+ },
+ {
+  "title": "Moussaka Guide",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe guide reading"
+ },
+ {
+  "title": "Borscht Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: review rating reading"
+ },
+ {
+  "title": "Jambalaya Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: review-reply reading, concrete ops"
+ },
+ {
+  "title": "Shawarma Account",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: loyalty account reading"
+ },
+ {
+  "title": "Arepa Match",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: pairing/match reading; thin but coherent"
+ },
+ {
+  "title": "Goulash Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu/nutrition lookup reading"
+ },
+ {
+  "title": "Backdrop Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause, photography word"
+ },
+ {
+  "title": "Photographer Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause"
+ },
+ {
+  "title": "Vendor Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause, generic word"
+ },
+ {
+  "title": "Heater Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause"
+ },
+ {
+  "title": "Ceramic Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause"
+ },
+ {
+  "title": "Clog Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause"
+ },
+ {
+  "title": "Flute Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause, music word"
+ },
+ {
+  "title": "Insurance Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling query-clause, generic word"
+ },
+ {
+  "title": "Urn Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: syllable lookup on funeral word; somber anchor but word-query behavior is real"
+ },
+ {
+  "title": "Pedicure Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause"
+ },
+ {
+  "title": "Bottle Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause"
+ },
+ {
+  "title": "Ferry Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause"
+ },
+ {
+  "title": "Manifold Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause"
+ },
+ {
+  "title": "Deadlatch Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause on locksmith term"
+ },
+ {
+  "title": "Carton Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause"
+ },
+ {
+  "title": "Notice Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling query-clause, generic word"
+ },
+ {
+  "title": "Radiator Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause, HVAC word"
+ },
+ {
+  "title": "Impressioning Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: rhymes lookup on genuine locksmith jargon; niche but real"
+ },
+ {
+  "title": "Testimonial Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause"
+ },
+ {
+  "title": "Balcony Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause"
+ },
+ {
+  "title": "Picnic Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause"
+ },
+ {
+  "title": "Tuning Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause, music word"
+ },
+ {
+  "title": "Recovery Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause, healthcare word"
+ },
+ {
+  "title": "Intermodal Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: spelling lookup on logistics jargon; niche but pattern stands"
+ },
+ {
+  "title": "Claimant Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause, insurance word"
+ },
+ {
+  "title": "Pencil Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause"
+ },
+ {
+  "title": "Streamers Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause"
+ },
+ {
+  "title": "Ramen Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause"
+ },
+ {
+  "title": "Horse Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause"
+ },
+ {
+  "title": "Halitosis Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation query-clause, dental term"
+ },
+ {
+  "title": "Smoke Conjugations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: smoke is a common English verb, so a conjugation lookup is genuine grammar-query behavior"
+ },
+ {
+  "title": "Rainforest Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query-clause"
+ },
+ {
+  "title": "Recess Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling query-clause"
+ },
+ {
+  "title": "Acai Timer",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: kitchen/prep timer reading, concrete ops"
+ },
+ {
+  "title": "Bruschetta Guardian",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: quality-monitoring guardian reading is coherent for food ops, though thin"
+ },
+ {
+  "title": "Prosciutto Stage",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: curing stage tracking reading, concrete ops"
+ },
+ {
+  "title": "Tabbouleh Streak",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: loyalty streak reading, concrete ops"
+ },
+ {
+  "title": "Edamame Trend",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: menu trend reading, concrete ops"
+ },
+ {
+  "title": "Guacamole Record",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: order record reading in food context, not software-context trademark"
+ },
+ {
+  "title": "Empanada Reading",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: thermometer doneness reading is a real cooking read, though thin"
+ },
+ {
+  "title": "Bratwurst Forecast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: demand forecast reading, concrete ops"
+ },
+ {
+  "title": "Escargot Duration",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: prep/delivery duration reading, concrete ops"
+ },
+ {
+  "title": "Mochi Template",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe template reading, concrete ops"
+ },
+ {
+  "title": "Satay Guide",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe/ordering guide reading"
+ },
+ {
+  "title": "Moussaka Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: review rating reading"
+ },
+ {
+  "title": "Gumbo Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: review-reply reading, concrete ops"
+ },
+ {
+  "title": "Jambalaya Account",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: loyalty account reading"
+ },
+ {
+  "title": "Naan Match",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: pairing/match reading; thin but coherent"
+ },
+ {
+  "title": "Pierogi Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu/nutrition lookup reading"
+ },
+ {
+  "title": "Inventory Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable query-clause; Inventory here is the query anchor word, generic"
+ },
+ {
+  "title": "Backdrop Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query-clause"
+ },
+ {
+  "title": "Photographer Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym query-clause"
+ },
+ {
+  "title": "Vendor Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym query-clause"
+ },
+ {
+  "title": "Heater Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentence query-clause"
+ }
+]

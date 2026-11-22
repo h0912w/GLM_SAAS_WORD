@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Cylinder Orthography",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Annuity Syllables",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Overtime Rhymes",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Scaffold Synonyms",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Barcode Antonyms",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Valet Sentences",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Homework Translations",
+    "approve": true,
+    "confidence": 0.75,
+    "reason": "",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Triathlon Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable-count query demand for a multisyllabic learner word is real"
+ },
+ {
+  "title": "Bathtub Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme-query demand (song/poem writing) real"
+ },
+ {
+  "title": "Landlord Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym-query demand real"
+ },
+ {
+  "title": "Beachfront Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review; antonym lookups persist for real-estate adjectives"
+ },
+ {
+  "title": "Melody Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example-sentence query demand real"
+ },
+ {
+  "title": "Leatherworking Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family approved at review; translation lookups for a craft term plausible"
+ },
+ {
+  "title": "Sleep Conjugations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sleep is a verb with full paradigm - learner conjugation demand real"
+ },
+ {
+  "title": "Acquittal Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand for a wordy legal term plausible"
+ },
+ {
+  "title": "Graduation Lyrics",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: graduation-song lyrics is a genuine search category (commencement songs) - music-context defense stands"
+ },
+ {
+  "title": "Parade Orthography",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: 'parade' spelling is stable and unambiguous - no spelling-debate or how-to-spell demand exists; generic-anchor Orthography defect (batch 27/28 precedent)"
+ },
+ {
+  "title": "Acai Advice",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: semantic duplication - Advice dup Tips (established pair); 'Acai Advice' is the same acai-guide intent as an Acai Tips pairing"
+ },
+ {
+  "title": "Prosciutto Quantity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: serving/portion quantity demand for charcuterie is plausible recipe ops"
+ },
+ {
+  "title": "Tabbouleh Analysis",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Analysis on the established food-ops sustain list (nutrition/recipe analysis)"
+ },
+ {
+  "title": "Ceviche Ideas",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe-ideas demand is a genuine search pattern"
+ },
+ {
+  "title": "Guacamole Names",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Names is a vague fragment on a food anchor (batch 29 Names-family flip) - names of what is unreadable, no demand"
+ },
+ {
+  "title": "Bratwurst Alternatives",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: substitute/alternative demand real"
+ },
+ {
+  "title": "Escargot Examples",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: dish-example/recipe-variety demand, Ideas-adjacent reading (escargot dish examples)"
+ },
+ {
+  "title": "Quinoa Visits",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: Visits dead fragment on a food anchor (established flip family) - an ingredient has no visit demand"
+ },
+ {
+  "title": "Mochi Checkups",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Checkups is an unreadable fragment on a food anchor - medical checkup semantics have no plausible mochi query"
+ },
+ {
+  "title": "Satay Refills",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Refills on the established food-ops sustain list (sauce/drink refill reading)"
+ },
+ {
+  "title": "Moussaka Appointments",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Appointments on the established food-ops sustain list (reservation reading)"
+ },
+ {
+  "title": "Borscht Screenings",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food-safety screening reading plausible"
+ },
+ {
+  "title": "Gumbo Walkthroughs",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe walkthrough demand real"
+ },
+ {
+  "title": "Jambalaya Designs",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu/brand design reading plausible"
+ },
+ {
+  "title": "Shawarma Portraits",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food photography/portrait reading plausible"
+ },
+ {
+  "title": "Naan Albums",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe photo-album reading plausible"
+ },
+ {
+  "title": "Arepa Collages",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food media collage reading plausible"
+ },
+ {
+  "title": "Pierogi Stickers",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food sticker merch genuine category"
+ },
+ {
+  "title": "Goulash Printables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe printables genuine category"
+ },
+ {
+  "title": "Tzatziki Hours",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: restaurant hours reading real"
+ },
+ {
+  "title": "Adherence Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable-count demand for a polysyllabic word real"
+ },
+ {
+  "title": "Berth Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme-query demand; berth also invites homophone confusion with birth"
+ },
+ {
+  "title": "Compressor Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family; example-sentence demand for technical vocabulary plausible"
+ },
+ {
+  "title": "Cylinder Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family; translation demand for a technical term plausible"
+ },
+ {
+  "title": "Proofing Conjugations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: proofing is a verb/gerund (proof the dough, proofing the text) - verb-form demand real"
+ },
+ {
+  "title": "Unpacking Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand plausible"
+ },
+ {
+  "title": "Eviction Orthography",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: 'eviction' has no genuine orthographic dispute and no plausible spelling-lookup audience; generic-anchor Orthography defect"
+ },
+ {
+  "title": "Homework Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: classic homework-help syllable-count query"
+ },
+ {
+  "title": "Welding Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme-query demand plausible"
+ },
+ {
+  "title": "Tractor Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym-query demand plausible"
+ },
+ {
+  "title": "Donation Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Vote Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: example-sentence demand for a common word real"
+ },
+ {
+  "title": "Reader Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family; translation lookups plausible"
+ },
+ {
+  "title": "Carpool Conjugations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: carpool functions as a verb - conjugation demand real"
+ },
+ {
+  "title": "Router Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand plausible"
+ },
+ {
+  "title": "Inquiry Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: inquiry/enquiry British-American variant is a genuine spelling-choice dispute"
+ },
+ {
+  "title": "Hold Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable-count demand for a common word real"
+ },
+ {
+  "title": "Job Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme-query demand real"
+ },
+ {
+  "title": "Seating Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym-query demand plausible"
+ },
+ {
+  "title": "Brake Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Pizzeria Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example-sentence demand for a less-common word plausible"
+ },
+ {
+  "title": "Cage Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Squat Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand plausible"
+ },
+ {
+  "title": "Dust Orthography",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: 'dust' is a short unambiguous word with zero spelling-debate demand; no readable orthography query exists for it"
+ },
+ {
+  "title": "Snoring Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable-count demand real"
+ },
+ {
+  "title": "Triathlon Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme-query demand for a sport term plausible"
+ },
+ {
+  "title": "Bathtub Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: synonym-query demand real"
+ },
+ {
+  "title": "Landlord Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Beachfront Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example-sentence demand for a descriptive word plausible"
+ },
+ {
+  "title": "Melody Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Leatherworking Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: leatherworking is a noun-dominant craft anchor with no verb paradigm to conjugate - parallel to Woodworking Conjugations flip (batch 25)"
+ },
+ {
+  "title": "Sleep Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: anagram-solver demand for a common word real"
+ },
+ {
+  "title": "Graduation Orthography",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: 'graduation' spelling is stable and no spelling-argument demand exists; generic-anchor Orthography defect"
+ },
+ {
+  "title": "Acai Workbook",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Workbook vague fragment on a food anchor (batch 29 Diary/Workbook family) - no readable acai workbook demand"
+ },
+ {
+  "title": "Bruschetta Spec",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Spec vague fragment (batch 29 Specs-family flip) - no plausible bruschetta-spec query"
+ },
+ {
+  "title": "Tabbouleh Coach",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Coach is on the established food-ops sustain list (guide/instructor reading)"
+ },
+ {
+  "title": "Edamame Help",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: semantic duplication - Help dup Tips/Guide/Coach (established pair); same beginner-guide intent"
+ },
+ {
+  "title": "Ceviche Basics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: beginner recipe basics is a genuine query pattern"
+ },
+ {
+  "title": "Guacamole Questions",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: FAQ demand real (browning, storage, recipe troubleshooting questions)"
+ },
+ {
+  "title": "Empanada Steps",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe-steps demand is a genuine search pattern"
+ },
+ {
+  "title": "Bratwurst Courses",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: cooking-course reading plausible (sausage-making classes)"
+ },
+ {
+  "title": "Escargot Repairs",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: Repairs dead fragment on a food anchor (established flip family) - no repair demand for escargot"
+ },
+ {
+  "title": "Quinoa Checkups",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Checkups unreadable fragment on a food anchor - no plausible consumer or ops query"
+ },
+ {
+  "title": "Mochi Refills",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Refills on the established food-ops sustain list"
+ },
+ {
+  "title": "Satay Appointments",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Appointments on the established food-ops sustain list (reservation reading)"
+ },
+ {
+  "title": "Moussaka Screenings",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food-safety screening reading plausible under the HACCP/food-safety sustain line"
+ },
+ {
+  "title": "Borscht Walkthroughs",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe walkthrough demand real"
+ },
+ {
+  "title": "Gumbo Designs",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu/brand design reading plausible"
+ },
+ {
+  "title": "Jambalaya Portraits",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food photography/portrait reading plausible"
+ },
+ {
+  "title": "Shawarma Albums",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe photo-album reading plausible"
+ },
+ {
+  "title": "Naan Collages",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food media collage reading plausible"
+ },
+ {
+  "title": "Arepa Stickers",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food sticker merch is a genuine product category"
+ },
+ {
+  "title": "Pierogi Printables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe printables is a genuine search category"
+ },
+ {
+  "title": "Goulash Hours",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: restaurant hours reading real"
+ },
+ {
+  "title": "Tzatziki Stores",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: store-finder reading (where to buy) plausible"
+ },
+ {
+  "title": "Retail Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable-count demand real"
+ },
+ {
+  "title": "Adherence Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme-query demand plausible"
+ },
+ {
+  "title": "Berth Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym-query demand; berth/birth confusion adds real lookup value"
+ },
+ {
+  "title": "Compressor Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Proofing Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand plausible"
+ },
+ {
+  "title": "Invitation Orthography",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: 'invitation' spelling is stable and commonly known; no plausible spelling-debate demand"
+ },
+ {
+  "title": "Valet Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable-count demand real"
+ },
+ {
+  "title": "Homework Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme-query demand real (school poetry help)"
+ },
+ {
+  "title": "Welding Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym-query demand plausible"
+ },
+ {
+  "title": "Tractor Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Donation Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: example-sentence demand real"
+ },
+ {
+  "title": "Vote Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Carpool Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand plausible"
+ },
+ {
+  "title": "Cloud Orthography",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: 'cloud' is unambiguous and universally spelled; no orthographic query demand"
+ },
+ {
+  "title": "Column Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable-count demand real"
+ },
+ {
+  "title": "Hold Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme-query demand real"
+ },
+ {
+  "title": "Job Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym-query demand real"
+ },
+ {
+  "title": "Seating Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Brake Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example-sentence demand plausible"
+ },
+ {
+  "title": "Pizzeria Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Extraction Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand plausible"
+ },
+ {
+  "title": "Gravel Orthography",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: 'gravel' has no spelling variant and no spelling-lookup audience; generic-anchor Orthography defect"
+ },
+ {
+  "title": "Fish Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable-count demand real (learner level)"
+ },
+ {
+  "title": "Snoring Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme-query demand plausible"
+ },
+ {
+  "title": "Triathlon Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym-query demand plausible"
+ },
+ {
+  "title": "Bathtub Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Landlord Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example-sentence demand plausible"
+ },
+ {
+  "title": "Beachfront Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Leatherworking Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand plausible"
+ },
+ {
+  "title": "Appraisal Orthography",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: 'appraisal' spelling is stable; no genuine orthographic dispute or spelling-help demand"
+ },
+ {
+  "title": "Bruschetta Quantity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: serving/portion quantity demand plausible recipe ops"
+ },
+ {
+  "title": "Prosciutto Analysis",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Analysis on the established food-ops sustain list"
+ },
+ {
+  "title": "Edamame Ideas",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe-ideas demand is a genuine search pattern"
+ },
+ {
+  "title": "Ceviche Names",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Names vague fragment on a food anchor (batch 29 Names-family) - unreadable pairing"
+ },
+ {
+  "title": "Empanada Alternatives",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: substitute/alternative demand real"
+ },
+ {
+  "title": "Bratwurst Examples",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: dish-example/recipe-variety demand, Ideas-adjacent reading"
+ },
+ {
+  "title": "Gyro Visits",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: Visits dead fragment on a food anchor (established flip family)"
+ },
+ {
+  "title": "Quinoa Refills",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Refills on the established food-ops sustain list"
+ },
+ {
+  "title": "Mochi Appointments",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Appointments on the established food-ops sustain list"
+ },
+ {
+  "title": "Satay Screenings",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food-safety screening reading plausible"
+ },
+ {
+  "title": "Moussaka Walkthroughs",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe walkthrough demand real"
+ },
+ {
+  "title": "Borscht Designs",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu/brand design reading plausible"
+ },
+ {
+  "title": "Gumbo Portraits",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food photography reading plausible"
+ },
+ {
+  "title": "Jambalaya Albums",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe photo-album reading plausible"
+ },
+ {
+  "title": "Shawarma Collages",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food media collage reading plausible"
+ },
+ {
+  "title": "Naan Stickers",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food sticker merch genuine category"
+ },
+ {
+  "title": "Arepa Printables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe printables genuine category"
+ },
+ {
+  "title": "Pierogi Hours",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: restaurant hours reading real"
+ },
+ {
+  "title": "Goulash Stores",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: store-finder reading plausible"
+ },
+ {
+  "title": "Tzatziki Suppliers",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: supplier sourcing demand real for restaurants"
+ },
+ {
+  "title": "Service Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable-count demand real"
+ },
+ {
+  "title": "Retail Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme-query demand plausible"
+ },
+ {
+  "title": "Adherence Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: synonym-query demand real (compliance context)"
+ },
+ {
+  "title": "Berth Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Cylinder Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand plausible"
+ },
+ {
+  "title": "Proof Orthography",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "refuted: 'proof' spelling is stable (prove/proof confusion targets the verb form, not this word); no readable orthography query - reads as a proofreading-concept fragment"
+ },
+ {
+  "title": "Barcode Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable-count demand real"
+ },
+ {
+  "title": "Valet Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme-query demand plausible"
+ },
+ {
+  "title": "Homework Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym-query demand real (student context)"
+ },
+ {
+  "title": "Welding Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Tractor Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example-sentence demand plausible"
+ },
+ {
+  "title": "Donation Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Vote Conjugations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: vote is a verb with full paradigm - conjugation demand real"
+ },
+ {
+  "title": "Reader Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand plausible"
+ },
+ {
+  "title": "Password Orthography",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: 'password' spelling is fixed and universally known; no spelling-debate demand exists"
+ },
+ {
+  "title": "Public Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable-count demand real"
+ },
+ {
+  "title": "Column Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme-query demand real"
+ },
+ {
+  "title": "Hold Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym-query demand real (many senses)"
+ },
+ {
+  "title": "Job Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Seating Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example-sentence demand plausible"
+ },
+ {
+  "title": "Brake Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Cage Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand plausible"
+ },
+ {
+  "title": "Daycare Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: daycare vs day care one-word/two-word dispute is a genuine orthographic question"
+ },
+ {
+  "title": "Taco Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable-count demand real (learner level)"
+ },
+ {
+  "title": "Fish Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme-query demand real"
+ },
+ {
+  "title": "Snoring Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym-query demand plausible"
+ },
+ {
+  "title": "Triathlon Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Bathtub Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example-sentence demand plausible"
+ },
+ {
+  "title": "Landlord Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Melody Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand plausible"
+ },
+ {
+  "title": "Acquittal Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: acquittal is a genuinely misspelled legal term (aquittal) with real spelling-lookup demand"
+ },
+ {
+  "title": "Acai Spec",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Spec vague fragment (batch 29 Specs-family flip) - no readable spec demand for an ingredient"
+ },
+ {
+  "title": "Prosciutto Coach",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Coach on the established food-ops sustain list"
+ },
+ {
+  "title": "Tabbouleh Help",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: semantic duplication - Help dup Tips (established pair); same guide intent as a Tabbouleh Tips pairing"
+ },
+ {
+  "title": "Edamame Basics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: beginner recipe basics genuine pattern"
+ },
+ {
+  "title": "Ceviche Questions",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: FAQ demand real (raw-fish food-safety questions)"
+ },
+ {
+  "title": "Guacamole Steps",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe-steps demand genuine"
+ },
+ {
+  "title": "Empanada Courses",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: cooking-course reading plausible"
+ },
+ {
+  "title": "Gyro Checkups",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Checkups unreadable fragment on a food anchor - no plausible query demand"
+ },
+ {
+  "title": "Quinoa Appointments",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Appointments on the established food-ops sustain list"
+ },
+ {
+  "title": "Mochi Screenings",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food-safety screening reading plausible"
+ },
+ {
+  "title": "Satay Walkthroughs",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe walkthrough demand real"
+ },
+ {
+  "title": "Moussaka Designs",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu/brand design reading plausible"
+ },
+ {
+  "title": "Borscht Portraits",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food photography reading plausible"
+ },
+ {
+  "title": "Gumbo Albums",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe photo-album reading plausible"
+ },
+ {
+  "title": "Jambalaya Collages",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food media collage reading plausible"
+ },
+ {
+  "title": "Shawarma Stickers",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food sticker merch genuine category"
+ },
+ {
+  "title": "Naan Printables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe printables genuine category"
+ },
+ {
+  "title": "Arepa Hours",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: restaurant hours reading real"
+ },
+ {
+  "title": "Pierogi Stores",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: store-finder reading plausible"
+ },
+ {
+  "title": "Goulash Suppliers",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: supplier sourcing demand real"
+ },
+ {
+  "title": "Tzatziki Interviews",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "refuted: Interviews unreadable fragment on a food anchor - interview semantics carry no tzatziki demand; not an established ops reading"
+ },
+ {
+  "title": "Service Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme-query demand real"
+ },
+ {
+  "title": "Retail Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: synonym-query demand real"
+ },
+ {
+  "title": "Adherence Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Berth Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example-sentence demand plausible"
+ },
+ {
+  "title": "Compressor Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand plausible"
+ },
+ {
+  "title": "Unpacking Orthography",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: 'unpacking' has no spelling variant or dispute; no orthographic query demand"
+ },
+ {
+  "title": "Scaffold Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable-count demand real"
+ },
+ {
+  "title": "Barcode Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme-query demand plausible"
+ },
+ {
+  "title": "Valet Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym-query demand plausible"
+ },
+ {
+  "title": "Homework Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Welding Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example-sentence demand plausible"
+ },
+ {
+  "title": "Tractor Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause family approved at review"
+ },
+ {
+  "title": "Vote Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram-solver demand plausible"
+ }
+]

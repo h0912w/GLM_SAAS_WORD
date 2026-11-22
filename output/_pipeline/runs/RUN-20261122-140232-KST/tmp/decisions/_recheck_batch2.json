@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Gyro Workshop",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: cooking-workshop product reading for gyro is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Quinoa Helper",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: kitchen helper/guide reading for quinoa is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Mochi Stage",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: showcase/event-stage reading for mochi (mochitsuki events, vendor displays) is plausible."
+ },
+ {
+  "title": "Satay Result",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: order/outcome tracking reading for satay orders or cook-off entries is weak but not defective; no trademark or duplication issue."
+ },
+ {
+  "title": "Moussaka Streak",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: gamified home-cooking streak reading for moussaka is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Borscht Rank",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe/restaurant ranking reading for borscht is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Gumbo Trend",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: dish trend tracking reading for gumbo is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Jambalaya Comparison",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe/version comparison reading for jambalaya is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Shawarma Proposal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: catering proposal reading for shawarma is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Naan Guarantee",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: freshness/quality guarantee reading for naan is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Arepa Record",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: sales/prep record reading for arepa is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Pierogi Copy",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: menu or ad copy reading for pierogi is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Goulash Reading",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: doneness/temperature reading for goulash is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Tzatziki Reference",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe reference reading for tzatziki is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Storefront Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'storefront'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Syllabus Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'syllabus'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Batch Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'batch'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Grazing Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'grazing'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Demand Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'demand'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Licensing Lyrics",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: lyrics licensing is squarely a music-publishing product reading - music anchor, no trademark or dup defect."
+ },
+ {
+  "title": "Mileage Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'mileage'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Clinic Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'clinic'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Attorney Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'attorney'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Consignee Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'consignee'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Rezoning Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'rezoning'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Loss Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'loss'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Electrical Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'electrical'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Council Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'council'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Contact Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'contact'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Portfolio Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'portfolio'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Checkin Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'checkin'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Headlight Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'headlight'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Brunch Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'brunch'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Shelter Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'shelter'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Boxing Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'boxing'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Nap Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: nap-time lullaby chord sheets for childcare settings is a genuine music association, so the anchor is not clearly non-music."
+ },
+ {
+  "title": "Bleach Orthography",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: 'Bleach' is dominated by the famous anime/manga mark so the title carries brand-confusion risk, and even the generic cleaning-industry reading gives no plausible product - an orthography/spelling reference for bleach has no real audience; round 1 missed both the trademark ambiguity and the clarity defect."
+ },
+ {
+  "title": "Rebate Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'rebate'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Homeschool Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'homeschool'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Anniversary Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'anniversary'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Kebab Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'kebab'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Groomer Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'groomer'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Malocclusion Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'malocclusion'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Winery Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'winery'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Insomnia Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: calming chord progressions for sleep relief is a real music-health association, not a clearly non-music anchor."
+ },
+ {
+  "title": "Flashcard Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'flashcard'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Bruschetta Rendering",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: menu imagery/3D render reading for food presentations is plausible."
+ },
+ {
+  "title": "Prosciutto Kit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: meal/prep kit product reading for prosciutto is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Edamame Widget",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: ordering/inventory widget reading for edamame is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Ceviche Announcement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: menu special announcement reading for ceviche is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Bratwurst Checker",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: doneness checker reading for bratwurst is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Escargot Timer",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: cooking timer reading for escargot is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Gyro Guardian",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: freshness/quality monitor reading for gyro prep is plausible though vague."
+ },
+ {
+  "title": "Satay Streak",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: gamified home-cooking streak reading for satay is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Moussaka Rank",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe/restaurant ranking reading for moussaka is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Borscht Trend",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: dish trend tracking reading for borscht is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Gumbo Comparison",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe/version comparison reading for gumbo is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Jambalaya Proposal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: catering proposal reading for jambalaya is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Shawarma Guarantee",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: freshness/quality guarantee reading for shawarma is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Naan Record",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: sales/prep record reading for naan is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Arepa Copy",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: menu or ad copy reading for arepa is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Goulash Reference",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe reference reading for goulash is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Tzatziki Forecast",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: demand forecast reading for tzatziki is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Material Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'material'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Storefront Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'storefront'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Booking Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'booking'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Syllabus Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'syllabus'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Batch Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'batch'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Grazing Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'grazing'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Demand Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: in energy_utilities 'demand' is noun-dominant (electricity demand), not a verb anchor - conjugation tables make no product sense here; this is the known defective noun+Conjugations pairing round 1 should have caught."
+ },
+ {
+  "title": "Impact Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'impact'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Licensing Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'licensing'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Leaf Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'leaf'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Clinic Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'clinic'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Attorney Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'attorney'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Consignee Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'consignee'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Rezoning Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'rezoning'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Bonus Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'bonus'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Credit Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'credit'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Editor Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'editor'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Contact Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'contact'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Portfolio Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'portfolio'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Checkin Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'checkin'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Headlight Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'headlight'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Brunch Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'brunch'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Shelter Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: veterinary 'shelter' is noun-dominant (animal shelter); conjugations of shelter-related verbs is not a plausible product - defective noun+Conjugations anchor pairing."
+ },
+ {
+  "title": "Cleaning Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'cleaning'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Nap Lyrics",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: lullaby lyrics for nap time is a direct music association for childcare."
+ },
+ {
+  "title": "Tree Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'tree'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Migraine Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'migraine'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Rebate Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'rebate'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Homeschool Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'homeschool'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Anniversary Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'anniversary'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Kebab Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'kebab'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Groomer Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'groomer'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Intercom Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'intercom'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Reserve Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'reserve'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Bruschetta Notification",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: order/menu notification reading for bruschetta is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Prosciutto Count",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: inventory count reading for prosciutto is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Tabbouleh Total",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: order total reading for tabbouleh is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Edamame Repository",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe repository reading for edamame is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Ceviche Calculator",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe scaling calculator reading for ceviche is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Guacamole Generator",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: reads as recipe/name generator in food_service context; the software-brand reading (Apache Guacamole) has no established 'generator' pairing, so trademark confusion risk is low."
+ },
+ {
+  "title": "Empanada Estimator",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: catering quantity estimator reading for empanada is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Bratwurst Detector",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: doneness detector reading for bratwurst is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Escargot Workshop",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: cooking-workshop product reading for escargot is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Mochi Streak",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: gamified home-cooking streak reading for mochi is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Satay Rank",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe/restaurant ranking reading for satay is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Moussaka Trend",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: dish trend tracking reading for moussaka is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Borscht Comparison",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe/version comparison reading for borscht is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Gumbo Proposal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: catering proposal reading for gumbo is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Jambalaya Guarantee",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: freshness/quality guarantee reading for jambalaya is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Shawarma Record",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: sales/prep record reading for shawarma is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Naan Copy",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: menu or ad copy reading for naan is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Pierogi Reference",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe reference reading for pierogi is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Goulash Forecast",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: demand forecast reading for goulash is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Tzatziki Deadline",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: prep deadline reading for tzatziki is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Payroll Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'payroll'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Material Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'material'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Storefront Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'storefront'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Booking Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'booking'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Syllabus Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'syllabus'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Batch Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'batch'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Grazing Conjugations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: 'grazing' is a gerund verb anchor, so conjugation tables for graze-type verbs serve training/ESL content - fits the established gerund carve-out, unlike noun-dominant Conjugations pairings which I flipped."
+ },
+ {
+  "title": "Demand Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'demand'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Referral Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'referral'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Chess Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'chess'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Leaf Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'leaf'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Clinic Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'clinic'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Attorney Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'attorney'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Consignee Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'consignee'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Rezoning Conjugations",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "flip: round-1 low-confidence item; in real-estate context 'rezoning' is a process noun, and nobody needs conjugation tables for 'to rezone' - the gerund surface form does not rescue the clarity defect."
+ },
+ {
+  "title": "Loss Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'loss'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Thrift Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'thrift'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Sidewalk Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'sidewalk'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Editor Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'editor'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Contact Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'contact'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Portfolio Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'portfolio'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Checkin Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'checkin'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Headlight Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'headlight'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Shelter Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'shelter'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Nap Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'nap'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Desert Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'desert'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Migraine Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'migraine'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Rebate Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'rebate'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Homeschool Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'homeschool'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Anniversary Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'anniversary'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Kebab Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'kebab'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Malocclusion Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'malocclusion'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Insomnia Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'insomnia'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Acai Rendering",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: menu imagery/3D render reading is plausible though thin; no trademark or dup defect."
+ },
+ {
+  "title": "Bruschetta Kit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: meal/prep kit product reading for bruschetta is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Tabbouleh Widget",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: ordering/inventory widget reading for tabbouleh is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Edamame Announcement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: menu special announcement reading for edamame is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Empanada Checker",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: doneness checker reading for empanada is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Bratwurst Timer",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: cooking timer reading for bratwurst is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Escargot Guardian",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: freshness/quality monitor reading is plausible though vague."
+ },
+ {
+  "title": "Quinoa Streak",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: gamified home-cooking streak reading for quinoa is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Mochi Rank",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe/restaurant ranking reading for mochi is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Satay Trend",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: dish trend tracking reading for satay is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Moussaka Comparison",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe/version comparison reading for moussaka is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Borscht Proposal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: catering proposal reading for borscht is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Gumbo Guarantee",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: freshness/quality guarantee reading for gumbo is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Jambalaya Record",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: sales/prep record reading for jambalaya is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Shawarma Copy",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: menu or ad copy reading for shawarma is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Arepa Reference",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe reference reading for arepa is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Pierogi Forecast",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: demand forecast reading for pierogi is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Goulash Deadline",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: prep deadline reading for goulash is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Tzatziki Duration",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: prep/shelf-life duration reading for tzatziki is plausible; re-checked for clarity, duplication and trademark - no defect found."
+ },
+ {
+  "title": "Subrogation Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'subrogation'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Payroll Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'payroll'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Material Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'material'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Storefront Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'storefront'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Booking Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'booking'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Syllabus Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'syllabus'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Batch Conjugations",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "flip: round-1 low-confidence item; manufacturing 'batch' is noun-dominant and 'Batch Conjugations' reads as a grammar query word stapled to a production term with no clear product."
+ },
+ {
+  "title": "Grazing Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'grazing'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Oboe Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'oboe'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Chess Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'chess'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Leaf Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'leaf'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Clinic Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'clinic'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Attorney Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'attorney'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Rezoning Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'rezoning'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Electrical Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'electrical'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Detention Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'detention'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Sidewalk Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'sidewalk'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Editor Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'editor'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Contact Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'contact'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Portfolio Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'portfolio'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Checkin Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'checkin'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Brunch Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'brunch'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Boxing Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'boxing'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Key Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - syllable-count reference reading anchored on generic term 'key'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Desert Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - rhyme reference reading anchored on generic term 'desert'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Migraine Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - synonym reference reading anchored on generic term 'migraine'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Rebate Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - antonym reference reading anchored on generic term 'rebate'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Homeschool Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - example-sentence reference reading anchored on generic term 'homeschool'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Anniversary Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - translation reference reading anchored on generic term 'anniversary'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Groomer Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - anagram puzzle/reference reading anchored on generic term 'groomer'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ },
+ {
+  "title": "Winery Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause family - spelling/orthography reference reading anchored on generic term 'winery'; anchor is not a famous mark and no near-synonym duplication; re-examined from scratch with no grounded defect."
+ }
+]

@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Ceramic Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Clog Conjugations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 'clog' is a genuine verb (the drain clogs), so the conjugation lookup reading holds; not a noun-only anchor"
+ },
+ {
+  "title": "Luggage Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Flute Chords",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Aloe Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Closet Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Urn Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Pedicure Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Bottle Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Ferry Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Manifold Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Captioning Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Guestlist Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Expiration Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Radiator Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Impressioning Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Testimonial Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Balcony Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Picnic Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Guardianship Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Otoscope Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Claimant Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Pencil Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Streamers Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Ramen Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Horse Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Smoke Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Underwriter Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Acai Workshop",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: acai bowl-making workshops are a real bookable food-service offering"
+ },
+ {
+  "title": "Bruschetta Helper",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: kitchen/prep helper is a concrete restaurant operation reading"
+ },
+ {
+  "title": "Tabbouleh Rank",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe/menu ranking is a plausible food-business operation reading"
+ },
+ {
+  "title": "Edamame Comparison",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe/menu comparison is a concrete food-business operation reading"
+ },
+ {
+  "title": "Ceviche Guarantee",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: freshness guarantee is a concrete restaurant operation"
+ },
+ {
+  "title": "Guacamole Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu copywriting is a real food-business service; food-context reading, not one of the batch-1 software-context Guacamole flips"
+ },
+ {
+  "title": "Empanada Reference",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe reference is a concrete kitchen operation"
+ },
+ {
+  "title": "Bratwurst Deadline",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: catering/order deadline is a concrete restaurant operation"
+ },
+ {
+  "title": "Escargot Volume",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: prep/sales volume is a concrete food-business operation reading"
+ },
+ {
+  "title": "Gyro Progress",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: order progress tracking is a concrete restaurant operation"
+ },
+ {
+  "title": "Quinoa Template",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe/menu template is a concrete food-business operation"
+ },
+ {
+  "title": "Mochi Guide",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: prep/buying guide is a concrete food-content operation"
+ },
+ {
+  "title": "Satay Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: dish ratings are a concrete restaurant operation"
+ },
+ {
+  "title": "Borscht Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: customer inquiry/review reply management is a plausible restaurant operation reading"
+ },
+ {
+  "title": "Gumbo Account",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: customer loyalty accounts are a plausible restaurant operation reading"
+ },
+ {
+  "title": "Shawarma Match",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: pairing/matching (menu pairings, recipe matching) is a concrete food operation reading"
+ },
+ {
+  "title": "Arepa Lookup",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe lookup is a concrete kitchen operation"
+ },
+ {
+  "title": "Tzatziki Availability",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: ingredient availability is a concrete restaurant inventory operation"
+ },
+ {
+  "title": "Assignment Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Inventory Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Backdrop Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Photographer Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Vendor Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Heater Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Clog Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Flute Lyrics",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Scrapbooking Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Mower Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Closet Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Urn Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Pedicure Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Bottle Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Ferry Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Deadlatch Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Session Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Mirror Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Expiration Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Radiator Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Impressioning Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Testimonial Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Balcony Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Picnic Conjugations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 'picnic' is a genuine verb (we picnicked), so the conjugation lookup reading holds"
+ },
+ {
+  "title": "Tuning Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Mortgage Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Promenade Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Otoscope Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Claimant Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Pencil Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Streamers Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Ramen Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Halitosis Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Speculum Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Acai Guardian",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: 'Guardian' names no identifiable food-service operation attached to a dish; reads as an unclear invented fragment, no grounded product meaning"
+ },
+ {
+  "title": "Bruschetta Stage",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: 'Stage' reads as a theater stage or the culinary internship (stage/stagiaire, a person), not a concrete restaurant operation or product; unclear pairing"
+ },
+ {
+  "title": "Prosciutto Streak",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: 'Streak' reads as meat marbling or gamification usage-jargon, not a food-service operation; unclear dead-pattern fragment for a dish anchor"
+ },
+ {
+  "title": "Tabbouleh Trend",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu/food trend tracking is a plausible food-business analytics reading"
+ },
+ {
+  "title": "Ceviche Record",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food-safety/temperature record keeping is a concrete restaurant operation"
+ },
+ {
+  "title": "Guacamole Reading",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: bare 'Reading' names no identifiable food-service tool or operation (a reading of what?); unclear product fragment"
+ },
+ {
+  "title": "Empanada Forecast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: per-item demand forecasting is a plausible restaurant operations reading"
+ },
+ {
+  "title": "Bratwurst Duration",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: 'Duration' of what is unspecified (a grill timer would need Timer/Cook Time); reads as a dead fragment rather than a nameable operation"
+ },
+ {
+  "title": "Quinoa Guide",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: prep/buying guide is a concrete food-content operation"
+ },
+ {
+  "title": "Mochi Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: dish ratings are a concrete restaurant operation"
+ },
+ {
+  "title": "Moussaka Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: customer inquiry/review reply management is a plausible restaurant operation reading"
+ },
+ {
+  "title": "Borscht Account",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: customer loyalty accounts are a plausible restaurant operation reading"
+ },
+ {
+  "title": "Jambalaya Match",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: pairing/matching is a concrete food operation reading"
+ },
+ {
+  "title": "Naan Lookup",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe lookup is a concrete kitchen operation"
+ },
+ {
+  "title": "Goulash Availability",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: ingredient availability is a concrete restaurant inventory operation"
+ },
+ {
+  "title": "Safe Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Assignment Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Inventory Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Backdrop Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Photographer Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Vendor Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Ceramic Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Flute Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Cane Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Mower Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Closet Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Urn Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Pedicure Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Bottle Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Ferry Conjugations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 'ferry' is a genuine verb (ferried across), so the conjugation lookup reading holds"
+ },
+ {
+  "title": "Manifold Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Captioning Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: lyric captioning/subtitling is a real captioning niche, so the anchor is not clearly non-music; no trademark hit"
+ },
+ {
+  "title": "Carton Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Squeegee Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Mirror Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Expiration Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Radiator Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Impressioning Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Testimonial Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Picnic Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Tuning Chords",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Recovery Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Thermostat Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Promenade Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Otoscope Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Claimant Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Pencil Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Streamers Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Horse Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Rainforest Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Acai Helper",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: kitchen/prep helper is a concrete restaurant operation reading"
+ },
+ {
+  "title": "Prosciutto Rank",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe/menu ranking is a plausible food-business operation reading"
+ },
+ {
+  "title": "Tabbouleh Comparison",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe/menu comparison is a concrete food-business operation reading"
+ },
+ {
+  "title": "Ceviche Copy",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: menu copywriting is a real food-business service reading"
+ },
+ {
+  "title": "Guacamole Reference",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe reference is a concrete kitchen operation; no Apache Guacamole software-context reading for 'Reference' in food context"
+ },
+ {
+  "title": "Empanada Deadline",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: catering/order deadline is a concrete restaurant operation"
+ },
+ {
+  "title": "Bratwurst Volume",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: prep/sales volume is a concrete food-business operation reading"
+ },
+ {
+  "title": "Escargot Progress",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: order progress tracking is a concrete restaurant operation"
+ },
+ {
+  "title": "Gyro Template",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe/menu template is a concrete food-business operation"
+ },
+ {
+  "title": "Quinoa Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: dish ratings are a concrete restaurant operation"
+ },
+ {
+  "title": "Satay Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: customer inquiry/review reply management is a plausible restaurant operation reading"
+ },
+ {
+  "title": "Gumbo Match",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: pairing/matching is a concrete food operation reading"
+ },
+ {
+  "title": "Jambalaya Validation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: 'Validation' is SaaS data-jargon with no concrete restaurant operation reading attached to a dish; unclear what is being validated"
+ },
+ {
+  "title": "Shawarma Lookup",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe lookup is a concrete kitchen operation"
+ },
+ {
+  "title": "Naan Ping",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: 'Ping' is a network-latency term with no food-service meaning; 'Naan Ping' is an absurd product fragment"
+ },
+ {
+  "title": "Pierogi Availability",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: ingredient availability is a concrete restaurant inventory operation"
+ },
+ {
+  "title": "Goulash Eligibility",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: 'Eligibility' of what is unspecified (meal-program eligibility would not attach to a single dish); no grounded operation reading"
+ },
+ {
+  "title": "Tzatziki Broadcast",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: 'Broadcast' names no restaurant operation (marketing broadcast is not a concrete food-service tool); unclear SaaS-jargon pairing"
+ },
+ {
+  "title": "Callout Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Safe Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Assignment Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Inventory Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Backdrop Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Photographer Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Heater Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Luggage Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Preschool Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Cane Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Mower Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Closet Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Urn Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Pedicure Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Ferry Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Captioning Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Flower Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Squeegee Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Mirror Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Expiration Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Radiator Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Impressioning Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Balcony Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Tuning Lyrics",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Bruxism Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Thermostat Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Promenade Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Otoscope Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Claimant Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Pencil Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Ramen Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Smoke Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word (spelling/syllable/rhyme/synonym/sentence lookup intent) with a clean non-trademark anchor; no defect found on re-review"
+ },
+ {
+  "title": "Acai Stage",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: 'Stage' has no concrete food-service product reading (theater stage or culinary intern, not an operation); unclear fragment"
+ },
+ {
+  "title": "Bruschetta Streak",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: 'Streak' reads as gamification jargon or meat marbling, not a food-service operation; unclear dead-pattern fragment"
+ },
+ {
+  "title": "Prosciutto Trend",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu/food trend tracking is a plausible food-business analytics reading"
+ },
+ {
+  "title": "Tabbouleh Proposal",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "flipped: 'Proposal' of what and to whom is unspecified; the catering-proposal reading does not attach coherently to a single dish anchor; unclear fragment"
+ },
+ {
+  "title": "Edamame Record",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food-safety record keeping is a concrete restaurant operation"
+ },
+ {
+  "title": "Ceviche Reading",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: bare 'Reading' names no identifiable food-service operation (a reading of what?); unclear product fragment"
+ },
+ {
+  "title": "Guacamole Forecast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: dish demand-forecast reading; no Apache Guacamole software-context reading applies to 'Forecast'"
+ },
+ {
+  "title": "Empanada Duration",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: 'Duration' of what is unspecified; reads as a dead fragment rather than a nameable timer or scheduling operation"
+ },
+ {
+  "title": "Bratwurst Diagnostic",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: 'Diagnostic' implies equipment or software diagnostics and is meaningless attached to a dish; absurd product fragment"
+ },
+ {
+  "title": "Escargot Authorization",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: 'Authorization' names no food-service operation for a dish anchor (authorization of what?); unclear SaaS-jargon pairing"
+ },
+ {
+  "title": "Gyro Guide",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: prep/buying guide is a concrete food-content operation"
+ },
+ {
+  "title": "Mochi Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: customer inquiry/review reply management is a plausible restaurant operation reading"
+ },
+ {
+  "title": "Borscht Match",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: pairing/matching is a concrete food operation reading"
+ },
+ {
+  "title": "Gumbo Validation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: 'Validation' is SaaS data-jargon with no concrete restaurant operation reading attached to a dish; unclear what is being validated"
+ },
+ {
+  "title": "Jambalaya Lookup",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe lookup is a concrete kitchen operation"
+ },
+ {
+  "title": "Shawarma Ping",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: 'Ping' is a network-latency term with no food-service meaning; absurd product fragment for a dish anchor"
+ },
+ {
+  "title": "Arepa Availability",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: ingredient availability is a concrete restaurant inventory operation"
+ },
+ {
+  "title": "Pierogi Eligibility",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: 'Eligibility' of what is unspecified; no grounded food-service operation reading for a single dish anchor"
+ },
+ {
+  "title": "Goulash Broadcast",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: 'Broadcast' names no restaurant operation; unclear SaaS-jargon pairing"
+ },
+ {
+  "title": "Tzatziki Barcode",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: product barcode labeling/inventory is a concrete food retail operation reading"
+ }
+]

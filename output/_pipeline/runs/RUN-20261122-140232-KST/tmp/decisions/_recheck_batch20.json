@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Hydrangea Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'houseplants_indoor_gardening' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Surgery Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'healthcare' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Bond Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'finance' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Notary Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'legal' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Weighbridge Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'logistics' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Lapse Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'insurance' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Orientation Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'education' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Genealogy Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'crafts_hobbies' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Suture Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'healthcare' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Waiver Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'insurance' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Writing Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'education' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Ornament Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'events' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Cupcake Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'food_service' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Floss Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'dental' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Xylophone Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'music_lessons' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Acai Expense",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + Expense reads as restaurant expense tracking - concrete business-operations pairing [Acai Expense]"
+ },
+ {
+  "title": "Bruschetta Inventory",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + Inventory reads as restaurant inventory tracking - concrete business-operations pairing [Bruschetta Inventory]"
+ },
+ {
+  "title": "Prosciutto Onboarding",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + Onboarding reads as staff onboarding for a food business - concrete ops pairing [Prosciutto Onboarding]"
+ },
+ {
+  "title": "Tabbouleh Size",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: Size on food anchor is dead-pattern fragment (Size/Width/Depth family flipped on food anchors in earlier batches) - no restaurant-ops reading survives re-review [Tabbouleh Size]"
+ },
+ {
+  "title": "Edamame Weight",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: portion/recipe weight-control reading for food anchor; not in dead-pattern flip families [Edamame Weight]"
+ },
+ {
+  "title": "Ceviche Range",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: temperature-range / kitchen-range reading for food anchor; not in dead-pattern flip families [Ceviche Range]"
+ },
+ {
+  "title": "Empanada Time",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: service-time / prep-time scheduling reading; Time is canonical side of Time/Clock pair, no dup defect [Empanada Time]"
+ },
+ {
+  "title": "Moussaka Frequency",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: order-frequency metric reading; Frequency is canonical side of Load/Frequency pair, no dup defect [Moussaka Frequency]"
+ },
+ {
+  "title": "Gumbo Capacity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: kitchen/order capacity reading - established concrete ops sustain family [Gumbo Capacity]"
+ },
+ {
+  "title": "Jambalaya Usage",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: ingredient usage tracking reading - established concrete ops sustain family [Jambalaya Usage]"
+ },
+ {
+  "title": "Shawarma Condition",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: ingredient-freshness / food-state reading; not in dead-pattern flip families [Shawarma Condition]"
+ },
+ {
+  "title": "Naan Humidity",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: Humidity on food anchor is dead-pattern fragment (batch-established flip family) - no kitchen-ops reading [Naan Humidity]"
+ },
+ {
+  "title": "Pierogi Cycle",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu-rotation / prep-cycle reading for food anchor; not in dead-pattern flip families [Pierogi Cycle]"
+ },
+ {
+  "title": "Goulash Breakdown",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe / cost breakdown reading for food anchor; not in dead-pattern flip families [Goulash Breakdown]"
+ },
+ {
+  "title": "Tzatziki Sensor",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: Sensor on food anchor is dead-pattern fragment (batch-established flip family) - IoT jargon, no food-ops reading [Tzatziki Sensor]"
+ },
+ {
+  "title": "Shift Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'mining' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Filtration Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'hvac_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Masterkey Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'locksmith_security_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Terminology Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'interpreter_translation_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Storage Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'moving_relocation_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Gallery Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'photography_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Renewal Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'property_management_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Toilet Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'plumbing_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Commute Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'transportation' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Hotspot Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'telecom' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Phishing Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'cybersecurity' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Database Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'it_devops' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Request Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'customer_support' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Applicant Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'recruiting' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Alignment Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'automotive' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Cavity Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'dental' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Recital Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'music_lessons' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Crossword Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'crafts_hobbies' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Hydrangea Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'houseplants_indoor_gardening' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Surgery Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'healthcare' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Bond Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'finance' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Notary Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'legal' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Foreclosure Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'real_estate' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Concrete Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'construction' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Drums Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'music_lessons' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Genealogy Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'crafts_hobbies' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Suture Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'healthcare' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Waiver Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'insurance' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Writing Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'education' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Ornament Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'events' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Goldfish Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'veterinary' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Lagoon Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'travel_tourism' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Acai Newsletter",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food-business marketing newsletter reading; concrete, readable [Acai Newsletter]"
+ },
+ {
+  "title": "Bruschetta Claim",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: nutrition / menu claim (food-labeling) reading; not in dead-pattern flip families [Bruschetta Claim]"
+ },
+ {
+  "title": "Prosciutto Checkin",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: Checkin on food anchor is dead-pattern fragment (batch-established flip family) - lodging jargon, not food ops [Prosciutto Checkin]"
+ },
+ {
+  "title": "Ceviche Limit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: portion / order limit reading for food operations [Ceviche Limit]"
+ },
+ {
+  "title": "Empanada Speed",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: speed-of-service QSR metric reading; not in dead-pattern flip families [Empanada Speed]"
+ },
+ {
+  "title": "Escargot Temperature",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: food-safety temperature control reading - concrete ops pairing [Escargot Temperature]"
+ },
+ {
+  "title": "Gyro Load",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: semantic duplication: Load dups Frequency (near-synonym pair, same-anchor precedent Gyro Predictor dup Forecast batch 14) [Gyro Load]"
+ },
+ {
+  "title": "Satay Frequency",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: order-frequency metric reading; Frequency is canonical side of Load/Frequency pair, no dup defect [Satay Frequency]"
+ },
+ {
+  "title": "Borscht Capacity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: kitchen/order capacity reading - established concrete ops sustain family [Borscht Capacity]"
+ },
+ {
+  "title": "Gumbo Usage",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: ingredient usage tracking reading - established concrete ops sustain family [Gumbo Usage]"
+ },
+ {
+  "title": "Jambalaya Condition",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: ingredient-freshness / food-state reading; not in dead-pattern flip families [Jambalaya Condition]"
+ },
+ {
+  "title": "Shawarma Humidity",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: Humidity on food anchor is dead-pattern fragment (batch-established flip family) - no kitchen-ops reading [Shawarma Humidity]"
+ },
+ {
+  "title": "Arepa Cycle",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu-rotation / prep-cycle reading for food anchor; not in dead-pattern flip families [Arepa Cycle]"
+ },
+ {
+  "title": "Pierogi Breakdown",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe / cost breakdown reading for food anchor; not in dead-pattern flip families [Pierogi Breakdown]"
+ },
+ {
+  "title": "Goulash Sensor",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: Sensor on food anchor is dead-pattern fragment (batch-established flip family) - IoT jargon, no food-ops reading [Goulash Sensor]"
+ },
+ {
+  "title": "Tzatziki Reception",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: goods-reception (receiving deliveries) hospitality-ops reading [Tzatziki Reception]"
+ },
+ {
+  "title": "Fuel Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'aviation' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Shift Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'mining' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Filtration Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'hvac_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Masterkey Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'locksmith_security_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Terminology Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'interpreter_translation_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Storage Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'moving_relocation_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Florist Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'wedding_planning_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Coating Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'car_wash_detailing_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Writer Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'media_publishing' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Commute Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'transportation' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Hotspot Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'telecom' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Phishing Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'cybersecurity' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Database Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'it_devops' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Request Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'customer_support' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Keynote Anagrams",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flip: trademark: Keynote dominated by Apple Keynote mark in query-clause combo - watchlist flip precedent [Keynote Anagrams]"
+ },
+ {
+  "title": "Vet Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'veterinary' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Festival Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'travel_tourism' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Recital Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'music_lessons' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Crossword Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'crafts_hobbies' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Hydrangea Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'houseplants_indoor_gardening' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Surgery Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'healthcare' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Bond Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'finance' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Weighbridge Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'logistics' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Promotion Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'hr_payroll' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Wildlife Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'travel_tourism' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Drums Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'music_lessons' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Genealogy Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'crafts_hobbies' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Suture Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'healthcare' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Waiver Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'insurance' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Writing Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'education' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Cupcake Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'food_service' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Entrance Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'property_management_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Acai Inventory",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + Inventory reads as restaurant inventory tracking - concrete business-operations pairing [Acai Inventory]"
+ },
+ {
+  "title": "Bruschetta Onboarding",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + Onboarding reads as staff onboarding for a food business - concrete ops pairing [Bruschetta Onboarding]"
+ },
+ {
+  "title": "Prosciutto Size",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: Size on food anchor is dead-pattern fragment (Size/Width/Depth family flipped on food anchors in earlier batches) - no restaurant-ops reading survives re-review [Prosciutto Size]"
+ },
+ {
+  "title": "Tabbouleh Weight",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: portion/recipe weight-control reading for food anchor; not in dead-pattern flip families [Tabbouleh Weight]"
+ },
+ {
+  "title": "Edamame Range",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: temperature-range / kitchen-range reading for food anchor; not in dead-pattern flip families [Edamame Range]"
+ },
+ {
+  "title": "Ceviche Type",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: menu-type / variety reading (types of the dish); readable [Ceviche Type]"
+ },
+ {
+  "title": "Mochi Frequency",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: order-frequency metric reading; Frequency is canonical side of Load/Frequency pair, no dup defect [Mochi Frequency]"
+ },
+ {
+  "title": "Moussaka Capacity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: kitchen/order capacity reading - established concrete ops sustain family [Moussaka Capacity]"
+ },
+ {
+  "title": "Borscht Usage",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: ingredient usage tracking reading - established concrete ops sustain family [Borscht Usage]"
+ },
+ {
+  "title": "Gumbo Condition",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: ingredient-freshness / food-state reading; not in dead-pattern flip families [Gumbo Condition]"
+ },
+ {
+  "title": "Jambalaya Humidity",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: Humidity on food anchor is dead-pattern fragment (batch-established flip family) - no kitchen-ops reading [Jambalaya Humidity]"
+ },
+ {
+  "title": "Naan Cycle",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu-rotation / prep-cycle reading for food anchor; not in dead-pattern flip families [Naan Cycle]"
+ },
+ {
+  "title": "Arepa Breakdown",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe / cost breakdown reading for food anchor; not in dead-pattern flip families [Arepa Breakdown]"
+ },
+ {
+  "title": "Pierogi Sensor",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: Sensor on food anchor is dead-pattern fragment (batch-established flip family) - IoT jargon, no food-ops reading [Pierogi Sensor]"
+ },
+ {
+  "title": "Goulash Reception",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: goods-reception (receiving deliveries) hospitality-ops reading [Goulash Reception]"
+ },
+ {
+  "title": "Tzatziki Followup",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: order/guest followup reading - established concrete ops sustain family [Tzatziki Followup]"
+ },
+ {
+  "title": "Fuel Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'aviation' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Shift Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'mining' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Filtration Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'hvac_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Masterkey Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'locksmith_security_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Terminology Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'interpreter_translation_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Gallery Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'photography_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Liner Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'pool_maintenance_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Election Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'government' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Writer Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'media_publishing' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Commute Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'transportation' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Hotspot Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'telecom' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Phishing Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'cybersecurity' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Database Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'it_devops' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Request Conjugations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anchor 'Request' is verb-able/gerund - grammar-learning conjugation reading intact (verb/gerund anchor line)"
+ },
+ {
+  "title": "Applicant Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'recruiting' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Fitting Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'plumbing_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Festival Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'travel_tourism' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Recital Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'music_lessons' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Crossword Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'crafts_hobbies' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Hydrangea Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'houseplants_indoor_gardening' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Surgery Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'healthcare' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Notary Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'legal' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Lapse Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'insurance' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Driveway Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'property_management_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Wildlife Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'travel_tourism' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Drums Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'music_lessons' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Genealogy Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'crafts_hobbies' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Suture Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'healthcare' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Waiver Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'insurance' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Writing Conjugations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anchor 'Writing' is verb-able/gerund - grammar-learning conjugation reading intact (verb/gerund anchor line)"
+ },
+ {
+  "title": "Ornament Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'events' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Floss Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'dental' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Bruschetta Checkin",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: Checkin on food anchor is dead-pattern fragment (batch-established flip family) - lodging jargon, not food ops [Bruschetta Checkin]"
+ },
+ {
+  "title": "Edamame Limit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: portion / order limit reading for food operations [Edamame Limit]"
+ },
+ {
+  "title": "Bratwurst Temperature",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: food-safety temperature control reading - concrete ops pairing [Bratwurst Temperature]"
+ },
+ {
+  "title": "Satay Capacity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: kitchen/order capacity reading - established concrete ops sustain family [Satay Capacity]"
+ },
+ {
+  "title": "Moussaka Usage",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: ingredient usage tracking reading - established concrete ops sustain family [Moussaka Usage]"
+ },
+ {
+  "title": "Borscht Condition",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: ingredient-freshness / food-state reading; not in dead-pattern flip families [Borscht Condition]"
+ },
+ {
+  "title": "Shawarma Cycle",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu-rotation / prep-cycle reading for food anchor; not in dead-pattern flip families [Shawarma Cycle]"
+ },
+ {
+  "title": "Naan Breakdown",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe / cost breakdown reading for food anchor; not in dead-pattern flip families [Naan Breakdown]"
+ },
+ {
+  "title": "Goulash Followup",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: order/guest followup reading - established concrete ops sustain family [Goulash Followup]"
+ },
+ {
+  "title": "Tzatziki Approval",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: order approval workflow reading - established concrete ops sustain family [Tzatziki Approval]"
+ },
+ {
+  "title": "Dispensing Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'pharmacy' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Fuel Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'aviation' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Shift Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'mining' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Filtration Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'hvac_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Masterkey Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'locksmith_security_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Terminology Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Conjugations with noun-dominant non-grammar anchor: terminology cannot be conjugated (batch 10 Crew/Waitlist Conjugations precedent) [Terminology Conjugations]"
+ },
+ {
+  "title": "Storage Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'moving_relocation_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Renewal Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'property_management_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Orchard Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'agriculture' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Election Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'government' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Writer Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'media_publishing' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Commute Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'transportation' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Hotspot Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'telecom' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Phishing Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'cybersecurity' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Request Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'customer_support' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Alignment Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'automotive' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Gasket Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'pool_maintenance_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Fitting Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'plumbing_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Festival Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'travel_tourism' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Recital Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'music_lessons' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Crossword Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'crafts_hobbies' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Hydrangea Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'houseplants_indoor_gardening' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Bond Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'finance' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Foreclosure Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'real_estate' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Garbage Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Syllables' with 'cleaning_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Driveway Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Rhymes' with 'property_management_services' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Wildlife Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Synonyms' with 'travel_tourism' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Drums Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Antonyms' with 'music_lessons' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Genealogy Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Sentences' with 'crafts_hobbies' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Suture Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Translations' with 'healthcare' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Writing Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Anagrams' with 'education' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ },
+ {
+  "title": "Goldfish Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause second word 'Orthography' with 'veterinary' anchor - established review-stage pattern, re-review found no defective pairing and no trademark issue"
+ }
+]

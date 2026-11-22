@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Drums Chords",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: music-context Chords pairing (drum lessons over chord progressions, chord-pad drum programming); generic instrument anchor, no trademark."
+ },
+ {
+  "title": "Suture Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause function word per standing review line; readable as medical-terminology spelling reference; generic anchor, no trademark."
+ },
+ {
+  "title": "Prosciutto Clock",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Clock is a dead fragment on a food anchor - 'Prosciutto Clock' names no readable product and sits in the Time/Clock duplicate family; round-1 approval unsupported."
+ },
+ {
+  "title": "Ceviche Temperature",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food-safety temperature logging (HACCP checks) is a concrete restaurant-operations function on a food anchor."
+ },
+ {
+  "title": "Guacamole Load",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Load is a vague fragment on a dish anchor - no kitchen-ops reading makes 'Guacamole Load' legible; also adjacent to the Load/Frequency duplicate pairing."
+ },
+ {
+  "title": "Bratwurst Frequency",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Frequency on a dish anchor has no concrete food-service reading distinct from demand forecasting; fragment-quality dead pattern."
+ },
+ {
+  "title": "Gyro Condition",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Condition reads as equipment-status jargon fragment; 'Gyro Condition' names no coherent product on a dish anchor."
+ },
+ {
+  "title": "Mochi Cycle",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Cycle is an ambiguous fragment (lifecycle vs cycle-count vs menu cycle) with no dominant reading on 'Mochi'; no coherent product named."
+ },
+ {
+  "title": "Satay Breakdown",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe-cost breakdown analysis is a genuine restaurant-ops function; generic dish anchor, no trademark."
+ },
+ {
+  "title": "Gumbo Followup",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Followup is an established business-operations function word read as restaurant ops per standing line."
+ },
+ {
+  "title": "Jambalaya Approval",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Approval is an established ops function word (order/ticket approval) on a food anchor per standing line."
+ },
+ {
+  "title": "Naan Evaluation",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Evaluation is an established ops function word; food-service reading stands."
+ },
+ {
+  "title": "Arepa Questionnaire",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Questionnaire (customer feedback questionnaire) is an established ops word on a food anchor per standing line."
+ },
+ {
+  "title": "Pierogi Utilization",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: utilization (capacity/ingredient utilization, waste tracking) is a real food-service analytics function."
+ },
+ {
+  "title": "Goulash Benefit",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Benefit is HR-benefits jargon fragment on a dish anchor; singular nutritional 'benefit' is unnatural, so no dominant reading exists."
+ },
+ {
+  "title": "Chemical Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing review line; generic pest-control anchor, no trademark."
+ },
+ {
+  "title": "Pricing Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause antonym lookup per standing line; generic laundry anchor."
+ },
+ {
+  "title": "Cemetery Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; readable as epitaph/inscription sentence lookup; generic anchor, no trademark."
+ },
+ {
+  "title": "Commission Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; plausible reading as translating commission statements for multilingual salon staff; no trademark."
+ },
+ {
+  "title": "Filtration Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause word per standing line; generic HVAC anchor, no trademark; weak pairing but within the sustained query framing."
+ },
+ {
+  "title": "Salary Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause syllable lookup per standing line; generic HR anchor."
+ },
+ {
+  "title": "Drywall Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause rhyme lookup per standing line; generic construction anchor."
+ },
+ {
+  "title": "Cart Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause synonym lookup per standing line; Cart is a dominant generic e-commerce term, no trademark."
+ },
+ {
+  "title": "Buffet Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic hospitality anchor."
+ },
+ {
+  "title": "Semester Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; education sentence-writing context is natural."
+ },
+ {
+  "title": "Prototype Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic manufacturing anchor."
+ },
+ {
+  "title": "Election Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; anagram queries around election terms are a real query pattern; no trademark."
+ },
+ {
+  "title": "Writer Chords",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: music-creation context (songwriter chord references) gives a readable non-admin reading for Chords on a person anchor."
+ },
+ {
+  "title": "Hotspot Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; hotspot's dominant generic WiFi reading, no trademark."
+ },
+ {
+  "title": "Ventilation Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic HVAC anchor."
+ },
+ {
+  "title": "Shim Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic locksmith anchor."
+ },
+ {
+  "title": "Accreditation Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Overnight Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic moving-services anchor."
+ },
+ {
+  "title": "Slideshow Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; caption/sentence writing for slides is a coherent generic reading."
+ },
+ {
+  "title": "Parking Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic property-management anchor."
+ },
+ {
+  "title": "Fitting Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic plumbing anchor."
+ },
+ {
+  "title": "Festival Chords",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: music-festival context is a genuine music reading (festival setlist chords), consistent with sustained Carnival-family precedent."
+ },
+ {
+  "title": "Recital Lyrics",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: music-lessons context; recital lyrics/sheet reading is squarely a music pairing."
+ },
+ {
+  "title": "Crossword Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; crossword letter/orthography patterns are a real puzzles context."
+ },
+ {
+  "title": "Nonrenewal Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic insurance anchor."
+ },
+ {
+  "title": "Spelling Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: education context makes Spelling+Rhymes a natural teaching/query pairing."
+ },
+ {
+  "title": "Pumpkin Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic seasonal anchor."
+ },
+ {
+  "title": "Smoothie Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic beverage anchor."
+ },
+ {
+  "title": "Barking Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic veterinary anchor, no trademark."
+ },
+ {
+  "title": "Hygienist Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic dental anchor."
+ },
+ {
+  "title": "Driveway Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic property anchor."
+ },
+ {
+  "title": "Drums Lyrics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: music context (drum play-along with lyric charts) sustains Lyrics on an instrument anchor."
+ },
+ {
+  "title": "Genealogy Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: historical name-orthography variants are a genuine genealogy-research function; query-clause line holds."
+ },
+ {
+  "title": "Escargot Usage",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Usage is an established ops function word (ingredient usage tracking) per standing line."
+ },
+ {
+  "title": "Quinoa Cycle",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Cycle is an ambiguous fragment on a dish anchor (lifecycle vs cycle-count vs menu cycle, none dominant); 'Quinoa Cycle' names no coherent product."
+ },
+ {
+  "title": "Mochi Breakdown",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe-cost breakdown reading sustains Breakdown as concrete food-service ops."
+ },
+ {
+  "title": "Borscht Followup",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Followup is an established ops word per standing line."
+ },
+ {
+  "title": "Gumbo Approval",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Approval is an established ops word per standing line."
+ },
+ {
+  "title": "Shawarma Evaluation",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Evaluation is an established ops word per standing line."
+ },
+ {
+  "title": "Naan Questionnaire",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Questionnaire is an established ops word per standing line."
+ },
+ {
+  "title": "Arepa Utilization",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: utilization as capacity/ingredient utilization sustains the ops reading."
+ },
+ {
+  "title": "Pierogi Benefit",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Benefit is HR-jargon fragment on a dish anchor; no dominant food-ops reading - 'Pierogi Benefit' names no coherent product."
+ },
+ {
+  "title": "Family Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; Family generic in senior-care context, no dominant trademark reading."
+ },
+ {
+  "title": "Chemical Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic pest-control anchor."
+ },
+ {
+  "title": "Pricing Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Cemetery Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; headstone/record translation for genealogy is a plausible reading; no trademark."
+ },
+ {
+  "title": "Dispensing Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; generic pharmacy anchor; weak pairing but within the sustained query framing."
+ },
+ {
+  "title": "Shift Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; generic workforce anchor."
+ },
+ {
+  "title": "Endorsement Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic insurance anchor."
+ },
+ {
+  "title": "Salary Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Drywall Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Cart Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; Cart generic e-commerce term."
+ },
+ {
+  "title": "Buffet Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Semester Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; education anchor."
+ },
+ {
+  "title": "Orchard Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic agriculture anchor."
+ },
+ {
+  "title": "Writer Lyrics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: lyric-writing/songwriting tools make Writer Lyrics a real music-creation pairing; generic anchor."
+ },
+ {
+  "title": "Commute Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; generic transportation anchor."
+ },
+ {
+  "title": "Generic Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; pharmaceutical 'generic' drug names plus syllable lookup is a coherent query reading."
+ },
+ {
+  "title": "Ventilation Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Shim Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Accreditation Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Overnight Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Slideshow Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Gasket Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; generic pool-maintenance anchor."
+ },
+ {
+  "title": "Festival Lyrics",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: music-festival context (setlists/lyric screens) sustains the Lyrics pairing."
+ },
+ {
+  "title": "Recital Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; music-lessons anchor; weak but consistent with the sustained query framing."
+ },
+ {
+  "title": "Energy Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; Energy generic, no trademark."
+ },
+ {
+  "title": "Nonrenewal Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic insurance anchor."
+ },
+ {
+  "title": "Spelling Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: education query pairing is natural per standing line."
+ },
+ {
+  "title": "Pumpkin Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Smoothie Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Barking Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: pet-bark 'translation' apps are a real consumer category; query-clause line holds."
+ },
+ {
+  "title": "Garbage Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; generic cleaning anchor."
+ },
+ {
+  "title": "Drums Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; music anchor, no trademark."
+ },
+ {
+  "title": "Bruschetta Clock",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Clock is a dead fragment on a food anchor (Time/Clock duplicate family); 'Bruschetta Clock' names no product."
+ },
+ {
+  "title": "Ceviche Load",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Load is a vague fragment on a dish anchor; no legible food-service reading."
+ },
+ {
+  "title": "Empanada Frequency",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Frequency has no concrete food-service reading distinct from demand forecasting; fragment-quality on a dish anchor."
+ },
+ {
+  "title": "Escargot Condition",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Condition is equipment-status jargon fragment; 'Escargot Condition' names no coherent product."
+ },
+ {
+  "title": "Quinoa Breakdown",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe-cost breakdown ops reading on a generic dish anchor."
+ },
+ {
+  "title": "Moussaka Followup",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Followup is an established ops word per standing line."
+ },
+ {
+  "title": "Borscht Approval",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Approval is an established ops word per standing line."
+ },
+ {
+  "title": "Jambalaya Evaluation",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Evaluation is an established ops word per standing line."
+ },
+ {
+  "title": "Shawarma Questionnaire",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Questionnaire is an established ops word per standing line."
+ },
+ {
+  "title": "Naan Utilization",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: utilization ops reading stands on a generic dish anchor."
+ },
+ {
+  "title": "Arepa Benefit",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Benefit is HR-jargon fragment on a dish anchor; no dominant ops reading."
+ },
+ {
+  "title": "Immunization Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic childcare anchor."
+ },
+ {
+  "title": "Family Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Chemical Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Pricing Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Commission Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; generic salon anchor."
+ },
+ {
+  "title": "Fuel Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; generic aviation anchor."
+ },
+ {
+  "title": "Buyer Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic real-estate anchor."
+ },
+ {
+  "title": "Endorsement Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Salary Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Drywall Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Cart Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; Cart generic."
+ },
+ {
+  "title": "Buffet Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Prototype Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Writer Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; Writer generic, no dominant software-mark reading."
+ },
+ {
+  "title": "Tip Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; Tip generic (gratuity), no trademark."
+ },
+ {
+  "title": "Generic Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; pharmacy anchor."
+ },
+ {
+  "title": "Ventilation Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Shim Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Accreditation Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Overnight Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Parking Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Festival Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; Festival generic with music-festival dominant reading, no trademark."
+ },
+ {
+  "title": "Thrifting Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic crafts anchor."
+ },
+ {
+  "title": "Energy Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Nonrenewal Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Spelling Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: education query pairing natural per standing line."
+ },
+ {
+  "title": "Pumpkin Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Smoothie Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Hygienist Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic dental anchor."
+ },
+ {
+  "title": "Wildlife Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; generic tourism anchor."
+ },
+ {
+  "title": "Empanada Compatibility",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Compatibility is software-integration jargon fragment; 'Empanada Compatibility' names no food-service product."
+ },
+ {
+  "title": "Bratwurst Usage",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Usage is an established ops word (ingredient usage) per standing line."
+ },
+ {
+  "title": "Gyro Cycle",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Cycle is an ambiguous fragment on a dish anchor with no dominant reading."
+ },
+ {
+  "title": "Quinoa Sensor",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Sensor is an established dead-pattern fragment on food anchors (flip family); 'Quinoa Sensor' names no product."
+ },
+ {
+  "title": "Mochi Reception",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "flip: Reception is ambiguous between event-reception and goods-receiving with no dominant product reading on a dish anchor; fragment-quality."
+ },
+ {
+  "title": "Satay Followup",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Followup is an established ops word per standing line."
+ },
+ {
+  "title": "Moussaka Approval",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Approval is an established ops word per standing line."
+ },
+ {
+  "title": "Borscht Matrix",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Matrix is an established dead-pattern fragment on food anchors (flip family); 'Borscht Matrix' names no product."
+ },
+ {
+  "title": "Gumbo Evaluation",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Evaluation is an established ops word per standing line."
+ },
+ {
+  "title": "Jambalaya Questionnaire",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Questionnaire is an established ops word per standing line."
+ },
+ {
+  "title": "Shawarma Utilization",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: utilization ops reading stands."
+ },
+ {
+  "title": "Naan Benefit",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Benefit is HR-jargon fragment on a dish anchor; no dominant food-ops reading."
+ },
+ {
+  "title": "Arepa Requirement",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Requirement is bare compliance/requirements-tracking jargon fragment; 'Arepa Requirement' names no product."
+ },
+ {
+  "title": "Pierogi Depreciation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Depreciation is an accounting fragment whose real subject (equipment) contradicts a dish anchor; no coherent reading."
+ },
+ {
+  "title": "Goulash Resignation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Resignation is an HR fragment; a staff-attrition product would not anchor on a dish - 'Goulash Resignation' is incoherent."
+ },
+ {
+  "title": "Tzatziki Hazard",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Hazard is an established ops word (food-safety hazard analysis, HACCP) per standing line."
+ },
+ {
+  "title": "Immunization Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Family Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Chemical Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Cemetery Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Waybill Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic logistics anchor."
+ },
+ {
+  "title": "Buyer Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Endorsement Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Salary Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Drywall Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Cart Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; Cart generic."
+ },
+ {
+  "title": "Semester Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; education anchor."
+ },
+ {
+  "title": "Election Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor, no trademark."
+ },
+ {
+  "title": "Carpet Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic cleaning anchor."
+ },
+ {
+  "title": "Tip Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; Tip generic."
+ },
+ {
+  "title": "Generic Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; pharmacy anchor."
+ },
+ {
+  "title": "Ventilation Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Shim Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Accreditation Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Slideshow Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Fitting Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; generic plumbing anchor."
+ },
+ {
+  "title": "Pitch Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: music-lessons context (pitch and syllable alignment in lyric setting) plus query framing; generic anchor."
+ },
+ {
+  "title": "Thrifting Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Energy Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Nonrenewal Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Spelling Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: education query pairing natural per standing line."
+ },
+ {
+  "title": "Pumpkin Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Barking Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Driveway Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; generic property anchor."
+ },
+ {
+  "title": "Acai Clock",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Clock is a dead fragment on a food anchor (Time/Clock duplicate family); 'Acai Clock' names no product."
+ },
+ {
+  "title": "Edamame Load",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Load is a vague fragment on a dish anchor; no legible food-service reading."
+ },
+ {
+  "title": "Bratwurst Condition",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Condition is equipment-status jargon fragment on a dish anchor; no coherent product named."
+ },
+ {
+  "title": "Gyro Breakdown",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe-cost breakdown ops reading on a generic dish anchor."
+ },
+ {
+  "title": "Quinoa Reception",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "flip: Reception is an ambiguous fragment on a dish anchor (event vs goods-receiving), no dominant product reading."
+ },
+ {
+  "title": "Mochi Followup",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Followup is an established ops word per standing line."
+ },
+ {
+  "title": "Satay Approval",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Approval is an established ops word per standing line."
+ },
+ {
+  "title": "Moussaka Matrix",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Matrix is an established dead-pattern fragment on food anchors (flip family); 'Moussaka Matrix' names no product."
+ },
+ {
+  "title": "Borscht Evaluation",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Evaluation is an established ops word per standing line."
+ },
+ {
+  "title": "Gumbo Questionnaire",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Questionnaire is an established ops word per standing line."
+ },
+ {
+  "title": "Jambalaya Utilization",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: utilization ops reading stands."
+ },
+ {
+  "title": "Shawarma Benefit",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Benefit is HR-jargon fragment on a dish anchor; no dominant food-ops reading."
+ },
+ {
+  "title": "Naan Requirement",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Requirement is bare requirements-tracking jargon fragment; 'Naan Requirement' names no product."
+ },
+ {
+  "title": "Arepa Depreciation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Depreciation is an accounting fragment contradicting a dish anchor; no coherent reading."
+ },
+ {
+  "title": "Pierogi Resignation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Resignation is an HR fragment; a staff-attrition product would not anchor on a dish - 'Pierogi Resignation' is incoherent."
+ },
+ {
+  "title": "Goulash Hazard",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: food-safety hazard (HACCP) ops reading per standing line."
+ },
+ {
+  "title": "Tzatziki Guarantor",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Guarantor is an established dead-pattern fragment on food anchors (flip family); 'Tzatziki Guarantor' names no product."
+ },
+ {
+  "title": "Immunization Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Family Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Chemical Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Pricing Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Dispensing Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause word per standing line; generic pharmacy anchor."
+ },
+ {
+  "title": "Probate Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic legal anchor."
+ },
+ {
+  "title": "Waybill Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic logistics anchor."
+ },
+ {
+  "title": "Buyer Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ },
+ {
+  "title": "Endorsement Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause word per standing line; generic anchor."
+ }
+]

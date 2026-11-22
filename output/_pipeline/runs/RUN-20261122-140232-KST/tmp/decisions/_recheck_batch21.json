@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Acai Onboarding",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Onboarding is an established concrete ops word; reads as acai-bowl shop customer/loyalty onboarding"
+ },
+ {
+  "title": "Prosciutto Weight",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: portion-weight reading (deli scale, portioning) is concrete; Weight has prior food-anchor approvals (Kimchi/Pumpkin Weight)"
+ },
+ {
+  "title": "Ceviche Time",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: prep/food-safety hold-time reading is concrete for ceviche; Time has prior food-anchor approval (Ravioli Time)"
+ },
+ {
+  "title": "Mochi Capacity",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: production-capacity reading is concrete; Capacity is an approved food-ops function word"
+ },
+ {
+  "title": "Satay Usage",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: ingredient-usage tracking reads as concrete restaurant ops; Usage sustained on food anchors before"
+ },
+ {
+  "title": "Moussaka Condition",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "refuted: Condition reads as a bare status label (freshness/state-of-item), not any function a moussaka or restaurant tool offers; ledger shows zero food-anchor Condition approvals and consistent status-label rejections"
+ },
+ {
+  "title": "Jambalaya Cycle",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: menu-cycle rotation (cycle menu) is a real restaurant term; precedent Ravioli Cycle was approved, though ambiguity keeps confidence modest"
+ },
+ {
+  "title": "Shawarma Breakdown",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: nutrition/cost breakdown is a strong, concrete restaurant reading; multiple prior food-anchor Breakdown approvals"
+ },
+ {
+  "title": "Pierogi Followup",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Followup is an established ops word (order/customer followup) and prior food-anchor approvals exist"
+ },
+ {
+  "title": "Goulash Approval",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Approval is an established concrete ops word (order/request approval); prior food-anchor precedent"
+ },
+ {
+  "title": "Commission Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause syllable-lookup reading with generic anchor Commission; no trademark, clarity or duplication defect found"
+ },
+ {
+  "title": "Dispensing Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme-lookup reading with generic anchor Dispensing; no defect found"
+ },
+ {
+  "title": "Fuel Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause antonym-lookup reading with generic anchor Fuel; no defect found"
+ },
+ {
+  "title": "Shift Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause sentence-example reading with generic anchor Shift; no defect found"
+ },
+ {
+  "title": "Filtration Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause translation reading with generic anchor Filtration; no defect found"
+ },
+ {
+  "title": "Terminology Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Terminology; no defect found"
+ },
+ {
+  "title": "Florist Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause spelling/orthography reading with generic anchor Florist; no defect found"
+ },
+ {
+  "title": "Prototype Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause syllable reading with generic anchor Prototype; no defect found"
+ },
+ {
+  "title": "Orchard Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Orchard; no defect found"
+ },
+ {
+  "title": "Election Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause synonym reading with generic anchor Election; no defect found"
+ },
+ {
+  "title": "Writer Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause antonym reading with generic anchor Writer; no defect found"
+ },
+ {
+  "title": "Commute Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause sentence reading with generic anchor Commute; no defect found"
+ },
+ {
+  "title": "Hotspot Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause translation reading with generic anchor Hotspot; no defect found"
+ },
+ {
+  "title": "Database Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Database; no defect found"
+ },
+ {
+  "title": "Parking Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause syllable reading with generic anchor Parking; no defect found"
+ },
+ {
+  "title": "Gasket Rhymes",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Gasket; anchor is odd but review-stage line sustains query-clause function words"
+ },
+ {
+  "title": "Fitting Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Fitting; no defect found"
+ },
+ {
+  "title": "Festival Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause antonym reading with generic anchor Festival; no defect found"
+ },
+ {
+  "title": "Recital Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause sentence reading with generic anchor Recital; no defect found"
+ },
+ {
+  "title": "Crossword Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause translation reading with generic anchor Crossword; no defect found"
+ },
+ {
+  "title": "Surgery Anagrams",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause anagram reading with generic anchor Surgery; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Weighbridge Orthography",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause orthography reading with generic anchor Weighbridge; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Hygienist Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause syllable reading with generic anchor Hygienist; no defect found"
+ },
+ {
+  "title": "Garbage Rhymes",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Garbage; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Driveway Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Driveway; no defect found"
+ },
+ {
+  "title": "Wildlife Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause antonym reading with generic anchor Wildlife; no defect found"
+ },
+ {
+  "title": "Drums Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause sentence reading with generic anchor Drums; no defect found"
+ },
+ {
+  "title": "Genealogy Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause translation reading with generic anchor Genealogy; no defect found"
+ },
+ {
+  "title": "Waiver Anagrams",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause anagram reading with generic anchor Waiver; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Cupcake Orthography",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause orthography reading with generic anchor Cupcake; food anchors do not defeat query-clause function words per established line"
+ },
+ {
+  "title": "Acai Checkin",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: Checkin is an established food-anchor dead-pattern flip (batch 18 family); reads as appointment/hotel check-in jargon with no acai-bowl or restaurant function behind it"
+ },
+ {
+  "title": "Tabbouleh Limit",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "refuted: Limit names no concrete function for a dish anchor - limit of what is left unanswered; prior food-anchor Limit pairings were consistently rejected as unattached fragments"
+ },
+ {
+  "title": "Ceviche Speed",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "refuted: Speed attaches to no measurable ceviche or kitchen workflow in this pairing and reads as a bare fragment; no food-anchor Speed pairing has ever been approved in the ledger"
+ },
+ {
+  "title": "Empanada Temperature",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food-safety temperature monitoring is a concrete, well-precedented restaurant reading (Buffet/Ravioli Temperature approved)"
+ },
+ {
+  "title": "Quinoa Capacity",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: production-capacity reading is concrete; Capacity is an approved food-ops function word"
+ },
+ {
+  "title": "Mochi Usage",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: ingredient-usage tracking reads as concrete restaurant ops; Usage sustained on food anchors before"
+ },
+ {
+  "title": "Satay Condition",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "refuted: Condition is a status label rather than a function for a satay anchor; zero food-anchor Condition approvals exist and prior rounds consistently rejected it as unclear"
+ },
+ {
+  "title": "Gumbo Cycle",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: menu-cycle rotation reading is a real restaurant term; precedent Ravioli Cycle approved, ambiguity keeps confidence modest"
+ },
+ {
+  "title": "Jambalaya Breakdown",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: nutrition/cost breakdown reading is concrete; multiple prior food-anchor Breakdown approvals"
+ },
+ {
+  "title": "Arepa Followup",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Followup is an established concrete ops word with prior food-anchor approvals"
+ },
+ {
+  "title": "Pierogi Approval",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Approval is an established concrete ops word; prior food-anchor precedent (Ravioli Approval)"
+ },
+ {
+  "title": "Cemetery Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause syllable reading with generic anchor Cemetery; no defect found"
+ },
+ {
+  "title": "Commission Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Commission; no defect found"
+ },
+ {
+  "title": "Dispensing Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Dispensing; no defect found"
+ },
+ {
+  "title": "Fuel Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause sentence reading with generic anchor Fuel; no defect found"
+ },
+ {
+  "title": "Shift Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause translation reading with generic anchor Shift; no defect found"
+ },
+ {
+  "title": "Masterkey Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Masterkey (generic locksmith term, not a famous mark); no defect found"
+ },
+ {
+  "title": "Gallery Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause orthography reading with generic anchor Gallery; no defect found"
+ },
+ {
+  "title": "Semester Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause syllable reading with generic anchor Semester; no defect found"
+ },
+ {
+  "title": "Prototype Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Prototype; no defect found"
+ },
+ {
+  "title": "Orchard Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause synonym reading with generic anchor Orchard; no defect found"
+ },
+ {
+  "title": "Election Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause antonym reading with generic anchor Election; no defect found"
+ },
+ {
+  "title": "Writer Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause sentence reading with generic anchor Writer; no defect found"
+ },
+ {
+  "title": "Commute Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause translation reading with generic anchor Commute; no defect found"
+ },
+ {
+  "title": "Phishing Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Phishing; no defect found"
+ },
+ {
+  "title": "Applicant Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause orthography reading with generic anchor Applicant; no defect found"
+ },
+ {
+  "title": "Slideshow Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause syllable reading with generic anchor Slideshow; no defect found"
+ },
+ {
+  "title": "Parking Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Parking; no defect found"
+ },
+ {
+  "title": "Gasket Synonyms",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause synonym reading with generic anchor Gasket; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Fitting Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause antonym reading with generic anchor Fitting; no defect found"
+ },
+ {
+  "title": "Festival Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause sentence reading with generic anchor Festival; no defect found"
+ },
+ {
+  "title": "Recital Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause translation reading with generic anchor Recital; no defect found"
+ },
+ {
+  "title": "Hydrangea Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Hydrangea; no defect found"
+ },
+ {
+  "title": "Notary Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause orthography reading with generic anchor Notary (generic role, not a mark); no defect found"
+ },
+ {
+  "title": "Barking Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause syllable reading with generic anchor Barking; no defect found"
+ },
+ {
+  "title": "Hygienist Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Hygienist; no defect found"
+ },
+ {
+  "title": "Garbage Synonyms",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause synonym reading with generic anchor Garbage; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Driveway Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause antonym reading with generic anchor Driveway; no defect found"
+ },
+ {
+  "title": "Wildlife Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause sentence reading with generic anchor Wildlife; no defect found"
+ },
+ {
+  "title": "Drums Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause translation reading with generic anchor Drums; no defect found"
+ },
+ {
+  "title": "Suture Anagrams",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause anagram reading with generic anchor Suture; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Writing Lyrics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: lyric-writing education context is a genuine music reading; established Lyrics defense line covers it"
+ },
+ {
+  "title": "Ornament Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause orthography reading with generic anchor Ornament; no defect found"
+ },
+ {
+  "title": "Quinoa Usage",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: ingredient-usage tracking reads as concrete restaurant ops; Usage sustained on food anchors before"
+ },
+ {
+  "title": "Gumbo Breakdown",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: nutrition/cost breakdown reading is concrete; multiple prior food-anchor Breakdown approvals"
+ },
+ {
+  "title": "Jambalaya Sensor",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: Sensor is in the established food-anchor dead-pattern flip family; hardware-sensor reading has no dish-level or jambalaya/kitchen function behind it and prior food-anchor Sensor pairings were repeatedly rejected"
+ },
+ {
+  "title": "Shawarma Reception",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: catered-reception/host-stand reading is a genuine food-service offering; precedent Ravioli Reception approved, though event-vs-function ambiguity keeps confidence modest"
+ },
+ {
+  "title": "Naan Followup",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Followup is an established concrete ops word with prior food-anchor approvals"
+ },
+ {
+  "title": "Arepa Approval",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Approval is an established concrete ops word; prior food-anchor precedent"
+ },
+ {
+  "title": "Goulash Evaluation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Evaluation is an established ops word (menu/customer evaluation) with strong approval history incl. food anchors"
+ },
+ {
+  "title": "Tzatziki Questionnaire",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Questionnaire is an established concrete ops word (feedback form) with many prior food-anchor approvals"
+ },
+ {
+  "title": "Pricing Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause syllable reading with generic anchor Pricing; no defect found"
+ },
+ {
+  "title": "Cemetery Rhymes",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Cemetery; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Commission Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Commission; no defect found"
+ },
+ {
+  "title": "Dispensing Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause antonym reading with generic anchor Dispensing; no defect found"
+ },
+ {
+  "title": "Fuel Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause translation reading with generic anchor Fuel; no defect found"
+ },
+ {
+  "title": "Filtration Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Filtration; no defect found"
+ },
+ {
+  "title": "Storage Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause orthography reading with generic anchor Storage; no defect found"
+ },
+ {
+  "title": "Buffet Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause syllable reading with generic anchor Buffet; food anchors do not defeat query-clause function words"
+ },
+ {
+  "title": "Semester Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Semester; no defect found"
+ },
+ {
+  "title": "Prototype Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Prototype; no defect found"
+ },
+ {
+  "title": "Orchard Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause antonym reading with generic anchor Orchard; no defect found"
+ },
+ {
+  "title": "Election Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause sentence reading with generic anchor Election; no defect found"
+ },
+ {
+  "title": "Writer Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause translation reading with generic anchor Writer; no defect found"
+ },
+ {
+  "title": "Commute Conjugations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: commute works as a verb so the conjugation-tool reading is grammatical, matching the sustained verb-anchor line (Clog/Picnic/Ferry/Permit Conjugations)"
+ },
+ {
+  "title": "Hotspot Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Hotspot; no defect found"
+ },
+ {
+  "title": "Request Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause orthography reading with generic anchor Request; no defect found"
+ },
+ {
+  "title": "Overnight Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause syllable reading with generic anchor Overnight; no defect found"
+ },
+ {
+  "title": "Slideshow Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Slideshow; no defect found"
+ },
+ {
+  "title": "Parking Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Parking; no defect found"
+ },
+ {
+  "title": "Gasket Antonyms",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause antonym reading with generic anchor Gasket; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Fitting Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause sentence reading with generic anchor Fitting; no defect found"
+ },
+ {
+  "title": "Festival Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause translation reading with generic anchor Festival; no defect found"
+ },
+ {
+  "title": "Crossword Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Crossword; no defect found"
+ },
+ {
+  "title": "Smoothie Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause syllable reading with generic anchor Smoothie; food anchors do not defeat query-clause function words"
+ },
+ {
+  "title": "Barking Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Barking; no defect found"
+ },
+ {
+  "title": "Hygienist Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Hygienist; no defect found"
+ },
+ {
+  "title": "Garbage Antonyms",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause antonym reading with generic anchor Garbage; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Driveway Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause sentence reading with generic anchor Driveway; no defect found"
+ },
+ {
+  "title": "Wildlife Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause translation reading with generic anchor Wildlife; no defect found"
+ },
+ {
+  "title": "Genealogy Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause anagram reading with generic anchor Genealogy; no defect found"
+ },
+ {
+  "title": "Writing Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause orthography reading with generic anchor Writing; no defect found"
+ },
+ {
+  "title": "Empanada Load",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: fryer/oven batch-load reading is a real kitchen concept and prior precedent Buffet Load was approved; weak but no solid ground to refute"
+ },
+ {
+  "title": "Borscht Breakdown",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: nutrition/cost breakdown reading is concrete; multiple prior food-anchor Breakdown approvals"
+ },
+ {
+  "title": "Gumbo Sensor",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: Sensor is an established food-anchor dead-pattern flip; hardware-sensor reading gives no gumbo/kitchen function and prior food-anchor Sensor pairings were repeatedly rejected"
+ },
+ {
+  "title": "Jambalaya Reception",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: catered-reception reading is a genuine food-service catering offering; precedent Ravioli Reception approved, ambiguity keeps confidence modest"
+ },
+ {
+  "title": "Shawarma Followup",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Followup is an established concrete ops word with prior food-anchor approvals"
+ },
+ {
+  "title": "Naan Approval",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Approval is an established concrete ops word; prior food-anchor precedent"
+ },
+ {
+  "title": "Pierogi Evaluation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Evaluation is an established ops word with strong approval history incl. food anchors"
+ },
+ {
+  "title": "Goulash Questionnaire",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Questionnaire is an established concrete ops word with many prior food-anchor approvals"
+ },
+ {
+  "title": "Tzatziki Utilization",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: ingredient-utilization (usage/waste tracking) reading has precedent (Ravioli Utilization approved) and no exact Usage duplicate exists for this anchor; modest confidence due to jargon flavor"
+ },
+ {
+  "title": "Pricing Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Pricing; no defect found"
+ },
+ {
+  "title": "Cemetery Synonyms",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause synonym reading with generic anchor Cemetery; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Commission Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause antonym reading with generic anchor Commission; no defect found"
+ },
+ {
+  "title": "Dispensing Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause sentence reading with generic anchor Dispensing; no defect found"
+ },
+ {
+  "title": "Shift Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Shift; no defect found"
+ },
+ {
+  "title": "Terminology Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause orthography reading with generic anchor Terminology; no defect found"
+ },
+ {
+  "title": "Cart Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause syllable reading with generic anchor Cart (generic retail term); no defect found"
+ },
+ {
+  "title": "Buffet Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Buffet; food anchors do not defeat query-clause function words"
+ },
+ {
+  "title": "Semester Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Semester; no defect found"
+ },
+ {
+  "title": "Prototype Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause antonym reading with generic anchor Prototype; no defect found"
+ },
+ {
+  "title": "Orchard Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause sentence reading with generic anchor Orchard; no defect found"
+ },
+ {
+  "title": "Election Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause translation reading with generic anchor Election; no defect found"
+ },
+ {
+  "title": "Commute Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Commute; no defect found"
+ },
+ {
+  "title": "Database Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause orthography reading with generic anchor Database; no defect found"
+ },
+ {
+  "title": "Accreditation Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause syllable reading with generic anchor Accreditation; no defect found"
+ },
+ {
+  "title": "Overnight Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Overnight; no defect found"
+ },
+ {
+  "title": "Slideshow Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Slideshow; no defect found"
+ },
+ {
+  "title": "Parking Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause antonym reading with generic anchor Parking; no defect found"
+ },
+ {
+  "title": "Gasket Sentences",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause sentence reading with generic anchor Gasket; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Fitting Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause translation reading with generic anchor Fitting; no defect found"
+ },
+ {
+  "title": "Recital Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Recital; no defect found"
+ },
+ {
+  "title": "Surgery Orthography",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause orthography reading with generic anchor Surgery; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Pumpkin Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause syllable reading with generic anchor Pumpkin; food anchors do not defeat query-clause function words"
+ },
+ {
+  "title": "Smoothie Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Smoothie; food anchors do not defeat query-clause function words"
+ },
+ {
+  "title": "Barking Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Barking; no defect found"
+ },
+ {
+  "title": "Hygienist Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause antonym reading with generic anchor Hygienist; no defect found"
+ },
+ {
+  "title": "Garbage Sentences",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause sentence reading with generic anchor Garbage; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Driveway Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause translation reading with generic anchor Driveway; no defect found"
+ },
+ {
+  "title": "Drums Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Drums; no defect found"
+ },
+ {
+  "title": "Waiver Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause orthography reading with generic anchor Waiver; no defect found"
+ },
+ {
+  "title": "Gyro Usage",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: ingredient-usage tracking reads as concrete restaurant ops; Usage sustained on food anchors before"
+ },
+ {
+  "title": "Moussaka Breakdown",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: nutrition/cost breakdown reading is concrete; multiple prior food-anchor Breakdown approvals"
+ },
+ {
+  "title": "Borscht Sensor",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: Sensor is an established food-anchor dead-pattern flip; hardware-sensor reading has no borscht/kitchen function and prior food-anchor Sensor pairings were repeatedly rejected"
+ },
+ {
+  "title": "Gumbo Reception",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: catered-reception reading is a genuine food-service catering offering; precedent Ravioli Reception approved, ambiguity keeps confidence modest"
+ },
+ {
+  "title": "Jambalaya Followup",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Followup is an established concrete ops word with prior food-anchor approvals"
+ },
+ {
+  "title": "Shawarma Approval",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Approval is an established concrete ops word; prior food-anchor precedent"
+ },
+ {
+  "title": "Arepa Evaluation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Evaluation is an established ops word with strong approval history incl. food anchors"
+ },
+ {
+  "title": "Pierogi Questionnaire",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Questionnaire is an established concrete ops word with many prior food-anchor approvals"
+ },
+ {
+  "title": "Goulash Utilization",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: ingredient-utilization reading has precedent (Ravioli Utilization approved) and no exact Usage duplicate exists for this anchor; modest confidence due to jargon flavor"
+ },
+ {
+  "title": "Pricing Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Pricing; no defect found"
+ },
+ {
+  "title": "Cemetery Antonyms",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause antonym reading with generic anchor Cemetery; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Commission Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause sentence reading with generic anchor Commission; no defect found"
+ },
+ {
+  "title": "Dispensing Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause translation reading with generic anchor Dispensing; no defect found"
+ },
+ {
+  "title": "Fuel Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Fuel; no defect found"
+ },
+ {
+  "title": "Masterkey Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause orthography reading with generic anchor Masterkey (generic locksmith term, not a famous mark); no defect found"
+ },
+ {
+  "title": "Drywall Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause syllable reading with generic anchor Drywall; no defect found"
+ },
+ {
+  "title": "Cart Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Cart (generic retail term); no defect found"
+ },
+ {
+  "title": "Buffet Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Buffet; food anchors do not defeat query-clause function words"
+ },
+ {
+  "title": "Semester Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause antonym reading with generic anchor Semester; no defect found"
+ },
+ {
+  "title": "Prototype Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause sentence reading with generic anchor Prototype; no defect found"
+ },
+ {
+  "title": "Orchard Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause translation reading with generic anchor Orchard; no defect found"
+ },
+ {
+  "title": "Writer Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Writer; no defect found"
+ },
+ {
+  "title": "Phishing Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause orthography reading with generic anchor Phishing; no defect found"
+ },
+ {
+  "title": "Shim Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause syllable reading with generic anchor Shim; no defect found"
+ },
+ {
+  "title": "Accreditation Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Accreditation; no defect found"
+ },
+ {
+  "title": "Overnight Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Overnight; no defect found"
+ },
+ {
+  "title": "Slideshow Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause antonym reading with generic anchor Slideshow; no defect found"
+ },
+ {
+  "title": "Parking Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause sentence reading with generic anchor Parking; no defect found"
+ },
+ {
+  "title": "Gasket Translations",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause translation reading with generic anchor Gasket; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Festival Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Festival; no defect found"
+ },
+ {
+  "title": "Recital Chords",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recital is a music-performance context so the chords reading stands, matching the established music-context defense (Harp/Audition/Carnival/Broadcast Chords)"
+ },
+ {
+  "title": "Hydrangea Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause orthography reading with generic anchor Hydrangea; no defect found"
+ },
+ {
+  "title": "Spelling Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: spelling-education syllable-lookup reading is coherent (spelling bee syllable work); no defect found"
+ },
+ {
+  "title": "Pumpkin Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause rhyme reading with generic anchor Pumpkin; food anchors do not defeat query-clause function words"
+ },
+ {
+  "title": "Smoothie Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause synonym reading with generic anchor Smoothie; food anchors do not defeat query-clause function words"
+ },
+ {
+  "title": "Barking Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause antonym reading with generic anchor Barking; no defect found"
+ },
+ {
+  "title": "Hygienist Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause sentence reading with generic anchor Hygienist; no defect found"
+ },
+ {
+  "title": "Garbage Translations",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: query-clause translation reading with generic anchor Garbage; odd but within sustained query-clause line"
+ },
+ {
+  "title": "Wildlife Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: query-clause anagram reading with generic anchor Wildlife; no defect found"
+ }
+]

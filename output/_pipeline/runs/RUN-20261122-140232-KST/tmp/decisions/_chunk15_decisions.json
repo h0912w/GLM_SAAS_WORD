@@ -1,0 +1,2202 @@
+[
+ {
+  "title": "Formulary Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Formulary'(약제 목록)를 대상어로 하는 철자(Orthography) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Remodel Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Remodel'(리모델링)를 대상어로 하는 음절(Syllables) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Clearance Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Clearance'(재고 정리)를 대상어로 하는 라임(Rhymes) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quarter Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Quarter' 단어의 유의어(Synonyms) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mayor Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Mayor' 단어의 반의어(Antonyms) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Article Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Article' 단어의 예문(Sentences) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Smartphone Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Smartphone' 단어의 번역(Translations) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Case Conjugations",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "customer_support 맥락의 Case는 명사(문의 케이스)로 읽혀 동사 활용 조회인 Conjugations의 대상이 없고, 속어 'to case'는 이 업계에서 지배적이지 않다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Hire Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Hire' 단어의 애너그램(Anagrams) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Expo Chords",
+  "approve": true,
+  "confidence": 0.62,
+  "reason": "행사(Expo) 무대·공연 대상 코드(Chords) 악보·플레이리스트 큐레이션 서비스로 읽힐 여지가 있으나 결합이 직관적이지 않아 신뢰도 낮음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Roadtest Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "시승 평가(Roadtest) 도메인에 가사(Lyrics) 기능이 결합할 근거가 없어 지시되는 SaaS가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Freezer Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Freezer' 단어의 철자(Orthography) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demotion Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Demotion'(강등)를 대상어로 하는 음절(Syllables) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demolition Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Demolition'(철거)를 대상어로 하는 라임(Rhymes) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Commencement Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Commencement'(졸업식)를 대상어로 하는 유의어(Synonyms) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recycling Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Recycling'(재활용)를 대상어로 하는 반의어(Antonyms) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ad Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Ad' 단어의 예문(Sentences) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Backlog Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Backlog' 단어의 번역(Translations) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Diversity Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Diversity는 명사라 동사 활용 조회인 Conjugations와 결합하면 활용 대상이 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Signage Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Signage'(간판)를 대상어로 하는 애너그램(Anagrams) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Wiper Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "와이퍼(Wiper) 부품 도메인에 코드(Chords) 조회 서비스가 성립하지 않아 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Takeout Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "포장(Takeout) 요식업 맥락에서 가사(Lyrics)가 지시하는 기능이 없어 서비스가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Adoption Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Adoption'(입양·분양)를 대상어로 하는 철자(Orthography) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Investigation Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Investigation'(조사)를 대상어로 하는 음절(Syllables) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Essay Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Essay' 단어의 라임(Rhymes) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Masquerade Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Masquerade'(가면무도회)를 대상어로 하는 유의어(Synonyms) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Burger Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Burger' 단어의 반의어(Antonyms) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tortoise Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Tortoise'(거북)를 대상어로 하는 예문(Sentences) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gingivitis Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Gingivitis'(치은염)를 대상어로 하는 번역(Translations) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Attic Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Attic는 명사(다락방)라 동사 활용 조회인 Conjugations의 대상이 될 수 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Yacht Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Yacht' 단어의 애너그램(Anagrams) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Intubation Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "삽관(Intubation)은 의료 대상어라 코드(Chords)와 결합해도 지시되는 SaaS가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Insured Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "피보험자(Insured) 보험 도메인에 가사(Lyrics) 기능이 결합할 근거가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Notebook Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Notebook' 단어의 철자(Orthography) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Duration",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "요식업 맥락에서 Duration이 지시하는 기능(무엇의 지속 시간인지)이 불명확해 아사이(Acai) 업계 SaaS가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Bruschetta Diagnostic",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "브루스케타(Bruschetta) 판매점 대상 매출·운영 진단(Diagnostic) 도구로 읽힘. Diagnostic이 기능어로 자연스러운 정도가 낮아 신뢰도 낮음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Authorization",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "프로슈토(Prosciutto) 전문점·제조업 대상 승인(Authorization) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Guide",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "타불레(Tabbouleh) 전문점·제조업 대상 가이드(Guide) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Agreement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "에다마메(Edamame) 전문점·제조업 대상 계약서(Agreement) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Account",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "세비체(Ceviche) 전문점·제조업 대상 계정(Account) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Match",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "과카몰리(Guacamole) 전문점·제조업 대상 매칭(Match) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Lookup",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "엠파나다(Empanada) 전문점·제조업 대상 조회(Lookup) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Model",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "브라트부르스트(Bratwurst) 업계 대상 가격·수요 모델(Model) 도구로 읽힘. Model이 지시하는 범위가 넓어 신뢰도 낮음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Eligibility",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "에스카르고(Escargot) 전문점·제조업 대상 자격 확인(Eligibility) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Barcode",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "기로스(Gyro) 전문점·제조업 대상 바코드(Barcode) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Feedback",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "퀴노아(Quinoa) 전문점·제조업 대상 피드백(Feedback) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Invoice",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "모찌(Mochi) 전문점·제조업 대상 청구서(Invoice) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Renewal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "사테(Satay) 전문점·제조업 대상 갱신(Renewal) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Quote",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "무사카(Moussaka) 전문점·제조업 대상 견적(Quote) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Warranty",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "보르쉬(Borscht) 전문점·제조업 대상 보증(Warranty) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Deposit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "검보(Gumbo) 전문점·제조업 대상 예약금(Deposit) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Certification",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "잠발라야(Jambalaya) 전문점·제조업 대상 인증(Certification) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Nomination",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "샤와르마(Shawarma) 요식업 맥락에서 지명·추천(Nomination) 워크플로가 자연스럽지 않아 지시되는 서비스가 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Naan Correction",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "난(Naan) 전문점 대상 주문·데이터 정정(Correction) 처리 도구로 수직 요식업 SaaS가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Revision",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "아레파(Arepa) 전문점·제조업 대상 개정(Revision) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Payment",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "피에로기(Pierogi) 전문점·제조업 대상 결제(Payment) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Verification",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "굴라시(Goulash) 전문점·제조업 대상 검증(Verification) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Simulator",
+  "approve": false,
+  "confidence": 0.62,
+  "reason": "자치키(Tzatziki) 요식업 SaaS에서 Simulator가 지시하는 업무 기능이 불명확하고 조리 게임 장르로 읽힐 위험이 있다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Breed Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Breed' 단어의 음절(Syllables) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chart Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Chart' 단어의 라임(Rhymes) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pickup Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Pickup' 단어의 반의어(Antonyms) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Vitals Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Vitals'(활력 징후)를 대상어로 하는 예문(Sentences) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recurring Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Recurring' 단어의 번역(Translations) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Property Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Property는 명사(부동산)라 동사 활용 조회인 Conjugations와 결합이 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Schedule Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Schedule' 단어의 애너그램(Anagrams) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rack Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "세탁 랙(Rack) 도메인에 코드(Chords) 조회가 결합해도 서비스가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Permit Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "장례 인허가(Permit) 도메인에 가사(Lyrics) 기능이 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Waitlist Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Waitlist'(대기자 명단)를 대상어로 하는 철자(Orthography) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Wage Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Wage'(임금)를 대상어로 하는 음절(Syllables) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Remodel Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Remodel'(리모델링)를 대상어로 하는 라임(Rhymes) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Clearance Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Clearance'(재고 정리)를 대상어로 하는 유의어(Synonyms) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quarter Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Quarter' 단어의 반의어(Antonyms) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mayor Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Mayor' 단어의 예문(Sentences) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Article Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Article' 단어의 번역(Translations) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Smartphone Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Smartphone는 명사라 동사 활용 조회인 Conjugations와 결합하면 활용표 조회 대상이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Case Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Case' 단어의 애너그램(Anagrams) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Hire Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "채용(Hire) 도메인에 코드(Chords) 조회 서비스가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Expo Lyrics",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "행사(Expo) 맥락에서 가사(Lyrics)가 지시하는 기능이 없어 성립 근거가 약하다(코드 제공과 달리 가사 서비스는 행사 업계에서 자연스럽지 않다)",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Roadtest Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Roadtest' 단어의 철자(Orthography) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cancellation Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Cancellation'(해지)를 대상어로 하는 음절(Syllables) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demotion Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Demotion'(강등)를 대상어로 하는 라임(Rhymes) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demolition Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Demolition'(철거)를 대상어로 하는 유의어(Synonyms) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Commencement Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Commencement'(졸업식)를 대상어로 하는 반의어(Antonyms) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recycling Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Recycling'(재활용)를 대상어로 하는 예문(Sentences) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ad Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Ad' 단어의 번역(Translations) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Backlog Conjugations",
+  "approve": false,
+  "confidence": 0.68,
+  "reason": "customer_support 맥락에서 Backlog는 명사(미처리 티켓)로 읽혀 동사 활용 조회인 Conjugations의 대상이 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Diversity Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Diversity' 단어의 애너그램(Anagrams) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Signage Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "간판·표시물(Signage)은 시각 매체라 코드(Chords)와 결합해도 서비스가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Wiper Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "와이퍼(Wiper) 부품 도메인에 가사(Lyrics) 서비스가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Takeout Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Takeout' 단어의 철자(Orthography) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Auscultation Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Auscultation'(청진)를 대상어로 하는 음절(Syllables) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Investigation Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Investigation'(조사)를 대상어로 하는 라임(Rhymes) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Essay Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Essay' 단어의 유의어(Synonyms) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Masquerade Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Masquerade'(가면무도회)를 대상어로 하는 반의어(Antonyms) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Burger Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Burger' 단어의 예문(Sentences) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tortoise Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Tortoise'(거북)를 대상어로 하는 번역(Translations) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gingivitis Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Gingivitis(치은염)는 명사라 동사 활용 조회인 Conjugations와 결합이 불성립한다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Attic Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Attic' 단어의 애너그램(Anagrams) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Yacht Chords",
+  "approve": false,
+  "confidence": 0.68,
+  "reason": "요트(Yacht) 예약·렌탈 도메인에 코드(Chords) 조회가 결합할 근거가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Intubation Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "삽관(Intubation) 의료 대상어에 가사(Lyrics)가 결합해도 지시되는 SaaS가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Insured Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Insured'(피보험자)를 대상어로 하는 철자(Orthography) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Volume",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "아사이(Acai) 전문점·제조업 대상 판매량(Volume) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Progress",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "브루스케타(Bruschetta) 전문점·제조업 대상 진행률(Progress) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Template",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "프로슈토(Prosciutto) 전문점·제조업 대상 템플릿(Template) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Rating",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "타불레(Tabbouleh) 전문점·제조업 대상 평점(Rating) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Reply",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "에다마메(Edamame) 전문점·제조업 대상 회신(Reply) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Case",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "세비체(Ceviche) 전문점·제조업 대상 문의 케이스(Case) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Validation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "과카몰리(Guacamole) 전문점·제조업 대상 유효성 검사(Validation) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Ping",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "엠파나다(Empanada) 주문·시스템 알림 핑(Ping) 모니터링 도구로 읽힘. 기술 용어라 결합이 약해 신뢰도 낮음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Availability",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "브라트부르스트(Bratwurst) 전문점·제조업 대상 가용성(Availability) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Broadcast",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "에스카르고(Escargot) 전문점·제조업 대상 일제 발송(Broadcast) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Appointment",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "기로스(Gyro) 전문점·제조업 대상 예약(Appointment) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Invoice",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "퀴노아(Quinoa) 전문점·제조업 대상 청구서(Invoice) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Renewal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "모찌(Mochi) 전문점·제조업 대상 갱신(Renewal) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Quote",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "사테(Satay) 전문점·제조업 대상 견적(Quote) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Warranty",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "무사카(Moussaka) 전문점·제조업 대상 보증(Warranty) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Deposit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "보르쉬(Borscht) 전문점·제조업 대상 예약금(Deposit) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Certification",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "검보(Gumbo) 전문점·제조업 대상 인증(Certification) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Nomination",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "잠발라야(Jambalaya) 요식업 맥락에서 지명(Nomination)이 지시하는 업무 기능이 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Shawarma Correction",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "샤와르마(Shawarma) 전문점 대상 주문·데이터 정정(Correction) 처리 도구로 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Revision",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Naan Revision dup Naan Correction - 같은 앵커(Naan)에서 개정(Revision)과 정정(Correction)이 동의어 기능어 쌍으로 의미중복",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Arepa Payment",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "아레파(Arepa) 전문점·제조업 대상 결제(Payment) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Verification",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "피에로기(Pierogi) 전문점·제조업 대상 검증(Verification) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Simulator",
+  "approve": false,
+  "confidence": 0.62,
+  "reason": "굴라시(Goulash) 요식업 SaaS에서 Simulator가 지시하는 업무 기능이 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Tzatziki Predictor",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "자치키(Tzatziki) 전문점·제조업 대상 예측(Predictor) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Waste Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Waste' 단어의 음절(Syllables) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Breed Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Breed' 단어의 라임(Rhymes) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chart Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Chart' 단어의 유의어(Synonyms) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pickup Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Pickup' 단어의 예문(Sentences) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Vitals Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Vitals'(활력 징후)를 대상어로 하는 번역(Translations) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recurring Conjugations",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "pest_control 맥락에서 Recurring은 '정기 서비스'라는 형용사로 읽혀 recur 동사의 활용 조회가 지배적이지 않다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Property Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Property' 단어의 애너그램(Anagrams) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Schedule Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "청소 일정(Schedule) 도메인에 코드(Chords) 조회 서비스가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Rack Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "세탁 랙(Rack) 도메인에 가사(Lyrics)가 결합해도 지시되는 SaaS가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Permit Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Permit' 단어의 철자(Orthography) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Reinsurance Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Reinsurance'(재보험)를 대상어로 하는 음절(Syllables) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Wage Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Wage'(임금)를 대상어로 하는 라임(Rhymes) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Remodel Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Remodel'(리모델링)를 대상어로 하는 유의어(Synonyms) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Clearance Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Clearance'(재고 정리)를 대상어로 하는 반의어(Antonyms) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quarter Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Quarter' 단어의 예문(Sentences) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mayor Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Mayor' 단어의 번역(Translations) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Article Conjugations",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Article은 명사(기사)로 읽히고 'to article'은 법조 실무 전용 고품어라 이 맥락의 활용 조회 대상으로 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Smartphone Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Smartphone' 단어의 애너그램(Anagrams) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Case Chords",
+  "approve": false,
+  "confidence": 0.68,
+  "reason": "고객 문의 케이스(Case) 도메인에 코드(Chords) 조회 서비스가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Hire Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "채용(Hire) 도메인에 가사(Lyrics) 기능이 결합할 근거가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Expo Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Expo' 단어의 철자(Orthography) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Refinance Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Refinance'(대환 대출)를 대상어로 하는 음절(Syllables) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cancellation Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Cancellation'(해지)를 대상어로 하는 라임(Rhymes) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demotion Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Demotion'(강등)를 대상어로 하는 유의어(Synonyms) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demolition Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Demolition'(철거)를 대상어로 하는 반의어(Antonyms) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Commencement Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Commencement'(졸업식)를 대상어로 하는 예문(Sentences) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recycling Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Recycling'(재활용)를 대상어로 하는 번역(Translations) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ad Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Ad는 명사(광고)로 읽혀 동사 활용 조회인 Conjugations의 대상이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Backlog Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Backlog' 단어의 애너그램(Anagrams) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Diversity Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "다양성(Diversity) HR 도메인에 코드(Chords) 조회가 결합해도 서비스가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Signage Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "간판·표시물(Signage)은 시각 매체라 가사(Lyrics)와 결합이 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Wiper Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Wiper' 단어의 철자(Orthography) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Daytrip Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Daytrip'(당일치기)를 대상어로 하는 음절(Syllables) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Auscultation Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Auscultation'(청진)를 대상어로 하는 라임(Rhymes) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Investigation Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Investigation'(조사)를 대상어로 하는 유의어(Synonyms) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Essay Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Essay' 단어의 반의어(Antonyms) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Masquerade Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Masquerade'(가면무도회)를 대상어로 하는 예문(Sentences) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Burger Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Burger' 단어의 번역(Translations) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tortoise Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Tortoise는 동사가 없는 명사(거북)라 Conjugations 활용 조회가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Gingivitis Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Gingivitis'(치은염)를 대상어로 하는 애너그램(Anagrams) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Attic Chords",
+  "approve": false,
+  "confidence": 0.68,
+  "reason": "다락방(Attic) 부동산 도메인에 코드(Chords) 조회 서비스가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Yacht Lyrics",
+  "approve": false,
+  "confidence": 0.68,
+  "reason": "요트(Yacht) 렌탈 도메인에 가사(Lyrics)가 결합할 근거가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Intubation Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Intubation'(삽관)를 대상어로 하는 철자(Orthography) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Diagnostic",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "아사이(Acai) 판매점 대상 매출·운영 진단(Diagnostic) 도구로 읽힘. Diagnostic이 기능어로 자연스러운 정도가 낮아 신뢰도 낮음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Authorization",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "브루스케타(Bruschetta) 전문점·제조업 대상 승인(Authorization) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Guide",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "프로슈토(Prosciutto) 전문점·제조업 대상 가이드(Guide) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Agreement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "타불레(Tabbouleh) 전문점·제조업 대상 계약서(Agreement) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Account",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "에다마메(Edamame) 전문점·제조업 대상 계정(Account) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Match",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "세비체(Ceviche) 전문점·제조업 대상 매칭(Match) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Lookup",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "과카몰리(Guacamole) 전문점·제조업 대상 조회(Lookup) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Model",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "엠파나다(Empanada) 업계 대상 가격·수요 모델(Model) 도구로 읽힘. Model이 지시하는 범위가 넓어 신뢰도 낮음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Eligibility",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "브라트부르스트(Bratwurst) 전문점·제조업 대상 자격 확인(Eligibility) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Barcode",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "에스카르고(Escargot) 전문점·제조업 대상 바코드(Barcode) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Feedback",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "기로스(Gyro) 전문점·제조업 대상 피드백(Feedback) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Renewal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "퀴노아(Quinoa) 전문점·제조업 대상 갱신(Renewal) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Quote",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "모찌(Mochi) 전문점·제조업 대상 견적(Quote) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Warranty",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "사테(Satay) 전문점·제조업 대상 보증(Warranty) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Deposit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "무사카(Moussaka) 전문점·제조업 대상 예약금(Deposit) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Certification",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "보르쉬(Borscht) 전문점·제조업 대상 인증(Certification) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Nomination",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "검보(Gumbo) 요식업 맥락에서 지명(Nomination) 워크플로가 성립 근거가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Jambalaya Correction",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "잠발라야(Jambalaya) 전문점 대상 주문·데이터 정정(Correction) 처리 도구로 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Revision",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Shawarma Revision dup Shawarma Correction - 같은 앵커(Shawarma)에서 개정(Revision)과 정정(Correction)이 동의어 기능어 쌍으로 의미중복",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Naan Payment",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "난(Naan) 전문점·제조업 대상 결제(Payment) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Verification",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "아레파(Arepa) 전문점·제조업 대상 검증(Verification) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Simulator",
+  "approve": false,
+  "confidence": 0.62,
+  "reason": "피에로기(Pierogi) 요식업 SaaS에서 Simulator가 지시하는 기능이 불명확하고 게임 장르로 읽힐 위험이 있다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Goulash Predictor",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "굴라시(Goulash) 전문점·제조업 대상 예측(Predictor) 관리 도구로 수직 요식업 SaaS가 성립하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Seal",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "자치키(Tzatziki) 제품 대상 품질 씰·실링(Seal) 인증 관리 도구로 읽힘. Seal 의미가 갈려 신뢰도 낮음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recall Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Recall'(리콜)를 대상어로 하는 음절(Syllables) 사전 조회 절이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Waste Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Waste' 단어의 라임(Rhymes) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Breed Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Breed' 단어의 유의어(Synonyms) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chart Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Chart' 단어의 반의어(Antonyms) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pickup Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Pickup' 단어의 번역(Translations) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Vitals Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Vitals는 명사(활력 징후)라 동사 활용 조회인 Conjugations의 대상이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Recurring Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Recurring' 단어의 애너그램(Anagrams) 조회 관용구 결합이 성립하는 단어 레퍼런스 도구로 명확하고 배치 내 중복·상표 문제 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Property Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "조경 대상 부동산(Property) 도메인에 코드(Chords) 조회가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ }
+]

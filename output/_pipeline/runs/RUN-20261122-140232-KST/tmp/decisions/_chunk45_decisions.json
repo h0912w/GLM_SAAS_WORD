@@ -1,0 +1,2202 @@
+[
+ {
+  "title": "Fern Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Payment Lyrics",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: payment processing has no music or lyrics reading; a stranger cannot tell what SaaS 'Payment Lyrics' names.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Redline Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Inquiry Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Resume Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Speaker Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Emission Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chef Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Kennel Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Toothache Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: toothache is a noun with no verb-conjugation reading; no grammar or product sense for a dental SaaS.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Treadmill Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Toddler Chords",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: childcare has no music-chord reading; the pair names no recognizable product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Walker Lyrics",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: a mobility walker has no lyrics reading; no recognizable senior-care product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mosquito Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Dust Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Consultation Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Supplement Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Damper Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pinning Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Simultaneous Translations",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Relocation Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: relocation services have no verb-conjugation reading; the noun anchor gives no grammar or product sense.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Highlight Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Playlist Chords",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Lease Lyrics",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: lease management has no lyrics reading; no recognizable property product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Motor Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Graduation Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Parade Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Noodle Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ferret Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bite Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Barbell Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mold Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: mold remediation is not conjugated; no grammar or product sense for a cleaning SaaS.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rent Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Skyline Chords",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: travel and skyline viewing have no chord reading; the pair names no recognizable product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rhythm Lyrics",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bonsai Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Handbook",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Opinion",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Retreat",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Clarity: 'retreat' paired with a cured meat has no restaurant-operations reading (same failure pattern as the rejected 'Escargot Retreat'); names no product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Flyer",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Tips",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Workbook",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Spec",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Login",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Coach",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Help",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Basics",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Questions",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Date",
+  "approve": true,
+  "confidence": 0.62,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Steps",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Alternatives",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Courses",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Examples",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Repairs",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Sitting",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Walking",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Clarity: 'walking' has no restaurant-operations reading for a naan business; the pair names no product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Visits",
+  "approve": true,
+  "confidence": 0.62,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Checkups",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Refills",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Appointments",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Invitation Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Eviction Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Algae Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Upholstery Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Sink Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Trip Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Vocal Conjugations",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Clarity: vocal training has no verb-conjugation reading; 'Vocal Conjugations' names no recognizable music-lesson product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Embroidery Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Fern Chords",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: houseplant care has no chord reading; 'Fern Chords' names no recognizable product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Payment Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cloud Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Inquiry Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Resume Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Speaker Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Emission Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chef Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Kennel Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: kennel boarding is not conjugated; no grammar or product sense for a veterinary SaaS.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Toothache Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Treadmill Chords",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: treadmill workouts have no chord reading; no recognizable fitness product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Toddler Lyrics",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: childcare has no lyrics reading; no recognizable product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Walker Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gravel Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Dust Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Consultation Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Supplement Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Damper Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pinning Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Simultaneous Conjugations",
+  "approve": false,
+  "confidence": 0.62,
+  "reason": "Clarity: simultaneous interpretation has no conjugation reading; the adjective anchor gives no grammar or product sense.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Relocation Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Highlight Chords",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: photography highlights have no chord reading; no recognizable product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Playlist Lyrics",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Lease Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Appraisal Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Graduation Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Parade Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Noodle Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ferret Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bite Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Barbell Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: barbell training is not conjugated; no grammar or product sense for a fitness SaaS.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mold Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rent Chords",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: rent collection has no chord reading; no recognizable property product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Skyline Lyrics",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: travel and skyline viewing have no lyrics reading; no recognizable product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rhythm Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Timetable",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Gift",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Tournament",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Clarity: reads as a meat-tasting contest event rather than a SaaS product; no clear software offering is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh App",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Advice",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Duplication: dup of approved 'Edamame Tips' in this batch - same food-advice twin, attributed to the earlier-approved twin.",
+  "checks": {
+   "clarity": true,
+   "duplication": false,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Mode",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Clarity: 'mode' paired with a raw-fish dish has no natural reading of what the mode does; names no recognizable product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Quantity",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Analysis",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Habit",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Ideas",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Names",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Date",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Steps",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Alternatives",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Courses",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Examples",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Repairs",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Sitting",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Walking",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Clarity: 'walking' has no restaurant-operations reading for a shawarma business; names no product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Visits",
+  "approve": true,
+  "confidence": 0.62,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Checkups",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Refills",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Appointments",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Screenings",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Proof Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Invitation Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Eviction Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Algae Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Upholstery Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Sink Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Trip Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: trips are not conjugated; no grammar or product sense for a travel SaaS.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Vocal Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Embroidery Chords",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: embroidery crafts have no chord reading; no recognizable product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Fern Lyrics",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: houseplant care has no lyrics reading; 'Fern Lyrics' names no recognizable product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Password Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cloud Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Inquiry Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Resume Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Speaker Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Emission Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chef Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: 'chef' is a noun with no verb-conjugation reading; the pair names no recognizable product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Kennel Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Toothache Chords",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: dental care has no chord reading; no recognizable product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Treadmill Lyrics",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: treadmill workouts have no lyrics reading; no recognizable fitness product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Toddler Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Daycare Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gravel Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Dust Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Consultation Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Supplement Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Damper Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pinning Conjugations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Simultaneous Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Relocation Chords",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: moving services have no chord reading; no recognizable product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Highlight Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Playlist Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acquittal Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Appraisal Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Graduation Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Parade Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Noodle Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ferret Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bite Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: dental bites are not conjugated; no grammar or product sense for a dental SaaS.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Barbell Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mold Chords",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: mold remediation has no chord reading; no recognizable cleaning product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rent Lyrics",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: rent collection has no lyrics reading; no recognizable property product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Skyline Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Opinion",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Retreat",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Clarity: 'retreat' paired with bruschetta has no restaurant-operations reading; names no recognizable product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Flyer",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Tips",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Workbook",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Spec",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Login",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Trademark: 'login' locks the reading onto the Apache Guacamole remote-desktop software (software-context Guacamole pairs rejected this run); no independent restaurant product reading survives.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Empanada Coach",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Help",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Basics",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Questions",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Steps",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Alternatives",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Courses",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Examples",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Repairs",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Sitting",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Walking",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Clarity: 'walking' has no restaurant-operations reading for a jambalaya business; names no product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Visits",
+  "approve": true,
+  "confidence": 0.62,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Checkups",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Refills",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Appointments",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Screenings",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Walkthroughs",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Unpacking Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Proof Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Invitation Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Eviction Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Algae Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Upholstery Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ }
+]

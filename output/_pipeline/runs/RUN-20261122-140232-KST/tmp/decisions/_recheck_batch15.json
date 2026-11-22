@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Records Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup for records terminology; query-clause idiom, no dup or trademark"
+ },
+ {
+  "title": "Engagement Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: example-sentence lookup for engagement (marketing metric) usage"
+ },
+ {
+  "title": "Broadcast Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: translation lookup for broadcast terminology; query-clause idiom"
+ },
+ {
+  "title": "Ticket Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for ticket terminology; query-clause idiom"
+ },
+ {
+  "title": "Warranty Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: spelling reference for warranty terminology"
+ },
+ {
+  "title": "Catering Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: syllable counter for catering terminology"
+ },
+ {
+  "title": "Vacancy Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for vacancy (property listing copy)"
+ },
+ {
+  "title": "Cover Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup for pool-cover terminology; query-clause idiom"
+ },
+ {
+  "title": "Exterior Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for exterior (detailing) terminology"
+ },
+ {
+  "title": "Snake Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: example-sentence lookup for drain-snake usage"
+ },
+ {
+  "title": "Beach Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: translation lookup for beach tourism copy; differs from Beach Sentences"
+ },
+ {
+  "title": "Puzzle Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: anagram solver for puzzle terminology"
+ },
+ {
+  "title": "Paycheck Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: spelling reference for paycheck terminology"
+ },
+ {
+  "title": "Boiler Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: syllable counter for boiler (HVAC) terminology"
+ },
+ {
+  "title": "Bump Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for lock-bump terminology"
+ },
+ {
+  "title": "Briefing Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: synonym lookup for briefing terminology; differs from Briefing Rhymes"
+ },
+ {
+  "title": "Export Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup for export (photography workflow) terminology"
+ },
+ {
+  "title": "Pet Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: example sentences for pet policy copy; differs from Pet Antonyms"
+ },
+ {
+  "title": "Hose Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: translation lookup for hose (pool) terminology"
+ },
+ {
+  "title": "Carnival Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for carnival terminology"
+ },
+ {
+  "title": "Audition Chords",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: audition song chord reference; music_lessons anchor fits Chords"
+ },
+ {
+  "title": "Therapy Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: spelling reference for therapy terminology"
+ },
+ {
+  "title": "Waffle Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: syllable counter for waffle terminology"
+ },
+ {
+  "title": "Canary Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for canary terminology"
+ },
+ {
+  "title": "Fluoride Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: synonym lookup for fluoride (dental) terminology"
+ },
+ {
+  "title": "Garden Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup for garden amenity copy"
+ },
+ {
+  "title": "Volcano Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: example sentences for volcano tour copy"
+ },
+ {
+  "title": "Crossstitch Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: translation lookup for crossstitch pattern terminology"
+ },
+ {
+  "title": "Verification Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for verification terminology"
+ },
+ {
+  "title": "Nachos Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: spelling reference for nachos terminology"
+ },
+ {
+  "title": "Bruschetta Eligibility",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Eligibility on a food anchor is a dead-pattern metric fragment (same family as Repository/Volume/Deadline); 'bruschetta eligibility' names no concrete restaurant tool - clarity fail round 1 missed"
+ },
+ {
+  "title": "Prosciutto Barcode",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: barcode management for prosciutto distribution; concrete ops tool (Barcode on sustained business-ops list)"
+ },
+ {
+  "title": "Tabbouleh Feedback",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: customer feedback collection for a tabbouleh restaurant; concrete ops tool"
+ },
+ {
+  "title": "Edamame Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: subscription/membership renewal for edamame restaurant; concrete ops tool"
+ },
+ {
+  "title": "Guacamole Certification",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: health/hygiene certification tracking for guacamole kitchen; concrete if marginal"
+ },
+ {
+  "title": "Bratwurst Payment",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: payment processing for bratwurst vendor; concrete ops tool"
+ },
+ {
+  "title": "Quinoa Recipe",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe tool for quinoa; differs by anchor from Mochi Recipe"
+ },
+ {
+  "title": "Mochi Video",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: video content tool for a mochi shop; differs by anchor from Satay Video"
+ },
+ {
+  "title": "Moussaka Refund",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: refund handling for moussaka restaurant; concrete ops tool"
+ },
+ {
+  "title": "Borscht Expense",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: expense tracking for borscht restaurant; concrete ops tool"
+ },
+ {
+  "title": "Gumbo Newsletter",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: newsletter tool for gumbo restaurant; concrete ops tool"
+ },
+ {
+  "title": "Jambalaya Inventory",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: inventory management for jambalaya kitchen; concrete ops tool"
+ },
+ {
+  "title": "Naan Onboarding",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: staff onboarding for naan restaurant; concrete ops tool"
+ },
+ {
+  "title": "Arepa Checkin",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: guest/staff check-in for arepa restaurant; concrete if slightly loose"
+ },
+ {
+  "title": "Scheduling Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable counter for scheduling terminology"
+ },
+ {
+  "title": "Pesticide Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for pesticide terminology"
+ },
+ {
+  "title": "Substation Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup for substation terminology"
+ },
+ {
+  "title": "Beneficiary Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for beneficiary terminology"
+ },
+ {
+  "title": "Records Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: example sentences for records usage; differs from Records Antonyms"
+ },
+ {
+  "title": "Engagement Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: translation lookup for engagement reporting copy"
+ },
+ {
+  "title": "Broadcast Conjugations",
+  "approve": true,
+  "confidence": 0.62,
+  "reason": "sustained: broadcast has a live irregular verb form (broadcast/broadcast), so conjugation lookup is a real grammar need; not noun-dominant flip territory"
+ },
+ {
+  "title": "Rollback Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling reference for rollback (devops) terminology"
+ },
+ {
+  "title": "Delivery Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: syllable counter for delivery terminology"
+ },
+ {
+  "title": "Catering Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for catering copy; differs from Catering Syllables"
+ },
+ {
+  "title": "Vacancy Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: synonym lookup for vacancy listing copy"
+ },
+ {
+  "title": "Cover Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for pool-cover terminology"
+ },
+ {
+  "title": "Exterior Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example sentences for exterior detailing copy"
+ },
+ {
+  "title": "Snake Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation lookup for drain-snake terminology"
+ },
+ {
+  "title": "Harp Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for harp terminology"
+ },
+ {
+  "title": "Nurse Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: spelling reference for nurse terminology"
+ },
+ {
+  "title": "Brand Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: 'brand' is generic (pharmacy brand-vs-generic), syllable lookup idiom; no trademark risk"
+ },
+ {
+  "title": "Boiler Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for boiler terminology; differs from Boiler Syllables"
+ },
+ {
+  "title": "Bump Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup for bump-key terminology"
+ },
+ {
+  "title": "Briefing Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for briefing terminology"
+ },
+ {
+  "title": "Export Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: example sentences for export usage"
+ },
+ {
+  "title": "Pet Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: translation lookup for pet policy copy"
+ },
+ {
+  "title": "Elbow Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for elbow (pipe fitting) terminology"
+ },
+ {
+  "title": "Carnival Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: carnival festival stage/live-music context gives a real chord-reference reading; music-context defense"
+ },
+ {
+  "title": "Audition Lyrics",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: audition song lyric preparation; music_lessons anchor fits Lyrics"
+ },
+ {
+  "title": "Jigsaw Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling reference for jigsaw terminology"
+ },
+ {
+  "title": "Confetti Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: syllable counter for confetti terminology"
+ },
+ {
+  "title": "Waffle Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for waffle terminology"
+ },
+ {
+  "title": "Canary Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup for canary terminology"
+ },
+ {
+  "title": "Fluoride Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for fluoride terminology"
+ },
+ {
+  "title": "Garden Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example sentences for garden amenity copy"
+ },
+ {
+  "title": "Volcano Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation lookup for volcano tour copy"
+ },
+ {
+  "title": "Comorbidity Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for comorbidity terminology"
+ },
+ {
+  "title": "Pinata Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: spelling reference for pinata terminology"
+ },
+ {
+  "title": "Acai Availability",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: availability checker for acai menu; concrete ops tool (Availability sustained)"
+ },
+ {
+  "title": "Bruschetta Broadcast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: store-news broadcast/messaging for bruschetta restaurant; concrete ops tool"
+ },
+ {
+  "title": "Prosciutto Appointment",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: reservation/appointment scheduling for prosciutto restaurant"
+ },
+ {
+  "title": "Tabbouleh Invoice",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: invoicing for tabbouleh restaurant; concrete ops tool"
+ },
+ {
+  "title": "Edamame Quote",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: quoting for edamame catering; concrete ops tool"
+ },
+ {
+  "title": "Ceviche Deposit",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: deposit handling for ceviche bookings; concrete ops tool"
+ },
+ {
+  "title": "Escargot Predictor",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: demand forecasting for escargot menu; forecast-family concrete tool"
+ },
+ {
+  "title": "Gyro Review",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: review management for gyro shop; concrete ops tool"
+ },
+ {
+  "title": "Quinoa Video",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: video content for quinoa brand; differs by anchor from Mochi Video"
+ },
+ {
+  "title": "Satay Refund",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: refund handling for satay restaurant; concrete ops tool"
+ },
+ {
+  "title": "Moussaka Expense",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: expense tracking for moussaka restaurant"
+ },
+ {
+  "title": "Borscht Newsletter",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: newsletter for borscht restaurant"
+ },
+ {
+  "title": "Gumbo Inventory",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: inventory for gumbo kitchen"
+ },
+ {
+  "title": "Shawarma Onboarding",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: staff onboarding for shawarma shop"
+ },
+ {
+  "title": "Naan Checkin",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: check-in for naan restaurant operations; concrete if slightly loose"
+ },
+ {
+  "title": "Cohort Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable counter for cohort terminology"
+ },
+ {
+  "title": "Scheduling Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for scheduling copy"
+ },
+ {
+  "title": "Pesticide Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup for pesticide terminology"
+ },
+ {
+  "title": "Substation Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for substation terminology"
+ },
+ {
+  "title": "Beneficiary Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example sentences for beneficiary usage"
+ },
+ {
+  "title": "Records Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: translation lookup for records terminology"
+ },
+ {
+  "title": "Broadcast Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for broadcast terminology"
+ },
+ {
+  "title": "Compliance Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: spelling reference for compliance terminology"
+ },
+ {
+  "title": "Crate Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: syllable counter for crate terminology"
+ },
+ {
+  "title": "Delivery Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for delivery copy"
+ },
+ {
+  "title": "Catering Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: synonym lookup for catering copy"
+ },
+ {
+  "title": "Vacancy Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for vacancy copy"
+ },
+ {
+  "title": "Cover Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example sentences for pool-cover copy"
+ },
+ {
+  "title": "Exterior Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation lookup for exterior detailing copy"
+ },
+ {
+  "title": "Beach Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for beach terminology"
+ },
+ {
+  "title": "Harp Chords",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: chord reference for harp study; music anchor fits Chords"
+ },
+ {
+  "title": "Roots Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling reference for roots (plant care) terminology"
+ },
+ {
+  "title": "Chair Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: syllable counter for chair (salon styling chair) terminology; query-clause idiom"
+ },
+ {
+  "title": "Brand Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: rhyme lookup for generic 'brand'; no trademark risk"
+ },
+ {
+  "title": "Boiler Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup for boiler terminology"
+ },
+ {
+  "title": "Bump Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for bump-key terminology"
+ },
+ {
+  "title": "Briefing Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example sentences for briefing usage"
+ },
+ {
+  "title": "Export Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation lookup for export terminology"
+ },
+ {
+  "title": "Hose Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for hose terminology"
+ },
+ {
+  "title": "Audition Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling reference for audition terminology"
+ },
+ {
+  "title": "Science Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable counter for science curriculum terms"
+ },
+ {
+  "title": "Confetti Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for confetti copy"
+ },
+ {
+  "title": "Waffle Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup for waffle terminology"
+ },
+ {
+  "title": "Canary Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for canary terminology"
+ },
+ {
+  "title": "Fluoride Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example sentences for fluoride usage"
+ },
+ {
+  "title": "Garden Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation lookup for garden copy"
+ },
+ {
+  "title": "Crossstitch Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for crossstitch terminology"
+ },
+ {
+  "title": "Geography Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling reference for geography terms"
+ },
+ {
+  "title": "Acai Eligibility",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Eligibility on a food anchor is a dead-pattern metric fragment; 'acai eligibility' names no concrete restaurant tool - clarity fail"
+ },
+ {
+  "title": "Bruschetta Barcode",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: barcode tracking for bruschetta packaging; concrete ops tool"
+ },
+ {
+  "title": "Prosciutto Feedback",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: customer feedback for prosciutto restaurant"
+ },
+ {
+  "title": "Tabbouleh Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: subscription renewal for tabbouleh restaurant"
+ },
+ {
+  "title": "Ceviche Certification",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: hygiene certification tracking for ceviche kitchen"
+ },
+ {
+  "title": "Guacamole Correction",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: semantic duplication - 'Guacamole Correction' dups 'Guacamole Revision' (Correction/Revision near-synonym pair); one recipe/order-editing reading, not two"
+ },
+ {
+  "title": "Empanada Payment",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: payment processing for empanada shop; concrete ops tool"
+ },
+ {
+  "title": "Gyro Recipe",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe tool for gyro; differs by anchor from Quinoa Recipe"
+ },
+ {
+  "title": "Quinoa Diary",
+  "approve": true,
+  "confidence": 0.62,
+  "reason": "sustained: readable as a quinoa food-diary/meal-log concept; marginal but coherent product reading"
+ },
+ {
+  "title": "Mochi Refund",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: refund handling for mochi shop"
+ },
+ {
+  "title": "Satay Expense",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: expense tracking for satay restaurant"
+ },
+ {
+  "title": "Moussaka Newsletter",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: newsletter for moussaka restaurant"
+ },
+ {
+  "title": "Borscht Inventory",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: inventory for borscht kitchen"
+ },
+ {
+  "title": "Shawarma Checkin",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: check-in for shawarma shop operations"
+ },
+ {
+  "title": "Occupancy Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable counter for occupancy terminology"
+ },
+ {
+  "title": "Cohort Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for cohort copy"
+ },
+ {
+  "title": "Scheduling Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup for scheduling copy"
+ },
+ {
+  "title": "Pesticide Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for pesticide terminology"
+ },
+ {
+  "title": "Substation Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example sentences for substation usage"
+ },
+ {
+  "title": "Beneficiary Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation lookup for beneficiary terminology"
+ },
+ {
+  "title": "Engagement Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for engagement terminology"
+ },
+ {
+  "title": "Broadcast Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: radio music programming context gives a real chord-reference reading; broadcast is not clearly non-music"
+ },
+ {
+  "title": "Ticket Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling reference for ticket terminology"
+ },
+ {
+  "title": "Subtitling Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable counter for subtitling terminology"
+ },
+ {
+  "title": "Crate Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for crate copy"
+ },
+ {
+  "title": "Delivery Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup for delivery copy"
+ },
+ {
+  "title": "Catering Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for catering copy"
+ },
+ {
+  "title": "Vacancy Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example sentences for vacancy copy"
+ },
+ {
+  "title": "Cover Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation lookup for pool-cover copy"
+ },
+ {
+  "title": "Snake Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for snake (drain) terminology"
+ },
+ {
+  "title": "Harp Lyrics",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: lyric sheets for harp study; music anchor fits Lyrics"
+ },
+ {
+  "title": "Puzzle Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling reference for puzzle terminology"
+ },
+ {
+  "title": "Grease Syllables",
+  "approve": true,
+  "confidence": 0.62,
+  "reason": "sustained: cleaning-context anchor (grease removal) dominates, not the musical mark; syllable lookup idiom"
+ },
+ {
+  "title": "Chair Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: rhyme lookup for chair terminology; generic anchor"
+ },
+ {
+  "title": "Brand Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: synonym lookup for generic 'brand' terminology"
+ },
+ {
+  "title": "Boiler Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for boiler terminology"
+ },
+ {
+  "title": "Bump Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example sentences for bump-key usage"
+ },
+ {
+  "title": "Briefing Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation lookup for briefing terminology"
+ },
+ {
+  "title": "Pet Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for pet terminology"
+ },
+ {
+  "title": "Carnival Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling reference for carnival terminology"
+ },
+ {
+  "title": "Application Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: syllable counter for insurance application terminology; generic word, not the 'App' mark"
+ },
+ {
+  "title": "Science Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for science copy"
+ },
+ {
+  "title": "Confetti Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup for confetti copy"
+ },
+ {
+  "title": "Waffle Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for waffle terminology"
+ },
+ {
+  "title": "Canary Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example sentences for canary usage"
+ },
+ {
+  "title": "Fluoride Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation lookup for fluoride terminology"
+ },
+ {
+  "title": "Volcano Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for volcano terminology"
+ },
+ {
+  "title": "Verification Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling reference for verification terminology"
+ },
+ {
+  "title": "Bruschetta Appointment",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: reservation scheduling for bruschetta restaurant"
+ },
+ {
+  "title": "Prosciutto Invoice",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: invoicing for prosciutto restaurant"
+ },
+ {
+  "title": "Tabbouleh Quote",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: quoting for tabbouleh catering"
+ },
+ {
+  "title": "Edamame Deposit",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: deposit handling for edamame bookings"
+ },
+ {
+  "title": "Guacamole Revision",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: semantic duplication - 'Guacamole Revision' dups 'Guacamole Correction' (Correction/Revision near-synonym pair); redundant recipe/order-editing fragment"
+ },
+ {
+  "title": "Empanada Verification",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: order verification for empanada shop; concrete ops tool"
+ },
+ {
+  "title": "Escargot Review",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: review management for escargot restaurant"
+ },
+ {
+  "title": "Gyro Video",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: video content for gyro shop"
+ },
+ {
+  "title": "Quinoa Refund",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: refund handling for quinoa restaurant"
+ },
+ {
+  "title": "Mochi Expense",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: expense tracking for mochi shop"
+ },
+ {
+  "title": "Satay Newsletter",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: newsletter for satay restaurant"
+ },
+ {
+  "title": "Moussaka Inventory",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: inventory for moussaka kitchen"
+ },
+ {
+  "title": "Jambalaya Checkin",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: check-in for jambalaya restaurant operations"
+ },
+ {
+  "title": "Catalog Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable counter for catalog terminology"
+ },
+ {
+  "title": "Occupancy Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for occupancy copy"
+ },
+ {
+  "title": "Cohort Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup for cohort copy"
+ },
+ {
+  "title": "Scheduling Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for scheduling copy"
+ },
+ {
+  "title": "Pesticide Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example sentences for pesticide usage"
+ },
+ {
+  "title": "Substation Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation lookup for substation terminology"
+ },
+ {
+  "title": "Records Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram solver for records terminology"
+ },
+ {
+  "title": "Broadcast Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: radio music programming/lyric-clearance context gives a real reading; broadcast is not clearly non-music"
+ },
+ {
+  "title": "Subtitling Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhyme lookup for subtitling copy"
+ },
+ {
+  "title": "Crate Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: synonym lookup for crate terminology"
+ },
+ {
+  "title": "Delivery Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for delivery copy"
+ },
+ {
+  "title": "Catering Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: example sentences for catering copy"
+ },
+ {
+  "title": "Vacancy Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translation lookup for vacancy copy"
+ }
+]

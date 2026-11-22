@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Empanada Cycle",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Empanada Cycle - menu cycle/rotation is a real food-service ops term (cycle menu planning)"
+ },
+ {
+  "title": "Bratwurst Sensor",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flip: Sensor is a dead hardware-SaaS fragment on a food anchor - no readable bratwurst-sensor product or query intent; established dead-pattern flip family on food anchors"
+ },
+ {
+  "title": "Escargot Followup",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Escargot Followup - concrete restaurant ops (order/customer followup), sustained line"
+ },
+ {
+  "title": "Quinoa Questionnaire",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Quinoa Questionnaire - concrete restaurant ops (customer/ingredient questionnaire), sustained line"
+ },
+ {
+  "title": "Mochi Utilization",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Mochi Utilization - ingredient utilization tracking is a real kitchen-ops metric, not a fragment"
+ },
+ {
+  "title": "Satay Benefit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Satay Benefit - readable as nutrition/health benefit of the dish or staff-benefit ops"
+ },
+ {
+  "title": "Moussaka Requirement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Moussaka Requirement - readable as dietary/recipe requirement, a genuine food-service concept"
+ },
+ {
+  "title": "Borscht Depreciation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Borscht Depreciation - kitchen equipment depreciation is a real restaurant-accounting ops item"
+ },
+ {
+  "title": "Gumbo Resignation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Gumbo Resignation - readable as restaurant HR ops (staff resignation/turnover docs), same family as sustained Handbook"
+ },
+ {
+  "title": "Jambalaya Hazard",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Jambalaya Hazard - food-safety hazard (HACCP) is core restaurant ops, sustained line"
+ },
+ {
+  "title": "Shawarma Guarantor",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flip: Guarantor is an unreadable lending/lease fragment on a food anchor - no coherent shawarma-guarantor reading; established dead-pattern flip family"
+ },
+ {
+  "title": "Arepa Tutorial",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Arepa Tutorial - cooking tutorial is a readable food query, sustained line"
+ },
+ {
+  "title": "Pierogi Handbook",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Pierogi Handbook - staff/recipe handbook is restaurant ops, sustained line"
+ },
+ {
+  "title": "Goulash Timetable",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Goulash Timetable - kitchen prep timetable is restaurant ops, sustained line"
+ },
+ {
+  "title": "Reference Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Reference Syllables (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Agenda Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Agenda Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Financing Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Financing Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Appointment Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Appointment Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Immunization Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Immunization Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Organ Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Organ Syllables (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Woodworking Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Woodworking Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Bloom Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Bloom Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Doctor Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Doctor Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Amortization Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Amortization Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Probate Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Probate Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Buyer Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Buyer Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Drywall Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Drywall Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Deli Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Deli Syllables (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Leash Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Leash Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Retainer Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Retainer Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Plank Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Plank Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Babysitter Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Babysitter Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Turf Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Turf Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Tip Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Tip Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Shim Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Shim Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Sitter Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Sitter Syllables (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Orthodontist Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Orthodontist Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Deadlift Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Deadlift Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Clutter Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Clutter Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Laundry Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Laundry Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Parasailing Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Parasailing Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Thrifting Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Thrifting Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Spelling Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Spelling Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Acai Temperature",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Acai Temperature - food temperature control/logging is core HACCP restaurant ops"
+ },
+ {
+  "title": "Bruschetta Load",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Bruschetta Load - readable as kitchen workload/oven prep load, an ops reading not SaaS jargon"
+ },
+ {
+  "title": "Tabbouleh Frequency",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Tabbouleh Frequency - readable as order/replenishment frequency, a real restaurant-ops metric"
+ },
+ {
+  "title": "Edamame Capacity",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Edamame Capacity - kitchen capacity is concrete restaurant ops, sustained line"
+ },
+ {
+  "title": "Ceviche Condition",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Ceviche Condition - readable as freshness/cold-chain condition monitoring, a real food-safety concept"
+ },
+ {
+  "title": "Empanada Breakdown",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Empanada Breakdown - highly readable as recipe/nutrition/cost breakdown, a common food query"
+ },
+ {
+  "title": "Bratwurst Reception",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Bratwurst Reception - readable as guest reception/front-of-house hospitality ops"
+ },
+ {
+  "title": "Escargot Approval",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Escargot Approval - concrete restaurant ops (order/supplier approval), sustained line"
+ },
+ {
+  "title": "Gyro Evaluation",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Gyro Evaluation - concrete restaurant ops (staff/dish evaluation), sustained line"
+ },
+ {
+  "title": "Quinoa Utilization",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Quinoa Utilization - ingredient utilization tracking is a real kitchen-ops metric, not a fragment"
+ },
+ {
+  "title": "Mochi Benefit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Mochi Benefit - readable as nutrition/health benefit of the dish or staff-benefit ops"
+ },
+ {
+  "title": "Satay Requirement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Satay Requirement - readable as dietary/recipe requirement, a genuine food-service concept"
+ },
+ {
+  "title": "Moussaka Depreciation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Moussaka Depreciation - kitchen equipment depreciation is a real restaurant-accounting ops item"
+ },
+ {
+  "title": "Borscht Resignation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Borscht Resignation - readable as restaurant HR ops (staff resignation/turnover docs), same family as sustained Handbook"
+ },
+ {
+  "title": "Gumbo Hazard",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Gumbo Hazard - food-safety hazard (HACCP) is core restaurant ops, sustained line"
+ },
+ {
+  "title": "Jambalaya Guarantor",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flip: Guarantor is an unreadable lending/lease fragment on a food anchor - jambalaya-guarantor has no coherent product or query reading; established dead-pattern family"
+ },
+ {
+  "title": "Naan Tutorial",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Naan Tutorial - cooking tutorial is a readable food query, sustained line"
+ },
+ {
+  "title": "Arepa Handbook",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Arepa Handbook - staff/recipe handbook is restaurant ops, sustained line"
+ },
+ {
+  "title": "Pierogi Timetable",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Pierogi Timetable - kitchen prep timetable is restaurant ops, sustained line"
+ },
+ {
+  "title": "Tzatziki Gift",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Tzatziki Gift - readable as gift set/gift-card offering for the food business"
+ },
+ {
+  "title": "Refund Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Refund Syllables (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Reference Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Reference Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Agenda Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Agenda Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Financing Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Financing Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Appointment Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Appointment Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Chemical Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Chemical Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Excursion Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Excursion Syllables (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Organ Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Organ Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Woodworking Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Woodworking Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Bloom Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Bloom Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Doctor Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Doctor Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Amortization Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Amortization Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Waybill Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Waybill Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Salary Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Salary Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Battery Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Battery Syllables (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Deli Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Deli Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Leash Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Leash Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Retainer Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Retainer Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Plank Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Plank Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Babysitter Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Babysitter Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Carpet Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Carpet Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Ventilation Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Ventilation Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Pretzel Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Pretzel Syllables (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Sitter Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Sitter Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Orthodontist Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Orthodontist Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Deadlift Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Deadlift Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Clutter Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Clutter Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Laundry Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Laundry Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Pitch Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Pitch Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Nonrenewal Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Nonrenewal Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Edamame Usage",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Edamame Usage - ingredient usage tracking is core restaurant ops, sustained line"
+ },
+ {
+  "title": "Bratwurst Followup",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Bratwurst Followup - concrete restaurant ops (order/customer followup), sustained line"
+ },
+ {
+  "title": "Gyro Questionnaire",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Gyro Questionnaire - concrete restaurant ops (customer/ingredient questionnaire), sustained line"
+ },
+ {
+  "title": "Quinoa Benefit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Quinoa Benefit - readable as nutrition/health benefit of the dish or staff-benefit ops"
+ },
+ {
+  "title": "Mochi Requirement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Mochi Requirement - readable as dietary/recipe requirement, a genuine food-service concept"
+ },
+ {
+  "title": "Satay Depreciation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Satay Depreciation - kitchen equipment depreciation is a real restaurant-accounting ops item"
+ },
+ {
+  "title": "Moussaka Resignation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Moussaka Resignation - readable as restaurant HR ops (staff resignation/turnover docs), same family as sustained Handbook"
+ },
+ {
+  "title": "Borscht Hazard",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Borscht Hazard - food-safety hazard (HACCP) is core restaurant ops, sustained line"
+ },
+ {
+  "title": "Gumbo Guarantor",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flip: Guarantor is an unreadable lending/lease fragment on a food anchor - gumbo-guarantor has no coherent reading; Guarantor on food anchors already refuted as dead pattern"
+ },
+ {
+  "title": "Shawarma Tutorial",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Shawarma Tutorial - cooking tutorial is a readable food query, sustained line"
+ },
+ {
+  "title": "Naan Handbook",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Naan Handbook - staff/recipe handbook is restaurant ops, sustained line"
+ },
+ {
+  "title": "Arepa Timetable",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Arepa Timetable - kitchen prep timetable is restaurant ops, sustained line"
+ },
+ {
+  "title": "Goulash Gift",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Goulash Gift - readable as gift set/gift-card offering for the food business"
+ },
+ {
+  "title": "Pipeline Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Pipeline Syllables (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Refund Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Refund Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Reference Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Reference Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Agenda Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Agenda Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Financing Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Financing Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Family Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Family Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Fixture Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Fixture Syllables (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Excursion Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Excursion Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Organ Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Organ Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Woodworking Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Woodworking Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Bloom Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Bloom Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Doctor Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Doctor Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Probate Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Probate Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Endorsement Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Endorsement Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Battery Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Battery Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Deli Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Deli Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Leash Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Leash Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Retainer Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Retainer Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Plank Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Plank Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Turf Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Turf Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Generic Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Generic Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Costume Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Costume Syllables (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Pretzel Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Pretzel Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Sitter Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Sitter Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Orthodontist Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Orthodontist Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Deadlift Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Deadlift Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Clutter Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Clutter Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Parasailing Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Parasailing Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Pitch Chords",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: music-context reading is clear (pitch is a music term, music_lessons); Pitch Chords is a genuine musician query"
+ },
+ {
+  "title": "Energy Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Energy Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Acai Load",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Acai Load - readable as kitchen workload/oven prep load, an ops reading not SaaS jargon"
+ },
+ {
+  "title": "Prosciutto Frequency",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Prosciutto Frequency - readable as order/replenishment frequency, a real restaurant-ops metric"
+ },
+ {
+  "title": "Tabbouleh Capacity",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Tabbouleh Capacity - kitchen capacity is concrete restaurant ops, sustained line"
+ },
+ {
+  "title": "Edamame Condition",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Edamame Condition - readable as freshness/cold-chain condition monitoring, a real food-safety concept"
+ },
+ {
+  "title": "Empanada Reception",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Empanada Reception - readable as guest reception/front-of-house hospitality ops"
+ },
+ {
+  "title": "Bratwurst Approval",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Bratwurst Approval - concrete restaurant ops (order/supplier approval), sustained line"
+ },
+ {
+  "title": "Escargot Evaluation",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Escargot Evaluation - concrete restaurant ops (staff/dish evaluation), sustained line"
+ },
+ {
+  "title": "Gyro Utilization",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Gyro Utilization - ingredient utilization tracking is a real kitchen-ops metric, not a fragment"
+ },
+ {
+  "title": "Quinoa Requirement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Quinoa Requirement - readable as dietary/recipe requirement, a genuine food-service concept"
+ },
+ {
+  "title": "Mochi Depreciation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Mochi Depreciation - kitchen equipment depreciation is a real restaurant-accounting ops item"
+ },
+ {
+  "title": "Satay Resignation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Satay Resignation - readable as restaurant HR ops (staff resignation/turnover docs), same family as sustained Handbook"
+ },
+ {
+  "title": "Moussaka Hazard",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Moussaka Hazard - food-safety hazard (HACCP) is core restaurant ops, sustained line"
+ },
+ {
+  "title": "Borscht Guarantor",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flip: Guarantor is an unreadable lending/lease fragment on a food anchor - borscht-guarantor has no coherent reading; established dead-pattern flip family"
+ },
+ {
+  "title": "Jambalaya Tutorial",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Jambalaya Tutorial - cooking tutorial is a readable food query, sustained line"
+ },
+ {
+  "title": "Shawarma Handbook",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Shawarma Handbook - staff/recipe handbook is restaurant ops, sustained line"
+ },
+ {
+  "title": "Naan Timetable",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Naan Timetable - kitchen prep timetable is restaurant ops, sustained line"
+ },
+ {
+  "title": "Arepa Opinion",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Arepa Opinion - readable as customer opinion/survey feedback, real restaurant-ops concept"
+ },
+ {
+  "title": "Pierogi Gift",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Pierogi Gift - readable as gift set/gift-card offering for the food business"
+ },
+ {
+  "title": "Tzatziki Tournament",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Tzatziki Tournament - readable as a food contest/marketing event, coherent for a food business"
+ },
+ {
+  "title": "Pipeline Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Pipeline Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Refund Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Refund Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Reference Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Reference Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Agenda Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Agenda Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Financing Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Financing Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Appointment Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Appointment Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Immunization Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Immunization Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Interior Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Interior Syllables (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Fixture Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Fixture Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Excursion Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Excursion Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Organ Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Organ Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Woodworking Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Woodworking Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Bloom Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Bloom Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Amortization Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Amortization Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Buyer Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Buyer Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Career Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Career Syllables (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Battery Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Battery Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Deli Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Deli Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Leash Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Leash Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Retainer Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Retainer Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Plank Conjugations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: plank works as a verb (to plank / planking), so verb-usage conjugation reading holds per sustained Conjugations line"
+ },
+ {
+  "title": "Babysitter Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Babysitter Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Tip Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Tip Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Alphabet Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: generic word-query reading (syllables in alphabet) is overwhelmingly dominant; Alphabet Inc. does not dominate this query-clause combo"
+ },
+ {
+  "title": "Costume Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Costume Rhymes (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Pretzel Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Pretzel Synonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Sitter Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Sitter Antonyms (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Orthodontist Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Orthodontist Sentences (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Deadlift Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Deadlift Translations (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Clutter Conjugations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: clutter is standardly a verb (to clutter a room), so verb-usage conjugation reading holds per sustained Conjugations line"
+ },
+ {
+  "title": "Laundry Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Laundry Anagrams (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Pitch Lyrics",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: music-context reading is clear (pitch is a music term, music_lessons); Pitch Lyrics is a genuine songwriter query"
+ },
+ {
+  "title": "Thrifting Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause pairing reads naturally as the word-query for Thrifting Orthography (spelling/rhyme/definition lookups); anchor-clause pairing coherent"
+ },
+ {
+  "title": "Tabbouleh Usage",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Tabbouleh Usage - ingredient usage tracking is core restaurant ops, sustained line"
+ },
+ {
+  "title": "Empanada Followup",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Empanada Followup - concrete restaurant ops (order/customer followup), sustained line"
+ },
+ {
+  "title": "Escargot Questionnaire",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Escargot Questionnaire - concrete restaurant ops (customer/ingredient questionnaire), sustained line"
+ },
+ {
+  "title": "Quinoa Depreciation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Quinoa Depreciation - kitchen equipment depreciation is a real restaurant-accounting ops item"
+ },
+ {
+  "title": "Mochi Resignation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Mochi Resignation - readable as restaurant HR ops (staff resignation/turnover docs), same family as sustained Handbook"
+ },
+ {
+  "title": "Satay Hazard",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Satay Hazard - food-safety hazard (HACCP) is core restaurant ops, sustained line"
+ },
+ {
+  "title": "Gumbo Tutorial",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Gumbo Tutorial - cooking tutorial is a readable food query, sustained line"
+ },
+ {
+  "title": "Jambalaya Handbook",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Jambalaya Handbook - staff/recipe handbook is restaurant ops, sustained line"
+ },
+ {
+  "title": "Shawarma Timetable",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Shawarma Timetable - kitchen prep timetable is restaurant ops, sustained line"
+ },
+ {
+  "title": "Naan Opinion",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Naan Opinion - readable as customer opinion/survey feedback, real restaurant-ops concept"
+ },
+ {
+  "title": "Arepa Gift",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Arepa Gift - readable as gift set/gift-card offering for the food business"
+ },
+ {
+  "title": "Goulash Tournament",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Goulash Tournament - readable as a food contest/marketing event, coherent for a food business"
+ }
+]

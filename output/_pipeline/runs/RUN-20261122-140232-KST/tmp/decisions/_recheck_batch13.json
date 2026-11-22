@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Tortoise Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Tortoise is a known band name and a generic animal word; lyrics search context is defensible, no trademark-conflict defect"
+ },
+ {
+  "title": "Gingivitis Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: how-do-you-spell queries for medical terms are real; query-clause pairing intact"
+ },
+ {
+  "title": "Acai Template",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Bruschetta Rating",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Prosciutto Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Edamame Validation",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: dead-pattern fragment - Validation is abstract tech jargon with no readable food-business capability for a dish anchor; vague metric/product fragment family (Validation/Eligibility/Detector), not concrete restaurant operations"
+ },
+ {
+  "title": "Guacamole Availability",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Empanada Broadcast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Bratwurst Appointment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Escargot Invoice",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Gyro Quote",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Quinoa Deposit",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Mochi Certification",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Moussaka Correction",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Borscht Revision",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Gumbo Payment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Jambalaya Verification",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: order/quality verification is concrete food-business operations; no same-anchor synonym collision in this slice"
+ },
+ {
+  "title": "Naan Predictor",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: clarity - Predictor is predictive-analytics jargon producing an absurd product fragment for a bread anchor (same dead family as Detector/Forecast/Model); no concrete naan-related operation is communicated"
+ },
+ {
+  "title": "Arepa Seal",
+  "approve": true,
+  "confidence": 0.45,
+  "reason": "sustained: Seal reads as certification/tamper-seal management for packaged food producers, a concrete food-industry concept; borderline but no grounded trademark or duplication defect"
+ },
+ {
+  "title": "Pierogi Review",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Goulash Recipe",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Tzatziki Video",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Warranty Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Screening Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Ticketing Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Recall Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Waste Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Breed Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Pickup Chords",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: music-context defense - pickup ensembles (pickup band/jam session) and guitar pickups are real music terms, so the Chords pairing is not a non-music anchor defect"
+ },
+ {
+  "title": "Recurring Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: famously misspelled word, spelling query-clause is genuinely strong"
+ },
+ {
+  "title": "Paycheck Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Lawyer Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Consignment Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Seller Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Reinsurance Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Wage Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Clearance Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Article Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Therapy Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Mediation Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Backhaul Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Refinance Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Cancellation Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Demolition Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Ad Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Nachos Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Gecko Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Sealant Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Basement Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Daytrip Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Auscultation Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Essay Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Tortoise Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: spelling-of-word query-clause, generic anchor, no defect"
+ },
+ {
+  "title": "Acai Guide",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Bruschetta Agreement",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Prosciutto Account",
+  "approve": true,
+  "confidence": 0.5,
+  "reason": "sustained: wholesale/loyalty customer-account management is a real food-business reading of Account; weak but no grounded defect"
+ },
+ {
+  "title": "Edamame Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Guacamole Eligibility",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: dead-pattern fragment - Eligibility reads as a vague criteria metric with no readable product for a dish anchor; abstract jargon fragment family, unclear what the product does"
+ },
+ {
+  "title": "Empanada Barcode",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Bratwurst Feedback",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Escargot Renewal",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Quinoa Certification",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Satay Correction",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Moussaka Revision",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: semantic duplication - Moussaka Revision duplicates Moussaka Correction on the same anchor (Correction/Revision near-synonym pair), same product intent"
+ },
+ {
+  "title": "Borscht Payment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Gumbo Verification",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: order/quality verification is concrete food-business operations; no same-anchor synonym collision in this slice"
+ },
+ {
+  "title": "Naan Seal",
+  "approve": true,
+  "confidence": 0.45,
+  "reason": "sustained: Seal reads as certification/tamper-seal management for packaged food producers, a concrete food-industry concept; borderline but no grounded trademark or duplication defect"
+ },
+ {
+  "title": "Arepa Review",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Pierogi Recipe",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Goulash Video",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Tzatziki Diary",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "flipped: clarity - Diary on a dish anchor reads as a personal food-journal fragment with no business capability; unclear what a tzatziki diary SaaS would be"
+ },
+ {
+  "title": "Rollback Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Warranty Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Screening Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Ticketing Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Recall Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Waste Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Chart Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Vitals Orthography",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: vitals is a generic healthcare word (vital signs), generic-word dominance; spelling query-clause intact"
+ },
+ {
+  "title": "Nurse Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Paycheck Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Lawyer Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Consignment Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Seller Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Reinsurance Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Remodel Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Mayor Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Jigsaw Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Therapy Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Mediation Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Backhaul Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Refinance Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Demotion Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Recycling Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Pinata Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Nachos Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Gecko Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Sealant Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Basement Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Daytrip Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Investigation Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Burger Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Acai Rating",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Ceviche Availability",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Empanada Appointment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Bratwurst Invoice",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Escargot Quote",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Gyro Deposit",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Mochi Correction",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Satay Revision",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: semantic duplication - Satay Revision duplicates Satay Correction on the same anchor (Correction/Revision near-synonym pair), same product intent"
+ },
+ {
+  "title": "Moussaka Payment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Borscht Verification",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: order/quality verification is concrete food-business operations; no same-anchor synonym collision in this slice"
+ },
+ {
+  "title": "Shawarma Seal",
+  "approve": true,
+  "confidence": 0.45,
+  "reason": "sustained: Seal reads as certification/tamper-seal management for packaged food producers, a concrete food-industry concept; borderline but no grounded trademark or duplication defect"
+ },
+ {
+  "title": "Naan Review",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Arepa Recipe",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Pierogi Video",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Goulash Diary",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "flipped: clarity - Diary on a dish anchor reads as a personal food-journal fragment with no business capability; unclear product fragment"
+ },
+ {
+  "title": "Tzatziki Refund",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Compliance Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Rollback Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Warranty Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Screening Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Ticketing Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Recall Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Breed Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Pickup Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Roots Syllables",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: roots is maximally generic (genealogy), generic-word dominance over the TV-series mark; query-clause intact"
+ },
+ {
+  "title": "Nurse Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Paycheck Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Lawyer Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Consignment Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Seller Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Wage Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Quarter Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Audition Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Jigsaw Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Therapy Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Mediation Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Backhaul Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Cancellation Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Commencement Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Geography Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Pinata Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Nachos Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Gecko Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Sealant Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Basement Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Auscultation Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Masquerade Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Acai Agreement",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Bruschetta Account",
+  "approve": true,
+  "confidence": 0.5,
+  "reason": "sustained: wholesale/loyalty customer-account management is a real food-business reading of Account; weak but no grounded defect"
+ },
+ {
+  "title": "Tabbouleh Lookup",
+  "approve": true,
+  "confidence": 0.5,
+  "reason": "sustained (low-conf): Lookup is a concrete search/retrieval operation in the sustained food-ops family (ingredient/allergen/menu lookup is a real restaurant tool function), not a dead jargon fragment"
+ },
+ {
+  "title": "Ceviche Eligibility",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: dead-pattern fragment - Eligibility is a vague abstract metric fragment with no readable food-business capability for a dish anchor"
+ },
+ {
+  "title": "Guacamole Barcode",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Empanada Feedback",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Bratwurst Renewal",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Gyro Certification",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Quinoa Correction",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Mochi Revision",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: semantic duplication - Mochi Revision duplicates Mochi Correction on the same anchor (Correction/Revision near-synonym pair), same product intent"
+ },
+ {
+  "title": "Satay Payment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Moussaka Verification",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: order/quality verification is concrete food-business operations; no same-anchor synonym collision in this slice"
+ },
+ {
+  "title": "Jambalaya Seal",
+  "approve": true,
+  "confidence": 0.45,
+  "reason": "sustained: Seal reads as certification/tamper-seal management for packaged food producers, a concrete food-industry concept; borderline but no grounded trademark or duplication defect"
+ },
+ {
+  "title": "Shawarma Review",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Naan Recipe",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Arepa Video",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Pierogi Diary",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "flipped: clarity - Diary on a dish anchor reads as a personal food-journal fragment with no business capability; unclear product fragment"
+ },
+ {
+  "title": "Goulash Refund",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Tzatziki Expense",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: concrete restaurant/food-business operations reading, consistent with sustained function-word family; no trademark or duplication defect"
+ },
+ {
+  "title": "Ticket Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Compliance Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Rollback Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Warranty Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Screening Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Ticketing Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Waste Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Puzzle Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Roots Rhymes",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: maximally generic word, query-clause intact"
+ },
+ {
+  "title": "Nurse Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Paycheck Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Lawyer Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Consignment Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Reinsurance Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Clearance Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Carnival Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Audition Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Jigsaw Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Therapy Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Mediation Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Refinance Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Demolition Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Verification Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: syllable-count query-clause works on any word; anchor generic"
+ },
+ {
+  "title": "Geography Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Pinata Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Nachos Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Gecko Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Sealant Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Daytrip Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Essay Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Ticket Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ },
+ {
+  "title": "Compliance Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: standard query-clause pairing (spelling/synonym/rhyme/sentence searches), generic anchor, no trademark or anchor-pairing defect found"
+ }
+]

@@ -1,0 +1,2202 @@
+[
+  {
+    "title": "Beach Sentences",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "beach 예문 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Harp Translations",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "harp 번역 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Puzzle Conjugations",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: puzzle은 퍼즐 명사로 읽혀 동사 활용 조회인 Conjugations의 대상이 되지 않아 서비스가 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Roots Anagrams",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "roots 아나그램 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Nurse Chords",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: healthcare 맥락의 nurse에는 화음(Chords)이 붙을 음악·공연 맥락이 없어 어떤 SaaS인지 만들어지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Paycheck Lyrics",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 급여(Paycheck) 대상 가사 조회는 음악 맥락 없이 결합해 서비스 대상이 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Lawyer Orthography",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "lawyer 철자 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Bump Syllables",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "bump 음절 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Briefing Rhymes",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "briefing 라임 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Export Synonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "export 유의어 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Pet Antonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "pet 반의어 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Hose Sentences",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "hose 예문 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Elbow Translations",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "elbow 번역 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Carnival Conjugations",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 여행·축제 명사 carnival은 동사 활용 조회의 대상이 아니어 Conjugations 결합이 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Audition Anagrams",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "audition 아나그램 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Jigsaw Chords",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: jigsaw 퍼즐 취미에 화음 조회가 붙을 음악 맥락이 없어 서비스가 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Therapy Lyrics",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 치료(Therapy) 대상 가사 조회는 음악 산업 맥락 없이는 무엇을 제공하는 서비스인지 알 수 없음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Canary Syllables",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "canary 음절 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Fluoride Rhymes",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "fluoride 라임 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Garden Synonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "garden 유의어 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Volcano Antonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "volcano 반의어 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Crossstitch Sentences",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "crossstitch 예문 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Comorbidity Translations",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "comorbidity 번역 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Verification Conjugations",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: verification은 검증 행위 명사로 동사 활용 조회 대상이 아니며 보험 업계에서 활용표 조회 수요가 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Geography Anagrams",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "geography 아나그램 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Pinata Chords",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: pinata 파티 소품에 화음 조회가 붙을 음악·공연 맥락이 없어 서비스가 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Nachos Lyrics",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 음식 nachos와 가사 조회는 음악 맥락 없이 결합해 어떤 제품인지 만들어지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Gecko Orthography",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "gecko 철자 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Acai Ping",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: acai 업계에서 Ping이 무엇을 알리는 신호인지 불명확해 알림·네트워크 어느 쪽 제품도 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Bruschetta Availability",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "bruschetta 판매 상태(Availability) 확인 도구로 성립, Arepa Availability 등 선행 승인과 같은 관용구이나 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Prosciutto Broadcast",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "prosciutto 가게 소식 메시지 발송(Broadcast) 도구로 읽혀 성립, 앵커가 달라 배치 내 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Tabbouleh Appointment",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "tabbouleh 업계 예약·상담 일정(Appointment) 도구로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Edamame Invoice",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "edamame 업계 청구서(Invoice) 발행 도구로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Ceviche Quote",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "ceviche 케이터링 견적(Quote) 도구로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Guacamole Deposit",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "guacamole 업계 예약금(Deposit) 처리 도구로 성립, 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Empanada Nomination",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 음식점 맥락에서 nomination(임명·추천)이 대상으로 삼을 절차가 없어 서비스가 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Bratwurst Revision",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: bratwurst 업계에서 무엇을 수정(revision)하는지 불명확해 기능이 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Escargot Verification",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: escargot 업계에서 무엇을 검증하는지 특정되지 않아 조각 구절로만 읽힘",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Gyro Predictor",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "gyro 수요 예측(Predictor) 도구로 읽혀 성립, 다만 예측 대상이 암시적이라 보통 확신도",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Quinoa Review",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "quinoa 업계 리뷰 수집·관리 도구로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Mochi Recipe",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "mochi 레시피 관리·검색 도구로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Satay Video",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "satay 조리·홍보 영상(Video) 도구로 성립, 앵커가 달라 배치 내 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Moussaka Diary",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: 특정 요리 moussaka에 일기(Diary)를 붙인 독백 조합으로 어떤 SaaS 제품인지 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Borscht Refund",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "borscht 업계 환불(Refund) 처리 도구로 성립, 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Gumbo Expense",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "gumbo 업계 지출(Expense) 관리 도구로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Jambalaya Newsletter",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "jambalaya 업계 뉴스레터 발행 도구로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Shawarma Inventory",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "shawarma 업계 재고(Inventory) 관리 도구로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Naan Claim",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: naan 업계에서 claim이 보험 청구인지 고객 클레임인지 특정되지 않아 서비스가 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Arepa Onboarding",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "arepa 업계 직원 온보딩(Onboarding) 도구로 성립, 다만 결합이 약해 보통 확신도",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Pierogi Checkin",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "pierogi 업계 직원·손님 체크인(Checkin) 도구로 성립, 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Goulash Size",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: goulash의 Size가 무엇의 크기(포션·매장 규모)인지 특정되지 않아 조각 구절로만 읽힘",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Tzatziki Length",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: tzatziki의 Length가 성립하는 대상이 없어 서비스가 만들어지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Pesticide Syllables",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "pesticide 음절 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Substation Rhymes",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "substation 라임 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Beneficiary Synonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "beneficiary 유의어 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Records Antonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "records 반의어 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Engagement Sentences",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "engagement 예문 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Broadcast Translations",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "broadcast 번역 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Ticket Anagrams",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "ticket 아나그램 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Compliance Chords",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 규정 준수(Compliance) 대상 화음 조회는 음악 맥락이 없어 서비스가 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Rollback Lyrics",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 배포 롤백(Rollback) 대상 가사 조회는 음악 맥락이 없어 무엇을 제공하는지 알 수 없음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Warranty Orthography",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "warranty 철자 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Catering Syllables",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "catering 음절 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Vacancy Rhymes",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "vacancy 라임 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Cover Synonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "cover 유의어 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Exterior Antonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "exterior 반의어 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Snake Sentences",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "snake 예문 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Beach Translations",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "beach 번역 조회 관용구 결합으로 성립, Beach Sentences와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Harp Conjugations",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 음악 교실 맥락의 harp는 악기 명사로 동사 활용 조회의 대상이 아니어 Conjugations 결합이 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Puzzle Anagrams",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "puzzle 아나그램 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Roots Chords",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 실내식물 뿌리(Roots)에 화음 조회가 붙을 음악 맥락이 없어 서비스가 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Nurse Lyrics",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 간호(Nurse) 대상 가사 조회는 음악 맥락 없이 결합해 제품이 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Paycheck Orthography",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "paycheck 철자 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Boiler Syllables",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "boiler 음절 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Bump Rhymes",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "bump 라임 조회 관용구 결합으로 성립, Bump Syllables와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Briefing Synonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "briefing 유의어 조회 관용구 결합으로 성립, Briefing Rhymes와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Export Antonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "export 반의어 조회 관용구 결합으로 성립, Export Synonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Pet Sentences",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "pet 예문 조회 관용구 결합으로 성립, Pet Antonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Hose Translations",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "hose 번역 조회 관용구 결합으로 성립, Hose Sentences와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Elbow Conjugations",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 배관 업계의 elbow는 파이프 부품 명사로 동사 활용 조회의 대상이 아니어 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Carnival Anagrams",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "carnival 아나그램 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Audition Chords",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "오디션 곡 화음(Chords) 참조 도구로 읽힐 여지가 있어 성립, 다만 결합이 약해 보통 확신도",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Jigsaw Lyrics",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: jigsaw 퍼즐 대상 가사 조회는 음악 맥락 없이 결합해 서비스가 만들어지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Therapy Orthography",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "therapy 철자 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Waffle Syllables",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "waffle 음절 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Canary Rhymes",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "canary 라임 조회 관용구 결합으로 성립, Canary Syllables와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Fluoride Synonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "fluoride 유의어 조회 관용구 결합으로 성립, Fluoride Rhymes와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Garden Antonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "garden 반의어 조회 관용구 결합으로 성립, Garden Synonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Volcano Sentences",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "volcano 예문 조회 관용구 결합으로 성립, Volcano Antonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Crossstitch Translations",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "crossstitch 번역 조회 관용구 결합으로 성립, Crossstitch Sentences와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Comorbidity Conjugations",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 동반질환 명사 comorbidity는 활용 조회 대상이 될 수 없어 Conjugations 결합이 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Verification Anagrams",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "verification 아나그램 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Geography Chords",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: 지리 교과 맥락이 지배적이라 화음 조회가 붙을 음악 서비스가 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Pinata Lyrics",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: pinata 파티 소품 대상 가사 조회는 음악 맥락이 없어 서비스가 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Nachos Orthography",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "nachos 철자 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Acai Model",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: acai 업계의 Model이 비즈니스 모델인지 기기 모형인지 특정되지 않아 제품이 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Bruschetta Eligibility",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "bruschetta 지원·자격(Eligibility) 판단 도구로 성립, 다만 결합이 약해 보통 확신도",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Prosciutto Barcode",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "prosciutto 유통 바코드(Barcode) 관리 도구로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Tabbouleh Feedback",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "tabbouleh 업계 고객 피드백 수집 도구로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Edamame Renewal",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "edamame 업계 구독·멤버십 갱신(Renewal) 도구로 성립, 다만 갱신 대상이 암시적이라 보통 확신도",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Ceviche Warranty",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: 음식점이 보증(Warranty)할 제품이 없어 보증 개념이 ceviche 업계 서비스로 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Guacamole Certification",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "guacamole 업계 위생 인증(Certification) 관리 도구로 성립, 다만 결합이 약해 보통 확신도",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Empanada Correction",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: empanada 업계에서 무엇을 정정(correction)하는지 불명확해 기능이 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Bratwurst Payment",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "bratwurst 업계 결제(Payment) 처리 도구로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Escargot Simulator",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: escargot 시뮬레이터가 무엇을 재현하는지 불명확해 실용 SaaS로 읽히지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Gyro Seal",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: gyro 업계의 Seal이 봉인·실링 어느 기능인지 특정되지 않아 서비스가 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Quinoa Recipe",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "quinoa 레시피 도구로 성립, Mochi Recipe와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Mochi Video",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "mochi 영상 콘텐츠 도구로 성립, Satay Video와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Satay Diary",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: 특정 요리 satay에 일기를 붙인 조합으로 제품이 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Moussaka Refund",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "moussaka 업계 환불 처리 도구로 성립, Borscht Refund와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Borscht Expense",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "borscht 업계 지출 관리 도구로 성립, Gumbo Expense와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Gumbo Newsletter",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "gumbo 업계 뉴스레터 도구로 성립, Jambalaya Newsletter와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Jambalaya Inventory",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "jambalaya 업계 재고 관리 도구로 성립, Shawarma Inventory와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Shawarma Claim",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: shawarma 업계의 Claim이 청구인지 클레임인지 특정되지 않아 조각 구절로만 읽힘",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Naan Onboarding",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "naan 업계 직원 온보딩 도구로 성립, Arepa Onboarding와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Arepa Checkin",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "arepa 업계 체크인 도구로 성립, Pierogi Checkin와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Pierogi Size",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: pierogi의 Size 대상이 특정되지 않아 서비스가 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Goulash Length",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: goulash의 Length가 성립하는 대상이 없어 제품이 만들어지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Tzatziki Weight",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: tzatziki의 Weight가 무엇의 무게인지 특정되지 않아 기능이 불명확함",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Scheduling Syllables",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "scheduling 음절 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Pesticide Rhymes",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "pesticide 라임 조회 관용구 결합으로 성립, Pesticide Syllables와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Substation Synonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "substation 유의어 조회 관용구 결합으로 성립, Substation Rhymes와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Beneficiary Antonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "beneficiary 반의어 조회 관용구 결합으로 성립, Beneficiary Synonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Records Sentences",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "records 예문 조회 관용구 결합으로 성립, Records Antonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Engagement Translations",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "engagement 번역 조회 관용구 결합으로 성립, Engagement Sentences와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Broadcast Conjugations",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "broadcast는 방송하다 동사 용법이 살아있어(불규칙 활용 조회 대상) Conjugations 결합이 성립, 다만 결합이 약해 보통 확신도",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Ticket Chords",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 티켓(Ticket) 대상 화음 조회는 음악 맥락이 없어 서비스가 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Compliance Lyrics",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 규정 준수(Compliance) 대상 가사 조회는 음악 맥락이 없어 제품이 만들어지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Rollback Orthography",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "rollback 철자 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Delivery Syllables",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "delivery 음절 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Catering Rhymes",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "catering 라임 조회 관용구 결합으로 성립, Catering Syllables와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Vacancy Synonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "vacancy 유의어 조회 관용구 결합으로 성립, Vacancy Rhymes와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Cover Antonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "cover 반의어 조회 관용구 결합으로 성립, Cover Synonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Exterior Sentences",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "exterior 예문 조회 관용구 결합으로 성립, Exterior Antonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Snake Translations",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "snake 번역 조회 관용구 결합으로 성립, Snake Sentences와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Beach Conjugations",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 여행 맥락의 beach는 명사로 읽혀 동사 활용 조회의 대상이 아니어 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Harp Anagrams",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "harp 아나그램 조회 관용구 결합으로 성립, Harp Translations와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Puzzle Chords",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 퍼즐(Puzzle) 대상 화음 조회는 음악 맥락이 없어 서비스가 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Roots Lyrics",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 실내식물 맥락의 Roots 대상 가사 조회는 음악 맥락이 없어 제품이 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Nurse Orthography",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "nurse 철자 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Brand Syllables",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "brand 음절 조회 관용구 결합으로 성립, brand는 일반명사라 상표 위험 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Boiler Rhymes",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "boiler 라임 조회 관용구 결합으로 성립, Boiler Syllables와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Bump Synonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "bump 유의어 조회 관용구 결합으로 성립, Bump Rhymes와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Briefing Antonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "briefing 반의어 조회 관용구 결합으로 성립, Briefing Synonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Export Sentences",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "export 예문 조회 관용구 결합으로 성립, Export Antonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Pet Translations",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "pet 번역 조회 관용구 결합으로 성립, Pet Sentences와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Hose Conjugations",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 배관 업계의 hose는 호스 명사로 읽혀 동사 활용 조회가 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Elbow Anagrams",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "elbow 아나그램 조회 관용구 결합으로 성립, Elbow Translations와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Carnival Chords",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "카니발 축제 공연·무대 음악 맥락으로 화음 자료 도구로 읽힐 여지가 있어 성립, 다만 결합이 직관적이지 않아 신뢰도 낮음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Audition Lyrics",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "오디션 곡 가사 준비 도구로 읽혀 성립, Audition Chords와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Jigsaw Orthography",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "jigsaw 철자 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Confetti Syllables",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "confetti 음절 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Waffle Rhymes",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "waffle 라임 조회 관용구 결합으로 성립, Waffle Syllables와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Canary Synonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "canary 유의어 조회 관용구 결합으로 성립, Canary Rhymes와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Fluoride Antonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "fluoride 반의어 조회 관용구 결합으로 성립, Fluoride Synonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Garden Sentences",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "garden 예문 조회 관용구 결합으로 성립, Garden Antonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Volcano Translations",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "volcano 번역 조회 관용구 결합으로 성립, Volcano Sentences와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Crossstitch Conjugations",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: crossstitch는 공예 대상 명사로 읽혀 동사 활용 조회의 수요가 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Comorbidity Anagrams",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "comorbidity 아나그램 조회 관용구 결합으로 성립, Comorbidity Translations와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Verification Chords",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 검증(Verification) 대상 화음 조회는 음악 맥락이 없어 서비스가 만들어지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Geography Lyrics",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: 지리 교과 독해가 지배적이라 가사 조회로 만들어지는 제품이 불명확함",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Pinata Orthography",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "pinata 철자 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Acai Availability",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "acai 판매 상태 확인 도구로 성립, Bruschetta Availability와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Bruschetta Broadcast",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "bruschetta 가게 소식 발송 도구로 성립, Prosciutto Broadcast와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Prosciutto Appointment",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "prosciutto 업계 예약 일정 도구로 성립, Tabbouleh Appointment와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Tabbouleh Invoice",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "tabbouleh 업계 청구서 도구로 성립, Edamame Invoice와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Edamame Quote",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "edamame 업계 견적 도구로 성립, Ceviche Quote와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Ceviche Deposit",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "ceviche 업계 예약금 처리 도구로 성립, Guacamole Deposit와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Guacamole Nomination",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 음식점 맥락에서 nomination의 대상 절차가 없어 서비스가 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Empanada Revision",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: empanada 업계의 Revision 대상이 특정되지 않아 기능이 불명확함",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Bratwurst Verification",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: bratwurst 업계에서 무엇을 검증하는지 특정되지 않아 조각 구절로만 읽힘",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Escargot Predictor",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "escargot 수요 예측 도구로 읽혀 성립, Gyro Predictor와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Gyro Review",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "gyro 업계 리뷰 도구로 성립, Quinoa Review와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Quinoa Video",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "quinoa 영상 콘텐츠 도구로 성립, Mochi Video와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Mochi Diary",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: 특정 요리 mochi에 일기를 붙인 조합은 제품이 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Satay Refund",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "satay 업계 환불 처리 도구로 성립, Moussaka Refund와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Moussaka Expense",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "moussaka 업계 지출 관리 도구로 성립, Borscht Expense와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Borscht Newsletter",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "borscht 업계 뉴스레터 도구로 성립, Gumbo Newsletter와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Gumbo Inventory",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "gumbo 업계 재고 관리 도구로 성립, Jambalaya Inventory와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Jambalaya Claim",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: jambalaya 업계의 Claim 대상이 특정되지 않아 서비스가 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Shawarma Onboarding",
+    "approve": true,
+    "confidence": 0.6,
+    "reason": "shawarma 업계 직원 온보딩 도구로 성립, Naan Onboarding와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Naan Checkin",
+    "approve": true,
+    "confidence": 0.65,
+    "reason": "naan 업계 체크인 도구로 성립, Arepa Checkin와 앵커가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Arepa Size",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: arepa의 Size 대상이 특정되지 않아 조각 구절로만 읽힘",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Pierogi Length",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: pierogi의 Length가 성립하는 대상이 없어 불명확함",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Goulash Weight",
+    "approve": false,
+    "confidence": 0.6,
+    "reason": "명확성 실패: goulash의 Weight 대상이 특정되지 않아 기능이 불명확함",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Tzatziki Distance",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: tzatziki의 Distance가 배달 반경 등 어느 것인지 특정되지 않아 제품이 그려지지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Cohort Syllables",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "cohort 음절 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Scheduling Rhymes",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "scheduling 라임 조회 관용구 결합으로 성립, Scheduling Syllables와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Pesticide Synonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "pesticide 유의어 조회 관용구 결합으로 성립, Pesticide Rhymes와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Substation Antonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "substation 반의어 조회 관용구 결합으로 성립, Substation Synonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Beneficiary Sentences",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "beneficiary 예문 조회 관용구 결합으로 성립, Beneficiary Antonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Records Translations",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "records 번역 조회 관용구 결합으로 성립, Records Sentences와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Engagement Conjugations",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 마케팅 지표 명사 engagement는 동사 활용 조회의 대상이 아니어 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Broadcast Anagrams",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "broadcast 아나그램 조회 관용구 결합으로 성립, Broadcast Translations와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Ticket Lyrics",
+    "approve": false,
+    "confidence": 0.65,
+    "reason": "명확성 실패: 티켓 대상 가사 조회는 음악 맥락이 없어 서비스가 성립하지 않음",
+    "checks": {
+      "clarity": false,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Compliance Orthography",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "compliance 철자 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Crate Syllables",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "crate 음절 조회 관용구 결합으로 성립, 중복·상표 없음",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Delivery Rhymes",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "delivery 라임 조회 관용구 결합으로 성립, Delivery Syllables와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Catering Synonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "catering 유의어 조회 관용구 결합으로 성립, Catering Rhymes와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  },
+  {
+    "title": "Vacancy Antonyms",
+    "approve": true,
+    "confidence": 0.7,
+    "reason": "vacancy 반의어 조회 관용구 결합으로 성립, Vacancy Synonyms와 기능어가 달라 중복 아님",
+    "checks": {
+      "clarity": true,
+      "duplication": true,
+      "trademark": true
+    }
+  }
+]

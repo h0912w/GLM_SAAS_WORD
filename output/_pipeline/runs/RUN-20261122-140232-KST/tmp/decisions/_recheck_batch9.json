@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Naan Barcode",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Naan restaurant-operations tool (packaging barcode labeling); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Arepa Appointment",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Arepa restaurant-operations tool (reservation/appointment management); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Pierogi Feedback",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Pierogi restaurant-operations tool (customer feedback collection); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Goulash Invoice",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Goulash restaurant-operations tool (catering invoicing); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Tzatziki Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Tzatziki restaurant-operations tool (standing-order/subscription renewal); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Waitlist Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Waitlist' + 'Syllables' reads as an 'Waitlist' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Formulary Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Formulary' + 'Rhymes' reads as an 'Formulary' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Crew Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Crew' + 'Synonyms' reads as an 'Crew' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Charter Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Charter' + 'Antonyms' reads as an 'Charter' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Maintenance Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Maintenance' + 'Sentences' reads as an 'Maintenance' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Callout Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Callout' + 'Translations' reads as an 'Callout' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Assignment Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Assignment' + 'Anagrams' reads as an 'Assignment' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Photographer Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Photographer' + 'Orthography' reads as an 'Photographer' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Roadtest Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Roadtest' + 'Syllables' reads as an 'Roadtest' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Freezer Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Freezer' + 'Rhymes' reads as an 'Freezer' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Puppy Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Puppy' + 'Synonyms' reads as an 'Puppy' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Filling Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Filling' + 'Antonyms' reads as an 'Filling' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Dumbbell Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Dumbbell' + 'Sentences' reads as an 'Dumbbell' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Preschool Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Preschool' + 'Translations' reads as an 'Preschool' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Mower Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Mower' + 'Anagrams' reads as an 'Mower' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Urn Lyrics",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "FLIP: Lyrics on a clearly non-music anchor (Urn, funeral goods) - same defect family as batch-3 flips (Consignee Lyrics); round 1's own reason conceded the pairing fails to read as a coherent product."
+ },
+ {
+  "title": "Pedicure Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Pedicure' + 'Orthography' reads as an 'Pedicure' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Takeout Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Takeout' + 'Syllables' reads as an 'Takeout' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Adoption Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Adoption' + 'Rhymes' reads as an 'Adoption' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Plaque Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Plaque' + 'Synonyms' reads as an 'Plaque' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Kickboxing Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Kickboxing' + 'Antonyms' reads as an 'Kickboxing' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Allergy Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Allergy' + 'Sentences' reads as an 'Allergy' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Flower Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Flower' + 'Translations' reads as an 'Flower' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Mirror Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Mirror' + 'Anagrams' reads as an 'Mirror' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Impressioning Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Impressioning' + 'Orthography' reads as an 'Impressioning' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Insured Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Insured' + 'Syllables' reads as an 'Insured' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Notebook Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Notebook' + 'Rhymes' reads as an 'Notebook' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Balloons Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Balloons' + 'Synonyms' reads as an 'Balloons' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Pizza Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Pizza' + 'Antonyms' reads as an 'Pizza' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Chinchilla Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Chinchilla' + 'Sentences' reads as an 'Chinchilla' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Bruxism Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Bruxism' + 'Translations' reads as an 'Bruxism' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Promenade Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Promenade' + 'Anagrams' reads as an 'Promenade' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Pencil Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Pencil' + 'Orthography' reads as an 'Pencil' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Acai Comparison",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: Comparison is a dead vague-fragment pattern on a food anchor - 'Acai Comparison' names no coherent tool or operation (dead-pattern family flipped in batches 3/5)."
+ },
+ {
+  "title": "Prosciutto Copy",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: Copy is ambiguous between marketing copy and a duplicate; round 1's own reason conceded low confidence - 'Prosciutto Copy' reads as an absurd fragment, not a product."
+ },
+ {
+  "title": "Tabbouleh Reference",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "FLIP: Reference is a dead vague-fragment pattern on a food anchor (same family as low-conf 'Naan Reference') - no coherent restaurant operation named."
+ },
+ {
+  "title": "Edamame Deadline",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "FLIP: Deadline is a dead vague-fragment pattern on a food anchor (same family as low-conf 'Pierogi Deadline'/'Naan Deadline') - deadline of what is unanswerable; clarity defect."
+ },
+ {
+  "title": "Ceviche Volume",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "FLIP: Volume is a dead vague-fragment pattern on a food anchor (same family as low-conf 'Tzatziki Volume'/'Goulash Volume') - reads as an absurd product fragment."
+ },
+ {
+  "title": "Guacamole Progress",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Guacamole restaurant-operations tool (kitchen-context order/cooking progress tracking; kitchen reading is the sustained line, not an Apache Guacamole software-context reading); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Empanada Template",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Empanada restaurant-operations tool (recipe/ops document templates); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Bratwurst Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Bratwurst restaurant-operations tool (menu rating/review management); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Escargot Reply",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Escargot restaurant-operations tool (auto-reply to customer inquiries); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Gyro Case",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Gyro restaurant-operations tool (order/support case tracking); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Quinoa Validation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: round 1's own reason conceded the validation target is not intuitive - 'Quinoa Validation' does not name any readable tool; vague fragment."
+ },
+ {
+  "title": "Mochi Lookup",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Mochi restaurant-operations tool (menu/inventory lookup); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Satay Ping",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: round 1's own reason conceded Ping fails to signal a restaurant product - 'Satay Ping' reads as a meaningless notification fragment."
+ },
+ {
+  "title": "Moussaka Model",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: round 1's own reason conceded the pairing is forced - 'Model' names no concrete operation (model of what?); vague fragment on food anchor."
+ },
+ {
+  "title": "Borscht Availability",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Borscht restaurant-operations tool (menu/table availability management - genuine restaurant SaaS vocabulary); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Gumbo Eligibility",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: round 1's own reason conceded the eligibility target is not intuitive - eligibility of what for whom is unanswerable; vague fragment."
+ },
+ {
+  "title": "Jambalaya Broadcast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Jambalaya restaurant-operations tool (bulk announcement sending); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Shawarma Barcode",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Shawarma restaurant-operations tool (inventory barcode labeling); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Naan Appointment",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Naan restaurant-operations tool (tasting/reservation management); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Arepa Feedback",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Arepa restaurant-operations tool (customer feedback collection); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Pierogi Invoice",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Pierogi restaurant-operations tool (quote-to-invoice billing); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Goulash Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Goulash restaurant-operations tool (standing-order/subscription renewal); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Tzatziki Quote",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Tzatziki restaurant-operations tool (catering quote generation); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Permit Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Permit' + 'Syllables' reads as an 'Permit' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Waitlist Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Waitlist' + 'Rhymes' reads as an 'Waitlist' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Formulary Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Formulary' + 'Synonyms' reads as an 'Formulary' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Crew Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Crew' + 'Antonyms' reads as an 'Crew' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Charter Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Charter' + 'Sentences' reads as an 'Charter' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Maintenance Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Maintenance' + 'Translations' reads as an 'Maintenance' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Safe Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Safe' + 'Anagrams' reads as an 'Safe' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Backdrop Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Backdrop' + 'Orthography' reads as an 'Backdrop' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Expo Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Expo' + 'Syllables' reads as an 'Expo' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Roadtest Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Roadtest' + 'Rhymes' reads as an 'Roadtest' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Freezer Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Freezer' + 'Synonyms' reads as an 'Freezer' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Puppy Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Puppy' + 'Antonyms' reads as an 'Puppy' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Filling Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Filling' + 'Sentences' reads as an 'Filling' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Dumbbell Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Dumbbell' + 'Translations' reads as an 'Dumbbell' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Cane Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Cane' + 'Anagrams' reads as an 'Cane' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Urn Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Urn' + 'Orthography' reads as an 'Urn' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Wiper Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Wiper' + 'Syllables' reads as an 'Wiper' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Takeout Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Takeout' + 'Rhymes' reads as an 'Takeout' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Adoption Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Adoption' + 'Synonyms' reads as an 'Adoption' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Plaque Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Plaque' + 'Antonyms' reads as an 'Plaque' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Kickboxing Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Kickboxing' + 'Sentences' reads as an 'Kickboxing' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Allergy Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Allergy' + 'Translations' reads as an 'Allergy' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Squeegee Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Squeegee' + 'Anagrams' reads as an 'Squeegee' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Radiator Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Radiator' + 'Orthography' reads as an 'Radiator' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Intubation Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Intubation' + 'Syllables' reads as an 'Intubation' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Insured Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Insured' + 'Rhymes' reads as an 'Insured' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Notebook Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Notebook' + 'Synonyms' reads as an 'Notebook' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Balloons Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Balloons' + 'Antonyms' reads as an 'Balloons' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Pizza Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Pizza' + 'Sentences' reads as an 'Pizza' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Chinchilla Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Chinchilla' + 'Translations' reads as an 'Chinchilla' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Thermostat Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Thermostat' + 'Anagrams' reads as an 'Thermostat' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Claimant Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Claimant' + 'Orthography' reads as an 'Claimant' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Acai Proposal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Acai restaurant-operations tool (catering proposal writing); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Bruschetta Record",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "FLIP: Record is a dead vague-fragment pattern on a food anchor (same family as low-conf 'Gumbo Record'/'Borscht Record') - no coherent operation named."
+ },
+ {
+  "title": "Tabbouleh Forecast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Tabbouleh restaurant-operations tool (demand/sales forecasting); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Edamame Duration",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "FLIP: Duration is a dead vague-fragment pattern on a food anchor (same family as low-conf 'Pierogi Duration') - duration of what is unclear; absurd fragment."
+ },
+ {
+  "title": "Ceviche Diagnostic",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "FLIP: Diagnostic is a dead vague-fragment pattern on a food anchor - round 1 conceded the diagnostic target is not intuitive."
+ },
+ {
+  "title": "Guacamole Authorization",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "FLIP: Authorization is a dead vague-fragment pattern on a food anchor - same family as low-conf 'Jambalaya Authorization'/'Gumbo Authorization'; authorization of what is unanswerable."
+ },
+ {
+  "title": "Empanada Guide",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Empanada restaurant-operations tool (operations guide content); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Bratwurst Agreement",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Bratwurst restaurant-operations tool (supplier contract management); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Escargot Account",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Escargot restaurant-operations tool (customer account management); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Gyro Match",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: round 1's own reason conceded Match does not say what is being matched - 'Gyro Match' reads as an unclear fragment."
+ },
+ {
+  "title": "Quinoa Lookup",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Quinoa restaurant-operations tool (menu/inventory lookup); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Mochi Ping",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: same defect as 'Satay Ping' - round 1 conceded Ping fails to signal a restaurant product; meaningless fragment."
+ },
+ {
+  "title": "Satay Model",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: round 1 conceded the pairing is forced - 'Model' names no concrete restaurant operation; vague fragment."
+ },
+ {
+  "title": "Moussaka Availability",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Moussaka restaurant-operations tool (menu/table availability management); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Borscht Eligibility",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: eligibility target not intuitive (round 1 conceded) - eligibility of what is unanswerable; vague fragment."
+ },
+ {
+  "title": "Gumbo Broadcast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Gumbo restaurant-operations tool (bulk announcement sending); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Jambalaya Barcode",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Jambalaya restaurant-operations tool (inventory barcode labeling); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Shawarma Appointment",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Shawarma restaurant-operations tool (reservation management); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Naan Feedback",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Naan restaurant-operations tool (customer feedback collection); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Arepa Invoice",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Arepa restaurant-operations tool (quote-to-invoice billing); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Pierogi Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Pierogi restaurant-operations tool (standing-order/subscription renewal); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Goulash Quote",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Goulash restaurant-operations tool (catering quote generation); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Rack Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Rack' + 'Syllables' reads as an 'Rack' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Permit Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Permit' + 'Rhymes' reads as an 'Permit' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Waitlist Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Waitlist' + 'Synonyms' reads as an 'Waitlist' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Formulary Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Formulary' + 'Antonyms' reads as an 'Formulary' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Crew Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Crew' + 'Sentences' reads as an 'Crew' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Charter Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Charter' + 'Translations' reads as an 'Charter' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Callout Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Callout' + 'Anagrams' reads as an 'Callout' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Inventory Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Inventory' + 'Orthography' reads as an 'Inventory' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Hire Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Hire' + 'Syllables' reads as an 'Hire' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Expo Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Expo' + 'Rhymes' reads as an 'Expo' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Roadtest Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Roadtest' + 'Synonyms' reads as an 'Roadtest' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Freezer Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Freezer' + 'Antonyms' reads as an 'Freezer' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Puppy Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Puppy' + 'Sentences' reads as an 'Puppy' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Filling Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Filling' + 'Translations' reads as an 'Filling' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Preschool Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Preschool' + 'Anagrams' reads as an 'Preschool' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Closet Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Closet' + 'Orthography' reads as an 'Closet' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Signage Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Signage' + 'Syllables' reads as an 'Signage' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Wiper Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Wiper' + 'Rhymes' reads as an 'Wiper' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Takeout Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Takeout' + 'Synonyms' reads as an 'Takeout' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Adoption Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Adoption' + 'Antonyms' reads as an 'Adoption' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Plaque Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Plaque' + 'Sentences' reads as an 'Plaque' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Kickboxing Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Kickboxing' + 'Translations' reads as an 'Kickboxing' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Flower Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Flower' + 'Anagrams' reads as an 'Flower' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Expiration Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Expiration' + 'Orthography' reads as an 'Expiration' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Yacht Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Yacht' + 'Syllables' reads as an 'Yacht' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Intubation Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Intubation' + 'Rhymes' reads as an 'Intubation' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Insured Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Insured' + 'Synonyms' reads as an 'Insured' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Notebook Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Notebook' + 'Antonyms' reads as an 'Notebook' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Balloons Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Balloons' + 'Sentences' reads as an 'Balloons' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Pizza Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Pizza' + 'Translations' reads as an 'Pizza' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Bruxism Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Bruxism' + 'Anagrams' reads as an 'Bruxism' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Otoscope Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Otoscope' + 'Orthography' reads as an 'Otoscope' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Bruschetta Copy",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: Copy ambiguous between duplicate and marketing copy; round 1 conceded low confidence - reads as an absurd fragment."
+ },
+ {
+  "title": "Prosciutto Reference",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "FLIP: Reference is a dead vague-fragment pattern on a food anchor (same family as low-conf 'Naan Reference'/'Shawarma Reference')."
+ },
+ {
+  "title": "Tabbouleh Deadline",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "FLIP: Deadline is a dead vague-fragment pattern on a food anchor (same family as low-conf 'Pierogi Deadline'/'Naan Deadline')."
+ },
+ {
+  "title": "Edamame Volume",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "FLIP: Volume is a dead vague-fragment pattern on a food anchor (same family as low-conf 'Tzatziki Volume'/'Goulash Volume')."
+ },
+ {
+  "title": "Ceviche Progress",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Ceviche restaurant-operations tool (kitchen-context order/cooking progress tracking); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Guacamole Template",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Guacamole restaurant-operations tool (recipe/kitchen-ops document template - kitchen-context reading, not an Apache Guacamole software-context function word); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Empanada Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Empanada restaurant-operations tool (menu rating/review management); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Bratwurst Reply",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Bratwurst restaurant-operations tool (auto-reply to customer inquiries); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Escargot Case",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Escargot restaurant-operations tool (order/support case tracking); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Gyro Validation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: round 1 conceded the validation target is not intuitive - 'Gyro Validation' names no readable tool; vague fragment."
+ },
+ {
+  "title": "Quinoa Ping",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: round 1 conceded Ping fails to signal a restaurant product - meaningless fragment, same defect as 'Satay Ping'."
+ },
+ {
+  "title": "Mochi Model",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: round 1 conceded the pairing is forced - 'Model' names no concrete operation; vague fragment on food anchor."
+ },
+ {
+  "title": "Satay Availability",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Satay restaurant-operations tool (menu/table availability management); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Moussaka Eligibility",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "FLIP: eligibility target not intuitive (round 1 conceded); vague fragment, same defect as 'Gumbo Eligibility'."
+ },
+ {
+  "title": "Borscht Broadcast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Borscht restaurant-operations tool (bulk announcement sending); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Gumbo Barcode",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Gumbo restaurant-operations tool (inventory barcode labeling); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Jambalaya Appointment",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Jambalaya restaurant-operations tool (tasting/reservation management); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Shawarma Feedback",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Shawarma restaurant-operations tool (customer feedback collection); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Naan Invoice",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Naan restaurant-operations tool (quote-to-invoice billing); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Arepa Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Arepa restaurant-operations tool (standing-order/subscription renewal); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Pierogi Quote",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Pierogi restaurant-operations tool (catering quote generation); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Tzatziki Deposit",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained on fresh review: reads as a Tzatziki restaurant-operations tool (catering deposit tracking - a genuine restaurant operation); no trademark, clarity, or duplication defect found."
+ },
+ {
+  "title": "Schedule Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Schedule' + 'Syllables' reads as an 'Schedule' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Rack Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Rack' + 'Rhymes' reads as an 'Rack' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Permit Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Permit' + 'Synonyms' reads as an 'Permit' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Waitlist Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Waitlist' + 'Antonyms' reads as an 'Waitlist' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Formulary Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Formulary' + 'Sentences' reads as an 'Formulary' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Crew Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Crew' + 'Translations' reads as an 'Crew' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Maintenance Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Maintenance' + 'Anagrams' reads as an 'Maintenance' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Assignment Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Assignment' + 'Orthography' reads as an 'Assignment' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Case Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Case' + 'Syllables' reads as an 'Case' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Hire Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Hire' + 'Rhymes' reads as an 'Hire' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Expo Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Expo' + 'Synonyms' reads as an 'Expo' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Roadtest Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Roadtest' + 'Antonyms' reads as an 'Roadtest' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Freezer Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Freezer' + 'Sentences' reads as an 'Freezer' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Puppy Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Puppy' + 'Translations' reads as an 'Puppy' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Dumbbell Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Dumbbell' + 'Anagrams' reads as an 'Dumbbell' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Preschool Chords",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Preschool' + 'Chords' reads as an 'Preschool' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Mower Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Mower' + 'Orthography' reads as an 'Mower' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Diversity Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Diversity' + 'Syllables' reads as an 'Diversity' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Signage Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Signage' + 'Rhymes' reads as an 'Signage' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Wiper Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Wiper' + 'Synonyms' reads as an 'Wiper' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Takeout Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Takeout' + 'Antonyms' reads as an 'Takeout' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Adoption Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Adoption' + 'Sentences' reads as an 'Adoption' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Plaque Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Plaque' + 'Translations' reads as an 'Plaque' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Allergy Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Allergy' + 'Anagrams' reads as an 'Allergy' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Mirror Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Mirror' + 'Orthography' reads as an 'Mirror' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Attic Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Attic' + 'Syllables' reads as an 'Attic' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Yacht Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Yacht' + 'Rhymes' reads as an 'Yacht' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Intubation Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Intubation' + 'Synonyms' reads as an 'Intubation' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Insured Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Insured' + 'Antonyms' reads as an 'Insured' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Notebook Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Notebook' + 'Sentences' reads as an 'Notebook' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ },
+ {
+  "title": "Balloons Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained on fresh review: 'Balloons' + 'Translations' reads as an 'Balloons' term-lookup/reference content tool; query-clause pairing is the deliberate approved line, and no trademark, non-music Chords/Lyrics defect, or duplication was found."
+ }
+]

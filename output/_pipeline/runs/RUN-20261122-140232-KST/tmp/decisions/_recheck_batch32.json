@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Speaker Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: speaker is a generic common noun; standard word-query combo, no trademark or pairing defect"
+ },
+ {
+  "title": "Emission Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: emission generic anchor, word-query reading intact"
+ },
+ {
+  "title": "Chef Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: chef generic anchor, word-query reading intact"
+ },
+ {
+  "title": "Toothache Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: toothache generic anchor, word-query reading intact"
+ },
+ {
+  "title": "Walker Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: walker generic noun/name anchor, no famous mark"
+ },
+ {
+  "title": "Gravel Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: gravel generic anchor, word-query reading intact"
+ },
+ {
+  "title": "Dust Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: dust generic anchor, rhymes query reading intact"
+ },
+ {
+  "title": "Consultation Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: consultation generic anchor, synonyms query intact"
+ },
+ {
+  "title": "Supplement Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: supplement generic anchor, antonyms query intact"
+ },
+ {
+  "title": "Damper Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: damper generic anchor, sentences query intact"
+ },
+ {
+  "title": "Pinning Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: pinning gerund anchor, translations query intact"
+ },
+ {
+  "title": "Relocation Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: relocation generic anchor, anagrams query intact"
+ },
+ {
+  "title": "Playlist Lyrics",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: playlist is a native music-context anchor for lyrics queries"
+ },
+ {
+  "title": "Lease Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: lease generic anchor, orthography query intact"
+ },
+ {
+  "title": "Appraisal Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: appraisal generic anchor, syllables query intact"
+ },
+ {
+  "title": "Graduation Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: graduation generic anchor, rhymes query intact"
+ },
+ {
+  "title": "Parade Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: parade generic anchor, synonyms query intact"
+ },
+ {
+  "title": "Noodle Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: noodle generic word, antonyms-as-word-query reading dominant"
+ },
+ {
+  "title": "Ferret Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: ferret generic anchor, sentences query intact"
+ },
+ {
+  "title": "Bite Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: bite generic anchor, translations query intact"
+ },
+ {
+  "title": "Mold Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: mold generic anchor, anagrams query intact"
+ },
+ {
+  "title": "Rhythm Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhythm music-context anchor, orthography word-query intact"
+ },
+ {
+  "title": "Acai Timetable",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Timetable is an approved business-operations function word; acai prep/ordering timetable reading holds"
+ },
+ {
+  "title": "Bruschetta Gift",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: food-gift reading (bruschetta gift basket/kit) is readable business ops"
+ },
+ {
+  "title": "Tabbouleh App",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe-app reading for Tabbouleh App is readable, App not on dead list"
+ },
+ {
+  "title": "Guacamole Quantity",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: portion-quantity reading (Usage/Capacity family) holds for guacamole"
+ },
+ {
+  "title": "Empanada Analysis",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Analysis is an approved ops function word; recipe/cost analysis reading holds"
+ },
+ {
+  "title": "Bratwurst Habit",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Habit is a dead-pattern fragment on food anchors (batch 28 Pierogi/Arepa Habit flipped); Bratwurst Habit is unreadable as any product"
+ },
+ {
+  "title": "Escargot Ideas",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe-ideas reading matches the approved Suggestion family"
+ },
+ {
+  "title": "Gyro Names",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Names is a vague fragment on food anchors (batch 28 Tzatziki/Goulash Names flipped); Gyro Names has no readable meaning"
+ },
+ {
+  "title": "Quinoa Date",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Date is a dead scheduling-fragment function word on food anchors; Quinoa Date reads as a calendar fragment, not a product"
+ },
+ {
+  "title": "Mochi Steps",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe-steps reading (Tutorial/Guide family) holds"
+ },
+ {
+  "title": "Satay Alternatives",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: alternatives reading (Suggestion family) is readable for satay"
+ },
+ {
+  "title": "Moussaka Courses",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: meal-courses reading is native to the food domain"
+ },
+ {
+  "title": "Borscht Examples",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe-examples reading (Suggestion family) is borderline but readable"
+ },
+ {
+  "title": "Gumbo Repairs",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Repairs is a dead fragment family on food anchors; Gumbo Repairs is unreadable"
+ },
+ {
+  "title": "Jambalaya Sitting",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Sitting is an established dead fragment on food anchors; Jambalaya Sitting is unreadable"
+ },
+ {
+  "title": "Naan Visits",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Visits is a dead clinical-fragment family on food anchors (batch 28); Naan Visits is unreadable"
+ },
+ {
+  "title": "Arepa Checkups",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Checkups is a clinical-fragment pairing (Visits family defect) on a food anchor; Arepa Checkups reads as a health-clinic fragment, not a product"
+ },
+ {
+  "title": "Pierogi Refills",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Refills is an approved ops function word (prescription/refill reading established)"
+ },
+ {
+  "title": "Goulash Appointments",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Appointments is an approved ops function word (reservation reading)"
+ },
+ {
+  "title": "Tzatziki Screenings",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Screenings reads as a clinical/film-screening fragment on a food anchor; Tzatziki Screenings is unreadable as a product"
+ },
+ {
+  "title": "Proof Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: proof generic anchor, syllables query intact"
+ },
+ {
+  "title": "Invitation Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: invitation generic anchor, rhymes query intact"
+ },
+ {
+  "title": "Eviction Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: eviction generic anchor, synonyms query intact"
+ },
+ {
+  "title": "Algae Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: algae generic anchor, antonyms query intact"
+ },
+ {
+  "title": "Upholstery Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: upholstery generic anchor, sentences query intact"
+ },
+ {
+  "title": "Sink Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sink generic anchor, translations query intact"
+ },
+ {
+  "title": "Vocal Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: vocal generic anchor, anagrams query intact"
+ },
+ {
+  "title": "Password Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: password generic anchor, syllables query intact"
+ },
+ {
+  "title": "Cloud Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: cloud generic-word dominance (sky/cloud reading), no mark collision"
+ },
+ {
+  "title": "Inquiry Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: inquiry generic anchor, synonyms query intact"
+ },
+ {
+  "title": "Resume Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: resume generic word-query anchor, antonyms query intact"
+ },
+ {
+  "title": "Speaker Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: speaker generic anchor, sentences query intact"
+ },
+ {
+  "title": "Emission Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: emission generic anchor, translations query intact"
+ },
+ {
+  "title": "Kennel Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: kennel generic anchor, anagrams query intact"
+ },
+ {
+  "title": "Toddler Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: toddler generic anchor, orthography query intact"
+ },
+ {
+  "title": "Daycare Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: daycare generic anchor, syllables query intact"
+ },
+ {
+  "title": "Gravel Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: gravel generic anchor, rhymes query intact"
+ },
+ {
+  "title": "Dust Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: dust generic anchor, synonyms query intact"
+ },
+ {
+  "title": "Consultation Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: consultation generic anchor, antonyms query intact"
+ },
+ {
+  "title": "Supplement Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: supplement generic anchor, sentences query intact"
+ },
+ {
+  "title": "Damper Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: damper generic anchor, translations query intact"
+ },
+ {
+  "title": "Pinning Conjugations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: pinning is a gerund anchor supporting the verb-usage conjugation reading"
+ },
+ {
+  "title": "Simultaneous Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: simultaneous generic anchor, anagrams query intact"
+ },
+ {
+  "title": "Highlight Lyrics",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: highlight-lyrics reading is grounded (time-synced/highlighted lyric feature category), anchor generic"
+ },
+ {
+  "title": "Playlist Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: playlist music-context anchor, orthography word-query intact"
+ },
+ {
+  "title": "Acquittal Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: acquittal generic anchor, syllables query intact"
+ },
+ {
+  "title": "Appraisal Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: appraisal generic anchor, rhymes query intact"
+ },
+ {
+  "title": "Graduation Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: graduation generic anchor, synonyms query intact"
+ },
+ {
+  "title": "Parade Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: parade generic anchor, antonyms query intact"
+ },
+ {
+  "title": "Noodle Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: noodle generic word-query anchor, sentences query intact"
+ },
+ {
+  "title": "Ferret Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: ferret generic anchor, translations query intact"
+ },
+ {
+  "title": "Barbell Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: barbell generic anchor, anagrams query intact"
+ },
+ {
+  "title": "Skyline Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: city-skyline generic reading dominates over the Nissan model name in an orthography word-query"
+ },
+ {
+  "title": "Acai Opinion",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Opinion duplicates Review (batch 28 Empanada Opinion flipped as Review dup); Acai Opinion is the same synonym-twin"
+ },
+ {
+  "title": "Prosciutto Flyer",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Flyer is an approved ops function word (promo flyer reading)"
+ },
+ {
+  "title": "Tabbouleh Tips",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Tips is an approved ops function word"
+ },
+ {
+  "title": "Edamame Workbook",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Workbook is a dead-pattern fragment on food anchors (batch 25 Tzatziki Workbook flipped); Edamame Workbook is unreadable"
+ },
+ {
+  "title": "Ceviche Spec",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Spec is tech-jargon fragment on a food anchor (Model/Widget dead family); Ceviche Spec is unreadable as any product"
+ },
+ {
+  "title": "Empanada Coach",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Coach is an approved ops function word (cooking-coach reading)"
+ },
+ {
+  "title": "Bratwurst Help",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Help duplicates Tips/Guide/Coach (batch 28 Goulash/Pierogi/Arepa/Naan Help flipped); Bratwurst Help is the same synonym-twin"
+ },
+ {
+  "title": "Escargot Basics",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: basics-guide reading (Tutorial family) is readable for escargot"
+ },
+ {
+  "title": "Gyro Questions",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: FAQ reading (Questionnaire family) is readable for gyro"
+ },
+ {
+  "title": "Quinoa Steps",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe-steps reading holds"
+ },
+ {
+  "title": "Mochi Alternatives",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: alternatives reading (Suggestion family) holds"
+ },
+ {
+  "title": "Satay Courses",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: meal-courses reading native to food domain"
+ },
+ {
+  "title": "Moussaka Examples",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe-examples reading borderline but readable"
+ },
+ {
+  "title": "Borscht Repairs",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Repairs dead fragment family on food anchor; Borscht Repairs unreadable"
+ },
+ {
+  "title": "Gumbo Sitting",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Sitting dead fragment; Gumbo Sitting unreadable"
+ },
+ {
+  "title": "Shawarma Visits",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Visits dead clinical fragment (batch 28 Shawarma Login/Visits family); Shawarma Visits unreadable"
+ },
+ {
+  "title": "Naan Checkups",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Checkups clinical fragment on food anchor; Naan Checkups unreadable"
+ },
+ {
+  "title": "Arepa Refills",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Refills approved ops function word"
+ },
+ {
+  "title": "Pierogi Appointments",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Appointments approved ops function word"
+ },
+ {
+  "title": "Goulash Screenings",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Screenings clinical/film fragment on food anchor; Goulash Screenings unreadable"
+ },
+ {
+  "title": "Tzatziki Walkthroughs",
+  "approve": false,
+  "confidence": 0.72,
+  "reason": "flip: Walkthroughs duplicates the approved Tutorial/Guide family (synonym-twin on food anchor); Tzatziki Walkthroughs adds nothing beyond Tips/Tutorial"
+ },
+ {
+  "title": "Unpacking Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: unpacking gerund anchor, syllables query intact"
+ },
+ {
+  "title": "Proof Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: proof generic anchor, rhymes query intact"
+ },
+ {
+  "title": "Invitation Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: invitation generic anchor, synonyms query intact"
+ },
+ {
+  "title": "Eviction Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: eviction generic anchor, antonyms query intact"
+ },
+ {
+  "title": "Algae Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: algae generic anchor, sentences query intact"
+ },
+ {
+  "title": "Upholstery Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: upholstery generic anchor, translations query intact"
+ },
+ {
+  "title": "Trip Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: trip generic anchor, anagrams query intact"
+ },
+ {
+  "title": "Vocal Chords",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: vocal chords is a standard music reading (chords for vocals), no defect"
+ },
+ {
+  "title": "Fern Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: fern generic anchor, orthography query intact"
+ },
+ {
+  "title": "Router Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: router generic anchor, syllables word-query intact"
+ },
+ {
+  "title": "Password Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: password generic anchor, rhymes query intact"
+ },
+ {
+  "title": "Cloud Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: cloud generic anchor, synonyms word-query intact"
+ },
+ {
+  "title": "Inquiry Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: inquiry generic anchor, antonyms query intact"
+ },
+ {
+  "title": "Resume Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: resume generic word-query anchor, sentences query intact"
+ },
+ {
+  "title": "Speaker Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: speaker generic anchor, translations query intact"
+ },
+ {
+  "title": "Chef Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: chef generic anchor, anagrams query intact"
+ },
+ {
+  "title": "Treadmill Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: treadmill generic anchor, orthography query intact"
+ },
+ {
+  "title": "Squat Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: squat generic verb/noun anchor, syllables query intact"
+ },
+ {
+  "title": "Daycare Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: daycare generic anchor, rhymes query intact"
+ },
+ {
+  "title": "Gravel Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: gravel generic anchor, synonyms query intact"
+ },
+ {
+  "title": "Dust Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: dust generic anchor, antonyms query intact"
+ },
+ {
+  "title": "Consultation Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: consultation generic anchor, sentences query intact"
+ },
+ {
+  "title": "Supplement Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: supplement generic anchor, translations query intact"
+ },
+ {
+  "title": "Pinning Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: pinning gerund anchor, anagrams query intact"
+ },
+ {
+  "title": "Highlight Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: highlight generic anchor, orthography query intact"
+ },
+ {
+  "title": "Sleep Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sleep generic anchor, syllables query intact"
+ },
+ {
+  "title": "Acquittal Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: acquittal generic anchor, rhymes query intact"
+ },
+ {
+  "title": "Appraisal Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: appraisal generic anchor, synonyms query intact"
+ },
+ {
+  "title": "Graduation Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: graduation generic anchor, antonyms query intact"
+ },
+ {
+  "title": "Parade Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: parade generic anchor, sentences query intact"
+ },
+ {
+  "title": "Noodle Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: noodle generic word-query anchor, translations query intact"
+ },
+ {
+  "title": "Bite Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: bite generic anchor, anagrams query intact"
+ },
+ {
+  "title": "Rent Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rent generic anchor, orthography query intact"
+ },
+ {
+  "title": "Acai Gift",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: food-gift reading (acai gift box/kit) readable"
+ },
+ {
+  "title": "Bruschetta Tournament",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: cooking-tournament/event reading is a real category for bruschetta"
+ },
+ {
+  "title": "Prosciutto App",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe-app reading holds; App not on dead list"
+ },
+ {
+  "title": "Tabbouleh Advice",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Advice duplicates Tips (batch 28 Tzatziki/Goulash Advice flipped); Tabbouleh Advice is the same synonym-twin"
+ },
+ {
+  "title": "Ceviche Quantity",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: portion-quantity reading (Usage/Capacity family) holds"
+ },
+ {
+  "title": "Guacamole Analysis",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Analysis approved ops function word"
+ },
+ {
+  "title": "Bratwurst Ideas",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe-ideas reading (Suggestion family) holds"
+ },
+ {
+  "title": "Escargot Names",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Names vague fragment on food anchors (batch 28); Escargot Names unreadable"
+ },
+ {
+  "title": "Quinoa Alternatives",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: alternatives reading holds"
+ },
+ {
+  "title": "Mochi Courses",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: meal-courses reading native to food domain"
+ },
+ {
+  "title": "Satay Examples",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe-examples reading borderline but readable"
+ },
+ {
+  "title": "Jambalaya Visits",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Visits dead clinical fragment; Jambalaya Visits unreadable"
+ },
+ {
+  "title": "Shawarma Checkups",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Checkups clinical fragment on food anchor; Shawarma Checkups unreadable"
+ },
+ {
+  "title": "Naan Refills",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Refills approved ops function word"
+ },
+ {
+  "title": "Arepa Appointments",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Appointments approved ops function word"
+ },
+ {
+  "title": "Pierogi Screenings",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Screenings clinical/film fragment on food anchor; Pierogi Screenings unreadable"
+ },
+ {
+  "title": "Goulash Walkthroughs",
+  "approve": false,
+  "confidence": 0.72,
+  "reason": "flip: Walkthroughs duplicates Tutorial/Guide family (synonym-twin); Goulash Walkthroughs redundant"
+ },
+ {
+  "title": "Tzatziki Designs",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Designs is an unreadable design-jargon fragment on a food anchor (Schematic/Rendering dead family); Tzatziki Designs has no readable product meaning"
+ },
+ {
+  "title": "Proofing Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: proofing gerund anchor, syllables query intact"
+ },
+ {
+  "title": "Unpacking Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: unpacking gerund anchor, rhymes query intact"
+ },
+ {
+  "title": "Proof Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: proof generic anchor, synonyms query intact"
+ },
+ {
+  "title": "Invitation Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: invitation generic anchor, antonyms query intact"
+ },
+ {
+  "title": "Eviction Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: eviction generic anchor, sentences query intact"
+ },
+ {
+  "title": "Algae Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: algae generic anchor, translations query intact"
+ },
+ {
+  "title": "Sink Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sink generic anchor, anagrams query intact"
+ },
+ {
+  "title": "Vocal Lyrics",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: vocal music-context anchor, lyrics query intact"
+ },
+ {
+  "title": "Embroidery Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: embroidery generic anchor, orthography query intact"
+ },
+ {
+  "title": "Carpool Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: carpool generic anchor, syllables query intact"
+ },
+ {
+  "title": "Router Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: router generic anchor, rhymes query intact"
+ },
+ {
+  "title": "Password Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: password generic anchor, synonyms query intact"
+ },
+ {
+  "title": "Cloud Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: cloud generic anchor, antonyms query intact"
+ },
+ {
+  "title": "Inquiry Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: inquiry generic anchor, sentences query intact"
+ },
+ {
+  "title": "Resume Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: resume generic word-query anchor, translations query intact"
+ },
+ {
+  "title": "Emission Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: emission generic anchor, anagrams query intact"
+ },
+ {
+  "title": "Toothache Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: toothache generic anchor, orthography query intact"
+ },
+ {
+  "title": "Extraction Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: extraction generic anchor, syllables query intact"
+ },
+ {
+  "title": "Squat Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: squat generic anchor, rhymes query intact"
+ },
+ {
+  "title": "Daycare Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: daycare generic anchor, synonyms query intact"
+ },
+ {
+  "title": "Gravel Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: gravel generic anchor, antonyms query intact"
+ },
+ {
+  "title": "Dust Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: dust generic anchor, sentences query intact"
+ },
+ {
+  "title": "Consultation Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: consultation generic anchor, translations query intact"
+ },
+ {
+  "title": "Damper Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: damper generic anchor, anagrams query intact"
+ },
+ {
+  "title": "Relocation Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: relocation generic anchor, orthography query intact"
+ },
+ {
+  "title": "Leatherworking Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: leatherworking generic anchor, syllables query intact"
+ },
+ {
+  "title": "Sleep Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sleep generic anchor, rhymes query intact"
+ },
+ {
+  "title": "Acquittal Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: acquittal generic anchor, synonyms query intact"
+ },
+ {
+  "title": "Appraisal Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: appraisal generic anchor, antonyms query intact"
+ },
+ {
+  "title": "Graduation Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: graduation generic anchor, sentences query intact"
+ },
+ {
+  "title": "Parade Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: parade generic anchor, translations query intact"
+ },
+ {
+  "title": "Ferret Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: ferret generic anchor, anagrams query intact"
+ },
+ {
+  "title": "Mold Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: mold generic anchor, orthography query intact"
+ },
+ {
+  "title": "Acai Retreat",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Retreat is an established dead-pattern function word; Acai Retreat reads as an unmoored spa/retreat fragment, no food-product meaning"
+ },
+ {
+  "title": "Bruschetta Flyer",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Flyer approved ops function word (promo flyer)"
+ },
+ {
+  "title": "Prosciutto Tips",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Tips approved ops function word"
+ },
+ {
+  "title": "Tabbouleh Workbook",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Workbook dead-pattern fragment on food anchors (batch 25 Tzatziki Workbook flipped); Tabbouleh Workbook unreadable"
+ },
+ {
+  "title": "Edamame Spec",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Spec tech-jargon fragment on food anchor (Model/Widget dead family); Edamame Spec unreadable"
+ },
+ {
+  "title": "Ceviche Login",
+  "approve": false,
+  "confidence": 0.78,
+  "reason": "flip: Login is a dead SaaS fragment on food anchors (batch 28 Shawarma/Jambalaya/Gumbo/Borscht Login flipped); Ceviche Login is the same dead family"
+ },
+ {
+  "title": "Guacamole Coach",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Coach approved ops function word"
+ },
+ {
+  "title": "Empanada Help",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Help duplicates Tips/Guide/Coach (batch 28 family); Empanada Help is the same synonym-twin"
+ },
+ {
+  "title": "Bratwurst Basics",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: basics-guide reading (Tutorial family) readable for bratwurst"
+ },
+ {
+  "title": "Escargot Questions",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: FAQ reading (Questionnaire family) readable for escargot"
+ },
+ {
+  "title": "Gyro Steps",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe-steps reading holds"
+ },
+ {
+  "title": "Quinoa Courses",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: meal-courses reading native to food domain"
+ },
+ {
+  "title": "Mochi Examples",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: recipe-examples reading borderline but readable"
+ },
+ {
+  "title": "Gumbo Visits",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: Visits dead clinical fragment; Gumbo Visits unreadable"
+ },
+ {
+  "title": "Jambalaya Checkups",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Checkups clinical fragment on food anchor; Jambalaya Checkups unreadable"
+ },
+ {
+  "title": "Shawarma Refills",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Refills approved ops function word"
+ },
+ {
+  "title": "Naan Appointments",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Appointments approved ops function word"
+ },
+ {
+  "title": "Arepa Screenings",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Screenings clinical/film fragment on food anchor; Arepa Screenings unreadable"
+ },
+ {
+  "title": "Pierogi Walkthroughs",
+  "approve": false,
+  "confidence": 0.72,
+  "reason": "flip: Walkthroughs duplicates Tutorial/Guide family (synonym-twin); Pierogi Walkthroughs redundant"
+ },
+ {
+  "title": "Goulash Designs",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: Designs unreadable design-jargon fragment on food anchor (Schematic/Rendering dead family); Goulash Designs meaningless"
+ }
+]

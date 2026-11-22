@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Fixture Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flip: conjugations is a grammar-query word; fixture is a noun-only plumbing/lighting hardware term with no verb sense or grammar context - same defect as flipped Crew/Waitlist Conjugations"
+ },
+ {
+  "title": "Excursion Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anagram query clause on a generic travel anchor; no trademark, no dead-fragment defect"
+ },
+ {
+  "title": "Woodworking Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: lyrics is a music query word; woodworking has no music or educational-song reading, unlike defended Science/Feedback Lyrics"
+ },
+ {
+  "title": "Bloom Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: orthography/spelling query clause; bloom is a generic plant term with no dominant trademark"
+ },
+ {
+  "title": "Framing Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllables query clause; framing is generic construction/verb term, pairing readable"
+ },
+ {
+  "title": "Practicum Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query clause on education anchor, pairing readable as rhyme lookup for practicum-related words"
+ },
+ {
+  "title": "Utility Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: synonyms query clause; utility generic (public utilities reading), no trademark dominance"
+ },
+ {
+  "title": "Print Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonyms query clause; print has a strong verb sense and media-publishing context"
+ },
+ {
+  "title": "Transfer Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: sentences query clause; transfer is a common verb noun word, support-ticket transfer reading coherent"
+ },
+ {
+  "title": "Career Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translations query clause; career generic anchor, no defect found"
+ },
+ {
+  "title": "Battery Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: anagrams query clause on generic battery anchor; no watchlist mark, no fragment defect"
+ },
+ {
+  "title": "Retainer Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: orthography query clause; retainer is a concrete dental/legal object, spelling lookup readable"
+ },
+ {
+  "title": "Beat Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: syllables query clause with music-industry anchor; beat is musical, pairing grounded"
+ },
+ {
+  "title": "Antiques Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: rhymes query clause on antiques; generic anchor, no defect"
+ },
+ {
+  "title": "Immunity Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: synonyms query clause; immunity generic healthcare term, no mark or fragment issue"
+ },
+ {
+  "title": "Tort Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonyms query clause; tort is a concrete legal term, pairing readable"
+ },
+ {
+  "title": "Reinstatement Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: sentences query clause; reinstatement concrete insurance term, no defect"
+ },
+ {
+  "title": "Alphabet Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: translations query clause; alphabet education anchor, pairing coherent"
+ },
+ {
+  "title": "Costume Conjugations",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: costume has an attested verb sense (to costume a production), matching the sustained verb-anchor Conjugations line"
+ },
+ {
+  "title": "Sitter Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: chords is a music query word; sitter (pet/babysitting) has no music context - matches flipped non-music Chords family (Notebook/Schedule Chords)"
+ },
+ {
+  "title": "Acai Capacity",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: capacity is a concrete food-operations word (kitchen capacity planning), on the established sustained ops list"
+ },
+ {
+  "title": "Bruschetta Condition",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: condition is a vague status fragment on a food anchor with no concrete restaurant operation - batch-established Condition flip family (Empanada/Guacamole Condition)"
+ },
+ {
+  "title": "Prosciutto Episode",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: episode is a media/content fragment with no prosciutto-specific operation; established Episode flip family on food anchors"
+ },
+ {
+  "title": "Edamame Reception",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: reception is a vague fragment on a food anchor; matches batch-established Reception flips (Gyro/Escargot Reception)"
+ },
+ {
+  "title": "Ceviche Approval",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: approval is a concrete food-operations workflow word (order/request approvals), on the sustained ops list"
+ },
+ {
+  "title": "Guacamole Evaluation",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: evaluation is a concrete ops word (menu/quality evaluation) on the sustained ops list; guacamole in kitchen context, no software trademark"
+ },
+ {
+  "title": "Empanada Utilization",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "flip: utilization is a synonym-family duplicate of sustained Usage/Capacity pairings - same basis as flipped Load duplicates (Load dup Capacity/Usage)"
+ },
+ {
+  "title": "Bratwurst Requirement",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "flip: requirement is abstract spec jargon with no concrete restaurant operation; vague SaaS-fragment defect on a food anchor"
+ },
+ {
+  "title": "Mochi Handbook",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: handbook is a concrete training/staff document on the sustained ops list"
+ },
+ {
+  "title": "Satay Timetable",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: timetable is a concrete scheduling word on the sustained ops list"
+ },
+ {
+  "title": "Moussaka Opinion",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: readable as customer opinion/review content, akin to sustained Feedback/Rating/Review food pairings; weak but not meaningless"
+ },
+ {
+  "title": "Borscht Gift",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: food gifting/gift-card operations reading is genuine restaurant practice"
+ },
+ {
+  "title": "Gumbo Retreat",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: retreat is an enumerated dead-pattern fragment on food anchors"
+ },
+ {
+  "title": "Jambalaya Tournament",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: cooking-competition/cook-off reading is genuine for dish-specific events"
+ },
+ {
+  "title": "Shawarma Flyer",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: flyer is a concrete marketing word on the sustained ops list"
+ },
+ {
+  "title": "Naan App",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: restaurant ordering/loyalty apps are a real category; no software trademark on naan"
+ },
+ {
+  "title": "Arepa Tips",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: tips is a concrete ops word (staff tips, customer tips) on the sustained list"
+ },
+ {
+  "title": "Pierogi Advice",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: advice is the established Tips/Advice pair family, sustained for food anchors; different anchor from Arepa Tips so no same-anchor duplication"
+ },
+ {
+  "title": "Goulash Workbook",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: workbook is a concrete staff-training document, sibling of sustained Handbook"
+ },
+ {
+  "title": "Pledge Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: syllables query clause; pledge generic nonprofit term, pairing readable"
+ },
+ {
+  "title": "Hearing Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: rhymes query clause; hearing generic government term, no defect"
+ },
+ {
+  "title": "Creative Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: synonyms query clause; creative generic marketing term, no mark dominance"
+ },
+ {
+  "title": "Archive Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: antonyms query clause; archive generic media term, no defect"
+ },
+ {
+  "title": "Driver Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: sentences query clause; driver generic anchor with verb sense, no defect"
+ },
+ {
+  "title": "Roaming Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: translations query clause; roaming telecom/verb anchor, no defect"
+ },
+ {
+  "title": "Pipeline Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: anagrams query clause; pipeline generic tech term, no watchlist mark"
+ },
+ {
+  "title": "Agenda Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: orthography query clause; agenda generic events term, pairing readable"
+ },
+ {
+  "title": "Multilingual Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: syllables query clause; multilingual is the translation-industry anchor itself, pairing coherent"
+ },
+ {
+  "title": "Warehouse Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: rhymes query clause; warehouse generic logistics term, no defect"
+ },
+ {
+  "title": "Bouquet Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: antonyms query clause; bouquet generic wedding term, no defect"
+ },
+ {
+  "title": "Repair Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: sentences query clause; repair has verb sense, property-maintenance context readable"
+ },
+ {
+  "title": "Saltwater Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: translations query clause; saltwater generic pool-maintenance term, no defect"
+ },
+ {
+  "title": "Fixture Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: anagrams query clause; fixture generic noun works fine as anagram source, no grammar requirement for anagram queries"
+ },
+ {
+  "title": "Organ Lyrics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: organ is a musical instrument and the anchor is music_lessons; lyrics reading stays grounded (hymn/organ-accompanied singing)"
+ },
+ {
+  "title": "Woodworking Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: orthography query clause; woodworking generic craft anchor, spelling lookup readable"
+ },
+ {
+  "title": "Attrition Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: syllables query clause; attrition generic HR term, no defect"
+ },
+ {
+  "title": "Framing Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: rhymes query clause; framing generic term with verb sense, no defect"
+ },
+ {
+  "title": "Practicum Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: synonyms query clause on education anchor; no defect"
+ },
+ {
+  "title": "Utility Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: antonyms query clause; utility generic, no mark dominance"
+ },
+ {
+  "title": "Print Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: sentences query clause; print media-publishing anchor, readable"
+ },
+ {
+  "title": "Transfer Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: translations query clause; transfer customer-support anchor, readable"
+ },
+ {
+  "title": "Leash Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: orthography query clause; leash concrete veterinary object, spelling lookup readable"
+ },
+ {
+  "title": "Backpacker Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: syllables query clause; backpacker generic travel anchor, no defect"
+ },
+ {
+  "title": "Beat Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rhymes query clause with music anchor; beat is musical, pairing grounded"
+ },
+ {
+  "title": "Antiques Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: synonyms query clause; antiques generic, no defect"
+ },
+ {
+  "title": "Immunity Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: antonyms query clause; immunity generic healthcare term, no defect"
+ },
+ {
+  "title": "Tort Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: sentences query clause; tort concrete legal term, readable"
+ },
+ {
+  "title": "Reinstatement Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: translations query clause; reinstatement concrete insurance term, no defect"
+ },
+ {
+  "title": "Alphabet Conjugations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: conjugations query clause with grammar-domain anchor (alphabet); language-learning reading coherent"
+ },
+ {
+  "title": "Costume Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: anagrams query clause; costume generic events noun, no defect"
+ },
+ {
+  "title": "Orthodontist Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: orthography query clause; orthodontist concrete dental anchor, spelling lookup readable"
+ },
+ {
+  "title": "Acai Usage",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: usage is a concrete food-operations word (portion/ingredient usage) on the sustained ops list"
+ },
+ {
+  "title": "Prosciutto Cycle",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "flip: cycle is an abstract process fragment with no concrete prosciutto-specific operation; the cycle-menu reading is strained at single-dish level"
+ },
+ {
+  "title": "Edamame Followup",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: followup is a concrete ops word (order/ticket followups) on the sustained ops list"
+ },
+ {
+  "title": "Guacamole Questionnaire",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: questionnaire is a concrete feedback document on the sustained ops list; guacamole in kitchen context, no software trademark"
+ },
+ {
+  "title": "Empanada Benefit",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: benefit has a grounded reading (health/nutrition benefit content or restaurant staff-benefits administration)"
+ },
+ {
+  "title": "Bratwurst Depreciation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: depreciation is an HR/accounting fragment on a food anchor - batch-established Depreciation flip family (Naan/Shawarma/Jambalaya/Gumbo Depreciation)"
+ },
+ {
+  "title": "Escargot Hazard",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: hazard is a concrete food-safety operations word (HACCP hazard analysis) on the sustained ops list"
+ },
+ {
+  "title": "Quinoa Handbook",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: handbook concrete training document on sustained ops list"
+ },
+ {
+  "title": "Mochi Timetable",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: timetable concrete scheduling word on sustained ops list"
+ },
+ {
+  "title": "Satay Opinion",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: customer opinion/review content reading akin to sustained Feedback/Rating/Review pairings"
+ },
+ {
+  "title": "Moussaka Gift",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: food gifting/gift-card operations reading is genuine"
+ },
+ {
+  "title": "Gumbo Tournament",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: cooking-competition/cook-off reading is genuine"
+ },
+ {
+  "title": "Jambalaya Flyer",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: flyer concrete marketing word on sustained ops list"
+ },
+ {
+  "title": "Shawarma App",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: restaurant ordering/loyalty app category is real; no software trademark on shawarma"
+ },
+ {
+  "title": "Naan Tips",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: tips concrete ops word on sustained list"
+ },
+ {
+  "title": "Arepa Advice",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: advice in established Tips/Advice pair family, sustained for food anchors"
+ },
+ {
+  "title": "Pierogi Workbook",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: workbook concrete staff-training document, sibling of sustained Handbook"
+ },
+ {
+  "title": "Goulash Mode",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: mode is an enumerated dead-pattern fragment on food anchors"
+ },
+ {
+  "title": "Tzatziki Spec",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: recipe spec sheets are genuine restaurant-industry shorthand; no software trademark on tzatziki"
+ },
+ {
+  "title": "Pledge Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: rhymes query clause; pledge generic nonprofit anchor, no defect"
+ },
+ {
+  "title": "Hearing Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: synonyms query clause; hearing generic government anchor, no defect"
+ },
+ {
+  "title": "Creative Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: antonyms query clause; creative generic marketing anchor, no defect"
+ },
+ {
+  "title": "Archive Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: sentences query clause; archive generic media anchor, no defect"
+ },
+ {
+  "title": "Driver Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: translations query clause; driver generic anchor with verb sense, no defect"
+ },
+ {
+  "title": "Roaming Conjugations",
+  "approve": true,
+  "confidence": 0.5,
+  "reason": "sustained: roaming is a verb-derived gerund; the conjugate-to-roam language-content reading matches the sustained verb-anchor Conjugations line, though thin"
+ },
+ {
+  "title": "Reference Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: reference is a concrete recruiting object (job references); orthography is a spelling query clause, no defect"
+ },
+ {
+  "title": "Biometric Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: syllables query clause; biometric concrete security anchor, no defect"
+ },
+ {
+  "title": "Multilingual Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: rhymes query clause; multilingual translation-industry anchor, pairing coherent"
+ },
+ {
+  "title": "Warehouse Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: synonyms query clause; warehouse generic logistics anchor, no defect"
+ },
+ {
+  "title": "Bouquet Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: sentences query clause; bouquet generic wedding anchor, no defect"
+ },
+ {
+  "title": "Repair Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: translations query clause; repair verb-sense property anchor, no defect"
+ },
+ {
+  "title": "Interior Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: anagrams query clause; interior generic car-detailing anchor, no defect"
+ },
+ {
+  "title": "Organ Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: orthography query clause; organ is a concrete musical instrument, spelling lookup readable"
+ },
+ {
+  "title": "Fraud Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: syllables query clause; fraud concrete insurance anchor, no defect"
+ },
+ {
+  "title": "Attrition Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: rhymes query clause; attrition generic HR anchor, no defect"
+ },
+ {
+  "title": "Framing Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: synonyms query clause; framing generic construction anchor, no defect"
+ },
+ {
+  "title": "Practicum Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: antonyms query clause on education anchor; no defect"
+ },
+ {
+  "title": "Utility Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: sentences query clause; utility generic government anchor, no defect"
+ },
+ {
+  "title": "Print Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: translations query clause; print media-publishing anchor, readable"
+ },
+ {
+  "title": "Transfer Conjugations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: transfer has a strong verb sense, matching the sustained verb-anchor Conjugations line"
+ },
+ {
+  "title": "Career Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: anagrams query clause; career generic recruiting anchor, no defect"
+ },
+ {
+  "title": "Deli Orthography",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: orthography spelling query clause; deli is a generic food-retail term, no watchlist mark and no fragment defect"
+ },
+ {
+  "title": "Garage Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: syllables query clause; garage generic property anchor, no defect"
+ },
+ {
+  "title": "Backpacker Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: rhymes query clause; backpacker generic travel anchor, no defect"
+ },
+ {
+  "title": "Beat Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: synonyms query clause with music anchor; beat musical, pairing grounded"
+ },
+ {
+  "title": "Antiques Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: antonyms query clause; antiques generic anchor, no defect"
+ },
+ {
+  "title": "Immunity Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: sentences query clause; immunity generic healthcare anchor, no defect"
+ },
+ {
+  "title": "Tort Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: translations query clause; tort concrete legal anchor, readable"
+ },
+ {
+  "title": "Alphabet Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: anagrams query clause; alphabet education anchor, pairing coherent"
+ },
+ {
+  "title": "Sitter Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: orthography query clause; sitter concrete caregiving anchor, spelling lookup readable"
+ },
+ {
+  "title": "Acai Condition",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: condition is a vague status fragment on a food anchor with no concrete restaurant operation - batch-established Condition flip family"
+ },
+ {
+  "title": "Prosciutto Breakdown",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: breakdown has a genuine reading as nutrition/cost breakdown, a real food-content and menu-engineering category"
+ },
+ {
+  "title": "Tabbouleh Reception",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: reception is a vague fragment on a food anchor; matches batch-established Reception flips (Gyro/Escargot Reception)"
+ },
+ {
+  "title": "Edamame Approval",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: approval concrete food-ops workflow word on the sustained ops list"
+ },
+ {
+  "title": "Ceviche Evaluation",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: evaluation concrete ops word (menu/quality evaluation) on the sustained ops list"
+ },
+ {
+  "title": "Guacamole Utilization",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "flip: utilization duplicates the sustained Usage/Capacity family - same semantic-duplication basis as flipped Load duplicates; kitchen context means no trademark issue either way"
+ },
+ {
+  "title": "Empanada Requirement",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "flip: requirement is abstract spec jargon with no concrete restaurant operation on a food anchor"
+ },
+ {
+  "title": "Bratwurst Resignation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: resignation is an HR fragment on a food anchor - batch-established Resignation flip family (Arepa/Naan/Shawarma/Jambalaya Resignation)"
+ },
+ {
+  "title": "Gyro Tutorial",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: tutorial is on the sustained ops list; how-to/recipe tutorials for gyros are genuine content"
+ },
+ {
+  "title": "Quinoa Timetable",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: timetable concrete scheduling word on sustained ops list"
+ },
+ {
+  "title": "Mochi Opinion",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: customer opinion/review content reading akin to sustained Feedback/Rating/Review pairings"
+ },
+ {
+  "title": "Satay Gift",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: food gifting/gift-card operations reading is genuine"
+ },
+ {
+  "title": "Borscht Tournament",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: cooking-competition/cook-off reading is genuine"
+ },
+ {
+  "title": "Gumbo Flyer",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: flyer concrete marketing word on sustained ops list"
+ },
+ {
+  "title": "Jambalaya App",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: restaurant ordering/loyalty app category is real; no software trademark on jambalaya"
+ },
+ {
+  "title": "Shawarma Tips",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: tips concrete ops word on sustained list"
+ },
+ {
+  "title": "Naan Advice",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: advice in established Tips/Advice pair family, sustained for food anchors"
+ },
+ {
+  "title": "Arepa Workbook",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: workbook concrete staff-training document, sibling of sustained Handbook"
+ },
+ {
+  "title": "Pierogi Mode",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: mode is an enumerated dead-pattern fragment on food anchors"
+ },
+ {
+  "title": "Goulash Spec",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: recipe spec sheets are genuine restaurant-industry shorthand; no software trademark on goulash"
+ },
+ {
+  "title": "Tzatziki Quantity",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "flip: quantity is an abstract amount fragment with no concrete operation - sibling of the flipped Volume family on food anchors"
+ },
+ {
+  "title": "Soil Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: syllables query clause; soil concrete agriculture anchor, pairing readable"
+ },
+ {
+  "title": "Pledge Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: synonyms query clause; pledge generic nonprofit anchor, no defect"
+ },
+ {
+  "title": "Hearing Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: antonyms query clause; hearing generic government anchor, no defect"
+ },
+ {
+  "title": "Creative Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: sentences query clause; creative generic marketing anchor, no defect"
+ },
+ {
+  "title": "Archive Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: translations query clause; archive generic media anchor, no defect"
+ },
+ {
+  "title": "Roaming Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: anagrams query clause; roaming telecom/verb anchor, no defect"
+ },
+ {
+  "title": "Refund Orthography",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: orthography spelling query clause; refund is a concrete customer-support ops word, no fragment defect"
+ },
+ {
+  "title": "Condenser Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: syllables query clause; condenser concrete HVAC anchor, pairing readable"
+ },
+ {
+  "title": "Biometric Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: rhymes query clause; biometric concrete security anchor, no defect"
+ },
+ {
+  "title": "Multilingual Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: synonyms query clause; multilingual translation-industry anchor, pairing coherent"
+ },
+ {
+  "title": "Warehouse Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: antonyms query clause; warehouse generic logistics anchor, no defect"
+ },
+ {
+  "title": "Bouquet Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: translations query clause; bouquet generic wedding anchor, no defect"
+ },
+ {
+  "title": "Repair Conjugations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: conjugations query clause; repair has a strong verb sense, matching the sustained verb-anchor Conjugations line"
+ },
+ {
+  "title": "Saltwater Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: anagrams query clause; saltwater generic pool-maintenance anchor, no defect"
+ },
+ {
+  "title": "Excursion Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: orthography query clause; excursion generic travel anchor, no defect"
+ },
+ {
+  "title": "Easement Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: syllables query clause; easement concrete real-estate anchor, pairing readable"
+ },
+ {
+  "title": "Fraud Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: rhymes query clause; fraud concrete insurance anchor, no defect"
+ },
+ {
+  "title": "Attrition Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: synonyms query clause; attrition generic HR anchor, no defect"
+ },
+ {
+  "title": "Framing Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: antonyms query clause; framing generic construction anchor with verb sense, no defect"
+ },
+ {
+  "title": "Practicum Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: sentences query clause on education anchor; no defect"
+ },
+ {
+  "title": "Utility Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: translations query clause; utility generic government anchor, no defect"
+ },
+ {
+  "title": "Print Conjugations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: conjugations query clause; print has a strong verb sense, matching the sustained verb-anchor Conjugations line"
+ },
+ {
+  "title": "Transfer Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: anagrams query clause; transfer customer-support anchor with verb sense, no defect"
+ },
+ {
+  "title": "Battery Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: orthography query clause; battery generic automotive anchor, no defect"
+ },
+ {
+  "title": "Mildew Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: syllables query clause; mildew concrete cleaning-services anchor, pairing readable"
+ },
+ {
+  "title": "Garage Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: rhymes query clause; garage generic property anchor, no defect"
+ },
+ {
+  "title": "Backpacker Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: synonyms query clause; backpacker generic travel anchor, no defect"
+ },
+ {
+  "title": "Beat Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: antonyms query clause with music anchor; beat musical, pairing grounded"
+ },
+ {
+  "title": "Antiques Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: sentences query clause; antiques generic anchor, no defect"
+ },
+ {
+  "title": "Immunity Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: translations query clause; immunity generic healthcare anchor, no defect"
+ },
+ {
+  "title": "Reinstatement Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: anagrams query clause; reinstatement concrete insurance anchor, no defect"
+ },
+ {
+  "title": "Pretzel Orthography",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: orthography spelling query clause; pretzel is a generic food term, no watchlist mark dominance in this reading"
+ },
+ {
+  "title": "Bruschetta Cycle",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "flip: cycle is an abstract process fragment with no concrete bruschetta-specific operation; cycle-menu reading strained at single-dish level"
+ },
+ {
+  "title": "Tabbouleh Followup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: followup concrete ops word on the sustained ops list"
+ },
+ {
+  "title": "Ceviche Questionnaire",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: questionnaire concrete feedback document on the sustained ops list"
+ },
+ {
+  "title": "Guacamole Benefit",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: benefit has a grounded reading (health/nutrition benefit content for avocado-based food); kitchen context, no software trademark"
+ },
+ {
+  "title": "Empanada Depreciation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: depreciation is an HR/accounting fragment on a food anchor - batch-established Depreciation flip family"
+ },
+ {
+  "title": "Bratwurst Hazard",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: hazard is a concrete food-safety operations word (HACCP hazard analysis) on the sustained ops list"
+ },
+ {
+  "title": "Gyro Handbook",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: handbook concrete training document on sustained ops list"
+ },
+ {
+  "title": "Quinoa Opinion",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: customer opinion/review content reading akin to sustained Feedback/Rating/Review pairings"
+ },
+ {
+  "title": "Mochi Gift",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: food gifting/gift-card operations reading is genuine"
+ },
+ {
+  "title": "Moussaka Tournament",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: cooking-competition/cook-off reading is genuine"
+ },
+ {
+  "title": "Borscht Flyer",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: flyer concrete marketing word on sustained ops list"
+ },
+ {
+  "title": "Gumbo App",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: restaurant ordering/loyalty app category is real; no software trademark on gumbo"
+ },
+ {
+  "title": "Jambalaya Tips",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: tips concrete ops word on sustained list"
+ },
+ {
+  "title": "Shawarma Advice",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: advice in established Tips/Advice pair family, sustained for food anchors"
+ },
+ {
+  "title": "Naan Workbook",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: workbook concrete staff-training document, sibling of sustained Handbook"
+ },
+ {
+  "title": "Arepa Mode",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: mode is an enumerated dead-pattern fragment on food anchors"
+ },
+ {
+  "title": "Pierogi Spec",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: recipe spec sheets are genuine restaurant-industry shorthand; no software trademark on pierogi"
+ },
+ {
+  "title": "Goulash Quantity",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "flip: quantity is an abstract amount fragment with no concrete operation - sibling of the flipped Volume family on food anchors"
+ },
+ {
+  "title": "Soil Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: rhymes query clause; soil concrete agriculture anchor, no defect"
+ },
+ {
+  "title": "Pledge Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: antonyms query clause; pledge generic nonprofit anchor, no defect"
+ },
+ {
+  "title": "Hearing Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: sentences query clause; hearing generic government anchor, no defect"
+ },
+ {
+  "title": "Creative Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: translations query clause; creative generic marketing anchor, no defect"
+ },
+ {
+  "title": "Driver Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: anagrams query clause; driver generic anchor with verb sense, no defect"
+ },
+ {
+  "title": "Pipeline Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: orthography query clause; pipeline is a generic tech term (no watchlist mark), spelling query readable"
+ },
+ {
+  "title": "Quarry Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: syllables query clause; quarry concrete mining anchor, pairing readable"
+ },
+ {
+  "title": "Condenser Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: rhymes query clause; condenser concrete HVAC anchor, no defect"
+ }
+]

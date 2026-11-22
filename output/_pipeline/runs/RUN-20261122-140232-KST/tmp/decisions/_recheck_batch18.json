@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Guacamole Newsletter",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Guacamole + Newsletter reads as a concrete food-service operation (newsletter handling for a guacamole menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Bratwurst Checkin",
+  "approve": false,
+  "confidence": 0.78,
+  "reason": "Refuted: Checkin is an established dead-fragment function word on food anchors; bratwurst checkin does not read as a real restaurant operation query, only SaaS jargon residue."
+ },
+ {
+  "title": "Vacation Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about vacation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Ukulele Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about ukulele) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Origami Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about origami) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Orchid Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about orchid) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Prescription Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about prescription) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Reconciliation Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about reconciliation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Container Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about container) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Recruiting Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about recruiting) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Yoga Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about yoga) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Infant Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about infant) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Wheelchair Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about wheelchair) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Rodent Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about rodent) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Lawn Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about lawn) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Kitchen Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about kitchen) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Manicure Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about manicure) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Hangar Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about hangar) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Orientation Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about orientation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Digital Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about digital) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Handoff Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about handoff) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Talent Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about talent) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Volunteer Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about volunteer) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Dessert Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about dessert) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Rowing Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about rowing) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Xylophone Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about xylophone) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Drone Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about drone) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Catheter Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about catheter) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Certificate Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about certificate) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Math Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about math) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Garland Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about garland) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Parakeet Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about parakeet) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Glacier Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about glacier) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Acai Payment",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Acai + Payment reads as a concrete food-service operation (payment handling for a acai menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Tabbouleh Recipe",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Tabbouleh + Recipe reads as a concrete food-service operation (recipe handling for a tabbouleh menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Ceviche Expense",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Ceviche + Expense reads as a concrete food-service operation (expense handling for a ceviche menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Guacamole Inventory",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Guacamole + Inventory reads as a concrete food-service operation (inventory handling for a guacamole menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Toilet Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about toilet) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Vacation Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about vacation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Ukulele Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about ukulele) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Origami Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about origami) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Orchid Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about orchid) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Prescription Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about prescription) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Matter Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about matter) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Deductible Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about deductible) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Cavity Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about cavity) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Yoga Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about yoga) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Infant Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about infant) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Wheelchair Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about wheelchair) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Rodent Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about rodent) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Lawn Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about lawn) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Headstone Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about headstone) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Kayak Orthography",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Refuted on trademark: Kayak is the famous travel-booking mark and the dominant commercial reading in any consumer pairing; query-clause status does not rescue a famous-mark anchor."
+ },
+ {
+  "title": "Concrete Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about concrete) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Orientation Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about orientation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Digital Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about digital) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Handoff Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about handoff) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Talent Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about talent) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Oil Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about oil) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Veneer Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about veneer) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Lagoon Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about lagoon) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Xylophone Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about xylophone) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Drone Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about drone) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Catheter Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about catheter) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Certificate Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about certificate) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Math Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about math) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Pancake Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about pancake) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Courtyard Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about courtyard) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Acai Verification",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Acai + Verification reads as a concrete food-service operation (verification handling for a acai menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Prosciutto Review",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Prosciutto + Review reads as a concrete food-service operation (review handling for a prosciutto menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Tabbouleh Video",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Tabbouleh + Video reads as a concrete food-service operation (video handling for a tabbouleh menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Edamame Refund",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Edamame + Refund reads as a concrete food-service operation (refund handling for a edamame menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Ceviche Newsletter",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Ceviche + Newsletter reads as a concrete food-service operation (newsletter handling for a ceviche menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Empanada Checkin",
+  "approve": false,
+  "confidence": 0.78,
+  "reason": "Refuted: Checkin belongs to the established dead-fragment flip family on food anchors; empanada checkin is unreadable as a concrete operation."
+ },
+ {
+  "title": "Quinoa Clock",
+  "approve": false,
+  "confidence": 0.72,
+  "reason": "Refuted: Clock on food anchors was established as a dead pattern; the staff time-clock reading is a stretched post-hoc defense and the natural query quinoa clock does not map to shift-clock products."
+ },
+ {
+  "title": "Coating Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about coating) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Toilet Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about toilet) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Vacation Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about vacation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Ukulele Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about ukulele) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Origami Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about origami) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Orchid Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about orchid) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Reconciliation Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about reconciliation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Vet Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about vet) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Cavity Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about cavity) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Yoga Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about yoga) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Infant Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about infant) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Wheelchair Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about wheelchair) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Rodent Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about rodent) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Kitchen Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about kitchen) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Medicine Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about medicine) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Promotion Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about promotion) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Concrete Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about concrete) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Orientation Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about orientation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Digital Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about digital) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Handoff Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about handoff) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Volunteer Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about volunteer) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Collar Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about collar) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Entrance Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about entrance) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Lagoon Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about lagoon) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Xylophone Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about xylophone) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Drone Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about drone) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Catheter Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about catheter) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Certificate Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about certificate) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Garland Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about garland) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Tartar Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about tartar) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Prosciutto Recipe",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Prosciutto + Recipe reads as a concrete food-service operation (recipe handling for a prosciutto menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Tabbouleh Diary",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Tabbouleh + Diary reads as a concrete food-service operation (diary handling for a tabbouleh menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Edamame Expense",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Edamame + Expense reads as a concrete food-service operation (expense handling for a edamame menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Ceviche Inventory",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Ceviche + Inventory reads as a concrete food-service operation (inventory handling for a ceviche menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Guacamole Onboarding",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Guacamole + Onboarding reads as a concrete food-service operation (onboarding handling for a guacamole menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Liner Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about liner) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Coating Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about coating) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Toilet Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about toilet) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Vacation Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about vacation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Ukulele Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about ukulele) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Origami Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about origami) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Prescription Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about prescription) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Container Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about container) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Vet Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about vet) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Cavity Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about cavity) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Yoga Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about yoga) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Infant Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about infant) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Wheelchair Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about wheelchair) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Lawn Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about lawn) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Manicure Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about manicure) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Lapse Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about lapse) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Promotion Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about promotion) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Concrete Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about concrete) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Orientation Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about orientation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Digital Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about digital) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Talent Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about talent) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Dessert Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about dessert) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Floss Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about floss) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Entrance Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about entrance) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Lagoon Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about lagoon) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Xylophone Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about xylophone) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Drone Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about drone) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Catheter Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about catheter) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Math Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about math) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Parakeet Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about parakeet) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Bruschetta Review",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Bruschetta + Review reads as a concrete food-service operation (review handling for a bruschetta menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Prosciutto Video",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Prosciutto + Video reads as a concrete food-service operation (video handling for a prosciutto menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Tabbouleh Refund",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Tabbouleh + Refund reads as a concrete food-service operation (refund handling for a tabbouleh menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Edamame Newsletter",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Edamame + Newsletter reads as a concrete food-service operation (newsletter handling for a edamame menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Guacamole Checkin",
+  "approve": false,
+  "confidence": 0.78,
+  "reason": "Refuted: Checkin is the established dead-fragment family on food anchors; kitchen-context generic-word dominance sustained other guacamole titles but cannot rescue the Checkin fragment."
+ },
+ {
+  "title": "Gyro Clock",
+  "approve": false,
+  "confidence": 0.72,
+  "reason": "Refuted: Clock is in the established dead-pattern flip family on food anchors; gyro clock reads as nonsense rather than a staff time-clock product, which users search as restaurant time clock."
+ },
+ {
+  "title": "Renewal Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about renewal) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Liner Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about liner) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Coating Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about coating) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Toilet Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about toilet) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Vacation Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about vacation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Ukulele Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about ukulele) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Orchid Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about orchid) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Matter Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about matter) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Alignment Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about alignment) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Vet Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about vet) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Cavity Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about cavity) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Yoga Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about yoga) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Infant Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about infant) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Rodent Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about rodent) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Headstone Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about headstone) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Foreclosure Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about foreclosure) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Lapse Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about lapse) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Promotion Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about promotion) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Concrete Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about concrete) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Orientation Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about orientation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Handoff Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about handoff) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Oil Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about oil) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Goldfish Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about goldfish) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Floss Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about floss) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Entrance Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about entrance) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Lagoon Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about lagoon) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Xylophone Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about xylophone) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Drone Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about drone) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Certificate Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about certificate) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Pancake Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about pancake) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Bruschetta Recipe",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Bruschetta + Recipe reads as a concrete food-service operation (recipe handling for a bruschetta menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Prosciutto Diary",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Prosciutto + Diary reads as a concrete food-service operation (diary handling for a prosciutto menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Tabbouleh Expense",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Tabbouleh + Expense reads as a concrete food-service operation (expense handling for a tabbouleh menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Edamame Inventory",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Edamame + Inventory reads as a concrete food-service operation (inventory handling for a edamame menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Ceviche Onboarding",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Ceviche + Onboarding reads as a concrete food-service operation (onboarding handling for a ceviche menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Bratwurst Range",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Bratwurst + Range reads as a concrete food-service operation (range handling for a bratwurst menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Goulash Capacity",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Goulash + Capacity reads as a concrete food-service operation (capacity handling for a goulash menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Tzatziki Usage",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Tzatziki + Usage reads as a concrete food-service operation (usage handling for a tzatziki menu business); no duplication or trademark collision found on re-review."
+ },
+ {
+  "title": "Florist Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about florist) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Renewal Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about renewal) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Liner Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (synonyms of/about liner) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Coating Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about coating) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Toilet Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about toilet) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Vacation Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about vacation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Origami Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about origami) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Reconciliation Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about reconciliation) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Keynote Syllables",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Refuted on trademark: Keynote is Apples famous presentation-software mark and the dominant reading; query-clause combos on famous trademarks were established as flips."
+ },
+ {
+  "title": "Alignment Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (rhymes of/about alignment) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Vet Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (antonyms of/about vet) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Cavity Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (sentences of/about cavity) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Yoga Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (translations of/about yoga) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Wheelchair Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (anagrams of/about wheelchair) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Kitchen Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (orthography of/about kitchen) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ },
+ {
+  "title": "Weighbridge Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause reading (syllables of/about weighbridge) is a standard word-study query that pairs naturally with this generic anchor; no defect found on re-review."
+ }
+]

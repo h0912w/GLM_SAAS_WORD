@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Masquerade Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Masquerade Syllables is the standard query-clause family (how-many-syllables searches); anchor pairing not defective"
+ },
+ {
+  "title": "Burger Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Burger Rhymes query-clause pairing stands"
+ },
+ {
+  "title": "Tortoise Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Tortoise Synonyms query-clause pairing stands"
+ },
+ {
+  "title": "Gingivitis Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Gingivitis Antonyms query-clause pairing stands"
+ },
+ {
+  "title": "Attic Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Attic Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Yacht Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Yacht Translations query-clause pairing stands"
+ },
+ {
+  "title": "Insured Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Insured Anagrams query-clause pairing stands"
+ },
+ {
+  "title": "Notebook Chords",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: Chords demands a music anchor; Notebook is generic stationery/software object with no music reading - same defect family as Editor Lyrics flipped earlier"
+ },
+ {
+  "title": "Pizza Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pizza Orthography (spelling query-clause) stands; Orthography family not in any flip line"
+ },
+ {
+  "title": "Acai Forecast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Acai Forecast has a real commodity/trend forecast reading (acai price and demand forecasts)"
+ },
+ {
+  "title": "Bruschetta Duration",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: Duration on Bruschetta is the dead-pattern fragment family (Tzatziki Volume / Goulash Duration already flipped) - no readable food-service product"
+ },
+ {
+  "title": "Prosciutto Diagnostic",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: Diagnostic on a dish is a dead analytics fragment (Prosciutto Diagnostic matches the flipped Diagnostic family)"
+ },
+ {
+  "title": "Tabbouleh Authorization",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: Authorization on Tabbouleh is the dead authorization fragment (Gumbo/Borscht Authorization flipped in other batches)"
+ },
+ {
+  "title": "Edamame Guide",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Edamame Guide reads as a genuine food guide (edamame guide content)"
+ },
+ {
+  "title": "Ceviche Agreement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Ceviche Agreement has a defensible supplier/catering agreement reading"
+ },
+ {
+  "title": "Guacamole Account",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Account has no coherent reading attached to a specific dish - reads as a bare SaaS fragment (Guacamole Account)"
+ },
+ {
+  "title": "Empanada Match",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Empanada Match reads as food/drink pairing match, a real usage"
+ },
+ {
+  "title": "Bratwurst Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Bratwurst Lookup reads as nutrition/calorie lookup, a real search pattern"
+ },
+ {
+  "title": "Escargot Model",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Model attaches no readable meaning to a dish - Escargot Model is a vague product-code/SaaS fragment"
+ },
+ {
+  "title": "Gyro Eligibility",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Eligibility attaches to benefit programs, not a dish - Gyro Eligibility is an unclear fragment"
+ },
+ {
+  "title": "Quinoa Barcode",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Quinoa Barcode reads as a retail product barcode (GS1 lookup on packaged food)"
+ },
+ {
+  "title": "Mochi Appointment",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Mochi Appointment reads as tasting/restaurant appointment, approved ops family"
+ },
+ {
+  "title": "Satay Feedback",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Satay Feedback reads as customer feedback on the dish, approved ops family"
+ },
+ {
+  "title": "Moussaka Invoice",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: Moussaka Invoice reads as catering invoice, explicitly approved ops family"
+ },
+ {
+  "title": "Borscht Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Borscht Renewal reads as contract/permit renewal in food-service operations"
+ },
+ {
+  "title": "Gumbo Quote",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Gumbo Quote reads as catering quote, approved ops family"
+ },
+ {
+  "title": "Jambalaya Warranty",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Warranty attaches to equipment/goods, not a dish - Jambalaya Warranty is the same dead guarantee-family fragment as flipped Bratwurst Guarantee"
+ },
+ {
+  "title": "Shawarma Deposit",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Shawarma Deposit reads as catering/event deposit, natural ops usage"
+ },
+ {
+  "title": "Naan Certification",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Naan Certification reads as food-safety/handler certification, real category"
+ },
+ {
+  "title": "Pierogi Correction",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Pierogi Correction reads as order/recipe correction in restaurant operations (approved ops word)"
+ },
+ {
+  "title": "Goulash Revision",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Goulash Revision reads as recipe revision in kitchen operations; no same-anchor synonym counterpart in ledger"
+ },
+ {
+  "title": "Tzatziki Payment",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Tzatziki Payment reads as order payment in food service, approved ops family"
+ },
+ {
+  "title": "Pickup Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pickup Rhymes query-clause pairing stands"
+ },
+ {
+  "title": "Vitals Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Vitals Synonyms query-clause pairing stands"
+ },
+ {
+  "title": "Recurring Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Recurring Antonyms query-clause pairing stands"
+ },
+ {
+  "title": "Property Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Property Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Schedule Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Schedule Translations query-clause pairing stands"
+ },
+ {
+  "title": "Permit Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Permit Anagrams query-clause pairing stands"
+ },
+ {
+  "title": "Crew Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Crew Orthography (spelling query-clause) stands"
+ },
+ {
+  "title": "Clearance Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Clearance Syllables query-clause pairing stands"
+ },
+ {
+  "title": "Quarter Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Quarter Rhymes query-clause pairing stands"
+ },
+ {
+  "title": "Mayor Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Mayor Synonyms query-clause pairing stands"
+ },
+ {
+  "title": "Article Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Article Antonyms query-clause pairing stands"
+ },
+ {
+  "title": "Smartphone Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Smartphone Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Case Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Case Translations query-clause pairing stands"
+ },
+ {
+  "title": "Hire Conjugations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Hire Conjugations - Hire is a natural verb anchor, so the conjugation reading holds (gerund/verb anchor line)"
+ },
+ {
+  "title": "Expo Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Expo Anagrams query-clause pairing stands"
+ },
+ {
+  "title": "Puppy Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Puppy Orthography query-clause pairing stands"
+ },
+ {
+  "title": "Demolition Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Demolition Syllables query-clause pairing stands"
+ },
+ {
+  "title": "Commencement Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Commencement Rhymes query-clause pairing stands"
+ },
+ {
+  "title": "Recycling Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Recycling Synonyms query-clause pairing stands"
+ },
+ {
+  "title": "Ad Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Ad Antonyms query-clause pairing stands"
+ },
+ {
+  "title": "Backlog Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Backlog Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Diversity Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Diversity Translations query-clause pairing stands"
+ },
+ {
+  "title": "Wiper Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Wiper Anagrams query-clause pairing stands"
+ },
+ {
+  "title": "Plaque Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Plaque Orthography query-clause pairing stands"
+ },
+ {
+  "title": "Essay Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Essay Syllables query-clause pairing stands"
+ },
+ {
+  "title": "Masquerade Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Masquerade Rhymes query-clause pairing stands"
+ },
+ {
+  "title": "Burger Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Burger Synonyms query-clause pairing stands"
+ },
+ {
+  "title": "Tortoise Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Tortoise Antonyms query-clause pairing stands"
+ },
+ {
+  "title": "Gingivitis Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Gingivitis Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Attic Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Attic Translations query-clause pairing stands"
+ },
+ {
+  "title": "Intubation Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Intubation Anagrams query-clause pairing stands"
+ },
+ {
+  "title": "Notebook Lyrics",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: Lyrics demands a music anchor; Notebook is a generic stationery object - same defect as Editor Lyrics flipped earlier"
+ },
+ {
+  "title": "Balloons Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Balloons Orthography query-clause pairing stands"
+ },
+ {
+  "title": "Acai Deadline",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: Deadline on Acai is the dead-pattern fragment family (Pierogi/Arepa Deadline already flipped)"
+ },
+ {
+  "title": "Bruschetta Volume",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: Volume on Bruschetta is the dead-pattern fragment family (Tzatziki/Goulash Volume already flipped)"
+ },
+ {
+  "title": "Prosciutto Progress",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Progress on Prosciutto is a vague tracker fragment - no readable food-service product meaning"
+ },
+ {
+  "title": "Tabbouleh Template",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Tabbouleh Template reads as recipe template, a real content category"
+ },
+ {
+  "title": "Edamame Rating",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Edamame Rating reads as product/restaurant rating, natural usage"
+ },
+ {
+  "title": "Ceviche Reply",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: Ceviche Reply defensible as owner reply to reviews (review-response ops), though marginal"
+ },
+ {
+  "title": "Guacamole Case",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Guacamole Case reads as a case (unit) of guacamole or a food-safety case report; kitchen-context Guacamole line sustained in batch 0"
+ },
+ {
+  "title": "Empanada Validation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Validation on Empanada is software/data jargon with no food reading - vague SaaS fragment"
+ },
+ {
+  "title": "Bratwurst Ping",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "refuted: Ping is pure network jargon - Bratwurst Ping is an absurd product fragment"
+ },
+ {
+  "title": "Escargot Availability",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Escargot Availability reads as menu/stock availability, real food-service usage"
+ },
+ {
+  "title": "Gyro Broadcast",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: Broadcast on Gyro is media jargon with no dish reading - vague fragment"
+ },
+ {
+  "title": "Quinoa Appointment",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Quinoa Appointment reads as tasting/restaurant appointment, approved ops family"
+ },
+ {
+  "title": "Mochi Feedback",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Mochi Feedback reads as customer feedback, approved ops family"
+ },
+ {
+  "title": "Satay Invoice",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: Satay Invoice reads as catering invoice, explicitly approved ops family"
+ },
+ {
+  "title": "Moussaka Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Moussaka Renewal reads as contract/permit renewal in food-service operations"
+ },
+ {
+  "title": "Borscht Quote",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Borscht Quote reads as catering quote, approved ops family"
+ },
+ {
+  "title": "Gumbo Warranty",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Warranty attaches to goods/equipment, not a dish - Gumbo Warranty is the dead guarantee-family fragment (cf. flipped Bratwurst Guarantee)"
+ },
+ {
+  "title": "Jambalaya Deposit",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Jambalaya Deposit reads as catering/event deposit, natural ops usage"
+ },
+ {
+  "title": "Shawarma Certification",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Shawarma Certification reads as food-safety certification, real category"
+ },
+ {
+  "title": "Arepa Correction",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Arepa Correction reads as order/recipe correction in restaurant operations (approved ops word)"
+ },
+ {
+  "title": "Pierogi Revision",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: Pierogi Revision dup Pierogi Correction - near-synonym pair on the same anchor already approved this ledger (Correction/Revision dup line)"
+ },
+ {
+  "title": "Goulash Payment",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Goulash Payment reads as order payment, approved ops family"
+ },
+ {
+  "title": "Tzatziki Verification",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Tzatziki Verification reads as order/age verification in food service"
+ },
+ {
+  "title": "Chart Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Chart Syllables query-clause pairing stands"
+ },
+ {
+  "title": "Pickup Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pickup Synonyms query-clause pairing stands"
+ },
+ {
+  "title": "Vitals Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Vitals Antonyms query-clause pairing stands"
+ },
+ {
+  "title": "Recurring Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Recurring Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Property Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Property Translations query-clause pairing stands"
+ },
+ {
+  "title": "Schedule Conjugations",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: Schedule Conjugations - Schedule has a standard verb reading (schedule/schedules/scheduling), matching the sustained verb-anchor line (cf. Booking Conjugations)"
+ },
+ {
+  "title": "Rack Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Rack Anagrams query-clause pairing stands"
+ },
+ {
+  "title": "Formulary Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Formulary Orthography query-clause pairing stands"
+ },
+ {
+  "title": "Remodel Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Remodel Syllables query-clause pairing stands"
+ },
+ {
+  "title": "Clearance Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Clearance Rhymes query-clause pairing stands"
+ },
+ {
+  "title": "Quarter Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Quarter Synonyms query-clause pairing stands"
+ },
+ {
+  "title": "Mayor Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Mayor Antonyms query-clause pairing stands"
+ },
+ {
+  "title": "Article Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Article Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Smartphone Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Smartphone Translations query-clause pairing stands"
+ },
+ {
+  "title": "Hire Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Hire Anagrams query-clause pairing stands"
+ },
+ {
+  "title": "Expo Chords",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: Chords demands a music anchor; Expo is a trade-show/event anchor with no music reading - same defect as Endodontics Chords flipped earlier"
+ },
+ {
+  "title": "Freezer Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Freezer Orthography query-clause pairing stands"
+ },
+ {
+  "title": "Demotion Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Demotion Syllables query-clause pairing stands"
+ },
+ {
+  "title": "Demolition Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Demolition Rhymes query-clause pairing stands"
+ },
+ {
+  "title": "Commencement Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Commencement Synonyms query-clause pairing stands"
+ },
+ {
+  "title": "Recycling Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Recycling Antonyms query-clause pairing stands"
+ },
+ {
+  "title": "Ad Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Ad Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Backlog Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Backlog Translations query-clause pairing stands"
+ },
+ {
+  "title": "Signage Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Signage Anagrams query-clause pairing stands"
+ },
+ {
+  "title": "Adoption Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Adoption Orthography query-clause pairing stands"
+ },
+ {
+  "title": "Investigation Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Investigation Syllables query-clause pairing stands"
+ },
+ {
+  "title": "Essay Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Essay Rhymes query-clause pairing stands"
+ },
+ {
+  "title": "Masquerade Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Masquerade Synonyms query-clause pairing stands"
+ },
+ {
+  "title": "Burger Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Burger Antonyms query-clause pairing stands"
+ },
+ {
+  "title": "Tortoise Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Tortoise Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Gingivitis Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Gingivitis Translations query-clause pairing stands"
+ },
+ {
+  "title": "Yacht Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Yacht Anagrams query-clause pairing stands"
+ },
+ {
+  "title": "Notebook Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Notebook Orthography query-clause pairing stands"
+ },
+ {
+  "title": "Bruschetta Diagnostic",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: Diagnostic on Bruschetta is the dead analytics fragment family (already flipped at Prosciutto Diagnostic)"
+ },
+ {
+  "title": "Prosciutto Authorization",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: Authorization on Prosciutto is the dead authorization fragment family (Gumbo/Borscht Authorization already flipped)"
+ },
+ {
+  "title": "Tabbouleh Guide",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Tabbouleh Guide reads as a genuine food guide"
+ },
+ {
+  "title": "Edamame Agreement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Edamame Agreement has a defensible trade/supply agreement reading for an ingredient commodity"
+ },
+ {
+  "title": "Ceviche Account",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Account attaches no coherent meaning to a dish - Ceviche Account is a bare SaaS fragment (same defect as Guacamole Account)"
+ },
+ {
+  "title": "Guacamole Match",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Guacamole Match reads as food pairing match (salsa/dish pairing), real usage"
+ },
+ {
+  "title": "Empanada Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Empanada Lookup reads as nutrition/calorie lookup, a real search pattern"
+ },
+ {
+  "title": "Bratwurst Model",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Model attaches no readable meaning to a dish - Bratwurst Model is a vague product-code/SaaS fragment"
+ },
+ {
+  "title": "Escargot Eligibility",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Eligibility attaches to benefit programs, not a dish - Escargot Eligibility is an unclear fragment"
+ },
+ {
+  "title": "Gyro Barcode",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Gyro Barcode reads as a retail product barcode on packaged food"
+ },
+ {
+  "title": "Quinoa Feedback",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Quinoa Feedback reads as customer feedback, approved ops family"
+ },
+ {
+  "title": "Mochi Invoice",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: Mochi Invoice reads as catering invoice, explicitly approved ops family"
+ },
+ {
+  "title": "Satay Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Satay Renewal reads as contract/permit renewal in food-service operations"
+ },
+ {
+  "title": "Moussaka Quote",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Moussaka Quote reads as catering quote, approved ops family"
+ },
+ {
+  "title": "Borscht Warranty",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Warranty attaches to goods/equipment, not a dish - Borscht Warranty is the dead guarantee-family fragment (cf. flipped Bratwurst Guarantee)"
+ },
+ {
+  "title": "Gumbo Deposit",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Gumbo Deposit reads as catering/event deposit, natural ops usage"
+ },
+ {
+  "title": "Jambalaya Certification",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Jambalaya Certification reads as food-safety certification, real category"
+ },
+ {
+  "title": "Naan Correction",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Naan Correction reads as order/recipe correction in restaurant operations; no same-anchor Revision counterpart"
+ },
+ {
+  "title": "Arepa Revision",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: Arepa Revision dup Arepa Correction - near-synonym pair on the same anchor already approved this ledger (Correction/Revision dup line)"
+ },
+ {
+  "title": "Pierogi Payment",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pierogi Payment reads as order payment, approved ops family"
+ },
+ {
+  "title": "Goulash Verification",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Goulash Verification reads as order verification in food service"
+ },
+ {
+  "title": "Breed Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Breed Syllables query-clause pairing stands"
+ },
+ {
+  "title": "Chart Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Chart Rhymes query-clause pairing stands"
+ },
+ {
+  "title": "Pickup Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pickup Antonyms query-clause pairing stands"
+ },
+ {
+  "title": "Vitals Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Vitals Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Recurring Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Recurring Translations query-clause pairing stands"
+ },
+ {
+  "title": "Schedule Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Schedule Anagrams query-clause pairing stands"
+ },
+ {
+  "title": "Waitlist Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Waitlist Orthography (spelling query-clause) stands; anchor has no trademark reading"
+ },
+ {
+  "title": "Wage Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Wage Syllables query-clause pairing stands"
+ },
+ {
+  "title": "Remodel Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Remodel Rhymes query-clause pairing stands"
+ },
+ {
+  "title": "Clearance Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Clearance Synonyms query-clause pairing stands"
+ },
+ {
+  "title": "Quarter Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Quarter Antonyms query-clause pairing stands"
+ },
+ {
+  "title": "Mayor Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Mayor Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Article Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Article Translations query-clause pairing stands"
+ },
+ {
+  "title": "Case Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Case Anagrams query-clause pairing stands"
+ },
+ {
+  "title": "Roadtest Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Roadtest Orthography query-clause pairing stands"
+ },
+ {
+  "title": "Cancellation Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Cancellation Syllables query-clause pairing stands"
+ },
+ {
+  "title": "Demotion Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Demotion Rhymes query-clause pairing stands"
+ },
+ {
+  "title": "Demolition Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Demolition Synonyms query-clause pairing stands"
+ },
+ {
+  "title": "Commencement Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Commencement Antonyms query-clause pairing stands"
+ },
+ {
+  "title": "Recycling Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Recycling Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Ad Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Ad Translations query-clause pairing stands"
+ },
+ {
+  "title": "Diversity Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Diversity Anagrams query-clause pairing stands"
+ },
+ {
+  "title": "Takeout Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Takeout Orthography query-clause pairing stands"
+ },
+ {
+  "title": "Auscultation Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Auscultation Syllables query-clause pairing stands"
+ },
+ {
+  "title": "Investigation Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Investigation Rhymes query-clause pairing stands"
+ },
+ {
+  "title": "Essay Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Essay Synonyms query-clause pairing stands"
+ },
+ {
+  "title": "Masquerade Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Masquerade Antonyms query-clause pairing stands"
+ },
+ {
+  "title": "Burger Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Burger Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Tortoise Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Tortoise Translations query-clause pairing stands"
+ },
+ {
+  "title": "Attic Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Attic Anagrams query-clause pairing stands"
+ },
+ {
+  "title": "Insured Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Insured Orthography query-clause pairing stands"
+ },
+ {
+  "title": "Acai Volume",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "refuted: Volume on Acai is the dead-pattern fragment family (Bruschetta/Tzatziki/Goulash Volume already flipped)"
+ },
+ {
+  "title": "Bruschetta Progress",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Progress on Bruschetta is a vague tracker fragment with no readable food-service meaning (same defect as Prosciutto Progress)"
+ },
+ {
+  "title": "Prosciutto Template",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Prosciutto Template reads as recipe template, a real content category"
+ },
+ {
+  "title": "Tabbouleh Rating",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Tabbouleh Rating reads as product/restaurant rating, natural usage"
+ },
+ {
+  "title": "Edamame Reply",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: Edamame Reply defensible as owner reply to reviews (review-response ops), though marginal"
+ },
+ {
+  "title": "Ceviche Case",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Ceviche Case reads as a case (unit) of product or a food-safety case report"
+ },
+ {
+  "title": "Guacamole Validation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Validation on Guacamole is software/data jargon with no food reading - vague SaaS fragment (same defect as Empanada Validation)"
+ },
+ {
+  "title": "Empanada Ping",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "refuted: Ping is pure network jargon - Empanada Ping is an absurd product fragment"
+ },
+ {
+  "title": "Bratwurst Availability",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Bratwurst Availability reads as menu/stock availability, real food-service usage"
+ },
+ {
+  "title": "Escargot Broadcast",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "refuted: Broadcast on Escargot is media jargon with no dish reading - vague fragment (same defect as Gyro Broadcast)"
+ },
+ {
+  "title": "Gyro Appointment",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Gyro Appointment reads as tasting/restaurant appointment, approved ops family"
+ },
+ {
+  "title": "Quinoa Invoice",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: Quinoa Invoice reads as catering invoice, explicitly approved ops family"
+ },
+ {
+  "title": "Mochi Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Mochi Renewal reads as contract/permit renewal in food-service operations"
+ },
+ {
+  "title": "Satay Quote",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Satay Quote reads as catering quote, approved ops family"
+ },
+ {
+  "title": "Moussaka Warranty",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "refuted: Warranty attaches to goods/equipment, not a dish - Moussaka Warranty is the dead guarantee-family fragment (cf. flipped Bratwurst Guarantee)"
+ },
+ {
+  "title": "Borscht Deposit",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Borscht Deposit reads as catering/event deposit, natural ops usage"
+ },
+ {
+  "title": "Gumbo Certification",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Gumbo Certification reads as food-safety certification, real category"
+ },
+ {
+  "title": "Shawarma Correction",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Shawarma Correction reads as order/recipe correction in restaurant operations; no same-anchor Revision counterpart"
+ },
+ {
+  "title": "Arepa Payment",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Arepa Payment reads as order payment, approved ops family"
+ },
+ {
+  "title": "Pierogi Verification",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Pierogi Verification reads as order verification in food service"
+ },
+ {
+  "title": "Tzatziki Predictor",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "refuted: Predictor is pure AI/SaaS jargon - Tzatziki Predictor is an absurd product fragment"
+ },
+ {
+  "title": "Waste Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Waste Syllables query-clause pairing stands"
+ },
+ {
+  "title": "Breed Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Breed Rhymes query-clause pairing stands"
+ },
+ {
+  "title": "Chart Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Chart Synonyms query-clause pairing stands"
+ },
+ {
+  "title": "Pickup Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pickup Sentences query-clause pairing stands"
+ },
+ {
+  "title": "Vitals Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Vitals Translations query-clause pairing stands"
+ },
+ {
+  "title": "Property Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Property Anagrams query-clause pairing stands"
+ }
+]

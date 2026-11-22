@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Runway Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Biometric Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Grout Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Aquarium Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Practice Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Sudoku Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Geranium Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Emergency Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Testament Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Fraud Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Jogging Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Arraignment Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Surcharge Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Kindergarten Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Fireworks Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Seafood Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Dentist Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Garage Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Acai Evaluation",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Evaluation' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Bruschetta Utilization",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Utilization on a dish anchor is abstract analytics jargon (resource/capacity-utilization reporting), unreadable as a concrete restaurant operation for bruschetta; same corporate-fragment family as flipped Requirement/Reception on food anchors."
+ },
+ {
+  "title": "Prosciutto Requirement",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Requirement is a dead HR/procurement fragment on a food anchor - reads as software requirements-doc jargon, no dish-operations reading survives; matches batch-22 Requirement fragment flips."
+ },
+ {
+  "title": "Tabbouleh Resignation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Resignation is an HR-employment fragment on a food anchor; no readable restaurant operation ('tabbouleh resignation' names nothing); matches established Depreciation/Resignation HR-fragment flips."
+ },
+ {
+  "title": "Ceviche Tutorial",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Tutorial' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Empanada Gift",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Gift' reads as restaurant/food-content operations (food gift box/basket category is a real retail concept), in the established approved line"
+ },
+ {
+  "title": "Bratwurst Tournament",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Tournament' reads as restaurant/food-content operations (cook-off/eating tournament is a real event category), in the established approved line"
+ },
+ {
+  "title": "Escargot App",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'App' reads as restaurant/food-content operations (recipe/menu app is an established real product category for dishes), in the established approved line"
+ },
+ {
+  "title": "Quinoa Mode",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Mode is an established dead fragment on food anchors (flip family: Mode); 'quinoa mode' names no product or operation."
+ },
+ {
+  "title": "Mochi Spec",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Spec is software-engineering jargon (spec sheet/spec doc); on a dessert anchor it reads as a dead tech fragment with no food-operations meaning, same family as flipped Widget/Model on food anchors."
+ },
+ {
+  "title": "Satay Quantity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Quantity' reads as restaurant/food-content operations (portion/order quantity is concrete catering operations), in the established approved line"
+ },
+ {
+  "title": "Moussaka Login",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Login is an established dead SaaS fragment on food anchors (flip family: Login); 'moussaka login' is pure auth-screen jargon."
+ },
+ {
+  "title": "Borscht Analysis",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Analysis' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Gumbo Coach",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Coach' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Shawarma Help",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Help' reads as restaurant/food-content operations (help/guidance content for making the dish is a real content category), in the established approved line"
+ },
+ {
+  "title": "Naan Ideas",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Ideas' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Arepa Basics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Basics' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Pierogi Names",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Names' reads as restaurant/food-content operations (variety/naming list for the dish is a readable content category), in the established approved line"
+ },
+ {
+  "title": "Goulash Questions",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Questions' reads as restaurant/food-content operations (FAQ-style Q&A content about the dish is readable), in the established approved line"
+ },
+ {
+  "title": "Tzatziki Date",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Date is an established dead fragment on food anchors (flip family: Date) - calendar-date jargon with no concrete tzatziki operation."
+ },
+ {
+  "title": "Redline Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Pallet Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Leave Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Change Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Soil Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Mosquito Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Mulch Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Furniture Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Stain Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Cremation Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Haircut Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Marina Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Condenser Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Motor Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Grout Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Aquarium Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Practice Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Sudoku Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Geranium Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Easement Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Bonsai Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Jogging Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Arraignment Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Surcharge Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Kindergarten Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Fireworks Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Bird Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Mildew Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Acai Questionnaire",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Questionnaire' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Prosciutto Depreciation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Depreciation is an accounting/HR fragment on a dish anchor (flip family, batches 22/23); even the equipment-costing reading is a stretch for a single dish and round 1 gave no concrete operation."
+ },
+ {
+  "title": "Tabbouleh Hazard",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Hazard' reads as restaurant/food-content operations (HACCP food-safety hazard reading is concrete), in the established approved line"
+ },
+ {
+  "title": "Ceviche Handbook",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Handbook' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Guacamole Opinion",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Opinion on a food anchor is vague - it names no concrete product or restaurant operation (commentary? polls? reviews?); round 1 gave no readable anchor-specific meaning, so it stays a floating abstract noun."
+ },
+ {
+  "title": "Bratwurst Flyer",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Flyer' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Escargot Tips",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Tips' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Gyro Workbook",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Workbook' reads as restaurant/food-content operations (practice workbook (cookbook-adjacent learning book) is a concrete object), in the established approved line"
+ },
+ {
+  "title": "Quinoa Spec",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Spec is software-engineering jargon; 'quinoa spec' is a dead tech fragment with no recipe/menu operation, same family as flipped Widget/Model on food anchors."
+ },
+ {
+  "title": "Mochi Quantity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Quantity' reads as restaurant/food-content operations (portion/order quantity is concrete catering operations), in the established approved line"
+ },
+ {
+  "title": "Moussaka Analysis",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Analysis' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Borscht Coach",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Coach' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Gumbo Habit",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Habit is an established dead fragment on food anchors (flip family: Habit); 'gumbo habit' names no business operation."
+ },
+ {
+  "title": "Jambalaya Help",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Help' reads as restaurant/food-content operations (help/guidance content for making the dish is a real content category), in the established approved line"
+ },
+ {
+  "title": "Shawarma Ideas",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Ideas' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Naan Basics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Basics' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Arepa Names",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Names' reads as restaurant/food-content operations (variety/naming list for the dish is a readable content category), in the established approved line"
+ },
+ {
+  "title": "Pierogi Questions",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Questions' reads as restaurant/food-content operations (FAQ-style Q&A content about the dish is readable), in the established approved line"
+ },
+ {
+  "title": "Goulash Date",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Date is an established dead fragment on food anchors (flip family: Date); 'goulash date' is calendar jargon."
+ },
+ {
+  "title": "Tzatziki Steps",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Steps' reads as restaurant/food-content operations (recipe steps is the concrete cooking reading), in the established approved line"
+ },
+ {
+  "title": "Payment Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Redline Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Pallet Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Leave Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Change Conjugations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: 'change' is a verb anchor - verb conjugation is the natural grammar reading (established verb-usage line: Permit/Briefing/Request/Commute Conjugations sustained)"
+ },
+ {
+  "title": "Walker Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Mosquito Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Mulch Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Furniture Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Stain Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Cremation Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Pharmacist Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Quarry Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Lease Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Motor Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Grout Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Aquarium Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Practice Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Sudoku Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Emergency Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Unloading Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Rhythm Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Bonsai Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Jogging Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Arraignment Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Surcharge Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Kindergarten Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Seafood Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Kettlebell Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Acai Utilization",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Utilization on a dish anchor is abstract analytics jargon, unreadable as a concrete acai-shop operation; same corporate-fragment family as flipped Requirement/Reception."
+ },
+ {
+  "title": "Bruschetta Requirement",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Requirement is a dead HR/procurement fragment on a food anchor; no dish-operations reading; matches batch-22 Requirement fragment flips."
+ },
+ {
+  "title": "Prosciutto Resignation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Resignation is an HR-employment fragment on a dish anchor; names no restaurant operation; matches established Resignation HR-fragment flips."
+ },
+ {
+  "title": "Edamame Tutorial",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Tutorial' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Ceviche Timetable",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Timetable' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Guacamole Gift",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Gift' reads as restaurant/food-content operations (food gift box/basket category is a real retail concept), in the established approved line"
+ },
+ {
+  "title": "Empanada Tournament",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Tournament' reads as restaurant/food-content operations (cook-off/eating tournament is a real event category), in the established approved line"
+ },
+ {
+  "title": "Bratwurst App",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'App' reads as restaurant/food-content operations (recipe/menu app is an established real product category for dishes), in the established approved line"
+ },
+ {
+  "title": "Quinoa Quantity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Quantity' reads as restaurant/food-content operations (portion/order quantity is concrete catering operations), in the established approved line"
+ },
+ {
+  "title": "Satay Analysis",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Analysis' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Moussaka Coach",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Coach' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Borscht Habit",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Habit is an established dead fragment on food anchors (flip family: Habit); 'borscht habit' names no operation."
+ },
+ {
+  "title": "Gumbo Help",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Help' reads as restaurant/food-content operations (help/guidance content for making the dish is a real content category), in the established approved line"
+ },
+ {
+  "title": "Jambalaya Ideas",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Ideas' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Shawarma Basics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Basics' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Naan Names",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Names' reads as restaurant/food-content operations (variety/naming list for the dish is a readable content category), in the established approved line"
+ },
+ {
+  "title": "Arepa Questions",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Questions' reads as restaurant/food-content operations (FAQ-style Q&A content about the dish is readable), in the established approved line"
+ },
+ {
+  "title": "Pierogi Date",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Date is an established dead fragment on food anchors (flip family: Date); 'pierogi date' is calendar jargon."
+ },
+ {
+  "title": "Goulash Steps",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Steps' reads as restaurant/food-content operations (recipe steps is the concrete cooking reading), in the established approved line"
+ },
+ {
+  "title": "Tzatziki Alternatives",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Alternatives' reads as restaurant/food-content operations (substitutes/alternatives for the dish is a real query category), in the established approved line"
+ },
+ {
+  "title": "Payment Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Redline Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Pallet Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Leave Conjugations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: 'leave' has a dominant verb reading (to leave) and an HR grammar-exercise reading; matches established verb-anchor Conjugation defenses"
+ },
+ {
+  "title": "Change Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Grading Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Toddler Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Walker Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Mosquito Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Mulch Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Furniture Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Stain Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Haircut Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Runway Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Playlist Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Lease Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Motor Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Grout Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Aquarium Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Practice Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Geranium Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Testament Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Skyline Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Rhythm Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Bonsai Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Jogging Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Arraignment Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Surcharge Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Kindergarten Conjugations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: kindergarten sits in the education/grammar-learning domain where conjugation worksheets are grade-keyed ('kindergarten grammar' is a real learner-level category), unlike the flipped non-grammar anchors (Crew/Waitlist/Terminology)"
+ },
+ {
+  "title": "Fireworks Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Dentist Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Orthography as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Acai Benefit",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Benefit is a dead benefits/HR fragment on a food anchor (batch-22 flip family); 'acai benefit' is vague marketing filler with no concrete operation."
+ },
+ {
+  "title": "Bruschetta Depreciation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Depreciation is an accounting/HR fragment on a dish anchor (flip family, batches 22/23); no concrete dish-level operation survives scrutiny."
+ },
+ {
+  "title": "Prosciutto Hazard",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Hazard' reads as restaurant/food-content operations (HACCP food-safety hazard reading is concrete), in the established approved line"
+ },
+ {
+  "title": "Edamame Handbook",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Handbook' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Ceviche Opinion",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Opinion on a dish anchor is vague - no concrete product or operation is named (reviews? commentary?); floating abstract noun, same defect as Guacamole Opinion."
+ },
+ {
+  "title": "Empanada Flyer",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Flyer' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Bratwurst Tips",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Tips' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Escargot Workbook",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Workbook' reads as restaurant/food-content operations (practice workbook (cookbook-adjacent learning book) is a concrete object), in the established approved line"
+ },
+ {
+  "title": "Gyro Spec",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Spec is software-engineering jargon; 'gyro spec' is a dead tech fragment, same family as flipped Widget/Model on food anchors."
+ },
+ {
+  "title": "Mochi Analysis",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Analysis' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Satay Coach",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Coach' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Moussaka Habit",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Habit is an established dead fragment on food anchors (flip family: Habit); 'moussaka habit' names no operation."
+ },
+ {
+  "title": "Borscht Help",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Help' reads as restaurant/food-content operations (help/guidance content for making the dish is a real content category), in the established approved line"
+ },
+ {
+  "title": "Gumbo Ideas",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Ideas' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Jambalaya Basics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Basics' reads as restaurant/food-content operations (concrete business-operation reading in the approved food-ops line), in the established approved line"
+ },
+ {
+  "title": "Shawarma Names",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Names' reads as restaurant/food-content operations (variety/naming list for the dish is a readable content category), in the established approved line"
+ },
+ {
+  "title": "Naan Questions",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Questions' reads as restaurant/food-content operations (FAQ-style Q&A content about the dish is readable), in the established approved line"
+ },
+ {
+  "title": "Arepa Date",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Date is an established dead fragment on food anchors (flip family: Date); 'arepa date' is calendar jargon."
+ },
+ {
+  "title": "Pierogi Steps",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Steps' reads as restaurant/food-content operations (recipe steps is the concrete cooking reading), in the established approved line"
+ },
+ {
+  "title": "Goulash Alternatives",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Alternatives' reads as restaurant/food-content operations (substitutes/alternatives for the dish is a real query category), in the established approved line"
+ },
+ {
+  "title": "Tzatziki Courses",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor + 'Courses' reads as restaurant/food-content operations (cooking courses or menu courses both give a concrete reading), in the established approved line"
+ },
+ {
+  "title": "Fern Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Payment Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Redline Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Pallet Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Leave Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Treadmill Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Syllables as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Toddler Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Rhymes as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Walker Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Synonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Mosquito Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Antonyms as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Mulch Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Sentences as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Furniture Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Translations as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ },
+ {
+  "title": "Stain Conjugations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: 'stain' is a verb (to stain) - conjugation practice reading is natural, matching established verb-anchor Conjugation defenses"
+ },
+ {
+  "title": "Cremation Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause combo (Anagrams as search-modifier second word), generic/domain anchor dominates, no famous-mark reading, no near-synonym duplicate"
+ }
+]

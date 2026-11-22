@@ -1,0 +1,2202 @@
+[
+ {
+  "title": "Schedule Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Schedule Lyrics'는 청소 서비스 문맥에서 가사 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rack Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Rack Orthography'은 세탁·드라이클리닝 업계의 철자 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Seller Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "부동산 대상 음절 분석 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Reinsurance Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Reinsurance Rhymes'는 보험에서 라임 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Wage Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Wage Synonyms'는 인사·급여 문맥에서 유의어 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Remodel Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Remodel Antonyms'은 건설 업계의 반의어 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Clearance Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "리테일·이커머스 대상 예문 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quarter Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Quarter Translations'는 교육에서 번역 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mayor Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Conjugations는 동사 활용 조회 관용구인데 정부(Mayor) 문맥의 명사 앵커는 활용 대상이 아니다 — 결합이 실제 서비스 대상을 만들지 못해 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Article Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Article Anagrams'은 미디어·출판 업계의 아나그램 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Smartphone Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "통신 대상 코드(화음) 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Case Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Case Lyrics'는 고객지원에서 가사 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Hire Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Hire Orthography'는 채용 문맥에서 철자 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Backhaul Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Backhaul Syllables'은 물류 업계의 음절 분석 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Refinance Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "부동산 대상 라임 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cancellation Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Cancellation Synonyms'는 보험에서 유의어 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demotion Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Demotion Antonyms'는 인사·급여 문맥에서 반의어 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demolition Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Demolition Sentences'은 건설 업계의 예문 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Commencement Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "교육 대상 번역 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recycling Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Conjugations는 동사 활용 조회 관용구인데 재활용(Recycling)은 사물·활동 명사로 활용 조회 대상이 아니다 — 결합이 실제 서비스 대상을 만들지 못해 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ad Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Ad Anagrams'는 미디어·출판 문맥에서 아나그램 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Backlog Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Backlog Chords'은 고객지원 업계의 코드(화음) 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Diversity Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "채용 대상 가사 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Signage Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Signage Orthography'는 이벤트에서 철자 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Basement Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Basement Syllables'는 시설·자산 관리 문맥에서 음절 분석 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Daytrip Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Daytrip Rhymes'은 여행 업계의 라임 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Auscultation Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "의료 대상 유의어 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Investigation Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Investigation Antonyms'는 보험에서 반의어 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Essay Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Essay Sentences'는 교육 문맥에서 예문 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Masquerade Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Masquerade Translations'은 이벤트 업계의 번역 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Burger Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Conjugations는 동사 활용 조회 관용구인데 음식(Burger)은 활용 대상이 아니다 — 결합이 실제 서비스 대상을 만들지 못해 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tortoise Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Tortoise Anagrams'는 동물병원에서 아나그램 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gingivitis Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Gingivitis Chords'는 치과 문맥에서 코드(화음) 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Attic Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Attic Lyrics'은 시설·자산 관리 업계의 가사 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Yacht Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "여행 대상 철자 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Progress",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Acai Progress'는 외식·케이터링에서 주문·조리 진행 현황 추적를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Template",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Bruschetta Template'는 외식·케이터링 문맥에서 메뉴·메모 템플릿 관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Rating",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Prosciutto Rating'은 외식·케이터링 업계의 메뉴 평점·평가 관리 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 고객 리뷰 답글 관리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Case",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Edamame 식음업 문맥에서 Case(케이스)는 산물 포장 단위 읽기가 지배해 어떤 SaaS인지 짐작되지 않는다 — 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Validation",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Ceviche Validation'는 외식·케이터링 문맥에서 위생·식안전 검증 체크를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Ping",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Ping은 네트워크·운영 모니터링 은어라 Guacamole 식음업 문맥에서 가리키는 기능이 성립하지 않는다 — 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Availability",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 메뉴 품목 가용성 표기 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Broadcast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Bratwurst Broadcast'는 외식·케이터링에서 프로모션·공지 발송를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Appointment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Escargot Appointment'는 외식·케이터링 문맥에서 시식·케이터링 예약 관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Invoice",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Gyro Invoice'은 외식·케이터링 업계의 청구서 발행 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Quote",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 케이터링 견적 관리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Warranty",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "식음업 Mochi에는 보증(Warranty) 개념이 자연스럽게 성립하지 않아 어떤 SaaS인지 짐작되지 않는다 — 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Deposit",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Satay Deposit'는 외식·케이터링 문맥에서 예약·주문 예치금 관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Certification",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Moussaka Certification'은 외식·케이터링 업계의 위생 인증·자격 관리 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Nomination",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Nomination은 시상·추천 맥락인데 Borscht 식음업 SaaS 문맥에서 결합이 서비스 대상을 만들지 못한다 — 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Correction",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Gumbo Correction'는 외식·케이터링에서 주문·레시피 정정 처리를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Revision",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Jambalaya Revision'는 외식·케이터링 문맥에서 메뉴·레시피 개정 관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Payment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Shawarma Payment'은 외식·케이터링 업계의 결제 처리 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Verification",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 배달·수령 확인 검증 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Simulator",
+  "approve": false,
+  "confidence": 0.62,
+  "reason": "Arepa Simulator는 요리 게임·시뮬레이션 읽기가 지배해 식음업 SaaS 제품을 가리키지 못한다 — 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Predictor",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Pierogi Predictor'는 외식·케이터링 문맥에서 수요 예측를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Seal",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Goulash Seal'은 외식·케이터링 업계의 배달 포장 밀봉 확인 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Review",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 리뷰 수집·관리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ticketing Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Ticketing Syllables'는 이벤트에서 음절 분석 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recall Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Recall Rhymes'는 자동차 문맥에서 라임 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Waste Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Waste Synonyms'은 외식·케이터링 업계의 유의어 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Breed Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "동물병원 대상 반의어 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chart Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Chart Sentences'는 치과에서 예문 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pickup Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Conjugations는 동사 활용 조회 관용구인데 아동 픽업(Pickup)은 명사로 활용 조회 대상이 아니다 — 결합이 실제 서비스 대상을 만들지 못해 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Vitals Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Vitals Anagrams'은 시니어 케어 업계의 아나그램 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recurring Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "해충방제 대상 코드(화음) 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Property Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Property Lyrics'는 조경에서 가사 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Schedule Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Schedule Orthography'는 청소 서비스 문맥에서 철자 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Consignment Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Consignment Syllables'은 물류 업계의 음절 분석 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Seller Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "부동산 대상 라임 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Reinsurance Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Reinsurance Synonyms'는 보험에서 유의어 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Wage Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Wage Antonyms'는 인사·급여 문맥에서 반의어 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Remodel Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Remodel Sentences'은 건설 업계의 예문 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Clearance Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "리테일·이커머스 대상 번역 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quarter Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Conjugations는 동사 활용 조회 관용구인데 교육 학기(Quarter) 문맥에서 명사로 활용 조회 대상이 아니다 — 결합이 실제 서비스 대상을 만들지 못해 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mayor Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Mayor Anagrams'는 공공 문맥에서 아나그램 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Article Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Article Chords'은 미디어·출판 업계의 코드(화음) 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Smartphone Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "통신 대상 가사 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Case Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Case Orthography'는 고객지원에서 철자 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mediation Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Mediation Syllables'는 법률 문맥에서 음절 분석 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Backhaul Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Backhaul Rhymes'은 물류 업계의 라임 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Refinance Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "부동산 대상 유의어 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cancellation Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Cancellation Antonyms'는 보험에서 반의어 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demotion Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Demotion Sentences'는 인사·급여 문맥에서 예문 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demolition Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Demolition Translations'은 건설 업계의 번역 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Commencement Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Conjugations는 동사 활용 조회 관용구인데 졸업식(Commencement)은 명사로 활용 조회 대상이 아니다 — 결합이 실제 서비스 대상을 만들지 못해 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recycling Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Recycling Anagrams'는 공공에서 아나그램 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ad Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Ad Chords'는 미디어·출판 문맥에서 코드(화음) 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Backlog Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Backlog Lyrics'은 고객지원 업계의 가사 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Diversity Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "채용 대상 철자 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Sealant Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Sealant Syllables'는 치과에서 음절 분석 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Basement Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Basement Rhymes'는 시설·자산 관리 문맥에서 라임 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Daytrip Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Daytrip Synonyms'은 여행 업계의 유의어 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Auscultation Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "의료 대상 반의어 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Investigation Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Investigation Sentences'는 보험에서 예문 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Essay Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Essay Translations'는 교육 문맥에서 번역 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Masquerade Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Conjugations는 동사 활용 조회 관용구인데 이벤트 가면무도회(Masquerade) 문맥에서 명사로 활용 조회 대상이 아니다 — 결합이 실제 서비스 대상을 만들지 못해 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Burger Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 아나그램 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tortoise Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Tortoise Chords'는 동물병원에서 코드(화음) 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gingivitis Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Gingivitis Lyrics'는 치과 문맥에서 가사 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Attic Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Attic Orthography'은 시설·자산 관리 업계의 철자 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Authorization",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 결제 승인 처리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Guide",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Bruschetta Guide'는 외식·케이터링에서 메뉴·조리 가이드 제공를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Agreement",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Prosciutto Agreement'는 외식·케이터링 문맥에서 공급·케이터링 계약 관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Account",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Tabbouleh Account'은 외식·케이터링 업계의 고객 계정 관리 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Match",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 식자재·수요 매칭 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Ceviche Lookup'는 외식·케이터링에서 메뉴·영양 정보 조회를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Model",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Guacamole Model'는 외식·케이터링 문맥에서 원가·가격 모형 관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Eligibility",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Empanada Eligibility'은 외식·케이터링 업계의 배달 가능 지역·자격 확인 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Barcode",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 재고 바코드 관리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Feedback",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Escargot Feedback'는 외식·케이터링에서 고객 피드백 수집를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Renewal",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Gyro Renewal'는 외식·케이터링 문맥에서 정기 구독 갱신 관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Warranty",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "식음업 Quinoa에는 보증(Warranty) 개념이 자연스럽게 성립하지 않아 어떤 SaaS인지 짐작되지 않는다 — 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Deposit",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 예약·주문 예치금 관리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Certification",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Satay Certification'는 외식·케이터링에서 위생 인증·자격 관리를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Nomination",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Nomination은 시상·추천 맥락인데 Moussaka 식음업 SaaS 문맥에서 결합이 서비스 대상을 만들지 못한다 — 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Correction",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Borscht Correction'은 외식·케이터링 업계의 주문·레시피 정정 처리 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Revision",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 메뉴·레시피 개정 관리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Payment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Jambalaya Payment'는 외식·케이터링에서 결제 처리를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Verification",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Shawarma Verification'는 외식·케이터링 문맥에서 배달·수령 확인 검증를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Simulator",
+  "approve": false,
+  "confidence": 0.62,
+  "reason": "Naan Simulator는 요리 게임·시뮬레이션 읽기가 지배해 식음업 SaaS 제품을 가리키지 못한다 — 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Predictor",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 수요 예측 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Seal",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Pierogi Seal'는 외식·케이터링에서 배달 포장 밀봉 확인를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Review",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Goulash Review'는 외식·케이터링 문맥에서 리뷰 수집·관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Recipe",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Tzatziki Recipe'은 외식·케이터링 업계의 레시피 관리 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Screening Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "채용 대상 음절 분석 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ticketing Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Ticketing Rhymes'는 이벤트에서 라임 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recall Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Recall Synonyms'는 자동차 문맥에서 유의어 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Waste Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Waste Antonyms'은 외식·케이터링 업계의 반의어 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Breed Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "동물병원 대상 예문 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chart Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Chart Translations'는 치과에서 번역 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pickup Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Pickup Anagrams'는 육아·돌봄 문맥에서 아나그램 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Vitals Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Vitals Chords'은 시니어 케어 업계의 코드(화음) 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recurring Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "해충방제 대상 가사 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Property Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Property Orthography'는 조경에서 철자 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Lawyer Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Lawyer Syllables'는 법률 문맥에서 음절 분석 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Consignment Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Consignment Rhymes'은 물류 업계의 라임 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Seller Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "부동산 대상 유의어 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Reinsurance Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Reinsurance Antonyms'는 보험에서 반의어 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Wage Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Wage Sentences'는 인사·급여 문맥에서 예문 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Remodel Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Remodel Translations'은 건설 업계의 번역 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Clearance Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Conjugations는 동사 활용 조회 관용구인데 재고 할인(Clearance)은 명사로 활용 조회 대상이 아니다 — 결합이 실제 서비스 대상을 만들지 못해 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quarter Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Quarter Anagrams'는 교육에서 아나그램 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mayor Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Mayor Chords'는 공공 문맥에서 코드(화음) 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Article Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Article Lyrics'은 미디어·출판 업계의 가사 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Smartphone Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "통신 대상 철자 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mediation Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Mediation Rhymes'는 법률에서 라임 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Backhaul Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Backhaul Synonyms'는 물류 문맥에서 유의어 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Refinance Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Refinance Antonyms'은 부동산 업계의 반의어 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cancellation Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "보험 대상 예문 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demotion Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Demotion Translations'는 인사·급여에서 번역 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demolition Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Conjugations는 동사 활용 조회 관용구인데 철거(Demolition)는 명사로 활용 조회 대상이 아니다 — 결합이 실제 서비스 대상을 만들지 못해 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Commencement Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Commencement Anagrams'은 교육 업계의 아나그램 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recycling Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "공공 대상 코드(화음) 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ad Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Ad Lyrics'는 미디어·출판에서 가사 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Backlog Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Backlog Orthography'는 고객지원 문맥에서 철자 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gecko Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Gecko Syllables'은 동물병원 업계의 음절 분석 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Sealant Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "치과 대상 라임 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Basement Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Basement Synonyms'는 시설·자산 관리에서 유의어 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Daytrip Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Daytrip Antonyms'는 여행 문맥에서 반의어 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Auscultation Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Auscultation Sentences'은 의료 업계의 예문 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Investigation Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "보험 대상 번역 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Essay Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Conjugations는 동사 활용 조회 관용구인데 교육 에세이(Essay) 문맥에서 명사로 활용 조회 대상이 아니다 — 결합이 실제 서비스 대상을 만들지 못해 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Masquerade Anagrams",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Masquerade Anagrams'는 이벤트 문맥에서 아나그램 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Burger Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Burger Chords'은 외식·케이터링 업계의 코드(화음) 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tortoise Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "동물병원 대상 가사 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gingivitis Orthography",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Gingivitis Orthography'는 치과에서 철자 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Template",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Acai Template'는 외식·케이터링 문맥에서 메뉴·메모 템플릿 관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Rating",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Bruschetta Rating'은 외식·케이터링 업계의 메뉴 평점·평가 관리 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 고객 리뷰 답글 관리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Case",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Tabbouleh 식음업 문맥에서 Case(케이스)는 산물 포장 단위 읽기가 지배해 어떤 SaaS인지 짐작되지 않는다 — 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Validation",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Edamame Validation'는 외식·케이터링 문맥에서 위생·식안전 검증 체크를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Ping",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Ping은 네트워크·운영 모니터링 은어라 Ceviche 식음업 문맥에서 가리키는 기능이 성립하지 않는다 — 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Availability",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 메뉴 품목 가용성 표기 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Broadcast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Empanada Broadcast'는 외식·케이터링에서 프로모션·공지 발송를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Appointment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Bratwurst Appointment'는 외식·케이터링 문맥에서 시식·케이터링 예약 관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Invoice",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Escargot Invoice'은 외식·케이터링 업계의 청구서 발행 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Quote",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 케이터링 견적 관리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Deposit",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Quinoa Deposit'는 외식·케이터링에서 예약·주문 예치금 관리를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Certification",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Mochi Certification'는 외식·케이터링 문맥에서 위생 인증·자격 관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Nomination",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Nomination은 시상·추천 맥락인데 Satay 식음업 SaaS 문맥에서 결합이 서비스 대상을 만들지 못한다 — 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Correction",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 주문·레시피 정정 처리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Revision",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Borscht Revision'는 외식·케이터링에서 메뉴·레시피 개정 관리를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Payment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Gumbo Payment'는 외식·케이터링 문맥에서 결제 처리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Verification",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Jambalaya Verification'은 외식·케이터링 업계의 배달·수령 확인 검증 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Simulator",
+  "approve": false,
+  "confidence": 0.62,
+  "reason": "Shawarma Simulator는 요리 게임·시뮬레이션 읽기가 지배해 식음업 SaaS 제품을 가리키지 못한다 — 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Predictor",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Naan Predictor'는 외식·케이터링에서 수요 예측를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Seal",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Arepa Seal'는 외식·케이터링 문맥에서 배달 포장 밀봉 확인를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Review",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Pierogi Review'은 외식·케이터링 업계의 리뷰 수집·관리 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Recipe",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "외식·케이터링 대상 레시피 관리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Video",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Tzatziki Video'는 외식·케이터링에서 메뉴 홍보 영상 관리를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Warranty Syllables",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Warranty Syllables'는 고객지원 문맥에서 음절 분석 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Screening Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Screening Rhymes'은 채용 업계의 라임 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ticketing Synonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "이벤트 대상 유의어 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recall Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Recall Antonyms'는 자동차에서 반의어 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Waste Sentences",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Waste Sentences'는 외식·케이터링 문맥에서 예문 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Breed Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Breed Translations'은 동물병원 업계의 번역 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chart Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Conjugations는 동사 활용 조회 관용구인데 치과 진료 기록(Chart)은 명사로 활용 조회 대상이 아니다 — 결합이 실제 서비스 대상을 만들지 못해 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pickup Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Pickup Chords'는 육아·돌봄에서 코드(화음) 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ }
+]

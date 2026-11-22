@@ -1,0 +1,1002 @@
+[
+ {
+  "industry": "veterinary",
+  "original_reason": "동물병원 대상 가사 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "title": "Tortoise Lyrics"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "'Gingivitis Orthography'는 치과에서 철자 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "title": "Gingivitis Orthography"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Acai Template'는 외식·케이터링 문맥에서 메뉴·메모 템플릿 관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "title": "Acai Template"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Bruschetta Rating'은 외식·케이터링 업계의 메뉴 평점·평가 관리 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "title": "Bruschetta Rating"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "외식·케이터링 대상 고객 리뷰 답글 관리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "title": "Prosciutto Reply"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Edamame Validation'는 외식·케이터링 문맥에서 위생·식안전 검증 체크를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "title": "Edamame Validation"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "외식·케이터링 대상 메뉴 품목 가용성 표기 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "title": "Guacamole Availability"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Empanada Broadcast'는 외식·케이터링에서 프로모션·공지 발송를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "title": "Empanada Broadcast"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Bratwurst Appointment'는 외식·케이터링 문맥에서 시식·케이터링 예약 관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "title": "Bratwurst Appointment"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Escargot Invoice'은 외식·케이터링 업계의 청구서 발행 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "title": "Escargot Invoice"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "외식·케이터링 대상 케이터링 견적 관리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "title": "Gyro Quote"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Quinoa Deposit'는 외식·케이터링에서 예약·주문 예치금 관리를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "title": "Quinoa Deposit"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Mochi Certification'는 외식·케이터링 문맥에서 위생 인증·자격 관리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "title": "Mochi Certification"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "외식·케이터링 대상 주문·레시피 정정 처리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "title": "Moussaka Correction"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Borscht Revision'는 외식·케이터링에서 메뉴·레시피 개정 관리를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "title": "Borscht Revision"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Gumbo Payment'는 외식·케이터링 문맥에서 결제 처리를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "title": "Gumbo Payment"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Jambalaya Verification'은 외식·케이터링 업계의 배달·수령 확인 검증 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "title": "Jambalaya Verification"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Naan Predictor'는 외식·케이터링에서 수요 예측를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "title": "Naan Predictor"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Arepa Seal'는 외식·케이터링 문맥에서 배달 포장 밀봉 확인를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "title": "Arepa Seal"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Pierogi Review'은 외식·케이터링 업계의 리뷰 수집·관리 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "title": "Pierogi Review"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "외식·케이터링 대상 레시피 관리 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "title": "Goulash Recipe"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Tzatziki Video'는 외식·케이터링에서 메뉴 홍보 영상 관리를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "title": "Tzatziki Video"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "'Warranty Syllables'는 고객지원 문맥에서 음절 분석 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "title": "Warranty Syllables"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "'Screening Rhymes'은 채용 업계의 라임 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "title": "Screening Rhymes"
+ },
+ {
+  "industry": "events",
+  "original_reason": "이벤트 대상 유의어 조회 결합 서비스로 읽히는 결합이라 명확성이 성립한다. 배치 내 동의어 중복이 없고 상표 유사도 확인되지 않았다.",
+  "title": "Ticketing Synonyms"
+ },
+ {
+  "industry": "automotive",
+  "original_reason": "'Recall Antonyms'는 자동차에서 반의어 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "title": "Recall Antonyms"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "'Waste Sentences'는 외식·케이터링 문맥에서 예문 조회 결합를 가리키는 명칭으로 자연스럽게 읽혀, 어떤 SaaS인지 짐작 가능하고 배치 내 뜻이 겹치는 후보도 유명 서비스와 동일·유사한 이름도 없다.",
+  "title": "Waste Sentences"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "'Breed Translations'은 동물병원 업계의 번역 조회 결합 도구임이 바로 드러나는 조합이다. 같은 배치에서 의미가 겹치는 쌍도 없고 등록된 유명 브랜드와 충돌하지 않는다.",
+  "title": "Breed Translations"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "'Pickup Chords'는 육아·돌봄에서 코드(화음) 조회 결합를 담당하는 제품임을 바로 짐작게 한다. 중복·상표 두 기준도 문제없어 승인한다.",
+  "title": "Pickup Chords"
+ },
+ {
+  "industry": "pest_control",
+  "original_reason": "",
+  "title": "Recurring Orthography"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "",
+  "title": "Paycheck Syllables"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "",
+  "title": "Lawyer Rhymes"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "",
+  "title": "Consignment Synonyms"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "",
+  "title": "Seller Antonyms"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "",
+  "title": "Reinsurance Sentences"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "",
+  "title": "Wage Translations"
+ },
+ {
+  "industry": "retail_ecommerce",
+  "original_reason": "",
+  "title": "Clearance Anagrams"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "",
+  "title": "Article Orthography"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "",
+  "title": "Therapy Syllables"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "",
+  "title": "Mediation Synonyms"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "",
+  "title": "Backhaul Antonyms"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "",
+  "title": "Refinance Sentences"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "",
+  "title": "Cancellation Translations"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "",
+  "title": "Demolition Anagrams"
+ },
+ {
+  "industry": "media_publishing",
+  "original_reason": "",
+  "title": "Ad Orthography"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Nachos Syllables"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "",
+  "title": "Gecko Rhymes"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "",
+  "title": "Sealant Synonyms"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "",
+  "title": "Basement Antonyms"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "",
+  "title": "Daytrip Sentences"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "",
+  "title": "Auscultation Translations"
+ },
+ {
+  "industry": "education",
+  "original_reason": "",
+  "title": "Essay Anagrams"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "",
+  "title": "Tortoise Orthography"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Acai Guide"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Bruschetta Agreement"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Prosciutto Account"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Edamame Lookup"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Guacamole Eligibility"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Empanada Barcode"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Bratwurst Feedback"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Escargot Renewal"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Quinoa Certification"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Satay Correction"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Moussaka Revision"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Borscht Payment"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Gumbo Verification"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Naan Seal"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Arepa Review"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Pierogi Recipe"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Goulash Video"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Tzatziki Diary"
+ },
+ {
+  "industry": "it_devops",
+  "original_reason": "",
+  "title": "Rollback Syllables"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "",
+  "title": "Warranty Rhymes"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "",
+  "title": "Screening Synonyms"
+ },
+ {
+  "industry": "events",
+  "original_reason": "",
+  "title": "Ticketing Antonyms"
+ },
+ {
+  "industry": "automotive",
+  "original_reason": "",
+  "title": "Recall Sentences"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Waste Translations"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "",
+  "title": "Chart Anagrams"
+ },
+ {
+  "industry": "senior_care",
+  "original_reason": "",
+  "title": "Vitals Orthography"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "",
+  "title": "Nurse Syllables"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "",
+  "title": "Paycheck Rhymes"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "",
+  "title": "Lawyer Synonyms"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "",
+  "title": "Consignment Antonyms"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "",
+  "title": "Seller Sentences"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "",
+  "title": "Reinsurance Translations"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "",
+  "title": "Remodel Anagrams"
+ },
+ {
+  "industry": "government",
+  "original_reason": "",
+  "title": "Mayor Orthography"
+ },
+ {
+  "industry": "crafts_hobbies",
+  "original_reason": "",
+  "title": "Jigsaw Syllables"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "",
+  "title": "Therapy Rhymes"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "",
+  "title": "Mediation Antonyms"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "",
+  "title": "Backhaul Sentences"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "",
+  "title": "Refinance Translations"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "",
+  "title": "Demotion Anagrams"
+ },
+ {
+  "industry": "government",
+  "original_reason": "",
+  "title": "Recycling Orthography"
+ },
+ {
+  "industry": "events",
+  "original_reason": "",
+  "title": "Pinata Syllables"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Nachos Rhymes"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "",
+  "title": "Gecko Synonyms"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "",
+  "title": "Sealant Antonyms"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "",
+  "title": "Basement Sentences"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "",
+  "title": "Daytrip Translations"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "",
+  "title": "Investigation Anagrams"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Burger Orthography"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Acai Rating"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Ceviche Availability"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Empanada Appointment"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Bratwurst Invoice"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Escargot Quote"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Gyro Deposit"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Mochi Correction"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Satay Revision"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Moussaka Payment"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Borscht Verification"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Shawarma Seal"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Naan Review"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Arepa Recipe"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Pierogi Video"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Goulash Diary"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Tzatziki Refund"
+ },
+ {
+  "industry": "cybersecurity",
+  "original_reason": "",
+  "title": "Compliance Syllables"
+ },
+ {
+  "industry": "it_devops",
+  "original_reason": "",
+  "title": "Rollback Rhymes"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "",
+  "title": "Warranty Synonyms"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "",
+  "title": "Screening Antonyms"
+ },
+ {
+  "industry": "events",
+  "original_reason": "",
+  "title": "Ticketing Sentences"
+ },
+ {
+  "industry": "automotive",
+  "original_reason": "",
+  "title": "Recall Translations"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "",
+  "title": "Breed Anagrams"
+ },
+ {
+  "industry": "childcare",
+  "original_reason": "",
+  "title": "Pickup Orthography"
+ },
+ {
+  "industry": "houseplants_indoor_gardening",
+  "original_reason": "",
+  "title": "Roots Syllables"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "",
+  "title": "Nurse Rhymes"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "",
+  "title": "Paycheck Synonyms"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "",
+  "title": "Lawyer Antonyms"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "",
+  "title": "Consignment Sentences"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "",
+  "title": "Seller Translations"
+ },
+ {
+  "industry": "hr_payroll",
+  "original_reason": "",
+  "title": "Wage Anagrams"
+ },
+ {
+  "industry": "education",
+  "original_reason": "",
+  "title": "Quarter Orthography"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "",
+  "title": "Audition Syllables"
+ },
+ {
+  "industry": "crafts_hobbies",
+  "original_reason": "",
+  "title": "Jigsaw Rhymes"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "",
+  "title": "Therapy Synonyms"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "",
+  "title": "Mediation Sentences"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "",
+  "title": "Backhaul Translations"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "",
+  "title": "Cancellation Anagrams"
+ },
+ {
+  "industry": "education",
+  "original_reason": "",
+  "title": "Commencement Orthography"
+ },
+ {
+  "industry": "education",
+  "original_reason": "",
+  "title": "Geography Syllables"
+ },
+ {
+  "industry": "events",
+  "original_reason": "",
+  "title": "Pinata Rhymes"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Nachos Synonyms"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "",
+  "title": "Gecko Antonyms"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "",
+  "title": "Sealant Sentences"
+ },
+ {
+  "industry": "property_management_services",
+  "original_reason": "",
+  "title": "Basement Translations"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "",
+  "title": "Auscultation Anagrams"
+ },
+ {
+  "industry": "events",
+  "original_reason": "",
+  "title": "Masquerade Orthography"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Acai Agreement"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Bruschetta Account"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Tabbouleh Lookup"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Ceviche Eligibility"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Guacamole Barcode"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Empanada Feedback"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Bratwurst Renewal"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Gyro Certification"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Quinoa Correction"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Mochi Revision"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Satay Payment"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Moussaka Verification"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Jambalaya Seal"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Shawarma Review"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Naan Recipe"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Arepa Video"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Pierogi Diary"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Goulash Refund"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Tzatziki Expense"
+ },
+ {
+  "industry": "telecom",
+  "original_reason": "",
+  "title": "Ticket Syllables"
+ },
+ {
+  "industry": "cybersecurity",
+  "original_reason": "",
+  "title": "Compliance Rhymes"
+ },
+ {
+  "industry": "it_devops",
+  "original_reason": "",
+  "title": "Rollback Synonyms"
+ },
+ {
+  "industry": "customer_support",
+  "original_reason": "",
+  "title": "Warranty Antonyms"
+ },
+ {
+  "industry": "recruiting",
+  "original_reason": "",
+  "title": "Screening Sentences"
+ },
+ {
+  "industry": "events",
+  "original_reason": "",
+  "title": "Ticketing Translations"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "",
+  "title": "Waste Anagrams"
+ },
+ {
+  "industry": "crafts_hobbies",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Puzzle Syllables"
+ },
+ {
+  "industry": "houseplants_indoor_gardening",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Roots Rhymes"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Nurse Synonyms"
+ },
+ {
+  "industry": "finance",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Paycheck Antonyms"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Lawyer Sentences"
+ },
+ {
+  "industry": "logistics",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Consignment Translations"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Reinsurance Anagrams"
+ },
+ {
+  "industry": "retail_ecommerce",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Clearance Orthography"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Carnival Syllables"
+ },
+ {
+  "industry": "music_lessons",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Audition Rhymes"
+ },
+ {
+  "industry": "crafts_hobbies",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Jigsaw Synonyms"
+ },
+ {
+  "industry": "healthcare",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Therapy Antonyms"
+ },
+ {
+  "industry": "legal",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Mediation Translations"
+ },
+ {
+  "industry": "real_estate",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Refinance Anagrams"
+ },
+ {
+  "industry": "construction",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Demolition Orthography"
+ },
+ {
+  "industry": "insurance",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Verification Syllables"
+ },
+ {
+  "industry": "education",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Geography Rhymes"
+ },
+ {
+  "industry": "events",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Pinata Synonyms"
+ },
+ {
+  "industry": "food_service",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Nachos Antonyms"
+ },
+ {
+  "industry": "veterinary",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Gecko Sentences"
+ },
+ {
+  "industry": "dental",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Sealant Translations"
+ },
+ {
+  "industry": "travel_tourism",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Daytrip Anagrams"
+ },
+ {
+  "industry": "education",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Essay Orthography"
+ },
+ {
+  "industry": "telecom",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Ticket Rhymes"
+ },
+ {
+  "industry": "cybersecurity",
+  "original_reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "title": "Compliance Synonyms"
+ }
+]

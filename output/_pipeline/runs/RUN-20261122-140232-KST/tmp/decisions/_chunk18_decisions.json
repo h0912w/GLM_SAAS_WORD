@@ -1,0 +1,2202 @@
+[
+ {
+  "title": "Puzzle Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Roots Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Nurse Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Paycheck Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Lawyer Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Consignment Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Seller Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Seller는 명사라 동사 활용 조회인 Conjugations의 활용 대상이 성립하지 않아 지시되는 SaaS가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Reinsurance Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Wage Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "임금(Wage) 도메인에 코드(Chords) 조회 기능이 결합할 근거가 없어 지시되는 SaaS가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Remodel Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "리모델링(Remodel) 시공 맥락에 가사(Lyrics) 기능이 성립하지 않아 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Clearance Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Carnival Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Audition Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jigsaw Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Therapy Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mediation Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Backhaul Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Backhaul(귀환 운송)은 물류 명사라 동사 활용 조회인 Conjugations와 결합할 활용 대상이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Refinance Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cancellation Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "해지(Cancellation) 보험 맥락에서 코드(Chords) 조회가 지시하는 바가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Demotion Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "강등(Demotion) 인사 도메인에 가사(Lyrics) 기능이 결합할 근거가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Demolition Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Verification Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Geography Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pinata Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Nachos Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gecko Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Sealant Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Basement Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Basement는 공간 명사라 동사 활용 조회인 Conjugations의 대상이 될 수 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Daytrip Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Auscultation Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "청진(Auscultation) 의료 행위에 코드(Chords) 조회가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Investigation Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "조사(Investigation) 보험 심사 맥락에 가사(Lyrics)가 결합할 근거가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Essay Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Reply",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "아사이(Acai) 요리 맥락에서 Reply가 회신할 상대가 없어 어떤 SaaS인지 불명확하다(과거 'Acai Extension' 거절과 같은 신선 조어 계열)",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Bruschetta Case",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Bruschetta와 Case의 결합은 사례·보관함 어느 쪽으로도 제품이 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Prosciutto Validation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "생햄(Prosciutto)에 Validation이 검증할 대상 없이 붙어 신선 조어로 읽힌다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Tabbouleh Ping",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Tabbouleh에 Ping이 결합하면 상태 확인 대상이 없어 지시되는 SaaS가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Edamame Availability",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Edamame의 가용성(Availability)을 다루는 제품이 그려지지 않는 기능어 결합이다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Ceviche Broadcast",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Ceviche가 방송(Broadcast)할 대상이 없어 불명확한 신선 조어다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Guacamole Appointment",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "과카몰리에 예약(Appointment)을 붙여도 예약 주체·대상이 없어 제품이 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Empanada Invoice",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Empanada에 Invoice를 붙이면 발행 주체가 없는 신선 조어로 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Bratwurst Quote",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Bratwurst가 견적(Quote)을 내는 제품은 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Escargot Deposit",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Escargot에 보증금(Deposit)이 결합하면 예치 대상이 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Gyro Nomination",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Gyro와 Nomination의 결합은 지명 대상이 없어 지시되는 SaaS가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Quinoa Revision",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Quinoa가 수정(Revision)될 대상이 없어 불명확한 신선 조어다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Mochi Payment",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Mochi에 Payment를 붙여도 결제 주체·대상이 없어 제품이 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Satay Verification",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Satay가 검증(Verification)할 사실이 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Moussaka Simulator",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Moussaka Simulator는 요리 게임 장르명으로 읽혀 SaaS 제품으로 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Borscht Predictor",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Borscht가 예측(Predictor)할 데이터가 없어 지시되는 SaaS가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Gumbo Seal",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Gumbo에 Seal(봉인/실링)이 결합하면 봉인 대상이 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Jambalaya Review",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Jambalaya Review는 요리 후기 콘텐츠 키워드로 읽혀 어떤 SaaS 제품인지 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Shawarma Recipe",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Shawarma Recipe는 레시피 콘텐츠 키워드로 읽혀 SaaS 제품명으로 성립이 약하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Naan Video",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Naan Video는 요리 영상 키워드로 읽혀 지시되는 제품이 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Arepa Diary",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Arepa Diary는 음식 일기 콘텐츠로 읽혀 SaaS 제품이 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Pierogi Refund",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Pierogi에 환불(Refund)이 결합하면 환불 주체가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Goulash Expense",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Goulash가 비용(Expense) 처리될 제품은 그려지지 않는 신선 조어다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Tzatziki Newsletter",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Tzatziki Newsletter는 뉴스레터 콘텐츠 키워드로 읽혀 SaaS 제품명이 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Ticket Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Compliance Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rollback Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Warranty Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Screening Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ticketing Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Ticketing(티켓팅)은 명사 행위라 동사 활용 조회인 Conjugations로 활용형을 만들 대상이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Recall Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Waste Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "폐기물(Waste) 처리 도메인에 코드(Chords) 조회 기능이 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Breed Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "번식(Breed) 브리딩 맥락에서 가사(Lyrics)가 지시하는 기능이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Chart Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Harp Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Puzzle Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Roots Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Nurse Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Paycheck Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Lawyer Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Consignment Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Consignment는 위탁 운송 명사라 동사 활용 조회인 Conjugations와 결합해도 기능이 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Seller Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Reinsurance Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "재보험(Reinsurance) 도메인에 코드(Chords) 조회가 결합할 근거가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Wage Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "임금(Wage) 급여 도메인에 가사(Lyrics) 기능이 성립하지 않아 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Remodel Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Elbow Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Carnival Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Audition Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jigsaw Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Therapy Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mediation Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Mediation은 조정 행위 명사로 동사 활용 조회인 Conjugations의 대상이 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Backhaul Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Refinance Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "대환 대출(Refinance)에 코드(Chords) 조회 기능이 결합할 근거가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Cancellation Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "해지(Cancellation) 보험 맥락에서 가사(Lyrics)가 지시하는 기능이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Demotion Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Comorbidity Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Verification Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Geography Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pinata Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Nachos Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gecko Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Sealant Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Sealant는 충전재 명사라 동사 활용 조회인 Conjugations로 지시되는 기능이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Basement Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Daytrip Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "당일여행(Daytrip) 도메인에 코드(Chords) 조회가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Auscultation Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "청진(Auscultation) 의료 행위에 가사(Lyrics)가 결합할 근거가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Investigation Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Account",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "아사이(Acai)에 계정(Account)을 붙여도 계정 주체가 없어 어떤 SaaS인지 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Bruschetta Match",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Bruschetta가 매칭(Match)할 상대가 없어 지시되는 제품이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Prosciutto Lookup",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "생햄(Prosciutto)을 조회(Lookup)할 데이터가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Tabbouleh Model",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Tabbouleh에 Model이 결합하면 모델링 대상이 없어 신선 조어로 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Edamame Eligibility",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Edamame이 자격(Eligibility)을 가질 대상이 없어 제품이 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Ceviche Barcode",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Ceviche에 바코드(Barcode)가 결합해도 스캔 대상·용도가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Guacamole Feedback",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "과카몰리에 피드백(Feedback)을 붙이면 수집 대상이 없는 신선 조어로 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Empanada Renewal",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Empanada가 갱신(Renewal)할 계약이 없어 지시되는 SaaS가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Bratwurst Warranty",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Bratwurst에 보증(Warranty)이 결합하면 보증 대상 제품이 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Escargot Certification",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Escargot이 인증(Certification)받을 체계가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Gyro Correction",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Gyro가 정정(Correction)할 데이터가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Quinoa Payment",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Quinoa에 결제(Payment)를 붙여도 결제 주체가 없는 신선 조어다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Mochi Verification",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Mochi가 검증(Verification)할 대상이 없어 제품이 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Satay Simulator",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Satay Simulator는 게임 장르명으로 읽혀 SaaS로 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Moussaka Predictor",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Moussaka가 예측(Predictor)할 신호가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Borscht Seal",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Borscht에 Seal이 결합하면 봉인 대상이 없어 지시되는 SaaS가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Gumbo Review",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Gumbo Review는 후기 콘텐츠 키워드로 읽혀 SaaS 제품명이 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Jambalaya Recipe",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Jambalaya Recipe는 레시피 키워드로 읽혀 제품명으로 성립이 약하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Shawarma Video",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Shawarma Video는 영상 콘텐츠 키워드로 읽혀 SaaS가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Naan Diary",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Naan Diary는 음식 일기 콘텐츠로 읽혀 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Arepa Refund",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Arepa에 환불(Refund)이 결합하면 환불 주체가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Pierogi Expense",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Pierogi가 비용(Expense) 처리될 제품은 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Goulash Newsletter",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Goulash Newsletter는 뉴스레터 키워드로 읽혀 SaaS 제품명이 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Tzatziki Inventory",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Tzatziki에 재고(Inventory)를 붙이면 재고 주체가 없는 신선 조어로 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Broadcast Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ticket Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Compliance Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rollback Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Warranty Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Screening Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Screening은 심사/선별 명사라 동사 활용 조회인 Conjugations와 결합해도 SaaS가 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Ticketing Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recall Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "리콜(Recall) 자동차 도메인에 코드(Chords) 조회 기능이 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Waste Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "폐기물(Waste) 처리 맥락에 가사(Lyrics)가 결합할 근거가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Breed Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Beach Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Harp Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Puzzle Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Roots Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Nurse Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Paycheck Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Lawyer Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Lawyer는 인물 명사라 동사 활용 조회인 Conjugations의 활용 대상이 될 수 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Consignment Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Seller Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "매도인(Seller) 부동산 맥락에서 코드(Chords) 조회가 지시하는 바가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Reinsurance Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "재보험(Reinsurance) 도메인에 가사(Lyrics) 기능이 성립하지 않아 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Wage Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Hose Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Elbow Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Carnival Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Audition Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jigsaw Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Therapy Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mediation Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Backhaul Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "귀환 운송(Backhaul) 물류에 코드(Chords) 조회가 결합할 근거가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Refinance Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "대환 대출(Refinance)에 가사(Lyrics) 기능이 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Cancellation Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Crossstitch Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Comorbidity Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Verification Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Geography Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pinata Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Nachos Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gecko Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Gecko는 동물 명사라 동사 활용 조회인 Conjugations와 결합할 문법적 대상이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Sealant Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Basement Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "지하실(Basement) 공간에 코드(Chords) 조회 기능이 결합할 근거가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Daytrip Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "당일여행(Daytrip) 도메인에 가사(Lyrics)가 성립하지 않아 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Auscultation Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Case",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "아사이(Acai)와 Case의 결합은 사례·보관함 어느 쪽으로도 제품이 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Bruschetta Validation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Bruschetta가 검증(Validation)할 대상이 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Prosciutto Ping",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "생햄(Prosciutto)에 Ping이 결합하면 상태 확인 대상이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Tabbouleh Availability",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Tabbouleh의 가용성(Availability)을 다루는 제품이 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Edamame Broadcast",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Edamame이 방송(Broadcast)할 대상이 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Ceviche Appointment",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Ceviche에 예약(Appointment)이 결합해도 예약 주체가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Guacamole Invoice",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "과카몰리에 Invoice를 붙이면 발행 주체가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Empanada Quote",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Empanada가 견적(Quote)을 내는 제품은 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Bratwurst Deposit",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Bratwurst에 보증금(Deposit)이 결합하면 예치 대상이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Escargot Nomination",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Escargot이 지명(Nomination)될 대상이 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Gyro Revision",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Gyro가 수정(Revision)될 대상이 없어 신선 조어로 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Quinoa Verification",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Quinoa가 검증(Verification)할 사실이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Mochi Simulator",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Mochi Simulator는 게임 장르명으로 읽혀 SaaS로 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Satay Predictor",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Satay가 예측(Predictor)할 데이터가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Moussaka Seal",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Moussaka에 Seal이 결합하면 봉인 대상이 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Borscht Review",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Borscht Review는 후기 콘텐츠 키워드로 읽혀 SaaS 제품명이 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Gumbo Recipe",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Gumbo Recipe는 레시피 키워드로 읽혀 제품명으로 성립이 약하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Jambalaya Video",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Jambalaya Video는 영상 콘텐츠 키워드로 읽혀 SaaS가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Shawarma Diary",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Shawarma Diary는 음식 일기 콘텐츠로 읽혀 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Naan Refund",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Naan에 환불(Refund)이 결합하면 환불 주체가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Arepa Expense",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Arepa가 비용(Expense) 처리될 제품은 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Pierogi Newsletter",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Pierogi Newsletter는 뉴스레터 키워드로 읽혀 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Goulash Inventory",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Goulash에 재고(Inventory)를 붙이면 재고 주체가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Tzatziki Claim",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Tzatziki에 청구(Claim)가 결합하면 청구 주체·대상이 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Engagement Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Broadcast Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ticket Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Compliance Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rollback Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Warranty Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Warranty는 보증 명사라 동사 활용 조회인 Conjugations로 성립하는 기능이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Screening Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ticketing Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "티켓팅(Ticketing) 행사 도메인에 코드(Chords) 조회가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Recall Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "리콜(Recall) 자동차 도메인에 가사(Lyrics) 기능이 결합할 근거가 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": false,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Waste Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Snake Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Beach Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "쿼리절(function word) 결합 후보로 도메인 맥락에서 명확하고, 배치 내 의미 중복·유명 상표 유사도 없음",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ }
+]

@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Marina Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Orthography' with 'Marina' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Highlight Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Highlight' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Playlist Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Playlist' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Lease Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Lease' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Motor Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Motor' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Grout Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Grout' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Aquarium Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Aquarium' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Practice Conjugations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: practice is a verb anchor; conjugation verb-usage reading intact"
+ },
+ {
+  "title": "Sudoku Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Anagrams' with 'Sudoku' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Rent Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Rent' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Skyline Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Skyline' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Rhythm Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Rhythm' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Bonsai Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Bonsai' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Jogging Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Jogging' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Arraignment Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Arraignment' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Kindergarten Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Anagrams' with 'Kindergarten' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Bird Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Orthography' with 'Bird' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Acai Requirement",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Requirement is a dead SaaS/HR fragment on a food anchor ('Acai Requirement' has no readable product reading)"
+ },
+ {
+  "title": "Bruschetta Resignation",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Resignation is an HR fragment unreadable on a food anchor (established Depreciation/Resignation flip family)"
+ },
+ {
+  "title": "Tabbouleh Tutorial",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (cooking tutorial content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Edamame Timetable",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (kitchen prep timetable reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Ceviche Gift",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: gift-card / edible-gift reading for a restaurant product"
+ },
+ {
+  "title": "Guacamole Tournament",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: guacamole-making contest / cook-off reading in kitchen context"
+ },
+ {
+  "title": "Empanada App",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (recipe/ordering app reading; anchor is not a software trademark); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Gyro Quantity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (ingredient quantity/portioning reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Quinoa Analysis",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (menu/nutrition analysis reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Mochi Coach",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (cooking coach guidance reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Satay Habit",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Habit is a dead-pattern fragment on food anchors (established flip family); no readable satay product reading"
+ },
+ {
+  "title": "Moussaka Help",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Help duplicates the Helper/Assistant function-word family (semantic duplication) and reads vague standalone"
+ },
+ {
+  "title": "Borscht Ideas",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (recipe ideas content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Gumbo Basics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (beginner recipe basics content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Jambalaya Names",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (dish/menu naming ideas reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Shawarma Questions",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (FAQ content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Naan Date",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Date is an established fragment flip on food anchors; calendar-date reading unreadable as a standalone title"
+ },
+ {
+  "title": "Arepa Steps",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (recipe steps reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Pierogi Alternatives",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (ingredient alternatives reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Goulash Courses",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (cooking course / meal courses reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Tzatziki Examples",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (recipe examples content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Embroidery Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Embroidery' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Fern Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Fern' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Payment Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Payment' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Redline Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Redline' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Pallet Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Pallet' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Toothache Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Toothache' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Treadmill Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Treadmill' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Toddler Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Toddler' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Walker Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Walker' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Mosquito Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Mosquito' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Mulch Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Mulch' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Stain Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Anagrams' with 'Stain' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Pharmacist Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Orthography' with 'Pharmacist' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Relocation Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Relocation' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Highlight Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Highlight' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Playlist Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Playlist' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Lease Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Lease' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Motor Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Motor' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Grout Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Grout' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Practice Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Anagrams' with 'Practice' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Emergency Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Orthography' with 'Emergency' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Mold Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Mold' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Rent Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Rent' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Skyline Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Skyline' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Rhythm Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Rhythm' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Bonsai Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Bonsai' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Jogging Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Jogging' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Surcharge Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Anagrams' with 'Surcharge' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Seafood Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Orthography' with 'Seafood' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Acai Depreciation",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Depreciation is an accounting/HR fragment unreadable on a food anchor"
+ },
+ {
+  "title": "Bruschetta Hazard",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (food-safety hazard analysis (HACCP) reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Tabbouleh Handbook",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (kitchen handbook reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Edamame Opinion",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: reviews/opinion content reading is readable, though weak"
+ },
+ {
+  "title": "Guacamole Flyer",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (marketing flyer reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Empanada Tips",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (cooking tips reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Bratwurst Workbook",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (staff training workbook reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Escargot Spec",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe spec sheet — 'spec' is standard kitchen/restaurant jargon"
+ },
+ {
+  "title": "Quinoa Coach",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (cooking coach guidance reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Mochi Habit",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Habit is a dead-pattern fragment on food anchors (established flip family); no readable mochi product reading"
+ },
+ {
+  "title": "Satay Help",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Help duplicates the Helper/Assistant function-word family (semantic duplication) and reads vague standalone"
+ },
+ {
+  "title": "Moussaka Ideas",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (recipe ideas content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Borscht Basics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (beginner recipe basics content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Gumbo Names",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (dish/menu naming ideas reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Jambalaya Questions",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (FAQ content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Shawarma Date",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Date is an established fragment flip on food anchors; calendar-date reading unreadable as a standalone title"
+ },
+ {
+  "title": "Naan Steps",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (recipe steps reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Arepa Alternatives",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (ingredient alternatives reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Pierogi Courses",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (cooking course / meal courses reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Goulash Examples",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (recipe examples content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Vocal Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Vocal' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Embroidery Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Embroidery' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Fern Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Fern' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Payment Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Payment' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Redline Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Redline' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Change Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Orthography' with 'Change' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Kennel Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Kennel' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Toothache Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Toothache' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Treadmill Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Treadmill' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Toddler Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Toddler' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Walker Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Walker' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Mosquito Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Mosquito' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Furniture Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Anagrams' with 'Furniture' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Haircut Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Orthography' with 'Haircut' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Simultaneous Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Simultaneous' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Relocation Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Relocation' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Highlight Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Highlight' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Playlist Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Playlist' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Lease Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Lease' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Motor Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Motor' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Grout Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: grout is a noun-dominant non-grammar anchor (tiling/plumbing material); Conjugations pairing defective per Crew/Waitlist precedent"
+ },
+ {
+  "title": "Aquarium Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Anagrams' with 'Aquarium' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Practice Chords",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: chord practice in music-lessons context (music anchor defense stands)"
+ },
+ {
+  "title": "Geranium Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Orthography' with 'Geranium' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Barbell Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Barbell' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Mold Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Mold' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Rent Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Rent' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Skyline Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Skyline' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Rhythm Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Rhythm' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Bonsai Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Bonsai' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Jogging Conjugations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: jogging is a gerund anchor; conjugation verb-usage reading intact"
+ },
+ {
+  "title": "Arraignment Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Anagrams' with 'Arraignment' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Kindergarten Lyrics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: kindergarten song lyrics is a real teacher/parent query — music-education reading per Preschool precedent"
+ },
+ {
+  "title": "Fireworks Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Orthography' with 'Fireworks' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Prosciutto Tutorial",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (cooking tutorial content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Tabbouleh Timetable",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (kitchen prep timetable reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Edamame Gift",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: gift-card / edible-gift reading for a restaurant product"
+ },
+ {
+  "title": "Ceviche Tournament",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: ceviche-making contest / cook-off reading in kitchen context"
+ },
+ {
+  "title": "Empanada Advice",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Advice duplicates Empanada Tips — Tips/Advice near-synonym pair on the same anchor both approved (semantic duplication)"
+ },
+ {
+  "title": "Escargot Quantity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (ingredient quantity/portioning reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Gyro Analysis",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (menu/nutrition analysis reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Quinoa Habit",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Habit is a dead-pattern fragment on food anchors (established flip family); no readable quinoa product reading"
+ },
+ {
+  "title": "Mochi Help",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Help duplicates the Helper/Assistant function-word family (semantic duplication) and reads vague standalone"
+ },
+ {
+  "title": "Satay Ideas",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (recipe ideas content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Moussaka Basics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (beginner recipe basics content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Borscht Names",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (dish/menu naming ideas reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Gumbo Questions",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (FAQ content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Jambalaya Date",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Date is an established fragment flip on food anchors; calendar-date reading unreadable as a standalone title"
+ },
+ {
+  "title": "Shawarma Steps",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (recipe steps reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Naan Alternatives",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (ingredient alternatives reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Arepa Courses",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (cooking course / meal courses reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Pierogi Examples",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (recipe examples content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Trip Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Trip' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Vocal Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Vocal' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Embroidery Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Embroidery' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Fern Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Fern' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Payment Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Payment' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Redline Conjugations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: 'to redline' is the dominant professional verb sense in legal editing; verb-usage conjugation reading intact"
+ },
+ {
+  "title": "Pallet Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Anagrams' with 'Pallet' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Leave Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Orthography' with 'Leave' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Chef Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Chef' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Kennel Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Kennel' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Toothache Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Toothache' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Treadmill Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Treadmill' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Toddler Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Toddler' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Walker Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Walker' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Mulch Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Anagrams' with 'Mulch' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Cremation Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Orthography' with 'Cremation' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Pinning Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: pinning is a real locksmith term (lock pinning/rekeying)"
+ },
+ {
+  "title": "Simultaneous Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Simultaneous' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Relocation Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Relocation' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Highlight Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Highlight' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Playlist Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Playlist' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Lease Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Lease' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Grout Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Anagrams' with 'Grout' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Practice Lyrics",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: lyrics practice in music-lessons context (music anchor defense stands)"
+ },
+ {
+  "title": "Sudoku Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Orthography' with 'Sudoku' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Bite Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Bite' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Barbell Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Barbell' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Mold Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Mold' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Rent Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Rent' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Skyline Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Skyline' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Rhythm Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Translations' with 'Rhythm' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Jogging Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Anagrams' with 'Jogging' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Kindergarten Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Orthography' with 'Kindergarten' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Acai Hazard",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (food-safety hazard analysis (HACCP) reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Prosciutto Handbook",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (kitchen handbook reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Tabbouleh Opinion",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: reviews/opinion content reading is readable, though weak"
+ },
+ {
+  "title": "Ceviche Flyer",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (marketing flyer reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Guacamole Tips",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (cooking tips reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Empanada Workbook",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (staff training workbook reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Bratwurst Spec",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: recipe spec sheet — 'spec' is standard kitchen/restaurant jargon"
+ },
+ {
+  "title": "Gyro Coach",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (cooking coach guidance reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Quinoa Help",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Help duplicates the Helper/Assistant function-word family (semantic duplication) and reads vague standalone"
+ },
+ {
+  "title": "Mochi Ideas",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (recipe ideas content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Satay Basics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (beginner recipe basics content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Moussaka Names",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (dish/menu naming ideas reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Borscht Questions",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (FAQ content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Gumbo Date",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: Date is an established fragment flip on food anchors; calendar-date reading unreadable as a standalone title"
+ },
+ {
+  "title": "Jambalaya Steps",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (recipe steps reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Shawarma Alternatives",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (ingredient alternatives reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Naan Courses",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (cooking course / meal courses reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Arepa Examples",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: readable restaurant/food-content reading (recipe examples content reading); refutation pass found no clearer defect"
+ },
+ {
+  "title": "Sink Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Sink' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Trip Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Trip' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Vocal Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Vocal' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Embroidery Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Embroidery' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Fern Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Sentences' with 'Fern' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Redline Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Anagrams' with 'Redline' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Emission Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Syllables' with 'Emission' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Chef Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Rhymes' with 'Chef' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Kennel Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Synonyms' with 'Kennel' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ },
+ {
+  "title": "Toothache Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause vocab tool 'Antonyms' with 'Toothache' anchor — reading intact, no trademark, no anchor defect found on refutation"
+ }
+]

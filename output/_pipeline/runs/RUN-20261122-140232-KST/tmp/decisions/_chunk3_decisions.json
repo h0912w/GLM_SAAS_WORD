@@ -1,0 +1,2202 @@
+[
+ {
+  "title": "Insomnia Chords",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "불면 완화용 코드·앰비언트 연주 앱으로 읽히는 'Insomnia'+'Chords' 결합으로 실제 서비스 대상이 그려지고 중복·상표 없음. 음악 해석이 우세한지는 약간 애매해 신뢰도 보통.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Reserve Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "'Reserve'와 가사 'Lyrics'의 결합이 어떤 서비스 기능도 지시하지 못함 - 준비금과 가사는 결합 대상이 성립하지 않아 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Flashcard Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Flashcard' 학습 도메인에 철자 조회 관용구 'Orthography'를 얹은 사전 조회형 도구로 읽히고, 배치 내 중복·상표 요인 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Sketch",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Acai' 볼 업계에서 'Sketch'가 무엇을 그리는지 서비스 대상이 만들어지지 않음(과거 'Acai Extension' 기각과 같은 결) - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Rendering",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Bruschetta' 음식 3D 렌더링·메뉴 이미지 생성 도구로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Kit",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Prosciutto' 밀 키트·준비 키트 서비스로 명확한 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Message",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Tabbouleh'에 'Message'가 어떤 메시지를 누구에게 보내는지 불명확해 서비스 대상이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Widget",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Edamame' 판매·주문 위젯으로 읽히는 구체 기능 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Announcement",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Ceviche' 신메뉴 공지·출시 알림 도구로 읽히며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Converter",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "'Guacamole Converter'는 무엇을 무엇으로 변환하는지 불명확해 기능 대상이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Recorder",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Empanada'와 'Recorder'의 결합은 무엇을 녹음·기록하는지 불명확해 서비스가 그려지지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Checker",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Bratwurst' 굽기 완성도·신선도 확인 도구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Timer",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Escargot' 조리 타이머로 읽히는 실용 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Guardian",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Gyro' 위생·보관 상태 감시 도구로 읽히는 은유+기능 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Stage",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "'Quinoa Stage'가 조리 단계인지 무대인지 해석이 갈리고 어떤 기능도 지시하지 못해 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Result",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Mochi Result'는 무엇의 결과인지 불명확해 제품 기능이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Streak",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Satay' 연속 판매·식단 기록 스트릭 추적으로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Rank",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Moussaka' 메뉴 순위·평판 랭킹 도구로 읽히며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Trend",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Borscht' 메뉴 트렌드 분석 도구로 명확한 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Comparison",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Gumbo' 메뉴·레시피 비교 도구로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Proposal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Jambalaya' 케이터링 제안서 작성 도구로 읽히며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Guarantee",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Shawarma' 품질·신선도 보증 관리 도구로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Record",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Naan' 생산·품질 기록부로 읽히는 결합으로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Arepa' 메뉴·마케팅 카피 생성 도구로 읽히며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Reading",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "'Pierogi'에 'Reading'이 온도 계량인지 열람인지 불명확하고 실제 서비스 대상이 만들어지지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Reference",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Goulash' 레시피·자료 참조 라이브러리로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Forecast",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Tzatziki' 수요 예측 도구로 명확한 기능 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Material Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Material'이라는 단어의 음절 조회로 읽히는 사전 쿼리 결합으로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Storefront Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Storefront'의 라임 조회 관용구로 사전 조회 도구가 명확하고, 배치 내 동의어 겹침·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Booking Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Booking'의 유의어 조회로 읽히며 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Syllabus Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Syllabus'의 반의어 조회 관용구 결합으로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Batch Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Batch'라는 단어의 예문 조회로 읽히는 결합으로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Grazing Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Grazing'의 번역 조회 관용구로 사전/번역 도구가 연상되고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demand Conjugations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'to demand'의 동사 활용 조회로 읽히는 'Conjugations' 관용구 결합으로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Impact Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Impact'의 애나그램 조회로 명확한 사전 쿼리 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Referral Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "'Referral'과 가사 'Lyrics'는 결합해도 서비스 기능이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Licensing Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Licensing'의 철자 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Leaf Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Leaf'의 음절 조회로 읽히는 결합으로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Clinic Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Clinic'의 라임 조회 관용구로 명확하고 배치 내 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Attorney Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Attorney'의 반의어 조회로 명확한 사전 쿼리이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Consignee Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Consignee'의 예문 조회 관용구 결합으로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rezoning Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Rezoning'의 번역 조회로 읽히며 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Loss Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "'Loss'는 동사가 없는 명사라 활용 조회 'Conjugations'와 결합해도 조회 대상이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bonus Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Bonus'의 애나그램 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Electrical Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "'Electrical'은 전기 공사 도메인이라 코드 'Chords'와의 결합이 전기 서비스에서 성립하지 않고 음악 해석도 앵커와 어긋남 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Thrift Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "'Thrift' 중고 판매 도메인과 가사 'Lyrics'는 서비스 대상이 만들어지지 않는 결합 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Credit Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Credit'의 철자 조회로 읽히는 사전 쿼리 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Editor Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Editor'의 음절 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Contact Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Contact'의 라임 조회로 명확한 사전 쿼리이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Portfolio Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Portfolio'의 유의어 조회 관용구 결합으로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Checkin Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Checkin'의 반의어 조회로 읽히며 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Headlight Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Headlight'의 예문 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Brunch Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Brunch'의 번역 조회로 명확한 사전 쿼리 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shelter Conjugations",
+  "approve": true,
+  "confidence": 0.62,
+  "reason": "'to shelter' 동사의 활용 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cleaning Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Cleaning'의 애나그램 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Boxing Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "'Boxing' 권투 도메인에 코드 'Chords'가 붙어도 어떤 제품도 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Nap Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Nap' 낮잠 시간용 자장가·가사 콘텐츠 도구로 읽힐 여지가 있어 승인하나 해석이 한쪽으로 몰리지 않아 신뢰도 낮음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tree Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Tree'의 철자 조회로 읽히는 결합으로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Migraine Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Migraine'의 음절 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rebate Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Rebate'의 라임 조회로 명확한 사전 쿼리이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Homeschool Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Homeschool'의 유의어 조회 관용구 결합으로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Anniversary Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Anniversary'의 반의어 조회로 읽히며 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Kebab Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Kebab'의 예문 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Groomer Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Groomer'의 번역 조회로 명확한 사전 쿼리 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Malocclusion Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "'Malocclusion'은 부정교합 명사로 동사 활용이 없어 'Conjugations' 조회 대상이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Intercom Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Intercom'의 애나그램 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Winery Chords",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "'Winery'와 코드 'Chords'의 결합은 와이너리 공연 코드 검색 같은 해석도 억지스러워 서비스 대상이 불분명 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Insomnia Lyrics",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "불면과 가사 'Lyrics'의 결합은 'Insomnia Chords'와 달리 가사로 만들어지는 서비스 기능이 떠오르지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Reserve Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Reserve'의 철자 조회로 읽히는 결합으로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Outline",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Acai'에 'Outline'이 무엇의 개요·윤곽인지 불명확해 서비스가 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Notification",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Bruschetta' 주문 준비·재고 알림 도구로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Count",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Prosciutto' 재고 수량 카운트 도구로 읽히며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Total",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Tabbouleh' 주문 합계·정산 도구로 읽히나 'Total'이 다소 막연해 신뢰도 보통.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Repository",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Edamame' 레시피·자료 저장소로 읽히는 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Calculator",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Ceviche' 레시피·영양·원가 계산기로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Generator",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Guacamole' 레시피 변형 생성기로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Estimator",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Empanada' 케이터링 수량·원가 추정기로 읽히며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Detector",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Bratwurst' 익힘·이물 감지 도구로 읽히며 Checker와 결이 달라 독립 기능으로 보고 중복 아님, 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Workshop",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Escargot' 요리 워크숍 예약·운영 도구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Helper",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "'Helper'가 무엇을 도와주는지 구체 기능 없이 막연해 'Gyro Helper'는 서비스 대상이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Result",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Quinoa Result'는 무엇의 결과인지 불명확해 기능이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Streak",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Mochi' 연속 기록 스트릭 추적으로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Rank",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Satay' 메뉴 순위 도구로 읽히며 Streak와 기능이 달라 중복이 아니고 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Trend",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Moussaka' 트렌드 분석으로 명확하고 Rank와 결이 달라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Comparison",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Borscht' 메뉴 비교 도구로 읽히고 Trend와 별개 기능이라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Proposal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Gumbo' 케이터링 제안 도구로 읽히며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Guarantee",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Jambalaya' 품질 보증 관리로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Record",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Shawarma' 생산·판매 기록 장부로 명확하고 Guarantee와 별개 기능이라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Naan' 메뉴 카피 생성 도구로 읽히며 Record와 결이 달라 중복이 아니고 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Reading",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "'Arepa'와 'Reading'의 결합은 계량·열람 어느 쪽도 서비스로 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Reference",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Pierogi' 레시피 참고 자료실로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Forecast",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Goulash' 수요 예측 도구로 명확하고 Reference와 별개 기능이라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Deadline",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Tzatziki' 조리·준비 기한 관리 도구로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Payroll Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Payroll'의 음절 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Material Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Material'의 라임 조회로 명확하고, 같은 앵커의 Syllables와 조회 절이 달라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Storefront Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Storefront'의 유의어 조회 관용구로 Rhymes·Antonyms와 결이 달라 중복이 아니고 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Booking Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Booking'의 반의어 조회로 명확하고, Synonyms와 별개 조회절이라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Syllabus Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Syllabus'의 예문 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Batch Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Batch'의 번역 조회로 명확한 사전 쿼리 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Grazing Conjugations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'graze' 동사의 활용 조회로 해석 가능해 승인하나 'Grazing'이 목초지 명사로 먼저 읽히는 애매함이 있음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demand Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Demand'의 애나그램 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Impact Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "'Impact'와 코드 'Chords'는 비영리 도메인에서 서비스 대상이 만들어지지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Referral Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Referral'의 철자 조회로 읽히며 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chess Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Chess'의 음절 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Leaf Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Leaf'의 라임 조회로 명확하고, 같은 앵커의 Syllables와 별개 조회절이라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Clinic Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Clinic'의 유의어 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Attorney Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Attorney'의 예문 조회로 명확한 사전 쿼리이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Consignee Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Consignee'의 번역 조회 관용구 결합으로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rezoning Conjugations",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "'rezone' 동사의 활용 조회로 극단적으로 해석 가능하나 'Rezoning'이 명사(구역재개발)로 읽히는 힘이 강해 신뢰도 낮음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Loss Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Loss'의 애나그램 조회로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bonus Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "'Bonus'와 코드 'Chords'의 결합은 급여 도메인에서 아무 기능도 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Electrical Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "'Electrical' 전기 도메인과 가사 'Lyrics'는 결합 대상이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Thrift Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Thrift'의 철자 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Sidewalk Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Sidewalk'의 음절 조회로 읽히는 결합으로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Editor Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Editor'의 라임 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Contact Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Contact'의 유의어 조회로 명확하고, Rhymes와 별개 조회절이라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Portfolio Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Portfolio'의 반의어 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Checkin Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Checkin'의 예문 조회로 읽히며 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Headlight Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Headlight'의 번역 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Brunch Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "'Brunch'는 동사가 없는 명사라 활용 조회 'Conjugations'와 결합할 대상이 없음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shelter Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Shelter'의 애나그램 조회로 명확한 사전 쿼리 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cleaning Chords",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Cleaning' 도메인에 코드 'Chords'가 붙어도 청소 서비스에서 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Boxing Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "'Boxing' 권투와 가사 'Lyrics'는 서비스 대상이 만들어지지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Nap Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Nap'의 철자 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Desert Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Desert'의 음절 조회로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Migraine Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Migraine'의 라임 조회 관용구로 Syllables와 별개 조회절이라 중복이 아니고 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rebate Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Rebate'의 유의어 조회로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Homeschool Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Homeschool'의 반의어 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Anniversary Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Anniversary'의 예문 조회로 읽히는 결합으로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Kebab Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Kebab'의 번역 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Groomer Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "'Groomer'는 명사(미용사)라 동사 활용 조회 'Conjugations'의 대상이 될 수 없음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Malocclusion Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Malocclusion'의 애나그램 조회로 명확한 사전 쿼리이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Intercom Chords",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "'Intercom' 인터폰 도메인에 코드 'Chords'를 얹으면 서비스가 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Winery Lyrics",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Winery'와 가사 'Lyrics'의 결합은 와이너리 도메인에서 서비스 대상이 불명확 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Insomnia Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Insomnia'의 철자 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Rendering",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Acai' 볼 3D 렌더링·메뉴 이미지 도구로 읽히며 중복·상표 없음. Sketch·Outline과 달리 'Rendering'은 구체 산출물을 지시.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Kit",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Bruschetta' 밀 키트 서비스로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Message",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Prosciutto'에 'Message'가 어떤 발신 기능인지 불명확해 서비스가 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Widget",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Tabbouleh' 주문·예약 위젯으로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Announcement",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Edamame' 입고·신메뉴 알림 발송 도구로 읽히며 Widget과 별개 기능이라 중복이 아니고 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Converter",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "'Ceviche Converter'는 무엇을 변환하는지 불명확해 기능 대상이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Recorder",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Guacamole'과 'Recorder'의 결합은 기록 대상이 불명확해 서비스가 그려지지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Checker",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Empanada' 익힘·품질 확인 도구로 읽히고 Bratwurst Checker와 앵커가 달라 별개 제품이며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Timer",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "'Bratwurst' 굽기 타이머로 명확한 실용 결합이며 Checker·Detector와 기능이 달라 중복이 아니고 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Guardian",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Escargot' 보관·위생 감시 도구로 읽히고 Timer와 별개 기능이라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Stage",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "'Gyro Stage'는 공연 무대인지 조리 단계인지 해석이 갈라지고 기능이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Streak",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Quinoa' 식단 연속 기록 스트릭으로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Rank",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Mochi' 메뉴 순위 도구로 읽히며 Streak와 별개 기능이라 중복이 아니고 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Trend",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Satay' 트렌드 분석으로 명확하고 Rank·Streak와 결이 달라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Comparison",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Moussaka' 메뉴 비교 도구로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Proposal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Borscht' 케이터링 제안서 도구로 읽히며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Guarantee",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Gumbo' 품질 보증 관리로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Record",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Jambalaya' 제조·판매 기록 장부로 명확하고 Proposal·Guarantee와 별개 기능이라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Shawarma' 메뉴 카피 생성으로 읽히고 Record와 별개 기능이라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Reading",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "'Naan'과 'Reading'의 결합은 온도 계량·열람 어느 쪽도 서비스로 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Reference",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Arepa' 레시피 참고 자료실로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Forecast",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "'Pierogi' 수요 예측 도구로 명확하고 Reference와 별개 기능이라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Deadline",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Goulash' 준비 기한 관리로 읽히고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Duration",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "'Tzatziki' 숙성·조리 시간 추적으로 읽히며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Subrogation Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Subrogation'의 음절 조회로 읽히며 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Payroll Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Payroll'의 라임 조회 관용구로 Syllables와 별개 조회절이라 중복이 아니고 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Material Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Material'의 유의어 조회로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Storefront Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Storefront'의 반의어 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Booking Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Booking'의 예문 조회로 명확한 사전 쿼리 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Syllabus Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Syllabus'의 번역 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Batch Conjugations",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "'to batch' 동사 활용 조회로도 읽히나 기술 용법이라 일반 이해도가 낮아 신뢰도 낮게 승인.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Grazing Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Grazing'의 애나그램 조회로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Demand Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "'Demand' 전력 수요 도메인과 코드 'Chords'는 결합 대상이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Impact Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "'Impact'와 가사 'Lyrics'는 비영리 도메인에서 서비스가 만들어지지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Oboe Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Oboe'의 음절 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chess Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Chess'의 라임 조회로 명확하고, 같은 앵커의 Syllables와 별개 조회절이라 중복이 아니며 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Leaf Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Leaf'의 유의어 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Clinic Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Clinic'의 반의어 조회로 명확한 사전 쿼리이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Attorney Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Attorney'의 번역 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Consignee Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "'Consignee'는 수취인 명사로 활용 조회 'Conjugations'의 대상이 될 수 없음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rezoning Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Rezoning'의 애나그램 조회로 읽히며 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Loss Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "'Loss' 보험 도메인과 코드 'Chords'는 서비스 대상이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bonus Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "'Bonus'와 가사 'Lyrics'의 결합은 급여 도메인에서 기능이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Electrical Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Electrical'의 철자 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Detention Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Detention'의 음절 조회로 명확한 사전 쿼리 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Sidewalk Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Sidewalk'의 라임 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Editor Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Editor'의 유의어 조회로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Contact Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Contact'의 반의어 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Portfolio Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Portfolio'의 예문 조회로 읽히며 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Checkin Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Checkin'의 번역 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Headlight Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "'Headlight'는 부품 명사라 동사 활용 조회 'Conjugations'의 대상이 될 수 없음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Brunch Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Brunch'의 애나그램 조회로 명확한 사전 쿼리 결합이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shelter Chords",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Shelter'와 코드 'Chords'의 결합은 보호소 도메인에서 서비스가 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cleaning Lyrics",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Cleaning' 도메인과 가사 'Lyrics'는 서비스 대상이 만들어지지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Boxing Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Boxing'의 철자 조회 관용구로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Key Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Key'의 음절 조회로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Desert Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Desert'의 라임 조회 관용구로 Syllables와 별개 조회절이라 중복이 아니고 상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Migraine Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Migraine'의 유의어 조회로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rebate Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Rebate'의 반의어 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Homeschool Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Homeschool'의 예문 조회로 읽히는 결합으로 명확·비중복·상표 무관.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Anniversary Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Anniversary'의 번역 조회 관용구로 명확하고 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Kebab Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "'Kebab'은 음식 명사로 활용 조회 'Conjugations'의 대상이 될 수 없음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Groomer Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "'Groomer'의 애나그램 조회로 명확한 사전 쿼리이며 중복·상표 없음.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Malocclusion Chords",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Malocclusion' 치과 용어와 코드 'Chords'는 결합 대상이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Intercom Lyrics",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "'Intercom'과 가사 'Lyrics'의 결합은 인터폰 도메인에서 기능이 성립하지 않음 - 명확성 탈락.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ }
+]

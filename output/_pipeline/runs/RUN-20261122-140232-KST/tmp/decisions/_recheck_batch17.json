@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Bump Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: 'bump' (bump-key) spelling lookup is a plausible locksmith-context query; no trademark, no dup."
+ },
+ {
+  "title": "Parakeet Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'parakeet' is a universal lookup query; anchor-context clear."
+ },
+ {
+  "title": "Tartar Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'tartar' (dental tartar) is a standard dictionary query; no defect."
+ },
+ {
+  "title": "Courtyard Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup query; 'Courtyard' is fully generic in property-management context and no lookup-tool title implicates the Marriott hotel mark."
+ },
+ {
+  "title": "Glacier Antonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: antonym lookup is a universal query; travel context coherent."
+ },
+ {
+  "title": "Felting Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence lookup for 'felting' is a standard usage query."
+ },
+ {
+  "title": "Cannula Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: translating the medical term 'cannula' (device docs, patient info) is a plausible real query."
+ },
+ {
+  "title": "Science Anagrams",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: anagram-solver query on an education anchor; universal tool reading."
+ },
+ {
+  "title": "Canary Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup of 'canary' (vet/bird anchor); no trademark read in this context."
+ },
+ {
+  "title": "Matter Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'matter' (legal matter) is a generic lookup query."
+ },
+ {
+  "title": "Container Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'container'; universal query-clause reading."
+ },
+ {
+  "title": "Deductible Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: dictionary sites do list antonyms for 'deductible'; insurance anchor coherent."
+ },
+ {
+  "title": "Recruiting Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example sentences with 'recruiting' are a standard usage query."
+ },
+ {
+  "title": "Inspection Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating inspection reports is a plausible construction-industry use."
+ },
+ {
+  "title": "Occupancy Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: universal anagram-solver query on a hospitality anchor."
+ },
+ {
+  "title": "Pesticide Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'pesticide' (incl. product-label terms) is plausible."
+ },
+ {
+  "title": "Headstone Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count query; funeral anchor clear."
+ },
+ {
+  "title": "Manicure Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'manicure'; standard query-clause reading."
+ },
+ {
+  "title": "Medicine Synonyms",
+  "approve": true,
+  "confidence": 0.9,
+  "reason": "sustained: synonym lookup for 'medicine' is one of the most common dictionary queries; anchor perfect."
+ },
+ {
+  "title": "Hangar Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'hangar'; aviation anchor coherent."
+ },
+ {
+  "title": "Evaporator Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'evaporator' (HVAC manuals, parts catalogs) is a plausible query."
+ },
+ {
+  "title": "Subtitling Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: anagram solver works on any word incl. 'subtitling'; no defective pairing."
+ },
+ {
+  "title": "Catering Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'catering'; wedding-services anchor coherent."
+ },
+ {
+  "title": "Oil Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'oil' is a common homework-style query; automotive anchor clear."
+ },
+ {
+  "title": "Dessert Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'dessert' is a natural poetry/query use; food anchor clear."
+ },
+ {
+  "title": "Collar Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'collar' (pet collar context); standard query."
+ },
+ {
+  "title": "Veneer Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup for 'veneer' exists on dictionary sites; dental anchor coherent."
+ },
+ {
+  "title": "Rowing Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example sentences with 'rowing'; fitness anchor clear."
+ },
+ {
+  "title": "Sibling Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating kinship terms like 'sibling' is a genuine translation query."
+ },
+ {
+  "title": "Grease Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: universal anagram query; cleaning anchor clear."
+ },
+ {
+  "title": "Boiler Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'boiler'; HVAC anchor coherent."
+ },
+ {
+  "title": "Pancake Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'pancake'; standard lookup."
+ },
+ {
+  "title": "Parakeet Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'parakeet'; universal query."
+ },
+ {
+  "title": "Tartar Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'tartar'; dental anchor clear."
+ },
+ {
+  "title": "Courtyard Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: antonym lookup query; generic 'Courtyard' in property-management context, no mark implicated."
+ },
+ {
+  "title": "Glacier Sentences",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: example-sentence query for 'glacier'; travel anchor clear."
+ },
+ {
+  "title": "Felting Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating craft term 'felting' is a plausible query."
+ },
+ {
+  "title": "Application Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram solver on 'application'; universal tool reading."
+ },
+ {
+  "title": "Waffle Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling of 'waffle' is a genuine lookup; food anchor clear."
+ },
+ {
+  "title": "Reconciliation Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable count of the long word 'reconciliation' is genuinely queried; finance anchor clear."
+ },
+ {
+  "title": "Matter Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'matter'; legal anchor clear."
+ },
+ {
+  "title": "Container Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'container'; logistics anchor clear."
+ },
+ {
+  "title": "Deductible Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'deductible'; insurance anchor coherent."
+ },
+ {
+  "title": "Recruiting Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating recruiting content (job ads) is a plausible HR query."
+ },
+ {
+  "title": "Catalog Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram solver on 'catalog'; retail anchor clear."
+ },
+ {
+  "title": "Scheduling Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'scheduling'; manufacturing anchor coherent."
+ },
+ {
+  "title": "Kitchen Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'kitchen'; standard lookup."
+ },
+ {
+  "title": "Headstone Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: rhyme lookup supports epitaph/elegy writing; funeral anchor gives a real use."
+ },
+ {
+  "title": "Manicure Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'manicure'; salon anchor clear."
+ },
+ {
+  "title": "Medicine Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup for 'medicine' exists on dictionary sites; anchor clear."
+ },
+ {
+  "title": "Hangar Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'hangar' (aviation docs) is a plausible query."
+ },
+ {
+  "title": "Delivery Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'delivery'; photography-services anchor coherent."
+ },
+ {
+  "title": "Volunteer Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'volunteer'; events anchor clear."
+ },
+ {
+  "title": "Oil Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'oil'; universal query."
+ },
+ {
+  "title": "Dessert Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'dessert'; food anchor clear."
+ },
+ {
+  "title": "Collar Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup for 'collar' exists; veterinary anchor coherent."
+ },
+ {
+  "title": "Veneer Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'veneer'; dental anchor clear."
+ },
+ {
+  "title": "Rowing Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'rowing' (fitness/terminology) is a plausible query."
+ },
+ {
+  "title": "Drainage Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: universal anagram query; landscaping anchor clear."
+ },
+ {
+  "title": "Brand Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: brand-name spelling (brand vs generic drug names) is a real pharmacy-context query."
+ },
+ {
+  "title": "Garland Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'garland'; events anchor clear."
+ },
+ {
+  "title": "Pancake Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'pancake'; standard query."
+ },
+ {
+  "title": "Parakeet Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'parakeet'; anchor clear."
+ },
+ {
+  "title": "Tartar Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup for 'tartar' exists on dictionary sites; anchor clear."
+ },
+ {
+  "title": "Courtyard Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example-sentence query; generic 'Courtyard', no mark implicated by a lookup title."
+ },
+ {
+  "title": "Glacier Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'glacier' (travel/geography content) is plausible."
+ },
+ {
+  "title": "Cannula Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: universal anagram-solver reading; no defective pairing."
+ },
+ {
+  "title": "Science Lyrics",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: educational science songs and their lyrics are a real field (science parody songs); music-context defense stands."
+ },
+ {
+  "title": "Confetti Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'confetti'; events anchor clear."
+ },
+ {
+  "title": "Prescription Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable count of drug/prescription names is genuinely queried by patients."
+ },
+ {
+  "title": "Reconciliation Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup for 'reconciliation'; standard query."
+ },
+ {
+  "title": "Matter Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'matter' (legal matter); anchor clear."
+ },
+ {
+  "title": "Container Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup for 'container' exists; logistics anchor coherent."
+ },
+ {
+  "title": "Deductible Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'deductible' (insurance documents) is a plausible query."
+ },
+ {
+  "title": "Inspection Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram solver on 'inspection'; universal reading."
+ },
+ {
+  "title": "Cohort Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling of 'cohort' is a commonly misspelled word; education anchor clear."
+ },
+ {
+  "title": "Lawn Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'lawn'; landscaping anchor clear."
+ },
+ {
+  "title": "Kitchen Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'kitchen'; standard query."
+ },
+ {
+  "title": "Headstone Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup for 'headstone' (memorial wording); anchor clear."
+ },
+ {
+  "title": "Manicure Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup exists for 'manicure'; anchor clear."
+ },
+ {
+  "title": "Medicine Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'medicine'; pharmacy anchor clear."
+ },
+ {
+  "title": "Kayak Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: maritime_shipping anchor means the boat, not the Kayak travel mark; generic-word dominance; translating paddling content is plausible."
+ },
+ {
+  "title": "Evaporator Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: universal anagram-solver reading; HVAC anchor clear."
+ },
+ {
+  "title": "Subtitling Lyrics",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: lyrics subtitling/translation is a real professional field (music-video subtitling); same defense as Captioning Lyrics."
+ },
+ {
+  "title": "Crate Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'crate'; moving anchor clear."
+ },
+ {
+  "title": "Talent Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'talent'; recruiting anchor clear."
+ },
+ {
+  "title": "Volunteer Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'volunteer'; standard query."
+ },
+ {
+  "title": "Oil Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'oil'; anchor clear."
+ },
+ {
+  "title": "Dessert Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup exists for 'dessert'; food anchor coherent."
+ },
+ {
+  "title": "Collar Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'collar'; veterinary anchor clear."
+ },
+ {
+  "title": "Veneer Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'veneer' (dental/cosmetic content) is plausible."
+ },
+ {
+  "title": "Sibling Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: universal anagram query; childcare anchor clear."
+ },
+ {
+  "title": "Chair Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'chair' (styling chair); salon anchor clear."
+ },
+ {
+  "title": "Math Syllables",
+  "approve": true,
+  "confidence": 0.9,
+  "reason": "sustained: syllable count of 'math' is a very common homework query; education anchor perfect."
+ },
+ {
+  "title": "Garland Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'garland'; events anchor clear."
+ },
+ {
+  "title": "Pancake Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'pancake'; food anchor clear."
+ },
+ {
+  "title": "Parakeet Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup exists for 'parakeet'; anchor coherent."
+ },
+ {
+  "title": "Tartar Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'tartar'; dental anchor clear."
+ },
+ {
+  "title": "Courtyard Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating property-related content; generic 'Courtyard', no mark implicated."
+ },
+ {
+  "title": "Felting Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: universal anagram query; crafts anchor clear."
+ },
+ {
+  "title": "Science Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling of science terminology is a real education query."
+ },
+ {
+  "title": "Ceviche Recipe",
+  "approve": true,
+  "confidence": 0.9,
+  "reason": "sustained: recipe lookup for a named dish is the classic real pairing; ops family explicitly sustained."
+ },
+ {
+  "title": "Orchid Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'orchid'; houseplant anchor clear."
+ },
+ {
+  "title": "Prescription Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: rhyme lookup for 'prescription'; standard query reading."
+ },
+ {
+  "title": "Reconciliation Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'reconciliation'; finance anchor clear."
+ },
+ {
+  "title": "Matter Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup exists for 'matter'; legal anchor coherent."
+ },
+ {
+  "title": "Container Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'container'; logistics anchor clear."
+ },
+ {
+  "title": "Recruiting Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram solver on 'recruiting'; universal reading."
+ },
+ {
+  "title": "Occupancy Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'occupancy'; hospitality anchor clear."
+ },
+ {
+  "title": "Rodent Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'rodent'; pest-control anchor clear."
+ },
+ {
+  "title": "Lawn Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'lawn'; standard query."
+ },
+ {
+  "title": "Kitchen Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'kitchen'; cleaning anchor clear."
+ },
+ {
+  "title": "Headstone Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup exists for 'headstone'; funeral anchor coherent; query-clause line holds."
+ },
+ {
+  "title": "Manicure Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'manicure'; salon anchor clear."
+ },
+ {
+  "title": "Medicine Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating medication information is a genuinely useful query; anchor perfect."
+ },
+ {
+  "title": "Hangar Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: universal anagram query; aviation anchor clear."
+ },
+ {
+  "title": "Subtitling Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'subtitling'; translation-services anchor coherent."
+ },
+ {
+  "title": "Handoff Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'handoff'; customer-support anchor clear."
+ },
+ {
+  "title": "Talent Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'talent'; recruiting anchor clear."
+ },
+ {
+  "title": "Volunteer Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'volunteer'; events anchor clear."
+ },
+ {
+  "title": "Oil Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup for 'oil' is listed on dictionary sites; query-clause line holds even for noun anchors."
+ },
+ {
+  "title": "Dessert Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'dessert'; food anchor clear."
+ },
+ {
+  "title": "Collar Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'collar' (pet product docs) is plausible."
+ },
+ {
+  "title": "Rowing Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: universal anagram query; fitness anchor clear."
+ },
+ {
+  "title": "Grease Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'grease'; cleaning anchor clear."
+ },
+ {
+  "title": "Certificate Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'certificate'; insurance anchor clear."
+ },
+ {
+  "title": "Math Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'math'; standard query."
+ },
+ {
+  "title": "Garland Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'garland'; events anchor clear."
+ },
+ {
+  "title": "Pancake Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup exists for 'pancake'; query-clause line holds."
+ },
+ {
+  "title": "Parakeet Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'parakeet'; veterinary anchor clear."
+ },
+ {
+  "title": "Tartar Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'tartar' (dental patient info) is plausible."
+ },
+ {
+  "title": "Glacier Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: universal anagram query; travel anchor clear."
+ },
+ {
+  "title": "Application Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'application'; insurance anchor coherent."
+ },
+ {
+  "title": "Origami Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'origami'; crafts anchor clear."
+ },
+ {
+  "title": "Orchid Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'orchid'; standard query."
+ },
+ {
+  "title": "Prescription Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup for 'prescription'; pharmacy anchor clear."
+ },
+ {
+  "title": "Reconciliation Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup exists for 'reconciliation'; query-clause line holds."
+ },
+ {
+  "title": "Matter Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'matter'; legal anchor clear."
+ },
+ {
+  "title": "Container Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'container' (shipping docs) is plausible."
+ },
+ {
+  "title": "Deductible Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram solver on 'deductible'; universal reading."
+ },
+ {
+  "title": "Catalog Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'catalog' (catalog/catalogue variants genuinely queried)."
+ },
+ {
+  "title": "Wheelchair Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'wheelchair'; senior-care anchor clear."
+ },
+ {
+  "title": "Rodent Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'rodent'; standard query."
+ },
+ {
+  "title": "Lawn Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'lawn'; landscaping anchor clear."
+ },
+ {
+  "title": "Kitchen Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup exists for 'kitchen'; query-clause line holds."
+ },
+ {
+  "title": "Headstone Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: example sentences support epitaph/memorial wording; funeral anchor gives a real use."
+ },
+ {
+  "title": "Manicure Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'manicure' (salon service menus) is plausible."
+ },
+ {
+  "title": "Digital Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'digital'; media anchor clear."
+ },
+ {
+  "title": "Handoff Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup for 'handoff'; standard query."
+ },
+ {
+  "title": "Talent Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'talent'; recruiting anchor clear."
+ },
+ {
+  "title": "Volunteer Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup exists for 'volunteer'; query-clause line holds."
+ },
+ {
+  "title": "Oil Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'oil'; automotive anchor clear."
+ },
+ {
+  "title": "Dessert Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'dessert' (menu translation) is plausible."
+ },
+ {
+  "title": "Veneer Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: universal anagram query; dental anchor clear."
+ },
+ {
+  "title": "Drainage Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'drainage'; landscaping anchor clear."
+ },
+ {
+  "title": "Catheter Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable count of 'catheter' is genuinely queried by patients reading medical info."
+ },
+ {
+  "title": "Certificate Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup for 'certificate'; standard query."
+ },
+ {
+  "title": "Math Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'math'; education anchor clear."
+ },
+ {
+  "title": "Garland Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup exists for 'garland'; query-clause line holds."
+ },
+ {
+  "title": "Pancake Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'pancake'; food anchor clear."
+ },
+ {
+  "title": "Parakeet Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'parakeet' (pet care content) is plausible."
+ },
+ {
+  "title": "Courtyard Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: universal anagram query; generic 'Courtyard', no mark implicated."
+ },
+ {
+  "title": "Cannula Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: spelling of 'cannula' is a genuinely misspellable medical term; healthcare anchor clear."
+ },
+ {
+  "title": "Acai Correction",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: order-correction workflows for menu items are real restaurant ops; 'Correction' is in the sustained ops list."
+ },
+ {
+  "title": "Bruschetta Payment",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: payment processing for menu items is core restaurant ops; no dead-pattern reading."
+ },
+ {
+  "title": "Edamame Recipe",
+  "approve": true,
+  "confidence": 0.9,
+  "reason": "sustained: recipe lookup for 'edamame' is a genuine, heavily searched pairing."
+ },
+ {
+  "title": "Guacamole Expense",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: kitchen-context Guacamole stands (established); ingredient expense tracking is real ops."
+ },
+ {
+  "title": "Empanada Inventory",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: inventory ops for menu items is the sustained family; the Empanada Helper trademark collision (Hamburger Helper) does not apply to a generic ops word."
+ },
+ {
+  "title": "Ukulele Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'ukulele' (u-ku-le-le) is genuinely queried by learners; music anchor clear."
+ },
+ {
+  "title": "Origami Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'origami'; crafts anchor clear."
+ },
+ {
+  "title": "Orchid Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'orchid'; houseplant anchor clear."
+ },
+ {
+  "title": "Prescription Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: antonym lookup exists for 'prescription'; query-clause line holds."
+ },
+ {
+  "title": "Reconciliation Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'reconciliation'; finance anchor clear."
+ },
+ {
+  "title": "Matter Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'matter' (legal documents) is plausible."
+ },
+ {
+  "title": "Inspection Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'inspection'; construction anchor clear."
+ },
+ {
+  "title": "Infant Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'infant'; childcare anchor clear."
+ },
+ {
+  "title": "Wheelchair Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup for 'wheelchair'; standard query."
+ },
+ {
+  "title": "Rodent Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'rodent'; pest-control anchor clear."
+ },
+ {
+  "title": "Lawn Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup exists for 'lawn'; query-clause line holds."
+ },
+ {
+  "title": "Kitchen Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'kitchen'; cleaning anchor clear."
+ },
+ {
+  "title": "Headstone Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating headstone inscriptions (genealogy) is a real niche service; strongest defense among the Headstone family."
+ },
+ {
+  "title": "Medicine Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram solver on 'medicine'; universal reading."
+ },
+ {
+  "title": "Evaporator Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'evaporator'; HVAC anchor clear."
+ },
+ {
+  "title": "Digital Rhymes",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: rhyme lookup for 'digital'; media anchor clear."
+ },
+ {
+  "title": "Handoff Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'handoff'; support anchor clear."
+ },
+ {
+  "title": "Talent Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup exists for 'talent'; query-clause line holds."
+ },
+ {
+  "title": "Volunteer Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'volunteer'; events anchor clear."
+ },
+ {
+  "title": "Oil Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'oil' (automotive/product docs) is plausible."
+ },
+ {
+  "title": "Collar Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: universal anagram query; veterinary anchor clear."
+ },
+ {
+  "title": "Sibling Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'sibling'; childcare anchor clear."
+ },
+ {
+  "title": "Drone Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable count of 'drone'; hobby anchor clear."
+ },
+ {
+  "title": "Catheter Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: rhyme lookup for 'catheter'; standard query reading."
+ },
+ {
+  "title": "Certificate Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup for 'certificate'; insurance anchor clear."
+ },
+ {
+  "title": "Math Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: antonym lookup exists for 'math'; query-clause line holds."
+ },
+ {
+  "title": "Garland Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example sentences with 'garland'; events anchor clear."
+ },
+ {
+  "title": "Pancake Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translating 'pancake' (menu translation) is plausible."
+ },
+ {
+  "title": "Tartar Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: universal anagram query; dental anchor clear."
+ },
+ {
+  "title": "Felting Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup for 'felting'; crafts anchor clear."
+ },
+ {
+  "title": "Tabbouleh Review",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: unlike the flipped dead-pattern family (Tabbouleh Repository), 'Review' reads as a real field (dish reviews / review workflow); food-ops pairing stands."
+ },
+ {
+  "title": "Ceviche Refund",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: refund handling for restaurant orders is real ops; food anchor + concrete ops word is the explicitly sustained family."
+ }
+]

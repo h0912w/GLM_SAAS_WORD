@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Foreclosure Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate real_estate anchor 'Foreclosure'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Lapse Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate insurance anchor 'Lapse'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Promotion Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate hr_payroll anchor 'Promotion'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Concrete Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate construction anchor 'Concrete'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Orientation Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate education anchor 'Orientation'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Digital Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate media_publishing anchor 'Digital'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Volunteer Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate events anchor 'Volunteer'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Cupcake Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate food_service anchor 'Cupcake'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Goldfish Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate veterinary anchor 'Goldfish'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Floss Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate dental anchor 'Floss'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Entrance Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate property_management_services anchor 'Entrance'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Lagoon Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate travel_tourism anchor 'Lagoon'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Xylophone Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate music_lessons anchor 'Xylophone'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Catheter Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate healthcare anchor 'Catheter'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Garland Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate events anchor 'Garland'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Acai Review",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Acai' + 'Review' reads as restaurant operations (customer/menu review management for an acai-focused shop); established food-ops line stands."
+ },
+ {
+  "title": "Bruschetta Video",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Bruschetta' + 'Video' reads as restaurant operations (recipe/promo video content for a bruschetta menu); established food-ops line stands."
+ },
+ {
+  "title": "Prosciutto Refund",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Prosciutto' + 'Refund' reads as restaurant operations (refund handling for a prosciutto-focused restaurant); established food-ops line stands."
+ },
+ {
+  "title": "Tabbouleh Newsletter",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Tabbouleh' + 'Newsletter' reads as restaurant operations (restaurant newsletter marketing for a tabbouleh menu); established food-ops line stands."
+ },
+ {
+  "title": "Edamame Claim",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Edamame' + 'Claim' reads as restaurant operations (customer/liability claims (or health claims) around an edamame menu item); established food-ops line stands."
+ },
+ {
+  "title": "Ceviche Checkin",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "Checkin on a food anchor is an established dead-pattern fragment (check-in-app SaaS jargon) with no concrete restaurant-operations reading; dead-pattern family flip."
+ },
+ {
+  "title": "Pierogi Capacity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Pierogi' + 'Capacity' reads as restaurant operations (seating/production capacity for a pierogi kitchen); established food-ops line stands."
+ },
+ {
+  "title": "Goulash Usage",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Goulash' + 'Usage' reads as restaurant operations (ingredient/portion usage tracking for a goulash menu); established food-ops line stands."
+ },
+ {
+  "title": "Gallery Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate photography_services anchor 'Gallery'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Florist Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate wedding_planning_services anchor 'Florist'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Renewal Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate property_management_services anchor 'Renewal'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Liner Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate pool_maintenance_services anchor 'Liner'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Coating Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate car_wash_detailing_services anchor 'Coating'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Toilet Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate plumbing_services anchor 'Toilet'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Ukulele Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate music_lessons anchor 'Ukulele'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Prescription Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate healthcare anchor 'Prescription'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Applicant Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate recruiting anchor 'Applicant'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Keynote Rhymes",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "Keynote is Apple's famous presentation-software mark; this pairing reads in software/productivity context rather than generic 'keynote speech', so trademark watchlist flip."
+ },
+ {
+  "title": "Alignment Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate automotive anchor 'Alignment'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Vet Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate veterinary anchor 'Vet'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Cavity Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate dental anchor 'Cavity'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Infant Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate childcare anchor 'Infant'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Lawn Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate landscaping anchor 'Lawn'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Notary Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate legal anchor 'Notary'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Weighbridge Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate logistics anchor 'Weighbridge'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Foreclosure Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate real_estate anchor 'Foreclosure'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Lapse Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate insurance anchor 'Lapse'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Promotion Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate hr_payroll anchor 'Promotion'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Concrete Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate construction anchor 'Concrete'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Talent Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate recruiting anchor 'Talent'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Ornament Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate events anchor 'Ornament'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Cupcake Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate food_service anchor 'Cupcake'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Goldfish Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate veterinary anchor 'Goldfish'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Floss Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate dental anchor 'Floss'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Entrance Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate property_management_services anchor 'Entrance'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Lagoon Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate travel_tourism anchor 'Lagoon'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Drone Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate crafts_hobbies anchor 'Drone'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Math Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate education anchor 'Math'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Acai Recipe",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Acai' + 'Recipe' reads as restaurant operations (recipe development for acai bowls); established food-ops line stands."
+ },
+ {
+  "title": "Prosciutto Expense",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Prosciutto' + 'Expense' reads as restaurant operations (ingredient expense tracking for a prosciutto menu); established food-ops line stands."
+ },
+ {
+  "title": "Tabbouleh Inventory",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Tabbouleh' + 'Inventory' reads as restaurant operations (ingredient inventory for a tabbouleh kitchen); established food-ops line stands."
+ },
+ {
+  "title": "Edamame Onboarding",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Edamame' + 'Onboarding' reads as restaurant operations (staff onboarding for an edamame-serving restaurant); established food-ops line stands."
+ },
+ {
+  "title": "Empanada Range",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Empanada' + 'Range' reads as restaurant operations (menu/product range reading ('our empanada range') is a real culinary-catalog phrase); established food-ops line stands."
+ },
+ {
+  "title": "Arepa Capacity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Arepa' + 'Capacity' reads as restaurant operations (seating/production capacity for an arepa kitchen); established food-ops line stands."
+ },
+ {
+  "title": "Pierogi Usage",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Pierogi' + 'Usage' reads as restaurant operations (ingredient/portion usage tracking for a pierogi menu); established food-ops line stands."
+ },
+ {
+  "title": "Storage Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate moving_relocation_services anchor 'Storage'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Gallery Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate photography_services anchor 'Gallery'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Florist Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate wedding_planning_services anchor 'Florist'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Renewal Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate property_management_services anchor 'Renewal'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Liner Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate pool_maintenance_services anchor 'Liner'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Coating Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate car_wash_detailing_services anchor 'Coating'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Vacation Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate travel_tourism anchor 'Vacation'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Ukulele Chords",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: music-instrument anchor + Chords is the core music-education query pattern (music_lessons industry); established music-context defense stands."
+ },
+ {
+  "title": "Orchid Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate houseplants_indoor_gardening anchor 'Orchid'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Request Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate customer_support anchor 'Request'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Applicant Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate recruiting anchor 'Applicant'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Keynote Synonyms",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "Keynote reads as Apple's famous presentation-software mark in this pairing (software-context reading dominates over generic 'keynote speech'); trademark watchlist flip."
+ },
+ {
+  "title": "Alignment Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate automotive anchor 'Alignment'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Vet Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate veterinary anchor 'Vet'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Yoga Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate fitness_wellness anchor 'Yoga'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Rodent Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate pest_control anchor 'Rodent'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Bond Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate finance anchor 'Bond'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Notary Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate legal anchor 'Notary'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Weighbridge Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate logistics anchor 'Weighbridge'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Foreclosure Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate real_estate anchor 'Foreclosure'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Lapse Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate insurance anchor 'Lapse'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Promotion Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate hr_payroll anchor 'Promotion'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Orientation Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate education anchor 'Orientation'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Digital Lyrics",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: Digital + Lyrics reads as the real digital-lyrics category (lyric displays, karaoke/lyric-video apps, digitized lyric sheets) in media_publishing; not a non-music mismatch."
+ },
+ {
+  "title": "Handoff Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate customer_support anchor 'Handoff'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Writing Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate education anchor 'Writing'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Ornament Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate events anchor 'Ornament'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Cupcake Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate food_service anchor 'Cupcake'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Goldfish Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate veterinary anchor 'Goldfish'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Floss Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate dental anchor 'Floss'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Entrance Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate property_management_services anchor 'Entrance'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Xylophone Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate music_lessons anchor 'Xylophone'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Certificate Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate insurance anchor 'Certificate'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Acai Video",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Acai' + 'Video' reads as restaurant operations (recipe/promo video content for acai bowls); established food-ops line stands."
+ },
+ {
+  "title": "Bruschetta Refund",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Bruschetta' + 'Refund' reads as restaurant operations (refund handling for a bruschetta-focused restaurant); established food-ops line stands."
+ },
+ {
+  "title": "Prosciutto Newsletter",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Prosciutto' + 'Newsletter' reads as restaurant operations (restaurant newsletter marketing for a prosciutto menu); established food-ops line stands."
+ },
+ {
+  "title": "Tabbouleh Claim",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Tabbouleh' + 'Claim' reads as restaurant operations (customer/liability claims (or health claims) around a tabbouleh menu item); established food-ops line stands."
+ },
+ {
+  "title": "Edamame Checkin",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "Checkin on a food anchor is an established dead-pattern fragment with no restaurant-operations reading (not a reservation/booking term); dead-pattern family flip."
+ },
+ {
+  "title": "Empanada Limit",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Empanada' + 'Limit' reads as restaurant operations (per-order/portion limit is a readable catering/ordering constraint for empanadas); established food-ops line stands."
+ },
+ {
+  "title": "Satay Load",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "Load on a food anchor reads as workload/electrical/server-load fragment with no concrete restaurant-operations sense; near-fragment variant of the approved Capacity/Usage family (Load/Frequency dup family), grounded suspicion kept."
+ },
+ {
+  "title": "Naan Capacity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Naan' + 'Capacity' reads as restaurant operations (seating/production capacity for a naan kitchen); established food-ops line stands."
+ },
+ {
+  "title": "Arepa Usage",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Arepa' + 'Usage' reads as restaurant operations (ingredient/portion usage tracking for an arepa menu); established food-ops line stands."
+ },
+ {
+  "title": "Terminology Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate interpreter_translation_services anchor 'Terminology'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Storage Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate moving_relocation_services anchor 'Storage'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Gallery Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate photography_services anchor 'Gallery'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Florist Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate wedding_planning_services anchor 'Florist'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Renewal Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate property_management_services anchor 'Renewal'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Liner Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate pool_maintenance_services anchor 'Liner'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Toilet Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate plumbing_services anchor 'Toilet'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Ukulele Lyrics",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: music-instrument anchor + Lyrics reads as song lyrics/ukulele play-along content (music_lessons industry); music-context defense stands."
+ },
+ {
+  "title": "Origami Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate crafts_hobbies anchor 'Origami'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Database Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate it_devops anchor 'Database'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Request Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate customer_support anchor 'Request'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Applicant Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate recruiting anchor 'Applicant'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Keynote Antonyms",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "Keynote reads as Apple's famous presentation-software mark in this pairing; trademark watchlist flip, same family as batch-established Keynote flip."
+ },
+ {
+  "title": "Alignment Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate automotive anchor 'Alignment'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Vet Conjugations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: vet is a genuine English verb (to vet an applicant/candidate), so conjugating it is a coherent grammar query; verb-capable anchor line stands."
+ },
+ {
+  "title": "Cavity Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate dental anchor 'Cavity'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Wheelchair Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate senior_care anchor 'Wheelchair'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Surgery Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate healthcare anchor 'Surgery'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Bond Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate finance anchor 'Bond'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Notary Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate legal anchor 'Notary'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Weighbridge Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate logistics anchor 'Weighbridge'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Foreclosure Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate real_estate anchor 'Foreclosure'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Lapse Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate insurance anchor 'Lapse'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Concrete Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate construction anchor 'Concrete'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Digital Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate media_publishing anchor 'Digital'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Waiver Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate insurance anchor 'Waiver'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Writing Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate education anchor 'Writing'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Ornament Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate events anchor 'Ornament'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Cupcake Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate food_service anchor 'Cupcake'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Goldfish Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate veterinary anchor 'Goldfish'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Floss Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate dental anchor 'Floss'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Lagoon Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate travel_tourism anchor 'Lagoon'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Xylophone Chords",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: music-instrument anchor + Chords is a real music-education query (music_lessons industry); music-context defense stands."
+ },
+ {
+  "title": "Catheter Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate healthcare anchor 'Catheter'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Acai Diary",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Acai' + 'Diary' reads as restaurant operations (food-diary/health-journal reading (diary tracking acai consumption) is a real consumer category); established food-ops line stands."
+ },
+ {
+  "title": "Bruschetta Expense",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Bruschetta' + 'Expense' reads as restaurant operations (ingredient expense tracking for a bruschetta menu); established food-ops line stands."
+ },
+ {
+  "title": "Prosciutto Inventory",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Prosciutto' + 'Inventory' reads as restaurant operations (ingredient inventory for a prosciutto kitchen); established food-ops line stands."
+ },
+ {
+  "title": "Tabbouleh Onboarding",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Tabbouleh' + 'Onboarding' reads as restaurant operations (staff onboarding for a tabbouleh-serving restaurant); established food-ops line stands."
+ },
+ {
+  "title": "Mochi Load",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "Load on a food anchor is an unreadable fragment (workload/electrical-load), no restaurant-operations sense; near-dup of the Capacity/Usage family without their concrete meaning."
+ },
+ {
+  "title": "Shawarma Capacity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Shawarma' + 'Capacity' reads as restaurant operations (seating/production capacity for a shawarma kitchen); established food-ops line stands."
+ },
+ {
+  "title": "Naan Usage",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Naan' + 'Usage' reads as restaurant operations (ingredient/portion usage tracking for a naan kitchen); established food-ops line stands."
+ },
+ {
+  "title": "Masterkey Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate locksmith_security_services anchor 'Masterkey'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Terminology Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate interpreter_translation_services anchor 'Terminology'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Storage Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate moving_relocation_services anchor 'Storage'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Gallery Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate photography_services anchor 'Gallery'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Florist Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate wedding_planning_services anchor 'Florist'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Renewal Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate property_management_services anchor 'Renewal'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Coating Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate car_wash_detailing_services anchor 'Coating'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Ukulele Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate music_lessons anchor 'Ukulele'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Phishing Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate cybersecurity anchor 'Phishing'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Database Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate it_devops anchor 'Database'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Request Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate customer_support anchor 'Request'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Applicant Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate recruiting anchor 'Applicant'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Keynote Sentences",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "Keynote reads as Apple's famous presentation-software mark in this pairing; trademark watchlist flip."
+ },
+ {
+  "title": "Alignment Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate automotive anchor 'Alignment'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Vet Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate veterinary anchor 'Vet'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Infant Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate childcare anchor 'Infant'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Hydrangea Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate houseplants_indoor_gardening anchor 'Hydrangea'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Surgery Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate healthcare anchor 'Surgery'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Bond Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate finance anchor 'Bond'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Notary Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate legal anchor 'Notary'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Weighbridge Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate logistics anchor 'Weighbridge'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Foreclosure Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate real_estate anchor 'Foreclosure'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Lapse Conjugations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: lapse is a genuine English verb, so a conjugation query is coherent; verb-anchor line stands."
+ },
+ {
+  "title": "Promotion Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate hr_payroll anchor 'Promotion'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Suture Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate healthcare anchor 'Suture'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Waiver Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate insurance anchor 'Waiver'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Writing Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate education anchor 'Writing'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Ornament Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate events anchor 'Ornament'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Cupcake Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate food_service anchor 'Cupcake'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Goldfish Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate veterinary anchor 'Goldfish'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Floss Conjugations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: floss is a genuine common English verb (to floss), so the conjugation query is coherent; verb-anchor line stands."
+ },
+ {
+  "title": "Entrance Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate property_management_services anchor 'Entrance'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Xylophone Lyrics",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: music-instrument anchor + Lyrics reads as xylophone song/note content (music_lessons industry); music-context defense stands."
+ },
+ {
+  "title": "Drone Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate crafts_hobbies anchor 'Drone'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Acai Refund",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Acai' + 'Refund' reads as restaurant operations (refund handling for an acai-focused shop); established food-ops line stands."
+ },
+ {
+  "title": "Bruschetta Newsletter",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Bruschetta' + 'Newsletter' reads as restaurant operations (restaurant newsletter marketing for a bruschetta menu); established food-ops line stands."
+ },
+ {
+  "title": "Prosciutto Claim",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Prosciutto' + 'Claim' reads as restaurant operations (customer/liability claims (or health claims) around a prosciutto menu item); established food-ops line stands."
+ },
+ {
+  "title": "Tabbouleh Checkin",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "Checkin on a food anchor is an established dead-pattern fragment with no restaurant-operations reading; dead-pattern family flip."
+ },
+ {
+  "title": "Quinoa Load",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "Load on a food anchor is an unreadable fragment (bulk-delivery/electrical reading is a stretch), no concrete restaurant-operations sense; near-dup of Capacity/Usage family."
+ },
+ {
+  "title": "Jambalaya Capacity",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Jambalaya' + 'Capacity' reads as restaurant operations (seating/production capacity for a jambalaya kitchen); established food-ops line stands."
+ },
+ {
+  "title": "Shawarma Usage",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: food anchor 'Shawarma' + 'Usage' reads as restaurant operations (ingredient/portion usage tracking for a shawarma kitchen); established food-ops line stands."
+ },
+ {
+  "title": "Filtration Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate hvac_services anchor 'Filtration'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Masterkey Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate locksmith_security_services anchor 'Masterkey'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Terminology Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate interpreter_translation_services anchor 'Terminology'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Storage Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate moving_relocation_services anchor 'Storage'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Gallery Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate photography_services anchor 'Gallery'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Florist Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Translations) with legitimate wedding_planning_services anchor 'Florist'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Liner Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Anagrams) with legitimate pool_maintenance_services anchor 'Liner'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Vacation Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate travel_tourism anchor 'Vacation'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Hotspot Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate telecom anchor 'Hotspot'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Phishing Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Rhymes) with legitimate cybersecurity anchor 'Phishing'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Database Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Synonyms) with legitimate it_devops anchor 'Database'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Request Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Antonyms) with legitimate customer_support anchor 'Request'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Applicant Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Sentences) with legitimate recruiting anchor 'Applicant'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Keynote Translations",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "Keynote reads as Apple's famous presentation-software mark in this pairing; trademark watchlist flip."
+ },
+ {
+  "title": "Yoga Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Orthography) with legitimate fitness_wellness anchor 'Yoga'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ },
+ {
+  "title": "Crossword Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: approved query-clause combo (Syllables) with legitimate crafts_hobbies anchor 'Crossword'; review-stage approval line stands, no trademark/duplication/mismatch defect found; market demand is the downstream Keyword Planner gate."
+ }
+]

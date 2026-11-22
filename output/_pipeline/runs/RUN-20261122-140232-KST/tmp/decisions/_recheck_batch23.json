@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Salary Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Drywall Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Buffet Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Orchard Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Turf Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Carpet Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Tip Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Generic Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Ventilation Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Shim Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Overnight Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Gasket Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Parasailing Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Pitch Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Thrifting Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Energy Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Nonrenewal Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Spelling Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Smoothie Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Garbage Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Guacamole Compatibility",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as flavor/ingredient compatibility, i.e. what pairs with this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Empanada Usage",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as ingredient usage tracking for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Escargot Cycle",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as cycle-menu rotation including this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Gyro Sensor",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Sensor is a dead SaaS-hardware fragment on a dish anchor; no restaurant-ops reading attaches a sensor to a gyro, matching the established Sensor-on-food flip family"
+ },
+ {
+  "title": "Quinoa Followup",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as kitchen followup on this menu item - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Mochi Approval",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as dish/menu approval workflow - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Satay Matrix",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Matrix is dead jargon-fragment on a dish anchor; no feature/capability matrix reading attaches to satay, matching the established Matrix-on-food flip family"
+ },
+ {
+  "title": "Moussaka Evaluation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as menu-item evaluation - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Borscht Questionnaire",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as customer questionnaire about this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Gumbo Utilization",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as ingredient utilization reporting for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Jambalaya Benefit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as health-benefit information for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Shawarma Requirement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as dietary/allergen requirements for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Naan Depreciation",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Depreciation is an accounting term for equipment, not dishes; no coherent restaurant-ops reading attaches depreciation to naan, unlike sustained dish-attached ops words such as inventory or usage"
+ },
+ {
+  "title": "Arepa Resignation",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Resignation is an HR fragment that does not attach to a dish; no coherent restaurant-ops reading, unlike sustained dish-attached ops words such as approval or evaluation"
+ },
+ {
+  "title": "Pierogi Hazard",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as food-safety hazard analysis (HACCP) for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Goulash Guarantor",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Guarantor is a lease/finance fragment with no dish-attached reading; explicit established flip family on food anchors"
+ },
+ {
+  "title": "Appointment Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Immunization Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Family Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Chemical Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Commission Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Amortization Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Probate Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Waybill Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Buyer Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Endorsement Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Salary Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Cart Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Prototype Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Babysitter Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Turf Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Carpet Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Tip Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Generic Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Ventilation Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Accreditation Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Parking Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Laundry Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Parasailing Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Pitch Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Thrifting Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Energy Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Nonrenewal Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Spelling Conjugations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Conjugations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Pumpkin Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Hygienist Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Tabbouleh Load",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Load duplicates the sustained Frequency pairing for this anchor (Load/Frequency near-synonym dup) and alone reads as a vague workload fragment on a dish"
+ },
+ {
+  "title": "Ceviche Frequency",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as order/reorder frequency metric for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Guacamole Capacity",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as prep/output capacity planning for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Empanada Condition",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Condition is a vague state-tracking fragment on a dish anchor (same family as flipped Date/Record/Reading); no concrete ops reading such as freshness monitoring is established"
+ },
+ {
+  "title": "Escargot Breakdown",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as recipe/cost breakdown for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Gyro Reception",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Reception is an ambiguous fragment (front desk, AV signal, event hall) with no dish-attached ops reading; the event-catering reading is too weak to sustain for gyro"
+ },
+ {
+  "title": "Quinoa Approval",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as dish/menu approval workflow - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Satay Evaluation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as menu-item evaluation - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Moussaka Questionnaire",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as customer questionnaire about this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Borscht Utilization",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as ingredient utilization reporting for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Gumbo Benefit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as health-benefit information for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Jambalaya Requirement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as dietary/allergen requirements for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Shawarma Depreciation",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Depreciation is an accounting term for equipment, not dishes; no coherent restaurant-ops reading attaches depreciation to shawarma, unlike sustained dish-attached ops words such as inventory or usage"
+ },
+ {
+  "title": "Naan Resignation",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Resignation is an HR fragment that does not attach to a dish; no coherent restaurant-ops reading, unlike sustained dish-attached ops words such as approval or evaluation"
+ },
+ {
+  "title": "Arepa Hazard",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as food-safety hazard analysis (HACCP) for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Tzatziki Tutorial",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as how-to tutorial for preparing this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Appointment Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Immunization Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Family Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Cemetery Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Doctor Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Amortization Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Probate Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Waybill Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Buyer Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Endorsement Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Drywall Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Semester Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Plank Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Babysitter Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Turf Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Carpet Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Tip Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Generic Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Shim Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Slideshow Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Clutter Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Laundry Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Parasailing Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Pitch Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Thrifting Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Energy Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Spelling Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Barking Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Guacamole Usage",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as ingredient usage tracking for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Bratwurst Cycle",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as cycle-menu rotation including this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Escargot Sensor",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Sensor is a dead SaaS-hardware fragment on a dish anchor; no restaurant-ops reading attaches a sensor to escargot, matching the established Sensor-on-food flip family"
+ },
+ {
+  "title": "Gyro Followup",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as kitchen followup on this menu item - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Mochi Evaluation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as menu-item evaluation - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Satay Questionnaire",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as customer questionnaire about this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Moussaka Utilization",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as ingredient utilization reporting for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Borscht Benefit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as health-benefit information for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Gumbo Requirement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as dietary/allergen requirements for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Jambalaya Depreciation",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Depreciation is an accounting term for equipment, not dishes; no coherent restaurant-ops reading attaches depreciation to jambalaya, unlike sustained dish-attached ops words such as inventory or usage"
+ },
+ {
+  "title": "Shawarma Resignation",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Resignation is an HR fragment that does not attach to a dish; no coherent restaurant-ops reading, unlike sustained dish-attached ops words such as approval or evaluation"
+ },
+ {
+  "title": "Naan Hazard",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as food-safety hazard analysis (HACCP) for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Goulash Tutorial",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as how-to tutorial for preparing this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Tzatziki Handbook",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as kitchen handbook entry for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Financing Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Appointment Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Immunization Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Chemical Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Pricing Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Bloom Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Doctor Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Amortization Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Probate Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Waybill Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Buyer Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Salary Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Buffet Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Retainer Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Plank Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Babysitter Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Turf Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Carpet Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Tip Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Ventilation Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Overnight Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Deadlift Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Clutter Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Laundry Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Parasailing Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Pitch Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Thrifting Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Nonrenewal Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Smoothie Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Prosciutto Load",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Load duplicates the sustained Frequency pairing for this anchor (Load/Frequency near-synonym dup) and alone reads as a vague workload fragment on a dish"
+ },
+ {
+  "title": "Edamame Frequency",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as order/reorder frequency metric for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Ceviche Capacity",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as prep/output capacity planning for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Guacamole Condition",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Condition is a vague state-tracking fragment on a dish anchor (same family as flipped Date/Record/Reading); no concrete ops reading such as freshness monitoring is established"
+ },
+ {
+  "title": "Bratwurst Breakdown",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as recipe/cost breakdown for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Escargot Reception",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "Reception is an ambiguous fragment (front desk, AV signal, event hall) with no dish-attached ops reading; the event-catering reading is too weak to sustain for escargot"
+ },
+ {
+  "title": "Gyro Approval",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as dish/menu approval workflow - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Quinoa Evaluation",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as menu-item evaluation - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Mochi Questionnaire",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as customer questionnaire about this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Satay Utilization",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as ingredient utilization reporting for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Moussaka Benefit",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as health-benefit information for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Borscht Requirement",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as dietary/allergen requirements for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Gumbo Depreciation",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Depreciation is an accounting term for equipment, not dishes; no coherent restaurant-ops reading attaches depreciation to gumbo, unlike sustained dish-attached ops words such as inventory or usage"
+ },
+ {
+  "title": "Jambalaya Resignation",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Resignation is an HR fragment that does not attach to a dish; no coherent restaurant-ops reading, unlike sustained dish-attached ops words such as approval or evaluation"
+ },
+ {
+  "title": "Shawarma Hazard",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as food-safety hazard analysis (HACCP) for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Pierogi Tutorial",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as how-to tutorial for preparing this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Goulash Handbook",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as kitchen handbook entry for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Tzatziki Timetable",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as prep timetable for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Agenda Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Financing Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Appointment Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Family Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Woodworking Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Bloom Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Doctor Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Amortization Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Probate Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Waybill Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Endorsement Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Cart Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Leash Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Retainer Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Plank Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Babysitter Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Turf Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Carpet Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Generic Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Accreditation Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Orthodontist Syllables",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Syllables answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Deadlift Rhymes",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Rhymes answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Clutter Synonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Synonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Laundry Antonyms",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Antonyms answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Parasailing Sentences",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Sentences answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Pitch Translations",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Translations answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Energy Anagrams",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Anagrams answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Pumpkin Orthography",
+  "approve": true,
+  "confidence": 0.78,
+  "reason": "sustained: query-clause word-reference reading holds - Orthography answers a word-reference query about the anchor word; no clarity/duplication/trademark defect found on recheck"
+ },
+ {
+  "title": "Ceviche Usage",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reads as ingredient usage tracking for this dish - concrete dish-attached restaurant-ops reading, no clarity/duplication/trademark defect found on recheck"
+ }
+]

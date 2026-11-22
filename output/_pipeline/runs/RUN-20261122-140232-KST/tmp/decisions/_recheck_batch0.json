@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Referral Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: referral 음절 수 조회 관용구로 독해 명확, 중복·상표 없음"
+ },
+ {
+  "title": "Licensing Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: licensing 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Mileage Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: mileage 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Coverage Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: coverage 반의어 조회 관용구 기계적 독해 성립"
+ },
+ {
+  "title": "Endpoint Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: endpoint 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Monitoring Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: monitoring 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Requisition Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: requisition 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Menu Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: menu 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Thrift Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: thrift 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Credit Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: credit 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Council Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: council 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Blog Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: blog 반의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Agent Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: agent 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Background Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: background 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Smog Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: smog 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Crown Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: crown 철자 조회 관용구 독해 성립(dental 맥락 일반명사)"
+ },
+ {
+  "title": "Nap Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: nap 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Tree Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: tree 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Shampoo Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: shampoo 반의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Refrigeration Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: refrigeration 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Chiller Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: chiller 번역 조회 관용구 독해 성립(HVAC 일반명사)"
+ },
+ {
+  "title": "Thumbnail Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: thumbnail 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Theory Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: theory 철자 조회 관용구 독해 성립(음악 이론 학습 맥락)"
+ },
+ {
+  "title": "Insomnia Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: insomnia 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Reserve Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: reserve 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Flashcard Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: flashcard 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Housewarming Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: 반의어 조회 관용구로 기계적 독해는 성립 - housewarming 반의어 수요 자체는 약하나 명확성·중복·상표 문제 없음(시장성은 KP 게이트 몫)"
+ },
+ {
+  "title": "Falafel Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: falafel 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Doghouse Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: doghouse 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Concierge Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: concierge 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Bond Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: bond 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Guacamole Kit",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 구아카몰 제조 키트는 실제 유통 상품군으로 식음 독해가 지배적 - Apache Guacamole 원격접속 SaaS와 겹칠 소프트웨어 맥락 기능어가 아님"
+ },
+ {
+  "title": "Referral Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: referral 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Licensing Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: licensing 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Mileage Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: mileage 반의어 조회 관용구 기계적 독해 성립"
+ },
+ {
+  "title": "Coverage Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: coverage 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Endpoint Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: endpoint 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Feedback Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: feedback 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Maintenance Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: maintenance 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Electrical Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: electrical 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Thrift Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: thrift 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Credit Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: credit 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Council Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: council 반의어 조회 관용구 기계적 독해 성립"
+ },
+ {
+  "title": "Blog Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: blog 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Agent Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: agent 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Conference Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: conference 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Kitten Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: kitten 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Boxing Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: boxing 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Nap Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: nap 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Tree Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: tree 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Shampoo Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: shampoo 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Refrigeration Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: refrigeration 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Transponder Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: transponder 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Barbecue Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: barbecue 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Winery Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: winery 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Insomnia Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: insomnia 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Reserve Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: reserve 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Flashcard Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: flashcard 반의어 조회 관용구 기계적 독해 성립"
+ },
+ {
+  "title": "Housewarming Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: housewarming 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Falafel Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: falafel 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Endodontics Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: 애너그램 조회 관용구 기계적 독해 성립 - 전문용어라 수요는 약하나 명확성·중복·상표 문제 없음"
+ },
+ {
+  "title": "Acne Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: acne 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Impact Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: impact 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Referral Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: referral 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Licensing Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: licensing 반의어 조회 관용구 기계적 독해 성립"
+ },
+ {
+  "title": "Mileage Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: mileage 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Coverage Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: coverage 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Monitoring Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: monitoring 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Exhibitor Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: exhibitor 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Bonus Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: bonus 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Electrical Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: electrical 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Thrift Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: thrift 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Credit Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: credit 반의어 조회 관용구 기계적 독해 성립"
+ },
+ {
+  "title": "Council Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: council 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Blog Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: blog 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Background Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: background 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Cooler Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: cooler 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Cleaning Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: cleaning 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Boxing Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: boxing 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Nap Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: nap 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Tree Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: tree 반의어 조회 관용구 기계적 독해 성립"
+ },
+ {
+  "title": "Shampoo Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: shampoo 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Chiller Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: chiller 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Hallway Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: hallway 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Intercom Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: 건물 인터컴 일반명사의 음절 조회 독해 명확 - Intercom SaaS는 소프트웨어 맥락이라 여기와 상이(1차 개별 판정 유지)"
+ },
+ {
+  "title": "Winery Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: winery 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Insomnia Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: insomnia 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Reserve Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: reserve 반의어 조회 관용구 기계적 독해 성립"
+ },
+ {
+  "title": "Flashcard Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: flashcard 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Housewarming Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: housewarming 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Doghouse Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: doghouse 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Endodontics Chords",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Chords는 코드 차트 조회 관용구인데 앵커가 치과 전문용어(치수치료)로 명백한 비음악 어휈다 - 'endodontics가 들어간 곡의 코드' 조회 행태는 성립하지 않아 결합이 붕괴된다"
+ },
+ {
+  "title": "Concierge Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Lyrics 가사 조회 관용구인데 concierge는 호텔·부동산 컨시어지로 음악 맥락이 전혀 없고 '가사에 이 단어가 있는 곡' 검색 행태로 자연스럽지 않다"
+ },
+ {
+  "title": "Skydiving Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: skydiving 철자 조회 관용구로 독해 명확"
+ },
+ {
+  "title": "Acai Label",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 아사이 볼 상품·메뉴 라벨 제작 관리로 식음 운영 독해 명확"
+ },
+ {
+  "title": "Bruschetta Worksheet",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: 원가·준비량 작업 시트는 식음업 실무 관행과 맞는 구체 기능어다"
+ },
+ {
+  "title": "Prosciutto Schematic",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Schematic은 배선·기계 도면 용어라 식음업 맥락에서 대응 산출물이 없다 - '프로슛토 회로도'는 제품 독해가 성립하지 않는 불명확 결합이다"
+ },
+ {
+  "title": "Tabbouleh Sketch",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: 플레이팅·메뉴 스케치 도구로 독해 가능 - Sketch(디자인 앱)는 범용 '스케치' 의미가 지배돼 상표 침식 소지가 낮다"
+ },
+ {
+  "title": "Edamame Rendering",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Rendering은 그래픽·3D 전문 용어로 식음 결합이 낯설고(1차도 약한 결합 인지) 에다마메 업소용 '렌더링 도구'는 불명확한 조각에 가깝다"
+ },
+ {
+  "title": "Ceviche Kit",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: 세비체 밀키트 구성·판매 관리로 독해 명확"
+ },
+ {
+  "title": "Guacamole Message",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: 주문·안내 메시지 발송 기능으로 식음 운영 독해 성립 - Apache Guacamole(원격접속 SaaS)와 겹칠 소프트웨어 맥락 기능어가 아니다"
+ },
+ {
+  "title": "Empanada Widget",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 주문·메뉴용 웹 위젯 삽입 도구로 독해 명확"
+ },
+ {
+  "title": "Bratwurst Announcement",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 메뉴·이벤트 공지 발송 도구로 독해 명확"
+ },
+ {
+  "title": "Escargot Converter",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: 레시피 단위 변환 도구로 독해 가능"
+ },
+ {
+  "title": "Gyro Recorder",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: 주문·판매 기록 도구로 독해 성립 - 악기 'recorder' 다의성은 식음 맥락이 지배한다"
+ },
+ {
+  "title": "Quinoa Checker",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 퀴노아 재고·신선도 검사 도구로 독해 명확"
+ },
+ {
+  "title": "Mochi Detector",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Detector가 무엇을 감지하는지 불분명하다(1차 판정 스스로 근거 약함 인지) - 은퇴 확정된 Sensor 패턴의 재포장으로 기능어 자체가 조각 수준이다"
+ },
+ {
+  "title": "Satay Timer",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: 사테 조리 타이머로 독해 명확"
+ },
+ {
+  "title": "Moussaka Workshop",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 무사카 요리 클래스·워크숍 예약 관리로 독해 명확"
+ },
+ {
+  "title": "Borscht Guardian",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: 품질·재료 감시 모니터링 메타포로 독해 가능 - Guardian 신문·보험과 업종 맥락이 다르다"
+ },
+ {
+  "title": "Gumbo Helper",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 검보 조리·운영 보조 도구로 독해 명확 - 슬라이스 내 Assistant 동의어 쌍 없음"
+ },
+ {
+  "title": "Jambalaya Stage",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: 조리 단계(staging) 관리 독해 성립 - 요리업의 staging(수습셰프) 관행까지 있어 무대 다의성을 방어한다"
+ },
+ {
+  "title": "Naan Streak",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: loyalty streak(연속 방문·주문) 관리는 실제 리텐션 관행과 맞는 독해다"
+ },
+ {
+  "title": "Arepa Rank",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: 아레파 메뉴·매장 순위 도구로 독해 가능"
+ },
+ {
+  "title": "Pierogi Trend",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: 피로기 수요·판매 추세 분석으로 독해 명확"
+ },
+ {
+  "title": "Goulash Comparison",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 굴라시 레시피·메뉴 비교 도구로 독해 명확"
+ },
+ {
+  "title": "Tzatziki Proposal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: 차즈키 케이터링 제안서 작성 도구로 독해 가능"
+ },
+ {
+  "title": "Demand Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: demand 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Impact Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: impact 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Referral Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: referral 반의어 조회 관용구 기계적 독해 성립"
+ },
+ {
+  "title": "Licensing Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: licensing 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Mileage Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: mileage 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Endpoint Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: endpoint 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Monitoring Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "monitoring은 비음악 앵커라 코드 차트 조회 관용구가 성립하지 않는다 - 1차 판정도 결합이 낯설음을 인지했다"
+ },
+ {
+  "title": "Feedback Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: audio feedback(일렉기타 피드백)이라는 실제 음악 개념과 실존 곡명 'Feedback'이 있어 '가사 조회' 독해가 붕괴하지 않는다 - 명백한 비음악 앵커로 보기 어렵다"
+ },
+ {
+  "title": "Requisition Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: requisition 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Loss Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: loss 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Bonus Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: bonus 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Electrical Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: electrical 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Thrift Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: thrift 반의어 조회 관용구 기계적 독해 성립"
+ },
+ {
+  "title": "Credit Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: credit 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Council Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: council 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Agent Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: agent 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Background Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "recruiting(이력서 배경조사) 맥락의 background는 음악 코드와 무관하고 '곡 코드 조회' 독해가 억지스럽게 붕괴한다"
+ },
+ {
+  "title": "Conference Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "conference는 비음악 앵커로 가사 조회 관용구가 부자연스럽다 - 1차 판정도 낯설음을 인지했다"
+ },
+ {
+  "title": "Smog Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: smog 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Shelter Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: shelter 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Cleaning Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: cleaning 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Boxing Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: boxing 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Nap Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: nap 반의어 조회 관용구 기계적 독해 성립"
+ },
+ {
+  "title": "Tree Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: tree 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Bleach Translations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: cleaning_services 맥락에서 표백제 일반명사가 지배적이고 단어 번역 조회 독해가 명확 - Bleach(애니 IP)는 서비스 맥락이 달라 1차 개별 판정을 유지한다"
+ },
+ {
+  "title": "Refrigeration Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: refrigeration 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Chiller Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "hvac 칠러는 비음악 앵커라 코드 조회 관용구가 성립하지 않는다 - 1차 판정도 낯설음을 인지했다"
+ },
+ {
+  "title": "Transponder Lyrics",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "transponder(자동차 보안 칩)는 명백한 비음악 앵커로 가사 조회 관용구가 붕괴한다"
+ },
+ {
+  "title": "Thumbnail Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: thumbnail 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Malocclusion Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: 부정교합 전문용어의 음절 수 조회는 실제 학습 조회 행태와 부합하는 가장 자연스러운 쿼리절 결합이다"
+ },
+ {
+  "title": "Intercom Rhymes",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: 건물 인터컴 일반명사가 지배적이고 각운 조회 독해가 명확 - Intercom(고객소통 SaaS)은 소프트웨어 맥락이라 여기와 상이하다는 1차 개별 판정을 유지한다"
+ },
+ {
+  "title": "Winery Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: winery 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Insomnia Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: insomnia 반의어 조회 관용구 기계적 독해 성립"
+ },
+ {
+  "title": "Reserve Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: reserve 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Flashcard Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: flashcard 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Falafel Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: falafel 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Doghouse Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "veterinary 맥락의 doghouse는 비음악 앵커이며 '곡 코드 조회' 독해가 성립하지 않는다"
+ },
+ {
+  "title": "Endodontics Lyrics",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "치과 전문용어 앵커와 가사 조회의 결합이 성립하지 않는다 - 실제 곡 가사에서 찾을 수 없는 수준의 전문어다"
+ },
+ {
+  "title": "Concierge Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: concierge 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Acai Manual",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: 아사이 업소 운영·레시피 매뉴얼 도구로 독해 가능"
+ },
+ {
+  "title": "Bruschetta Diagram",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: 조리 공정 도식(HACCP류 프로세스 다이어그램)은 식음업 실무에 실존하는 산출물이라 독해가 성립한다"
+ },
+ {
+  "title": "Prosciutto Layout",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: 메뉴판·진열 레이아웃(메뉴 엔지니어링) 도구로 독해 가능"
+ },
+ {
+  "title": "Tabbouleh Outline",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Outline이 무엇의 개요인지 불명확해 조각 수준이고(1차도 결합 약음 인지) Outline은 유명 위키 SaaS(getoutline)와 겹쳐 소프트웨어 맥락 혼동 소지도 있다"
+ },
+ {
+  "title": "Edamame Notification",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 재고·주문 알림 도구로 독해 명확"
+ },
+ {
+  "title": "Ceviche Count",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: 세비체 재고·판매 집계 도구로 독해 가능"
+ },
+ {
+  "title": "Guacamole Total",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Total이 무엇의 합계인지 불분명하다(1차 판정 스스로 근거 약함 인지) - 기능어가 구체적 사업 기능을 가리키지 못하는 조각 수준 결합이다"
+ },
+ {
+  "title": "Empanada Repository",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: 레시피·운영 자료 저장소로 독해 가능 - 문서 저장소는 범용 용어로 소프트웨어 전용 독해가 아니다"
+ },
+ {
+  "title": "Bratwurst Calculator",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: 브라트부르스트 원가·판매량 계산기로 독해 명확"
+ },
+ {
+  "title": "Escargot Generator",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: 메뉴·레시피 생성 도구로 독해 가능"
+ },
+ {
+  "title": "Gyro Estimator",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 원가·수량 추정 도구로 독해 명확"
+ },
+ {
+  "title": "Quinoa Detector",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "감지 대상이 불분명하다(1차 판정 스스로 근거 약함 인지) - 은퇴 Sensor 패턴의 재포장으로 조각 수준 결합이다"
+ },
+ {
+  "title": "Mochi Timer",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: 모찌 조리·발효 타이머로 독해 명확"
+ },
+ {
+  "title": "Satay Workshop",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: 사테 요리 클래스·워크숍 운영 도구로 독해 가능"
+ },
+ {
+  "title": "Moussaka Guardian",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: 품질·재료 감시 메타포로 독해 가능 - 유명 상표와 업종 맥락이 다르다"
+ },
+ {
+  "title": "Borscht Helper",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 보르시 조리·운영 보조 도구로 독해 명확"
+ },
+ {
+  "title": "Gumbo Stage",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: 조리 단계 관리 독해 성립 - 요리업 staging 관행이 다의성을 방어한다"
+ },
+ {
+  "title": "Shawarma Streak",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: loyalty streak 관리는 실제 리텐션 관행과 맞는 독해다"
+ },
+ {
+  "title": "Naan Rank",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: 난 메뉴·매장 순위 도구로 독해 가능"
+ },
+ {
+  "title": "Arepa Trend",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 아레파 수요·판매 추세 분석으로 독해 명확"
+ },
+ {
+  "title": "Pierogi Comparison",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 피로기 레시피·메뉴 비교 도구로 독해 명확"
+ },
+ {
+  "title": "Goulash Proposal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: 굴라시 케이터링 제안서 작성 도구로 독해 가능"
+ },
+ {
+  "title": "Tzatziki Guarantee",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Guarantee는 도구가 아니라 약속 개념이라 식음업 대응 산출물이 불명확하다 - 1차 판정도 결합 약음을 인지했고 보증 관리 독해가 억지스럽다"
+ },
+ {
+  "title": "Grazing Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: grazing 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Demand Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: demand 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Impact Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: impact 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Referral Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: referral 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Licensing Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: licensing 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Coverage Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: coverage 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Endpoint Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "cybersecurity endpoint는 비음악 앵커로 코드 조회 관용구가 붕괴한다 - 1차 판정도 낯설음을 인지했다"
+ },
+ {
+  "title": "Monitoring Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "it_devops monitoring은 비음악 앵커로 가사 조회 독해가 억지스럽게 붕괴한다"
+ },
+ {
+  "title": "Feedback Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: feedback 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Rezoning Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: rezoning 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Loss Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: loss 각운 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Bonus Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: bonus 유의어 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Electrical Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: electrical 반의어 조회 관용구 기계적 독해 성립"
+ },
+ {
+  "title": "Thrift Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: thrift 문장 예시 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Credit Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: credit 번역 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Blog Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: blog 애너그램 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Agent Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "customer_support 상담원 맥락의 agent는 비음악 앵커라 코드 조회 결합이 성립하지 않는다"
+ },
+ {
+  "title": "Background Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "recruiting 배경조사 맥락의 background는 음악과 무관해 가사 조회 관용구가 붕괴한다"
+ },
+ {
+  "title": "Conference Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: conference 철자 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Brunch Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: brunch 음절 수 조회 관용구 독해 성립"
+ },
+ {
+  "title": "Shelter Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: shelter 각운 조회 관용구 독해 성립"
+ }
+]

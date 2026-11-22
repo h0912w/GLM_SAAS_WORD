@@ -1,0 +1,2202 @@
+[
+ {
+  "title": "Manifold Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Manifold Orthography - 배관 매니폴드라는 단어의 철자·표기법을 조회하는 용어 검색 조합으로 읽히고 중복·상표 문제도 없다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Kickboxing Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Kickboxing Syllables - 킥복싱이라는 단어의 음절 분석을 보여주는 학습 조회 조합이 자연스럽다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Allergy Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Allergy Rhymes - 알레르기라는 단어로 라임을 찾아주는 조회 기능 결합이 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Flower Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Flower Synonyms - 꽃 관련 단어의 유의어를 찾는 사전형 조회 조합으로 명확하다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Squeegee Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Squeegee Antonyms - 스퀴지라는 단어의 반의어를 조회하는 학습 도구 결합이 이상하지 않다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mirror Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Mirror Sentences - 거울이라는 단어의 예문을 보여주는 문장 조회 조합으로 의미가 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Expiration Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Expiration Translations - 유통기한 관련 단어의 다국어 번역 조회로 읽히며 약국 맥락과도 어색하지 않다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Radiator Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Radiator Conjugations - Conjugations는 동사 활용 조회 기능어인데 radiator는 명사라 활용 대상이 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Impressioning Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Impressioning Anagrams - 열쇠 본뜨기라는 전문 단어의 애너그램을 찾는 조회 조합이 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Testimonial Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Testimonial Chords - 고객 후기 영상에 붙일 배경 코드(Chords)를 고르는 기능으로 읽혀 서비스 대상이 생긴다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Balcony Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Balcony Lyrics - 발코니(balcony)에 가사(Lyrics)를 붙여도 만들어지는 서비스가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Picnic Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Picnic Orthography - 피크닉이라는 단어의 철자 정보를 다루는 조회 콘텐츠 결합이 자연스럽다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pizza Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Pizza Syllables - 피자라는 단어의 음절 수를 알려주는 학습 조회 조합으로 명확하다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chinchilla Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Chinchilla Rhymes - 친칠라라는 단어의 라임 후보를 찾아주는 조회 결합이 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruxism Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Bruxism Synonyms - 이가이(브럭시즘)라는 의학 용어의 유의어를 조회하는 조합으로 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Thermostat Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Thermostat Antonyms - 온도조절기라는 단어의 반의어 조회 결합이 학습 도구로 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Promenade Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Promenade Sentences - 산책로라는 단어의 예문을 모아 보는 문장 조회 조합이 자연롭다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Otoscope Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Otoscope Translations - 이경이라는 의료 용어의 번역을 조회하는 결합으로 명확성이 있다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Claimant Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Claimant Conjugations - claimant는 명사라서 동사 활용을 보여주는 Conjugations 조회와 결합해도 서비스가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pencil Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Pencil Anagrams - 연필이라는 단어의 애너그램을 만들어 보는 학습 놀이 조합이 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Streamers Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Streamers Chords - 행사 장식 리본(streamers)에 코드(Chords)를 결합하면 음악 서비스 대상이 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ramen Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Ramen Lyrics - 라멘 가게 광고·지글용 가사(Lyrics) 생성 도구로 읽혀 결합이 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Horse Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Horse Orthography - 말(horse)이라는 단어의 철자·표기 정보를 다루는 조회 콘텐츠로 자연스럽다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Streak",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Acai Streak - 아사이 가게의 연속 주문·방문 스트릭(Acai Streak) 충성도 기능으로 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Trend",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Bruschetta Trend - 브루스케타 메뉴의 트렌드(Bruschetta Trend) 분석 도구로 명확하게 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Proposal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Prosciutto Proposal - 프로슈토 케이터링 제안서(Proposal) 작성 도구 결합이 음식점 맥락에서 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Record",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Tabbouleh Record - 타뷸레 조리·위생 기록(Record) 관리 도구로 읽혀 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Reading",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Edamame Reading - 에다마메 조리 온도·신선도 계량값(Reading) 기록 도구 결합이 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Forecast",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Ceviche Forecast - 세비체 메뉴 수요 예측(Forecast) 기능으로 명확하게 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Duration",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Guacamole Duration - 과카몰리 신선 유지 시간(Duration) 추적 기능으로 읽혀 주방 맥락이 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Diagnostic",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Empanada Diagnostic - 엠파나다에 진단(Diagnostic)을 붙이면 무엇을 진단하는지 서비스가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Authorization",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Bratwurst Authorization - 브라트부르스트와 승인·권한(Authorization)의 결합은 음식업에서 대상이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Guide",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Escargot Guide - 에스카르고 메뉴·안내 가이드(Guide) 콘텐츠 도구로 읽혀 명확하다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Agreement",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Gyro Agreement - 기로스(gyro)에 계약 합의(Agreement)를 붙이면 어떤 합의인지 짐작게 하지 못한다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Account",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Quinoa Account - 퀴노아에 계정(Account)을 결합해도 무엇의 계정인지 서비스가 정의되지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Case",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Mochi Case - 모찌에 케이스(Case)를 붙인 조합은 케이스의 주체가 불명확해 기각한다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Match",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Satay Match - 사테 소스·음식 페어링 매칭(Match) 도구로 읽혀 결합이 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Validation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Moussaka Validation - 무사카에 검증(Validation)을 붙여도 무엇을 검증하는지 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Borscht Lookup - 보르쉬 레시피·재료 조회(Lookup) 도구로 읽혀 명확성이 있다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Ping",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Gumbo Ping - 곰보 요리 주문 완료 호출(Ping)·호출벨 기능으로 읽혀 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Model",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Jambalaya Model - 잠발라야에 모델(Model)을 붙이면 무엇의 모델인지 서비스가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Availability",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Shawarma Availability - 샤와르마 메뉴 판매 가능(Availability) 실시간 표시 기능으로 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Eligibility",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Naan Eligibility - 난(naan)에 자격 판정(Eligibility)을 결합하면 판정 대상이 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Broadcast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Arepa Broadcast - 아레파 가게 마케팅 메시지 발송(Broadcast) 도구로 읽혀 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Barcode",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Pierogi Barcode - 피로기 포장 라벨·바코드(Barcode) 관리 기능으로 읽혀 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Appointment",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Goulash Appointment - 굴라시 식당 예약·어프린트먼트(Appointment) 관리로 명확하게 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Feedback",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Tzatziki Feedback - 자치키 소스·메뉴 고객 피드백(Feedback) 수집 도구로 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Crew Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Crew Syllables - 크루라는 단어의 음절 분할 정보를 주는 조회 조합으로 이상하지 않다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Charter Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Charter Rhymes - 전세(charter)라는 단어의 라임을 찾는 학습 조회 결합이 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Maintenance Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Maintenance Synonyms - 정비라는 단어의 유의어를 조회하는 사전형 조합으로 명확하다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Callout Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Callout Antonyms - 출동(callout)이라는 단어의 반의어를 찾는 조회 결합이 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Safe Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Safe Sentences - 금고(safe)라는 단어의 예문을 보여주는 문장 조회 조합이 자연스럽다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Assignment Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Assignment Translations - 배정된 과제라는 단어의 번역 조회로 통하는 학습 도구 결합이다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Inventory Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Inventory Conjugations - 재고(inventory)는 활용형이 없는 명사라 Conjugations 조회 결합이 무의미하다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Backdrop Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Backdrop Anagrams - 배경막이라는 단어의 애너그램 조회 조합이 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Photographer Chords",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Photographer Chords - 사진작가(Photographer)와 코드(Chords)의 결합이 가리키는 기능이 불분명해 기각",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Vendor Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Vendor Lyrics - 협력업체(vendor)와 가사(Lyrics)의 조합은 업계 맥락에서 서비스를 만들지 못한다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Heater Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Heater Orthography - 난방기라는 단어의 철자 정보를 다루는 조회 콘텐츠가 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Puppy Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Puppy Syllables - 강아지(puppy)라는 단어의 음절 정보를 주는 학습 조회가 자연롭다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Filling Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Filling Rhymes - 치아 충전(filling)이라는 단어의 라임 조회 결합이 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Dumbbell Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Dumbbell Synonyms - 덤벨이라는 단어의 유의어를 찾는 사전형 조합으로 명확하다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Preschool Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Preschool Antonyms - 유치원이라는 단어의 반의어를 조회하는 학습 결합이 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cane Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Cane Sentences - 지팡이(cane)라는 단어의 예문 조회 조합이 이상하지 않다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mower Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Mower Translations - 잔디깎기라는 단어의 번역 정보 조회로 통하는 결합이다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Closet Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Closet Conjugations - closet라는 명사에는 동사 활용 조회(Conjugations)가 적용되지 않아 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Urn Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Urn Anagrams - 봉안함(urn)이라는 단어의 애너그램을 찾는 학습 조합이 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pedicure Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Pedicure Chords - 살롱 배경 음악 코드(Pedicure Chords) 큐레이션으로 읽혀 서비스 대상이 그려진다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bottle Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Bottle Lyrics - 약병(bottle)과 가사(Lyrics)의 결합은 약국 맥락에서 아무 서비스도 만들지 못한다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ferry Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Ferry Orthography - 페리라는 단어의 철자·표기 조회 콘텐츠가 자연스럽다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Plaque Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Plaque Syllables - 치석(plaque)이라는 단어의 음절 분석 조회가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Kickboxing Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Kickboxing Rhymes - 킥복싱이라는 단어의 라임을 찾는 조회 결합으로 명확하다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Allergy Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Allergy Synonyms - 알레르기라는 단어의 유의어 조회 조합이 사전 도구로 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Flower Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Flower Antonyms - 꽃이라는 단어의 반의어를 찾는 학습 조회가 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Squeegee Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Squeegee Sentences - 스퀴지라는 단어의 예문을 모아 보는 결합이 자연롭다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mirror Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Mirror Translations - 거울이라는 단어의 번역 조회 조합으로 명확성이 있다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Expiration Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Expiration Conjugations - expiration은 명사이므로 동사 활용 목록을 다루는 Conjugations와 결합하면 대상이 없다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Radiator Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Radiator Anagrams - 라디에이터라는 단어의 애너그램 조회가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Impressioning Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Impressioning Chords - 열쇠 본뜨기(impressioning)는 음악 코드(Chords)와 만날 접점이 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Testimonial Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Testimonial Lyrics - Testimonial Lyrics dup Testimonial Chords - 같은 앵커에서 코드·가사는 음악 콘텐츠 쌍이라 한쪽만 인정",
+  "checks": {
+   "clarity": true,
+   "duplication": false,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Balcony Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Balcony Orthography - 발코니라는 단어의 철자 정보를 다루는 조회 콘텐츠가 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Balloons Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Balloons Syllables - 풍선(balloons)이라는 단어의 음절 분할 조회가 자연롭다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pizza Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Pizza Rhymes - 피자라는 단어의 라임 후보를 찾는 학습 조합이 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chinchilla Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Chinchilla Synonyms - 친칠라라는 단어의 유의어를 조회하는 결합이 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruxism Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Bruxism Antonyms - 이가이 용어의 반의어를 찾는 조회 조합이 이상하지 않다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Thermostat Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Thermostat Sentences - 온도조절기라는 단어의 예문 조회가 자연스럽다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Promenade Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Promenade Translations - 산책로라는 단어의 번역을 보여주는 조회 결합이 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Otoscope Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Otoscope Conjugations - 이경(otoscope)이라는 기구명은 활용 대상이 아니어서 Conjugations 결합이 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Claimant Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Claimant Anagrams - 청구인(claimant)이라는 단어의 애너그램 조회가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pencil Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Pencil Chords - 연필(pencil)에 코드(Chords)를 결합해도 음악 서비스 대상이 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Streamers Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Streamers Lyrics - 장식 리본 앵커에 가사(Lyrics)를 붙이면 어떤 SaaS인지 짐작이 안 된다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ramen Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Ramen Orthography - 라멘이라는 단어의 철자·표기 정보 조회가 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Rank",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Acai Rank - 아사이 가게 검색 랭킹(Rank) 추적 도구 결합이 명확하다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Comparison",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Bruschetta Comparison - 브루스케타 메뉴·가격 비교(Comparison) 기능으로 읽혀 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Guarantee",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Prosciutto Guarantee - 프로슈토 신선도 보증(Guarantee) 처리 기능으로 읽혀 맥락이 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Tabbouleh Copy - 타뷸레 메뉴·광고 문구(Copy) 생성 도구로 읽혀 명확성이 있다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Reference",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Edamame Reference - 에다마메 원재료·레시피 레퍼런스(Reference) DB 결합이 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Deadline",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Ceviche Deadline - 세비체 유통기한 마감(Deadline) 알림 기능으로 읽혀 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Volume",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Guacamole Volume - 과카몰리 판매·재고 수량(Volume) 추적 기능으로 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Progress",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Empanada Progress - 엠파나다 조리 진행 상황(Progress) 추적 기능으로 읽혀 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Template",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Bratwurst Template - 브라트부르스트 메뉴·라벨 템플릿(Template) 생성 도구로 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Rating",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Escargot Rating - 에스카르고 메뉴 평점(Rating) 관리 기능으로 명확하게 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Gyro Reply - 기로스 가게 리뷰 답글(Reply) 자동화 도구로 읽혀 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Case",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Quinoa Case - 퀴노아와 케이스(Case)의 결합은 사례의 주체가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Match",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Mochi Match - 모찌 페어링·조합 추천(Match) 기능으로 읽혀 결합이 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Validation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Satay Validation - 사테에 검증(Validation)을 붙이면 검증 대상이 정의되지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Moussaka Lookup - 무사카 레시피 조회(Lookup) 도구로 읽혀 명확성이 있다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Ping",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Borscht Ping - 보르쉬 주문 호출(Ping) 기능으로 읽혀 주방 맥락이 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Model",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Gumbo Model - 곰보 요리에 모델(Model)을 결합하면 서비스 개체가 그려지지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Availability",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Jambalaya Availability - 잠발라야 메뉴 가용(Availability) 표시 기능으로 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Eligibility",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Shawarma Eligibility - 샤와르마에 자격 판정(Eligibility)을 붙이면 판정 기준이 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Broadcast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Naan Broadcast - 난 베이커리 마케팅 발송(Broadcast) 도구로 읽혀 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Barcode",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Arepa Barcode - 아레파 포장 바코드(Barcode) 관리 기능으로 읽혀 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Appointment",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Pierogi Appointment - 피로기 식당 예약(Appointment) 관리 도구로 명확하게 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Feedback",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Goulash Feedback - 굴라시 가게 고객 피드백(Feedback) 수집 기능으로 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Invoice",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Tzatziki Invoice - 자치키 공구·주문 청구서(Invoice) 발행 기능으로 읽혀 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Formulary Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Formulary Syllables - 약제 목록(formulary)이라는 단어의 음절 조회가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Crew Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Crew Rhymes - 크루라는 단어의 라임을 찾는 학습 결합이 자연롭다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Charter Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Charter Synonyms - 전세라는 단어의 유의어 조회 조합이 명확하다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Maintenance Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Maintenance Antonyms - 정비라는 단어의 반의어를 찾는 조회가 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Callout Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Callout Sentences - 출동이라는 단어의 예문을 모아 보는 결합이 이상하지 않다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Safe Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Safe Translations - 금고(safe)라는 단어의 번역 조회 조합이 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Assignment Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Assignment Conjugations - assignment는 명사라 동사 활용 조회인 Conjugations와 만나면 조회 대상이 생기지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Inventory Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Inventory Anagrams - 재고(inventory)라는 단어의 애너그램 조회가 자연롭다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Backdrop Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Backdrop Chords - 촬영·영상의 배경(backdrop) 음악 코드(Chords) 라이브러리로 읽혀 결합이 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Photographer Lyrics",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Photographer Lyrics - 사진작가에게 가사(Lyrics) 기능이 붙는 서비스가 구체적으로 상상되지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Vendor Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Vendor Orthography - 협력업체(vendor)라는 단어의 철자 정보 조회가 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Freezer Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Freezer Syllables - 냉동고라는 단어의 음절 분석을 보여주는 학습 조회가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Puppy Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Puppy Rhymes - 강아지라는 단어의 라임 조회 결합이 자연스럽다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Filling Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Filling Synonyms - 치아 충전이라는 단어의 유의어를 찾는 조합이 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Dumbbell Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Dumbbell Antonyms - 덤벨이라는 단어의 반의어 조회가 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Preschool Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Preschool Sentences - 유치원이라는 단어의 예문 조회 조합이 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cane Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Cane Translations - 지팡이라는 단어의 번역을 보여주는 결합이 이상하지 않다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mower Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Mower Conjugations - 잔디깎기(mower)는 명사라서 활용형을 찾는 Conjugations 기능과 결합이 안 된다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Closet Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Closet Anagrams - 옷장(closet)이라는 단어의 애너그램 조회가 자연롭다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Urn Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Urn Chords - 봉안식·추모 음악의 코드(Urn Chords)를 고르는 기능으로 읽혀 장례 맥락에서 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pedicure Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Pedicure Lyrics - Pedicure Lyrics dup Pedicure Chords - 같은 앵커의 음악 기능어 쌍이라 가사 쪽을 중복 기각",
+  "checks": {
+   "clarity": true,
+   "duplication": false,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bottle Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Bottle Orthography - 약병(bottle)이라는 단어의 철자 조회 콘텐츠가 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Adoption Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Adoption Syllables - 입양(adoption)이라는 단어의 음절 정보 조회가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Plaque Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Plaque Rhymes - 치석이라는 단어의 라임을 찾는 학습 조합이 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Kickboxing Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Kickboxing Synonyms - 킥복싱이라는 단어의 유의어 조회가 자연스럽다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Allergy Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Allergy Antonyms - 알레르기라는 단어의 반의어 조회 결합이 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Flower Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Flower Sentences - 꽃이라는 단어의 예문을 모아 보는 조회가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Squeegee Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Squeegee Translations - 스퀴지라는 단어의 번역 조회 조합이 이상하지 않다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mirror Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Mirror Conjugations - mirror라는 명사에는 동사 활용 조회가 맞지 않아 명확성이 결여된다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Expiration Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Expiration Anagrams - 유통기한(expiration)이라는 단어의 애너그램 조회가 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Radiator Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Radiator Chords - 난방 라디에이터와 코드(Chords)의 조합은 서비스 대상을 만들지 못해 기각",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Impressioning Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Impressioning Lyrics - 본뜨기 기술 용어에 가사(Lyrics)를 결합해도 서비스가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Testimonial Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Testimonial Orthography - 고객 후기(testimonial)라는 단어의 철자·표기 조회가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Notebook Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Notebook Syllables - 공책이라는 단어의 음절 수를 알려주는 학습 도구 결합이 자연롭다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Balloons Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Balloons Rhymes - 풍선이라는 단어의 라임을 찾는 학습 결합이 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pizza Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Pizza Synonyms - 피자라는 단어의 유의어를 조회하는 조합이 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chinchilla Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Chinchilla Antonyms - 친칠라라는 단어의 반의어 조회가 이상하지 않다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruxism Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Bruxism Sentences - 이가이 용어의 예문을 보여주는 조회가 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Thermostat Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Thermostat Translations - 온도조절기라는 단어의 번역 조회 결합이 자연스럽다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Promenade Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Promenade Conjugations - promenade는 명사(산책)라 활용표를 보여주는 Conjugations 결합이 무의미하다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Otoscope Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Otoscope Anagrams - 이경이라는 용어의 애너그램 조회가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Claimant Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Claimant Chords - 청구인(claimant)에게 코드(Chords) 기능이 붙는 서비스가 상상되지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pencil Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Pencil Lyrics - 연필(pencil)에 가사(Lyrics)를 붙인 조합은 어떤 제품인지 짐작게 하지 못한다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Streamers Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Streamers Orthography - 장식 리본(streamers)이라는 단어의 철자 조회가 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Trend",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Acai Trend - 아사이 메뉴 트렌드(Trend) 분석 도구로 명확하게 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Proposal",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Bruschetta Proposal - 브루스케타 케이터링 제안(Proposal) 작성 기능으로 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Record",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Prosciutto Record - 프로슈토 숙성·위생 기록(Record) 관리 도구로 읽혀 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Reading",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Tabbouleh Reading - 타뷸레 조리 계량·측정값(Reading) 기록 기능으로 읽혀 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Forecast",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Edamame Forecast - 에다마메 공급·수요 예측(Forecast) 기능으로 명확하게 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Duration",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Ceviche Duration - 세비체 신선 유지 시간(Duration) 추적 기능으로 읽혀 맥락이 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Diagnostic",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Guacamole Diagnostic - 과카몰리에 진단(Diagnostic)을 붙이면 진단 대상이 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Authorization",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Empanada Authorization - 엠파나다에 승인·권한(Authorization)을 결합하면 서비스 대상이 생기지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Guide",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Bratwurst Guide - 브라트부르스트 조리·메뉴 가이드(Guide) 콘텐츠 도구로 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Agreement",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Escargot Agreement - 에스카르고에 합의(Agreement)를 붙이면 무엇의 합의인지 짐작게 하지 못한다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Account",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Gyro Account - 기로스에 계정(Account)을 결합해도 계정의 주체가 불명확해 기각한다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Match",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Quinoa Match - 퀴노아 레시피·재료 매칭(Match) 기능으로 읽혀 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Validation",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Mochi Validation - 모찌에 검증(Validation)을 붙이면 검증할 항목이 정의되지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Satay Lookup - 사테 레시피 조회(Lookup) 도구로 읽혀 명확성이 있다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Ping",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Moussaka Ping - 무사카 주문 완료 호출(Ping) 기능으로 읽혀 주방 맥락이 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Model",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Borscht Model - 보르쉬에 모델(Model)을 결합하면 모델의 주체가 없어 불명확하다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Availability",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Gumbo Availability - 곰보 요리 메뉴 가용(Availability) 관리 기능으로 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Eligibility",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Jambalaya Eligibility - 잠발라야에 자격(Eligibility)을 붙이면 판정 대상이 없어 기각한다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Broadcast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Shawarma Broadcast - 샤와르마 가게 프로모션 발송(Broadcast) 도구로 읽혀 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Barcode",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Naan Barcode - 난 포장 바코드(Barcode) 라벨링 기능으로 읽혀 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Appointment",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Arepa Appointment - 아레파 식당 예약(Appointment) 관리 기능으로 명확하게 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Feedback",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Pierogi Feedback - 피로기 가게 고객 피드백(Feedback) 도구로 읽혀 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Invoice",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "Goulash Invoice - 굴라시 케이터링 청구서(Invoice) 발행 기능으로 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Renewal",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "Tzatziki Renewal - 자치키 정기 공급·구독 갱신(Renewal) 관리 기능으로 읽혀 통한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Waitlist Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Waitlist Syllables - 대기 명단(waitlist)이라는 단어의 음절 조회가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Formulary Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Formulary Rhymes - 약제 목록이라는 단어의 라임 조회가 자연롭다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Crew Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Crew Synonyms - 크루라는 단어의 유의어를 찾는 결합이 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Charter Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Charter Antonyms - 전세라는 단어의 반의어 조회 조합이 이상하지 않다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Maintenance Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Maintenance Sentences - 정비라는 단어의 예문 조회가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Callout Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Callout Translations - 출동이라는 단어의 번역을 보여주는 조회가 자연스럽다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Safe Conjugations",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Safe Conjugations - 금고(safe)라는 명사에는 동사 활용 조회(Conjugations)가 성립하지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Assignment Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Assignment Anagrams - 과제 배정이라는 단어의 애너그램 조회가 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Inventory Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Inventory Chords - 재고(inventory)에 코드(Chords)를 결합하면 음악 서비스 대상이 생기지 않는다",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Backdrop Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Backdrop Lyrics - Backdrop Lyrics dup Backdrop Chords - 동일 앵커의 음악 콘텐츠 쌍이라 가사 쪽을 귀속 기각",
+  "checks": {
+   "clarity": true,
+   "duplication": false,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Photographer Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Photographer Orthography - 사진작가라는 단어의 철자·표기 조회 콘텐츠가 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Roadtest Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Roadtest Syllables - 주행 테스트(roadtest)라는 단어의 음절 분석 조회가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Freezer Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Freezer Rhymes - 냉동고라는 단어의 라임을 찾는 학습 조회가 자연롭다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Puppy Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Puppy Synonyms - 강아지라는 단어의 유의어 조회 결합이 읽힌다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Filling Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Filling Antonyms - 치아 충전이라는 단어의 반의어를 찾는 조회가 성립한다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Dumbbell Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Dumbbell Sentences - 덤벨이라는 단어의 예문 조회가 이상하지 않다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Preschool Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "Preschool Translations - 유치원이라는 단어의 번역 조회 조합이 말이 된다",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ }
+]

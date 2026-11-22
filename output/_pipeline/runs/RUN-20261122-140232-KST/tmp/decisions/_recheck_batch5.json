@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Material Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Material'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Carton Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Carton'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Session Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Session'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Guestlist Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Guestlist'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Notice Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Notice'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Ladder Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Ladder'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Odor Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Odor'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Cabin Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Cabin'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Leaf Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Leaf'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Recovery Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Recovery'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Mortgage Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Mortgage'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Guardianship Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Guardianship'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Intermodal Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Intermodal'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Equity Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Equity'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Quote Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Quote'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Excavation Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Excavation'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Editor Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Editor'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Rainforest Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Rainforest'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Speculum Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Speculum'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Underwriter Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Underwriter'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Recess Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Recess'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Raffle Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Raffle'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Curry Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Curry'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Periodontitis Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Periodontitis'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Migraine Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Migraine'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Acai Calculator",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: parses as a nutrition/portion calculator for acai bowls, a real tool reading; no duplication or trademark issue"
+ },
+ {
+  "title": "Bruschetta Generator",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe/topping combination generator is a coherent tool reading for a dish anchor"
+ },
+ {
+  "title": "Prosciutto Estimator",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: estimator of WHAT is unstated - a dish anchor gives no quantity, cost or time target, so Prosciutto Estimator is an unclear product fragment"
+ },
+ {
+  "title": "Tabbouleh Detector",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flipped: nothing about tabbouleh can be 'detected'; Detector is a dead software fragment on a dish anchor"
+ },
+ {
+  "title": "Edamame Workshop",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: cooking workshop for edamame is a genuine, clear class/content reading"
+ },
+ {
+  "title": "Ceviche Helper",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: 'dish + Helper' reproduces the Hamburger Helper (General Mills) brand formula for food products - trademark-pattern similarity"
+ },
+ {
+  "title": "Empanada Rank",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: ranking-of-empanadas content reading parses clearly"
+ },
+ {
+  "title": "Bratwurst Comparison",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: comparing bratwurst varieties/venues is a clear content reading"
+ },
+ {
+  "title": "Gyro Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu/marketing copy for a gyro is a real business deliverable (Flyer-tier reading)"
+ },
+ {
+  "title": "Quinoa Reference",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reference guide about quinoa is a coherent reading"
+ },
+ {
+  "title": "Mochi Forecast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: demand/price forecast for a dish parses as an ops-analytics reading"
+ },
+ {
+  "title": "Satay Deadline",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: a deadline belongs to an order or vendor process, not to a dish; Satay Deadline is an unclear fragment"
+ },
+ {
+  "title": "Moussaka Duration",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: duration of WHAT (cooking, eating, shelf life) is indeterminate; Moussaka Duration is an unclear fragment"
+ },
+ {
+  "title": "Borscht Volume",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: volume of WHAT (servings, sales, liquid) is indeterminate; Borscht Volume is an unclear fragment"
+ },
+ {
+  "title": "Jambalaya Progress",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: progress-bar fragment - no trackable process attaches to a single dish, Jambalaya Progress parses as nothing"
+ },
+ {
+  "title": "Naan Template",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe/menu template for naan is a coherent business reading"
+ },
+ {
+  "title": "Arepa Guide",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: guide to arepas is a clear, common content pattern"
+ },
+ {
+  "title": "Pierogi Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: dish/venue rating reading is clear for Pierogi Rating"
+ },
+ {
+  "title": "Luggage Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Luggage'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Flute Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Flute'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Scrapbooking Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Scrapbooking'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Aloe Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Aloe'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Insurance Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Insurance'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Audit Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Audit'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Route Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Route'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Payroll Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Payroll'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Captioning Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Captioning'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Carton Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Carton'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Session Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Session'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Guestlist Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Guestlist'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Notice Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Notice'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Ladder Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Ladder'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Spigot Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Spigot'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Chess Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Chess'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Recovery Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Recovery'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Mortgage Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Mortgage'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Guardianship Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Guardianship'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Intermodal Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Intermodal'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Equity Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Equity'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Termination Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Termination'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Sidewalk Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Sidewalk'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Smoke Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Smoke'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Rainforest Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Rainforest'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Speculum Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Speculum'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Underwriter Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Underwriter'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Recess Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Recess'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Raffle Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Raffle'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Pony Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Pony'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Desert Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Desert'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Acai Converter",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: converter with no stated conversion (units? currency?) on a dish anchor; Acai Converter is an unclear software fragment"
+ },
+ {
+  "title": "Bruschetta Recorder",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flipped: recorder for a dish is absurd - there is nothing to record about bruschetta"
+ },
+ {
+  "title": "Prosciutto Checker",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: checker of what property is unstated; Prosciutto Checker is an unclear fragment"
+ },
+ {
+  "title": "Tabbouleh Timer",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: cooking timer for bulgur prep follows the real per-dish timer pattern (egg timer, rice timer)"
+ },
+ {
+  "title": "Edamame Guardian",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: guardian of edamame parses as nothing; protective-app fragment on a dish anchor"
+ },
+ {
+  "title": "Guacamole Streak",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped (round-1 confidence 0.55): Streak is a habit-app gamification fragment; a guacamole streak has no coherent product meaning"
+ },
+ {
+  "title": "Empanada Trend",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: food-trend content reading for empanadas is clear"
+ },
+ {
+  "title": "Bratwurst Proposal",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: catering proposal featuring bratwurst is a genuine business-operations reading"
+ },
+ {
+  "title": "Escargot Record",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: record of WHAT (sales, tasting, inventory) is indeterminate; Escargot Record is an unclear fragment"
+ },
+ {
+  "title": "Quinoa Forecast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: demand/price forecast for quinoa parses as an ops-analytics reading"
+ },
+ {
+  "title": "Mochi Deadline",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: a deadline belongs to an order or vendor process, not to a dish; Mochi Deadline is an unclear fragment"
+ },
+ {
+  "title": "Satay Duration",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: duration of WHAT is indeterminate; Satay Duration is an unclear fragment"
+ },
+ {
+  "title": "Moussaka Volume",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: volume of WHAT is indeterminate; Moussaka Volume is an unclear fragment"
+ },
+ {
+  "title": "Borscht Diagnostic",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flipped: diagnostic attaches to machines and engines, not to a dish; Borscht Diagnostic is an absurd fragment"
+ },
+ {
+  "title": "Gumbo Progress",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: progress-bar fragment - no trackable process attaches to a single dish, Gumbo Progress parses as nothing"
+ },
+ {
+  "title": "Jambalaya Authorization",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped (round-1 confidence 0.55): nothing about a dish can be authorized; Authorization is a permissions fragment on a dish anchor"
+ },
+ {
+  "title": "Shawarma Template",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe/menu template for shawarma is a coherent business reading"
+ },
+ {
+  "title": "Naan Guide",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: guide to naan is a clear, common content pattern"
+ },
+ {
+  "title": "Arepa Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: dish/venue rating reading is clear for Arepa Rating"
+ },
+ {
+  "title": "Pierogi Agreement",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: an agreement between parties cannot attach to a dish as a product; Pierogi Agreement is an unclear fragment"
+ },
+ {
+  "title": "Goulash Reply",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flipped: Reply is a messaging fragment - a goulash cannot receive a reply"
+ },
+ {
+  "title": "Tzatziki Account",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flipped: account of/for tzatziki parses as nothing; Account is a software fragment on a dish anchor"
+ },
+ {
+  "title": "Clog Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Clog'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Luggage Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Luggage'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Flute Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Flute'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Scrapbooking Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Scrapbooking'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Aloe Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Aloe'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Insurance Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Insurance'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Deposition Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Deposition'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Subrogation Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Subrogation'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Deadlatch Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Deadlatch'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Captioning Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Captioning'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Carton Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Carton'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Session Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Session'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Guestlist Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Guestlist'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Notice Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Notice'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Odor Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Odor'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Oboe Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Oboe'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Tuning Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Tuning'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Recovery Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Recovery'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Mortgage Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Mortgage'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Guardianship Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Guardianship'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Intermodal Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Intermodal'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Quote Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Quote'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Detention Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Detention'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Halitosis Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Halitosis'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Smoke Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Smoke'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Rainforest Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Rainforest'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Speculum Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Speculum'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Underwriter Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Underwriter'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Recess Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Recess'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Curry Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Curry'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Key Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Key'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Acai Generator",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: acai bowl combination generator is a coherent tool reading"
+ },
+ {
+  "title": "Bruschetta Estimator",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: estimator of WHAT is unstated - a dish anchor gives no quantity, cost or time target, so Bruschetta Estimator is an unclear product fragment"
+ },
+ {
+  "title": "Prosciutto Detector",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped (round-1 confidence 0.55): nothing about prosciutto can be 'detected'; Detector is a dead software fragment on a dish anchor"
+ },
+ {
+  "title": "Tabbouleh Workshop",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: cooking workshop for tabbouleh is a genuine, clear class/content reading"
+ },
+ {
+  "title": "Edamame Helper",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: 'dish + Helper' reproduces the Hamburger Helper (General Mills) brand formula for food products - trademark-pattern similarity"
+ },
+ {
+  "title": "Guacamole Rank",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: ranking-of-guacamoles content reading parses clearly; this is content context, not the software-context Guacamole watchlist reading"
+ },
+ {
+  "title": "Empanada Comparison",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: comparing empanada variants/venues is a clear content reading"
+ },
+ {
+  "title": "Bratwurst Guarantee",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped (round-1 confidence 0.55): guarantee of WHAT is unstated; Bratwurst Guarantee reads as a marketing fragment, not a product"
+ },
+ {
+  "title": "Escargot Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu/marketing copy for escargot is a real business deliverable (Flyer-tier reading)"
+ },
+ {
+  "title": "Gyro Reference",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: reference guide about gyros is a coherent reading"
+ },
+ {
+  "title": "Quinoa Deadline",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: a deadline belongs to an order or vendor process, not to a dish; Quinoa Deadline is an unclear fragment"
+ },
+ {
+  "title": "Mochi Duration",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: duration of WHAT is indeterminate; Mochi Duration is an unclear fragment"
+ },
+ {
+  "title": "Satay Volume",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: volume of WHAT is indeterminate; Satay Volume is an unclear fragment"
+ },
+ {
+  "title": "Moussaka Diagnostic",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flipped: diagnostic attaches to machines and engines, not to a dish; Moussaka Diagnostic is an absurd fragment"
+ },
+ {
+  "title": "Borscht Progress",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: progress-bar fragment - no trackable process attaches to a single dish, Borscht Progress parses as nothing"
+ },
+ {
+  "title": "Gumbo Authorization",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped (round-1 confidence 0.55): nothing about a dish can be authorized; Authorization is a permissions fragment on a dish anchor"
+ },
+ {
+  "title": "Jambalaya Template",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe/menu template for jambalaya is a coherent business reading"
+ },
+ {
+  "title": "Shawarma Guide",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: guide to shawarma is a clear, common content pattern"
+ },
+ {
+  "title": "Naan Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: dish/venue rating reading is clear for Naan Rating"
+ },
+ {
+  "title": "Arepa Agreement",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: an agreement between parties cannot attach to a dish as a product; Arepa Agreement is an unclear fragment"
+ },
+ {
+  "title": "Pierogi Reply",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flipped: Reply is a messaging fragment - a pierogi cannot receive a reply"
+ },
+ {
+  "title": "Goulash Account",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flipped: account of/for goulash parses as nothing; Account is a software fragment on a dish anchor"
+ },
+ {
+  "title": "Ceramic Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Ceramic'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Clog Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Clog'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Luggage Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Luggage'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Flute Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Flute'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Scrapbooking Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Scrapbooking'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Aloe Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Aloe'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Audit Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Audit'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Deposit Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Deposit'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Manifold Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Manifold'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Deadlatch Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Deadlatch'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Captioning Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Captioning'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Carton Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Carton'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Session Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Session'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Guestlist Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Guestlist'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Ladder Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Ladder'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Cabin Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Cabin'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Picnic Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Picnic'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Tuning Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Tuning'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Recovery Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Recovery'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Mortgage Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Mortgage'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Guardianship Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Guardianship'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Equity Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Equity'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Excavation Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Excavation'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Horse Syllables",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Syllables on generic industry anchor 'Horse'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Halitosis Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Rhymes on generic industry anchor 'Halitosis'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Smoke Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Synonyms on generic industry anchor 'Smoke'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Rainforest Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Antonyms on generic industry anchor 'Rainforest'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Speculum Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Sentences on generic industry anchor 'Speculum'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Underwriter Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Translations on generic industry anchor 'Underwriter'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Raffle Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Anagrams on generic industry anchor 'Raffle'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Periodontitis Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Orthography on generic industry anchor 'Periodontitis'; no clarity, duplication or trademark defect found on re-review"
+ },
+ {
+  "title": "Acai Recorder",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flipped: recorder for a dish is absurd - there is nothing to record about an acai bowl"
+ },
+ {
+  "title": "Bruschetta Checker",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: checker of what property is unstated; Bruschetta Checker is an unclear fragment"
+ },
+ {
+  "title": "Prosciutto Timer",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: prosciutto has no consumer cooking step, so a Prosciutto Timer is an absurd fragment"
+ },
+ {
+  "title": "Tabbouleh Guardian",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: guardian of tabbouleh parses as nothing; protective-app fragment on a dish anchor"
+ },
+ {
+  "title": "Ceviche Streak",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped (round-1 confidence 0.55): Streak is a habit-app gamification fragment; a ceviche streak has no coherent product meaning"
+ },
+ {
+  "title": "Guacamole Trend",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food-trend content reading for guacamole is clear; content context, not the software-context watchlist reading"
+ },
+ {
+  "title": "Empanada Proposal",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: catering proposal featuring empanadas is a genuine business-operations reading"
+ },
+ {
+  "title": "Bratwurst Record",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "flipped: record of WHAT (sales, tasting, inventory) is indeterminate; Bratwurst Record is an unclear fragment"
+ },
+ {
+  "title": "Gyro Forecast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: demand/price forecast for gyros parses as an ops-analytics reading"
+ },
+ {
+  "title": "Quinoa Duration",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: duration of WHAT is indeterminate; Quinoa Duration is an unclear fragment"
+ },
+ {
+  "title": "Mochi Volume",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: volume of WHAT is indeterminate; Mochi Volume is an unclear fragment"
+ },
+ {
+  "title": "Satay Diagnostic",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flipped: diagnostic attaches to machines and engines, not to a dish; Satay Diagnostic is an absurd fragment"
+ },
+ {
+  "title": "Moussaka Progress",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: progress-bar fragment - no trackable process attaches to a single dish, Moussaka Progress parses as nothing"
+ },
+ {
+  "title": "Borscht Authorization",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped (round-1 confidence 0.55): nothing about a dish can be authorized; Authorization is a permissions fragment on a dish anchor"
+ },
+ {
+  "title": "Gumbo Template",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe/menu template for gumbo is a coherent business reading"
+ },
+ {
+  "title": "Jambalaya Guide",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: guide to jambalaya is a clear, common content pattern"
+ },
+ {
+  "title": "Shawarma Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: dish/venue rating reading is clear for Shawarma Rating"
+ },
+ {
+  "title": "Naan Agreement",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flipped: an agreement between parties cannot attach to a dish as a product; Naan Agreement is an unclear fragment"
+ },
+ {
+  "title": "Arepa Reply",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flipped: Reply is a messaging fragment - an arepa cannot receive a reply"
+ },
+ {
+  "title": "Pierogi Account",
+  "approve": false,
+  "confidence": 0.85,
+  "reason": "flipped: account of/for pierogi parses as nothing; Account is a software fragment on a dish anchor"
+ }
+]

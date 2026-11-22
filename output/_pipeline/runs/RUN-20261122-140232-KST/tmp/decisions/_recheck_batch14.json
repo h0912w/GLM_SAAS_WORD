@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Rollback Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Rollback Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Warranty Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Warranty Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Screening Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Screening Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Recall Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Recall Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Chart Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Chart Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Harp Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Harp Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Puzzle Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Puzzle Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Roots Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Roots Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Nurse Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Nurse Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Paycheck Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Paycheck Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Lawyer Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Lawyer Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Seller Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Seller Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Remodel Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Remodel Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Elbow Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Elbow Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Carnival Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Carnival Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Audition Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Audition Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Jigsaw Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Jigsaw Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Therapy Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Therapy Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Backhaul Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Backhaul Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Demotion Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Demotion Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Comorbidity Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Comorbidity Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Verification Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Verification Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Geography Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Geography Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Pinata Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pinata Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Nachos Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Nachos Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Gecko Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Gecko Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Basement Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Basement Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Investigation Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Investigation Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Broadcast Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Broadcast Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Ticket Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Ticket Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Compliance Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Compliance Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Rollback Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Rollback Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Warranty Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Warranty Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Ticketing Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Ticketing Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Breed Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Breed Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Beach Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Beach Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Harp Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Harp Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Puzzle Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Puzzle Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Roots Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Roots Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Nurse Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Nurse Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Paycheck Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Paycheck Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Consignment Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Consignment Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Wage Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Wage Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Hose Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Hose Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Elbow Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Elbow Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Carnival Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Carnival Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Audition Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Audition Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Jigsaw Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Jigsaw Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Therapy Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Therapy Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Mediation Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Mediation Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Cancellation Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Cancellation Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Crossstitch Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Crossstitch Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Comorbidity Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Comorbidity Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Verification Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Verification Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Geography Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Geography Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Pinata Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pinata Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Nachos Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Nachos Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Sealant Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Sealant Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Auscultation Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Auscultation Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Engagement Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Engagement Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Broadcast Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Broadcast Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Ticket Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Ticket Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Compliance Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Compliance Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Rollback Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Rollback Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Screening Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Screening Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Waste Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Waste Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Snake Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Snake Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Beach Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Beach Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Harp Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Harp Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Puzzle Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Puzzle Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Roots Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Roots Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Nurse Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Nurse Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Lawyer Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Lawyer Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Reinsurance Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Reinsurance Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Pet Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pet Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Hose Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Hose Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Elbow Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Elbow Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Carnival Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Carnival Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Audition Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Audition Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Jigsaw Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Jigsaw Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Refinance Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Refinance Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Volcano Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Volcano Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Crossstitch Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Crossstitch Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Comorbidity Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Comorbidity Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Verification Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Verification Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Geography Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Geography Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Pinata Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pinata Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Gecko Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Gecko Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Daytrip Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Daytrip Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Records Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Records Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Engagement Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Engagement Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Broadcast Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Broadcast Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Ticket Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Ticket Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Compliance Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Compliance Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Warranty Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Warranty Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Recall Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Recall Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Exterior Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Exterior Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Snake Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Snake Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Beach Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Beach Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Harp Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Harp Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Puzzle Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Puzzle Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Roots Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Roots Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Paycheck Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Paycheck Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Seller Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Seller Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Export Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Export Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Pet Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pet Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Hose Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Hose Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Elbow Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Elbow Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Carnival Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Carnival Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Audition Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Audition Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Therapy Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Therapy Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Backhaul Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Backhaul Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Garden Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Garden Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Volcano Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Volcano Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Crossstitch Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Crossstitch Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Comorbidity Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Comorbidity Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Verification Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Verification Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Geography Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Geography Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Nachos Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Nachos Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Basement Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Basement Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Beneficiary Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Beneficiary Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Records Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Records Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Engagement Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Engagement Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Broadcast Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Broadcast Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Ticket Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Ticket Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Rollback Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Rollback Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Ticketing Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Ticketing Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Cover Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Cover Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Exterior Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Exterior Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Snake Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Snake Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Beach Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Beach Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Harp Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Harp Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Puzzle Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Puzzle Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Nurse Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Nurse Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Consignment Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Consignment Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Briefing Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Briefing Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Export Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Export Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Pet Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pet Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Hose Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Hose Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Elbow Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Elbow Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Carnival Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Carnival Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Jigsaw Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Jigsaw Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Mediation Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Mediation Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Fluoride Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Fluoride Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Garden Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Garden Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Volcano Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Volcano Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Crossstitch Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Crossstitch Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Comorbidity Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Comorbidity Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Verification Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Verification Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Pinata Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pinata Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Sealant Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Sealant Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Substation Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Substation Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Beneficiary Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Beneficiary Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Records Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Records Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Engagement Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Engagement Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Broadcast Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Broadcast Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Compliance Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Compliance Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Screening Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Screening Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Vacancy Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Vacancy Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Cover Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Cover Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Exterior Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Exterior Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Snake Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Snake Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Beach Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Beach Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Harp Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Harp Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Roots Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Roots Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Lawyer Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Lawyer Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Bump Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Bump Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Briefing Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Briefing Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Export Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Export Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Pet Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pet Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Hose Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Hose Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Elbow Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Elbow Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Audition Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Audition Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Canary Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Canary Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Fluoride Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Fluoride Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Garden Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Garden Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Volcano Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Volcano Antonyms reads as a standard word-reference query (antonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Crossstitch Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Crossstitch Sentences reads as a standard word-reference query (example sentences); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Comorbidity Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Comorbidity Translations reads as a standard word-reference query (translations); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Geography Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Geography Anagrams reads as a standard word-reference query (anagram solver); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Gecko Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Gecko Orthography reads as a standard word-reference query (spelling/orthography); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Bruschetta Availability",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Availability is concrete booking/stock operations language; reads coherently as bruschetta menu/order availability for a food business, matching the sustained Inventory/Reservation/Appointments line"
+ },
+ {
+  "title": "Prosciutto Broadcast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Broadcast is on the established approved function-word list for food anchors; reads as content/broadcast operations around prosciutto (food media, market updates), no trademark or duplication defect"
+ },
+ {
+  "title": "Tabbouleh Appointment",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Appointment is an approved concrete business-operations word; reads as catering/tasting appointments for a tabbouleh-focused food business"
+ },
+ {
+  "title": "Edamame Invoice",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Invoice is a core restaurant/supplier operations word on the approved list; Edamame Invoice reads as invoicing for edamame supply/orders"
+ },
+ {
+  "title": "Ceviche Quote",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: Quote is on the approved list (catering quotes); reads as pricing quotes for ceviche catering/orders, a coherent food-business operation"
+ },
+ {
+  "title": "Guacamole Deposit",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Deposit is an approved operations word (booking deposits) and kitchen-context Guacamole was explicitly sustained in earlier batches (Kit/Message/Copy/Reference/Forecast); no software-context reading forced here"
+ },
+ {
+  "title": "Gyro Predictor",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flipped: Predictor is a vague tech-fragment function word in the same dead family as Sensor/Detector/Recorder, and a near-synonym of the Forecast pairing; Gyro Predictor names no coherent product - what it predicts about gyros is undefined, so clarity fails"
+ },
+ {
+  "title": "Quinoa Review",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Review is core commerce/editorial operations language (product and recipe reviews are a real, large search category); distinct from Rating and not a duplicate of any approved pairing in this run"
+ },
+ {
+  "title": "Mochi Recipe",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: Recipe is on the approved list and mochi recipes are an unambiguous, high-clarity food content concept"
+ },
+ {
+  "title": "Satay Video",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Video reads clearly as cooking/content video about satay, a real content category; no software-context or trademark collision, not a fragment"
+ },
+ {
+  "title": "Borscht Refund",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Refund is a concrete food-business operations word (order refunds) in the same family as the approved Warranty/Renewal/Deposit/Quote; clarity holds"
+ },
+ {
+  "title": "Gumbo Expense",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Expense is on the approved list of business-operations words read as restaurant operations; Gumbo Expense reads as expense tracking for gumbo menu/costing"
+ },
+ {
+  "title": "Jambalaya Newsletter",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Newsletter is a concrete marketing-operations word (restaurant/food-brand newsletters are common); clear reading, no trademark, no listed duplicate pairing"
+ },
+ {
+  "title": "Shawarma Inventory",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Inventory is explicitly on the approved food-operations list; reads as stock management for a shawarma business"
+ },
+ {
+  "title": "Arepa Onboarding",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained with reservation: Onboarding reads as staff/customer onboarding operations for an arepa restaurant or meal-kit business, in the same ops family as approved Handbook/Tutorial; borderline but a coherent business process, so no grounded flip"
+ },
+ {
+  "title": "Pierogi Checkin",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "flipped: Checkin is a hotel-desk/attendance-desk fragment with no clear standalone product sense on a food anchor - what is checked in is undefined; same dead-fragment family as the flipped Visits pattern, and weaker than the concrete approved Reservation/Appointments pair"
+ },
+ {
+  "title": "Pesticide Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Pesticide Syllables reads as a standard word-reference query (syllable count); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Substation Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Substation Rhymes reads as a standard word-reference query (rhyme lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ },
+ {
+  "title": "Beneficiary Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: Beneficiary Synonyms reads as a standard word-reference query (synonym lookup); anchor is generic, no trademark, no near-synonym duplication with an approved pairing"
+ }
+]

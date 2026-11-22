@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Acai Notification",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: acai bowl shop order/pickup notification tool reads clearly as a concrete product"
+ },
+ {
+  "title": "Bruschetta Count",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained weakly: readable as calorie/order count for bruschetta, though the count target stays implicit"
+ },
+ {
+  "title": "Tabbouleh Repository",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "repository is dev-tool jargon; 'Tabbouleh Repository' names no concrete food-business product and no specified content - unclear fragment"
+ },
+ {
+  "title": "Edamame Calculator",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: nutrition/portion calculator for edamame is a determinable function"
+ },
+ {
+  "title": "Ceviche Generator",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: recipe-variation generator reading is plausible"
+ },
+ {
+  "title": "Guacamole Estimator",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: ingredient-quantity estimation is a real catering/food-ops task; kitchen context, not Apache Guacamole software context"
+ },
+ {
+  "title": "Bratwurst Workshop",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: cooking-class/workshop operations are a real business a tool could serve"
+ },
+ {
+  "title": "Mochi Trend",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: menu/sales trend analytics reading is plausible"
+ },
+ {
+  "title": "Satay Comparison",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "comparison target never stated - 'Satay Comparison' names no determinable product; vague fragment"
+ },
+ {
+  "title": "Gumbo Record",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "record of what is unstated (production? hygiene? sales?); reads as a truncated fragment, not a product"
+ },
+ {
+  "title": "Jambalaya Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: marketing-copy generator is an established SaaS reading of 'copy'"
+ },
+ {
+  "title": "Naan Reference",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "reference target unstated (recipes? prices?); vague fragment with no concrete function"
+ },
+ {
+  "title": "Arepa Forecast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: demand forecasting is a standard F&B SaaS function"
+ },
+ {
+  "title": "Pierogi Deadline",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "deadline for which task (orders? prep? delivery?) is unstated; bare fragment"
+ },
+ {
+  "title": "Goulash Duration",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "duration of which process is unstated; unclear fragment"
+ },
+ {
+  "title": "Tzatziki Volume",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "volume is ambiguous (production vs audio) and its target unstated - unclear fragment"
+ },
+ {
+  "title": "Deposit Syllables",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: syllable lookup of 'deposit' is a standard word-lookup clause"
+ },
+ {
+  "title": "Subrogation Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup of technical insurance term has genuine learner demand"
+ },
+ {
+  "title": "Payroll Synonyms",
+  "approve": true,
+  "confidence": 0.85,
+  "reason": "sustained: synonym lookup of 'payroll' is a clear word-lookup tool"
+ },
+ {
+  "title": "Material Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: antonym lookup of 'material' is a valid word-game/education clause"
+ },
+ {
+  "title": "Storefront Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: example-sentence lookup of 'storefront' is a valid clause"
+ },
+ {
+  "title": "Booking Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 'booking' remains fully generic English for word lookups; Booking.com association is not dominant for translation queries of the word"
+ },
+ {
+  "title": "Batch Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram lookup works for any word including 'batch'"
+ },
+ {
+  "title": "Grazing Chords",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 'grazing' appears in real song titles/lyrics (e.g. Grazing in the Grass), so the chords reading is genuinely music-anchored"
+ },
+ {
+  "title": "Demand Lyrics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 'demand' is common lyrical vocabulary; lyrics lookup reading holds"
+ },
+ {
+  "title": "Impact Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup of 'impact' is a clear clause"
+ },
+ {
+  "title": "Cabin Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable lookup of 'cabin' is clear"
+ },
+ {
+  "title": "Oboe Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup of 'oboe' is clear"
+ },
+ {
+  "title": "Chess Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: generic word lookup of 'chess'; Chess.com not dominant for synonym queries"
+ },
+ {
+  "title": "Leaf Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: antonym lookup of 'leaf' is valid"
+ },
+ {
+  "title": "Clinic Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sentence lookup of 'clinic' is valid"
+ },
+ {
+  "title": "Consignee Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: anagram lookup applies to any word including 'consignee'"
+ },
+ {
+  "title": "Rezoning Chords",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "clearly non-music anchor: municipal zoning jargon has no plausible song/chords reading - defective pairing for a music clause"
+ },
+ {
+  "title": "Loss Lyrics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 'loss' is ubiquitous in lyrics; lookup reading holds"
+ },
+ {
+  "title": "Bonus Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup of 'bonus' is clear"
+ },
+ {
+  "title": "Excavation Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable lookup of 'excavation' is valid"
+ },
+ {
+  "title": "Detention Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup of 'detention' is valid"
+ },
+ {
+  "title": "Sidewalk Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup of 'sidewalk' is valid"
+ },
+ {
+  "title": "Editor Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: antonym lookup of 'editor' is valid"
+ },
+ {
+  "title": "Contact Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sentence lookup of 'contact' is valid"
+ },
+ {
+  "title": "Portfolio Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translation lookup of 'portfolio' is valid"
+ },
+ {
+  "title": "Headlight Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram lookup of 'headlight' is valid"
+ },
+ {
+  "title": "Brunch Chords",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained weakly: brunch appears in song lyrics, so chords reading is thin but not defective"
+ },
+ {
+  "title": "Shelter Lyrics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: 'shelter' is common lyrical vocabulary"
+ },
+ {
+  "title": "Cleaning Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup of 'cleaning' is valid"
+ },
+ {
+  "title": "Periodontitis Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: hard dental terms have real syllable/pronunciation lookup demand"
+ },
+ {
+  "title": "Key Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: 'key' is generic; rhyme lookup is clear"
+ },
+ {
+  "title": "Desert Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup of 'desert' is valid"
+ },
+ {
+  "title": "Migraine Antonyms",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: antonym concept is thin for 'migraine' but any-word lookup sites do serve such queries"
+ },
+ {
+  "title": "Rebate Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sentence lookup of 'rebate' is valid"
+ },
+ {
+  "title": "Homeschool Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translation lookup of 'homeschool' is valid"
+ },
+ {
+  "title": "Kebab Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram lookup of 'kebab' is valid"
+ },
+ {
+  "title": "Groomer Chords",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained weakly: groomer is a concrete occupation noun and pet/ranch themes reach songs, though the music reading is thin"
+ },
+ {
+  "title": "Malocclusion Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "clearly non-music anchor: clinical dental jargon essentially absent from any song corpus - lyrics lookup reading is facetious"
+ },
+ {
+  "title": "Intercom Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling lookup of generic 'intercom'; Intercom (CX SaaS) not dominant in property-management word lookup"
+ },
+ {
+  "title": "Prosciutto Widget",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "widget purpose unstated - vague dev-speak fragment for a food business; no determinable product"
+ },
+ {
+  "title": "Edamame Converter",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: portion/unit conversion is a real recipe-tool reading"
+ },
+ {
+  "title": "Guacamole Checker",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: ripeness/freshness check reading; kitchen context, no Apache Guacamole software clash"
+ },
+ {
+  "title": "Empanada Timer",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: fry/bake timer for empanadas is a concrete, clear function"
+ },
+ {
+  "title": "Quinoa Trend",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: menu/consumption trend analytics reading"
+ },
+ {
+  "title": "Mochi Comparison",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "comparison target unstated; vague fragment, same defect as Satay Comparison"
+ },
+ {
+  "title": "Borscht Record",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "record target unstated; unclear fragment, same defect as Gumbo Record"
+ },
+ {
+  "title": "Gumbo Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu marketing copy generation reading holds"
+ },
+ {
+  "title": "Shawarma Reference",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "reference target unstated; vague fragment with no concrete function"
+ },
+ {
+  "title": "Naan Forecast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: demand forecasting reading is standard"
+ },
+ {
+  "title": "Arepa Deadline",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "deadline target unstated; bare fragment, same defect as Pierogi Deadline"
+ },
+ {
+  "title": "Pierogi Duration",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "duration target unstated; unclear fragment, same defect as Goulash Duration"
+ },
+ {
+  "title": "Goulash Volume",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "volume ambiguous and target unstated; unclear fragment"
+ },
+ {
+  "title": "Route Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable lookup of 'route' is clear"
+ },
+ {
+  "title": "Deposit Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup of 'deposit' is clear"
+ },
+ {
+  "title": "Subrogation Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup of 'subrogation' is valid"
+ },
+ {
+  "title": "Payroll Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: antonym lookup of 'payroll' is valid"
+ },
+ {
+  "title": "Material Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sentence lookup of 'material' is valid"
+ },
+ {
+  "title": "Storefront Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translation lookup of 'storefront' is valid"
+ },
+ {
+  "title": "Booking Conjugations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained with defense: 'booking' is the gerund of verb 'book', so a conjugation lookup legitimately resolves to book - gerund anchors are valid for Conjugations"
+ },
+ {
+  "title": "Syllabus Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: anagram lookup of 'syllabus' is valid"
+ },
+ {
+  "title": "Batch Chords",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained weakly: 'batch' is common vocabulary and plausibly lyrical"
+ },
+ {
+  "title": "Grazing Lyrics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: grazing has genuine song corpus (Grazing in the Grass)"
+ },
+ {
+  "title": "Demand Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup of 'demand' is valid"
+ },
+ {
+  "title": "Spigot Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: plumbing generic noun; SpigotMC not dominant for syllable lookup"
+ },
+ {
+  "title": "Cabin Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup of 'cabin' is clear"
+ },
+ {
+  "title": "Oboe Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup of 'oboe' is clear"
+ },
+ {
+  "title": "Chess Antonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: generic word lookup; game platform not dominant for antonym queries"
+ },
+ {
+  "title": "Leaf Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sentence lookup of 'leaf' is valid"
+ },
+ {
+  "title": "Clinic Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translation lookup of 'clinic' is valid"
+ },
+ {
+  "title": "Attorney Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram lookup of 'attorney' is valid"
+ },
+ {
+  "title": "Consignee Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "clearly non-music anchor: logistics shipping jargon has no plausible song/chords reading - defective pairing"
+ },
+ {
+  "title": "Rezoning Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "clearly non-music anchor: municipal zoning jargon, no plausible lyrics reading - defective pairing"
+ },
+ {
+  "title": "Loss Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup of 'loss' is valid"
+ },
+ {
+  "title": "Termination Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable lookup of 'termination' is valid"
+ },
+ {
+  "title": "Excavation Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup of 'excavation' is valid"
+ },
+ {
+  "title": "Detention Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup of 'detention' is valid"
+ },
+ {
+  "title": "Sidewalk Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: antonym lookup of 'sidewalk' is valid"
+ },
+ {
+  "title": "Editor Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sentence lookup of 'editor' is valid"
+ },
+ {
+  "title": "Contact Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translation lookup of 'contact' is valid"
+ },
+ {
+  "title": "Checkin Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: anagram lookup of 'checkin' is valid"
+ },
+ {
+  "title": "Headlight Chords",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: headlight is common song imagery (driving/night themes)"
+ },
+ {
+  "title": "Brunch Lyrics",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained weakly: brunch plausibly appears in lyrics"
+ },
+ {
+  "title": "Shelter Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup of 'shelter' is valid"
+ },
+ {
+  "title": "Pony Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable lookup of 'pony' is clear"
+ },
+ {
+  "title": "Periodontitis Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: rhyme lookup of hard dental term has learner demand"
+ },
+ {
+  "title": "Key Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup of 'key' is clear"
+ },
+ {
+  "title": "Desert Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: antonym lookup of 'desert' is valid"
+ },
+ {
+  "title": "Migraine Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sentence lookup of 'migraine' is valid"
+ },
+ {
+  "title": "Rebate Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translation lookup of 'rebate' is valid"
+ },
+ {
+  "title": "Homeschool Conjugations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: homeschool is a real verb, so conjugation lookup is legitimate"
+ },
+ {
+  "title": "Anniversary Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram lookup of 'anniversary' is valid"
+ },
+ {
+  "title": "Kebab Chords",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained weakly: food words do appear in novelty song lyrics, though the chords reading is thin"
+ },
+ {
+  "title": "Groomer Lyrics",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained weakly: same defense as Groomer Chords - concrete occupation noun with thin but not impossible music reading"
+ },
+ {
+  "title": "Malocclusion Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: spelling lookup of a hard dental term has genuine demand"
+ },
+ {
+  "title": "Acai Count",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained weakly: readable as calorie/portion count, though count target stays implicit"
+ },
+ {
+  "title": "Prosciutto Repository",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "dev-tool jargon with no concrete food-business product; unclear fragment, same defect as Tabbouleh Repository"
+ },
+ {
+  "title": "Tabbouleh Calculator",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: nutrition/portion calculator reading is determinable"
+ },
+ {
+  "title": "Edamame Generator",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: recipe generator reading is plausible"
+ },
+ {
+  "title": "Ceviche Estimator",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: quantity estimation for prep/catering is plausible"
+ },
+ {
+  "title": "Empanada Workshop",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: cooking-class operations are a real business"
+ },
+ {
+  "title": "Quinoa Comparison",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "comparison target unstated; vague fragment"
+ },
+ {
+  "title": "Moussaka Record",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "record target unstated; unclear fragment"
+ },
+ {
+  "title": "Borscht Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu marketing copy generation reading holds"
+ },
+ {
+  "title": "Jambalaya Reference",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "reference target unstated; vague fragment"
+ },
+ {
+  "title": "Shawarma Forecast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: demand forecasting reading is standard"
+ },
+ {
+  "title": "Naan Deadline",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "deadline target unstated; bare fragment"
+ },
+ {
+  "title": "Arepa Duration",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "duration target unstated; unclear fragment"
+ },
+ {
+  "title": "Pierogi Volume",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "volume ambiguous and target unstated; unclear fragment"
+ },
+ {
+  "title": "Deposition Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable lookup of legal term 'deposition' is valid"
+ },
+ {
+  "title": "Route Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup of 'route' is valid"
+ },
+ {
+  "title": "Deposit Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup of 'deposit' is clear"
+ },
+ {
+  "title": "Subrogation Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: antonym lookup of 'subrogation' is valid"
+ },
+ {
+  "title": "Payroll Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sentence lookup of 'payroll' is valid"
+ },
+ {
+  "title": "Material Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translation lookup of 'material' is valid"
+ },
+ {
+  "title": "Booking Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: generic word lookup of 'booking'; Booking.com not dominant for anagram queries"
+ },
+ {
+  "title": "Syllabus Chords",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "clearly non-music anchor: institutional education jargon with no plausible song/chords reading - defective pairing"
+ },
+ {
+  "title": "Batch Lyrics",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained weakly: 'batch' is common vocabulary, plausibly lyrical"
+ },
+ {
+  "title": "Grazing Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup of 'grazing' is valid"
+ },
+ {
+  "title": "Odor Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable lookup of 'odor' is clear"
+ },
+ {
+  "title": "Spigot Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup of 'spigot' is valid; plumbing generic dominates"
+ },
+ {
+  "title": "Cabin Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup of 'cabin' is clear"
+ },
+ {
+  "title": "Oboe Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: antonym lookup of 'oboe' is valid"
+ },
+ {
+  "title": "Chess Sentences",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: generic word lookup; game platform not dominant for sentence queries"
+ },
+ {
+  "title": "Leaf Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translation lookup of 'leaf' is valid"
+ },
+ {
+  "title": "Attorney Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: attorney is common everyday vocabulary and lawyer-themed songs exist"
+ },
+ {
+  "title": "Consignee Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "clearly non-music anchor: logistics jargon with no plausible lyrics reading - defective pairing"
+ },
+ {
+  "title": "Rezoning Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup of 'rezoning' is valid (orthography clause works for any word)"
+ },
+ {
+  "title": "Quote Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable lookup of 'quote' is clear"
+ },
+ {
+  "title": "Termination Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup of 'termination' is valid"
+ },
+ {
+  "title": "Excavation Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup of 'excavation' is valid"
+ },
+ {
+  "title": "Detention Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: antonym lookup of 'detention' is valid"
+ },
+ {
+  "title": "Sidewalk Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sentence lookup of 'sidewalk' is valid"
+ },
+ {
+  "title": "Editor Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translation lookup of 'editor' is valid"
+ },
+ {
+  "title": "Contact Conjugations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: contact is a real verb, so conjugation lookup is legitimate"
+ },
+ {
+  "title": "Portfolio Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram lookup of 'portfolio' is valid"
+ },
+ {
+  "title": "Checkin Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: checkin/checking-in phrasing appears in real song lyrics"
+ },
+ {
+  "title": "Headlight Lyrics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: headlight is common song imagery"
+ },
+ {
+  "title": "Brunch Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup of 'brunch' is valid"
+ },
+ {
+  "title": "Curry Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: syllable lookup of 'curry' is clear; generic food word dominates any athlete brand"
+ },
+ {
+  "title": "Pony Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup of 'pony' is clear"
+ },
+ {
+  "title": "Periodontitis Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained weakly: synonym lookup of hard dental term is plausible learner demand"
+ },
+ {
+  "title": "Key Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: antonym lookup of 'key' is clear"
+ },
+ {
+  "title": "Desert Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sentence lookup of 'desert' is valid"
+ },
+ {
+  "title": "Migraine Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translation lookup of 'migraine' is valid"
+ },
+ {
+  "title": "Homeschool Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram lookup of 'homeschool' is valid"
+ },
+ {
+  "title": "Anniversary Chords",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: anniversary is a common song theme"
+ },
+ {
+  "title": "Groomer Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: spelling lookup of 'groomer' is valid; vet-industry term lookup reading holds"
+ },
+ {
+  "title": "Acai Message",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "semantic duplication: Acai Message is a near-synonym of slice-mate Acai Notification - both read as the same order-alert messaging product for an acai shop"
+ },
+ {
+  "title": "Bruschetta Widget",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "widget purpose unstated; vague dev-speak fragment, same defect as Prosciutto Widget"
+ },
+ {
+  "title": "Prosciutto Announcement",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: event/menu announcements are a plausible shop feature, distinct in scope from one-to-one order notifications"
+ },
+ {
+  "title": "Tabbouleh Converter",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained weakly: recipe portion/unit conversion reading exists even if not immediately intuitive"
+ },
+ {
+  "title": "Edamame Recorder",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "'recorder' dominantly reads as audio/screen recorder and its record target is unstated - unclear fragment rather than a hygiene-log product"
+ },
+ {
+  "title": "Ceviche Checker",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: freshness/prep status check reading is plausible"
+ },
+ {
+  "title": "Guacamole Timer",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: cooking timer for guacamole prep is concrete and clear; kitchen context, no Apache Guacamole software clash"
+ },
+ {
+  "title": "Empanada Guardian",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "guardian is a metaphorical software label; 'Empanada Guardian' names no concrete food-ops product - absurd fragment"
+ },
+ {
+  "title": "Bratwurst Stage",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "stage of which process is unstated, and the word also reads as concert stage - unclear fragment"
+ },
+ {
+  "title": "Escargot Streak",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "streak target unstated and the pairing is forced; names no determinable product"
+ },
+ {
+  "title": "Gyro Trend",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: menu/sales trend analytics in sandwich-shop context"
+ },
+ {
+  "title": "Quinoa Proposal",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: catering proposal writing is a plausible concrete function"
+ },
+ {
+  "title": "Satay Record",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "record target unstated; unclear fragment, same defect as Gumbo Record"
+ },
+ {
+  "title": "Moussaka Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: menu marketing copy generation reading holds"
+ },
+ {
+  "title": "Gumbo Reference",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "reference target unstated; vague fragment, same defect as Naan/Jambalaya Reference"
+ },
+ {
+  "title": "Jambalaya Forecast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: demand forecasting reading is standard"
+ },
+ {
+  "title": "Shawarma Deadline",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "deadline target unstated; bare fragment"
+ },
+ {
+  "title": "Naan Duration",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "duration target unstated; unclear fragment"
+ },
+ {
+  "title": "Arepa Volume",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "volume ambiguous and target unstated; unclear fragment"
+ },
+ {
+  "title": "Pierogi Diagnostic",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "diagnostic target unstated (equipment? process? sales?); unclear fragment"
+ },
+ {
+  "title": "Goulash Progress",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained weakly: cooking/order progress tracking is a plausible concrete reading"
+ },
+ {
+  "title": "Tzatziki Authorization",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "forced pairing: POS permission jargon on a food anchor names no coherent product"
+ },
+ {
+  "title": "Audit Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable lookup of 'audit' is valid"
+ },
+ {
+  "title": "Deposition Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup of 'deposition' is valid"
+ },
+ {
+  "title": "Route Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup of 'route' is valid"
+ },
+ {
+  "title": "Deposit Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: antonym lookup of 'deposit' is valid"
+ },
+ {
+  "title": "Subrogation Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sentence lookup of 'subrogation' is valid"
+ },
+ {
+  "title": "Payroll Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: translation lookup of 'payroll' is valid"
+ },
+ {
+  "title": "Storefront Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram lookup of 'storefront' is valid"
+ },
+ {
+  "title": "Syllabus Lyrics",
+  "approve": false,
+  "confidence": 0.6,
+  "reason": "clearly non-music anchor: 'curriculum lyrics study tool' reading is contrived; syllabus has no natural lyrics/song pairing - defective pairing"
+ },
+ {
+  "title": "Batch Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: spelling lookup of 'batch' is valid"
+ },
+ {
+  "title": "Ladder Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: syllable lookup of 'ladder' is clear"
+ },
+ {
+  "title": "Odor Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: rhyme lookup of 'odor' is valid"
+ },
+ {
+  "title": "Spigot Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: synonym lookup of 'spigot' is valid; plumbing generic dominates"
+ },
+ {
+  "title": "Cabin Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: antonym lookup of 'cabin' is valid"
+ },
+ {
+  "title": "Oboe Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: sentence lookup of 'oboe' is valid"
+ },
+ {
+  "title": "Chess Translations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: generic word lookup; game platform not dominant for translation queries"
+ }
+]

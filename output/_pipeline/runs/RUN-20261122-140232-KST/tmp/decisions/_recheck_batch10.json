@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Chinchilla Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Promenade Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Acai Record",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: food anchor + Record reads as a vague sales-log metric fragment, dead-pattern family (Gumbo/Borscht/Moussaka Record were flipped in this recheck); no coherent Acai Record product"
+ },
+ {
+  "title": "Prosciutto Forecast",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: demand/sales forecasting for a prosciutto product line is a coherent business function"
+ },
+ {
+  "title": "Tabbouleh Duration",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: food anchor + Duration is an unreadable time-metric fragment, dead-pattern family flipped in batches 3/5 (Goulash/Pierogi Duration flipped in this recheck)"
+ },
+ {
+  "title": "Guacamole Guide",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe/preparation guide for guacamole, kitchen-context reading stands"
+ },
+ {
+  "title": "Bratwurst Account",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: customer/vendor account management for a bratwurst seller, concrete business ops"
+ },
+ {
+  "title": "Escargot Match",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: wine/side pairing match tool for escargot, concrete culinary function"
+ },
+ {
+  "title": "Gyro Lookup",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: ingredient/recipe lookup for gyro prep, concrete function"
+ },
+ {
+  "title": "Mochi Availability",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: stock/availability check for mochi items, concrete ops"
+ },
+ {
+  "title": "Moussaka Broadcast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: customer announcement broadcast for new moussaka menu items, concrete ops"
+ },
+ {
+  "title": "Borscht Barcode",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: label/barcode issuance for borscht products, concrete ops"
+ },
+ {
+  "title": "Gumbo Appointment",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: appointment management, established food-ops family"
+ },
+ {
+  "title": "Jambalaya Feedback",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: customer feedback collection for jambalaya, concrete ops"
+ },
+ {
+  "title": "Shawarma Invoice",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: invoicing, established food-ops family"
+ },
+ {
+  "title": "Naan Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: license/subscription renewal management for a naan business, concrete ops"
+ },
+ {
+  "title": "Arepa Quote",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: catering quote generation, concrete business function"
+ },
+ {
+  "title": "Pierogi Warranty",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: kitchen equipment/service warranty management reading is coherent, unlike the dead Guarantee fragment"
+ },
+ {
+  "title": "Goulash Deposit",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: catering deposit management, concrete ops"
+ },
+ {
+  "title": "Tzatziki Certification",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: HACCP/food-safety certification management, concrete ops"
+ },
+ {
+  "title": "Property Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Schedule Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Rack Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Permit Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Waitlist Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Formulary Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Crew Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: Conjugations needs a verb/gerund anchor but crew is noun-dominant (ship crew) in maritime context; the to-crew verb reading round 1 itself flagged as ambiguous is too thin - low-confidence 0.55"
+ },
+ {
+  "title": "Charter Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Safe Orthography",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: spelling query on generic noun safe, no trademark relevance"
+ },
+ {
+  "title": "Smartphone Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Case Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Hire Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Expo Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Roadtest Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Freezer Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Filling Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Preschool Lyrics",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: preschool children-song lyrics curation is a genuine music context, anchor not clearly non-music"
+ },
+ {
+  "title": "Cane Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Backlog Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Diversity Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Signage Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Wiper Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Takeout Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Adoption Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Kickboxing Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Squeegee Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Gingivitis Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Attic Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Yacht Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Intubation Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Insured Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Notebook Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Pizza Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Thermostat Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Acai Copy",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: menu/marketing copy generation for an acai bowl shop, concrete ops"
+ },
+ {
+  "title": "Bruschetta Reference",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: food anchor + Reference is a vague lookup-fragment dead pattern (Naan/Shawarma Reference flipped in this recheck); no coherent bruschetta reference product"
+ },
+ {
+  "title": "Prosciutto Deadline",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: food anchor + Deadline is an arbitrary date-metric fragment, dead-pattern family (Pierogi/Arepa/Naan Deadline flipped in this recheck)"
+ },
+ {
+  "title": "Tabbouleh Volume",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: food anchor + Volume is a vague quantity-metric fragment, dead-pattern family (Goulash/Tzatziki/Pierogi Volume flipped in this recheck)"
+ },
+ {
+  "title": "Edamame Progress",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: order/preparation progress tracking for edamame, concrete ops"
+ },
+ {
+  "title": "Ceviche Template",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: menu/recipe template tool for ceviche, concrete ops"
+ },
+ {
+  "title": "Guacamole Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: menu rating/review management, kitchen-context guacamole stands"
+ },
+ {
+  "title": "Quinoa Availability",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: stock availability check, concrete ops"
+ },
+ {
+  "title": "Satay Broadcast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: customer announcement broadcast, concrete ops"
+ },
+ {
+  "title": "Moussaka Barcode",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: label/barcode issuance, concrete ops"
+ },
+ {
+  "title": "Borscht Appointment",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: appointment management, established food-ops family"
+ },
+ {
+  "title": "Gumbo Feedback",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: customer feedback collection, concrete ops"
+ },
+ {
+  "title": "Jambalaya Invoice",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: invoicing, established food-ops family"
+ },
+ {
+  "title": "Shawarma Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: permit/subscription renewal management, concrete ops"
+ },
+ {
+  "title": "Naan Quote",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: catering quote generation, concrete function"
+ },
+ {
+  "title": "Arepa Warranty",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: equipment/service warranty management reading coherent, not the dead Guarantee fragment"
+ },
+ {
+  "title": "Pierogi Deposit",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: catering deposit management, concrete ops"
+ },
+ {
+  "title": "Goulash Certification",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: hygiene/food-safety certification management, concrete ops"
+ },
+ {
+  "title": "Recurring Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Property Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Schedule Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Rack Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Permit Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Waitlist Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Crew Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: anagram query is word-agnostic, works on any anchor"
+ },
+ {
+  "title": "Callout Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Article Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Smartphone Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Case Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Hire Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Expo Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Roadtest Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Puppy Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Preschool Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Ad Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: syllable query on the common word ad, valid lookup pairing"
+ },
+ {
+  "title": "Backlog Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Diversity Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Signage Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Wiper Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Takeout Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Plaque Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Flower Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Tortoise Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Gingivitis Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Attic Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Yacht Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Intubation Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Insured Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Balloons Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Bruxism Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Bruschetta Forecast",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: demand forecasting for bruschetta product line, concrete business function"
+ },
+ {
+  "title": "Prosciutto Duration",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: food anchor + Duration is an unreadable time-metric fragment, dead-pattern family flipped in batches 3/5 (Goulash/Pierogi Duration flipped in this recheck)"
+ },
+ {
+  "title": "Ceviche Guide",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: recipe/preparation guide, kitchen-context reading stands"
+ },
+ {
+  "title": "Empanada Account",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: customer account management for an empanada shop, concrete ops (not the Helper trademark collision)"
+ },
+ {
+  "title": "Bratwurst Match",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: beer/side pairing match for bratwurst, concrete culinary function"
+ },
+ {
+  "title": "Escargot Lookup",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: ingredient/recipe lookup, concrete function"
+ },
+ {
+  "title": "Mochi Broadcast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: customer announcement broadcast, concrete ops"
+ },
+ {
+  "title": "Satay Barcode",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: label/barcode issuance, concrete ops"
+ },
+ {
+  "title": "Moussaka Appointment",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: appointment management, established food-ops family"
+ },
+ {
+  "title": "Borscht Feedback",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: customer feedback collection, concrete ops"
+ },
+ {
+  "title": "Gumbo Invoice",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: invoicing, established food-ops family"
+ },
+ {
+  "title": "Jambalaya Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: permit/subscription renewal management, concrete ops"
+ },
+ {
+  "title": "Shawarma Quote",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: catering quote generation, concrete function"
+ },
+ {
+  "title": "Naan Warranty",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: equipment/service warranty management reading coherent, not the dead Guarantee fragment"
+ },
+ {
+  "title": "Arepa Deposit",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: catering deposit management, concrete ops"
+ },
+ {
+  "title": "Pierogi Certification",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: hygiene/food-safety certification management, concrete ops"
+ },
+ {
+  "title": "Vitals Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Recurring Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Property Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Schedule Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Rack Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Permit Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Waitlist Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: waitlist is noun-dominant (waiting list); to-waitlist as a verb is marginal modern usage, defective Conjugations pairing - low-confidence 0.55"
+ },
+ {
+  "title": "Formulary Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Mayor Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Article Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Smartphone Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Case Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Hire Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Expo Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Freezer Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Dumbbell Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Recycling Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Ad Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Backlog Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Diversity Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Signage Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Wiper Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Adoption Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Allergy Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Burger Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Tortoise Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Gingivitis Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Attic Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Yacht Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Intubation Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Notebook Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Chinchilla Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Acai Reference",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: food anchor + Reference is a vague lookup-fragment dead pattern (Naan/Shawarma Reference flipped in this recheck); no coherent bruschetta reference product"
+ },
+ {
+  "title": "Bruschetta Deadline",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: food anchor + Deadline is an arbitrary date-metric fragment, dead-pattern family (Pierogi/Arepa/Naan Deadline flipped in this recheck)"
+ },
+ {
+  "title": "Prosciutto Volume",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: food anchor + Volume is a vague quantity-metric fragment, dead-pattern family (Goulash/Tzatziki/Pierogi Volume flipped in this recheck)"
+ },
+ {
+  "title": "Tabbouleh Progress",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: cooking/order progress tracking, concrete ops"
+ },
+ {
+  "title": "Edamame Template",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: menu/order form template, concrete ops"
+ },
+ {
+  "title": "Ceviche Rating",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: quality/rating management, concrete ops"
+ },
+ {
+  "title": "Guacamole Reply",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: review reply tool, kitchen-context guacamole stands, concrete ops"
+ },
+ {
+  "title": "Empanada Case",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: customer-case/ticket management reading is coherent (order inquiries); not on the dead-pattern list and both readings leave a sensible product"
+ },
+ {
+  "title": "Bratwurst Validation",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: order/data validation is a concrete checkable function, not a vague fragment"
+ },
+ {
+  "title": "Escargot Ping",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: freshness/supply monitoring ping has a coherent reading; weak but no grounded basis to call it absurd"
+ },
+ {
+  "title": "Gyro Availability",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: menu availability check, concrete ops"
+ },
+ {
+  "title": "Quinoa Broadcast",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: menu announcement broadcast, concrete ops"
+ },
+ {
+  "title": "Mochi Barcode",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: stock barcode label tool, concrete ops"
+ },
+ {
+  "title": "Satay Appointment",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: pickup/appointment management, established food-ops family"
+ },
+ {
+  "title": "Moussaka Feedback",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: customer feedback collection, concrete ops"
+ },
+ {
+  "title": "Borscht Invoice",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: invoicing, established food-ops family"
+ },
+ {
+  "title": "Gumbo Renewal",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: subscription/group-order renewal management, concrete ops"
+ },
+ {
+  "title": "Jambalaya Quote",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: catering quote generation, concrete function"
+ },
+ {
+  "title": "Shawarma Warranty",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: kitchen equipment/service warranty management reading coherent, not the dead Guarantee fragment"
+ },
+ {
+  "title": "Naan Deposit",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: group-order deposit management, concrete ops"
+ },
+ {
+  "title": "Arepa Certification",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: hygiene certification management, concrete ops"
+ },
+ {
+  "title": "Goulash Correction",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: order/recipe correction management, business-ops family explicitly sustained"
+ },
+ {
+  "title": "Tzatziki Revision",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: menu revision management is concrete; no same-anchor synonym twin (the Correction pair uses the Goulash anchor), no duplication"
+ },
+ {
+  "title": "Pickup Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Vitals Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Recurring Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Property Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Schedule Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Rack Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Permit Conjugations",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: to permit is a standard common verb, valid verb-anchor Conjugations pairing"
+ },
+ {
+  "title": "Waitlist Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Charter Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Quarter Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Mayor Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Article Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Smartphone Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Case Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Hire Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Roadtest Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Filling Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Commencement Syllables",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Recycling Rhymes",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Ad Synonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Backlog Antonyms",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Diversity Sentences",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Signage Translations",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Takeout Anagrams",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ },
+ {
+  "title": "Kickboxing Orthography",
+  "approve": true,
+  "confidence": 0.8,
+  "reason": "sustained: query-clause word-lookup pairing on a generic non-trademark anchor, valid usage query"
+ }
+]

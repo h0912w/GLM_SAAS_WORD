@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Maintenance Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Callout Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Safe Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Assignment Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Inventory Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Backdrop Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Vendor Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Clog Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Dumbbell Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Preschool Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Cane Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Mower Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Closet Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Urn Translations",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: translation lookup for 'urn' is clear; funeral anchor is indirect but generic and non-conflicting"
+ },
+ {
+  "title": "Bottle Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Deadlatch Orthography",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: spelling lookup for a niche lock-part term is coherent; generic industry term, no trademark"
+ },
+ {
+  "title": "Allergy Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Flower Rhymes",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Squeegee Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Mirror Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Expiration Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Radiator Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Testimonial Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: anagram lookup of a long word is impractical but the reading is clear and generic"
+ },
+ {
+  "title": "Tuning Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Chinchilla Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Bruxism Rhymes",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: rhyme lookup of a medical term reads as a dictionary query; generic term"
+ },
+ {
+  "title": "Thermostat Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Promenade Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Otoscope Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: example-sentence lookup of a medical instrument term; clear reading"
+ },
+ {
+  "title": "Claimant Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Streamers Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Halitosis Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Bruschetta Rank",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: bare 'Rank' fragment never says WHAT is ranked (menu item? search position?); reads as an orphan metric fragment, not a nameable product"
+ },
+ {
+  "title": "Prosciutto Comparison",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: 'Comparison' is a dead pattern fragment on a food anchor — comparison of what is unstated; established dead-pattern rejection"
+ },
+ {
+  "title": "Edamame Copy",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: food anchor + concrete restaurant operation word (menu/ad copy generation) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Ceviche Reference",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: 'Reference' is a dead pattern fragment on a food anchor — a reference to what is unclear; established dead-pattern rejection"
+ },
+ {
+  "title": "Guacamole Deadline",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: 'Deadline' is a dead pattern fragment on a food anchor — bare fragment with no object; established dead-pattern rejection"
+ },
+ {
+  "title": "Empanada Volume",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: 'Volume' is a dead pattern fragment on a food anchor — sales volume? sound? unspecified; established dead-pattern rejection"
+ },
+ {
+  "title": "Bratwurst Progress",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (cooking-progress tracking) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Escargot Template",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (menu/label template generation) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Gyro Rating",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (customer rating collection) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Quinoa Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (review-reply automation) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Moussaka Match",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (pairing/matching recommendation) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Borscht Validation",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (order/dietary validation) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Gumbo Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (recipe/menu lookup) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Jambalaya Ping",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (order-ready kitchen ping) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Naan Availability",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (menu availability display) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Arepa Eligibility",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (allergen/diet eligibility screening) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Pierogi Broadcast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (promotional broadcast sending) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Goulash Barcode",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (takeout barcode labeling) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Tzatziki Appointment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (reservation/appointment management) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Charter Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: syllable lookup of generic 'charter'; Charter Communications association is overridden by the charter-flight generic reading"
+ },
+ {
+  "title": "Maintenance Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Callout Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Safe Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Assignment Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Inventory Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Photographer Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Ceramic Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Filling Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Dumbbell Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Preschool Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Cane Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Mower Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Closet Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Pedicure Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Manifold Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Kickboxing Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Allergy Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Flower Synonyms",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Squeegee Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Mirror Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Expiration Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Impressioning Anagrams",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: anagram lookup of a niche locksmith term; reading is clear and generic"
+ },
+ {
+  "title": "Testimonial Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: chords for testimonial-video background music is a plausible music-service reading; anchor not clearly non-music"
+ },
+ {
+  "title": "Picnic Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Pizza Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Chinchilla Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Bruxism Synonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Thermostat Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Promenade Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Otoscope Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Pencil Anagrams",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Ramen Lyrics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: lyrics for a restaurant ad jingle is a plausible music-related reading; anchor not clearly non-music"
+ },
+ {
+  "title": "Horse Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Acai Streak",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: 'Streak' is a dead pattern fragment on a food anchor — loyalty streak of what app is unstated; established dead-pattern rejection"
+ },
+ {
+  "title": "Bruschetta Trend",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (menu trend analysis) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Prosciutto Proposal",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (catering proposal drafting) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Tabbouleh Record",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: 'Record' is a dead pattern fragment on a food anchor — record of what (singular noun reading) is unclear; established dead-pattern rejection"
+ },
+ {
+  "title": "Edamame Reading",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: bare 'Reading' fragment — a reading of what instrument/meter is never stated; vague orphan metric fragment, unclear product"
+ },
+ {
+  "title": "Ceviche Forecast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (demand forecasting) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Guacamole Duration",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: 'Duration' is a dead pattern fragment on a food anchor — duration of what is unstated; established dead-pattern rejection"
+ },
+ {
+  "title": "Escargot Guide",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (menu/service guide content) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Satay Match",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (pairing/matching recommendation) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Borscht Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (recipe lookup) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Gumbo Ping",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (order-ready kitchen ping) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Shawarma Availability",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (menu availability display) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Arepa Broadcast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (promotional broadcast sending) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Pierogi Barcode",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (takeout barcode labeling) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Goulash Appointment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (reservation management) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Tzatziki Feedback",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (customer feedback collection) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Crew Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Charter Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Maintenance Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Callout Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Safe Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Assignment Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Backdrop Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Heater Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Puppy Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Filling Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Dumbbell Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Preschool Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Cane Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Mower Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Urn Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Pedicure Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: salon ambience/background-music chords is a plausible music-service reading; anchor not clearly non-music"
+ },
+ {
+  "title": "Ferry Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Plaque Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Kickboxing Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Allergy Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Flower Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Squeegee Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Mirror Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Radiator Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Balcony Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Balloons Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Pizza Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Chinchilla Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Bruxism Antonyms",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Thermostat Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Promenade Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Claimant Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Ramen Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Acai Rank",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: bare 'Rank' fragment never states what is being ranked; vague orphan metric fragment, unclear product"
+ },
+ {
+  "title": "Bruschetta Comparison",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: 'Comparison' is a dead pattern fragment on a food anchor — comparison target unstated; established dead-pattern rejection"
+ },
+ {
+  "title": "Prosciutto Guarantee",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (freshness guarantee handling) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Tabbouleh Copy",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (menu/ad copy generation) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Edamame Reference",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: 'Reference' is a dead pattern fragment on a food anchor — reference to what is unclear; established dead-pattern rejection"
+ },
+ {
+  "title": "Ceviche Deadline",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: 'Deadline' is a dead pattern fragment on a food anchor — bare fragment with no object; established dead-pattern rejection"
+ },
+ {
+  "title": "Guacamole Volume",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: 'Volume' is a dead pattern fragment on a food anchor — quantity vs sound vs sales volume ambiguous; established dead-pattern rejection"
+ },
+ {
+  "title": "Empanada Progress",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (cooking-progress tracking) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Bratwurst Template",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (menu/label template generation) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Escargot Rating",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (menu rating management) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Gyro Reply",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (review-reply automation) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Mochi Match",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (pairing/matching recommendation) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Moussaka Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (recipe lookup) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Borscht Ping",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (order-ready kitchen ping) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Jambalaya Availability",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (menu availability display) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Naan Broadcast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (promotional broadcast sending) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Arepa Barcode",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (takeout barcode labeling) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Pierogi Appointment",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (reservation management) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Goulash Feedback",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (customer feedback collection) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Tzatziki Invoice",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (order invoicing) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Formulary Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Crew Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Charter Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Maintenance Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Callout Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Safe Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Inventory Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Backdrop Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: background-music chords for photo/video backdrops is a plausible music-service reading; anchor not clearly non-music"
+ },
+ {
+  "title": "Vendor Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Freezer Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Puppy Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Filling Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Dumbbell Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Preschool Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Cane Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Closet Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Urn Chords",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: chords for memorial-service music is a plausible music-service reading; anchor not clearly non-music"
+ },
+ {
+  "title": "Bottle Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Adoption Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Plaque Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Kickboxing Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Allergy Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Flower Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Squeegee Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Expiration Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Testimonial Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Notebook Syllables",
+  "approve": true,
+  "confidence": 0.75,
+  "reason": "sustained: query-clause lookup reading (syllable lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Balloons Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (rhyme lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Pizza Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (synonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Chinchilla Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (antonym lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Bruxism Sentences",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: query-clause lookup reading (example-sentence lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Thermostat Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (translation lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Otoscope Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (anagram lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Streamers Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause lookup reading (spelling lookup of the anchor word) is clear, anchor generic, no trademark or duplication"
+ },
+ {
+  "title": "Acai Trend",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (menu trend analysis) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Bruschetta Proposal",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (catering proposal drafting) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Prosciutto Record",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: 'Record' is a dead pattern fragment on a food anchor — record of what is unclear in the title; established dead-pattern rejection"
+ },
+ {
+  "title": "Tabbouleh Reading",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "flip: bare 'Reading' fragment — reading of what instrument is never stated; vague orphan metric fragment, unclear product"
+ },
+ {
+  "title": "Edamame Forecast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (supply/demand forecasting) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Ceviche Duration",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "flip: 'Duration' is a dead pattern fragment on a food anchor — duration of what is unstated in the title; established dead-pattern rejection"
+ },
+ {
+  "title": "Bratwurst Guide",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (menu/cooking guide content) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Quinoa Match",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (recipe/ingredient matching) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Satay Lookup",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (recipe lookup) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Moussaka Ping",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (order-ready kitchen ping) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Gumbo Availability",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (menu availability display) reads as a real kitchen/front-of-house tool"
+ },
+ {
+  "title": "Shawarma Broadcast",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: food anchor + concrete restaurant operation word (promotional broadcast sending) reads as a real kitchen/front-of-house tool"
+ }
+]

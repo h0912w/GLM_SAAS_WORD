@@ -1,0 +1,2202 @@
+[
+ {
+  "title": "Evaporator Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Subtitling Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Crate Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: verb conjugation is a grammar query term; a moving-crate product has no grammar reading, so no SaaS is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Delivery Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Catering Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: chords belong to music; a catering product has no musical reading, so the pair names no recognizable product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Vacancy Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: lyrics are song text; a vacancy/rental product has no lyric reading, so no SaaS is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cover Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Collar Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Veneer Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rowing Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Sibling Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Drainage Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Grease Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chair Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: conjugating verbs is grammar-only and a salon-chair product has no reading for it; mismatched query term, no product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Brand Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Boiler Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: chords are musical; an HVAC boiler anchor gives no music reading, so no recognizable SaaS is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bump Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: the bump here is lock bumping, not music; lyrics are song text and the pair names no product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Briefing Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tartar Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Courtyard Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Glacier Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Felting Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cannula Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Application Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Science Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: conjugations are grammar-only and science has no verb paradigm to query; the pair names no product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Confetti Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Waffle Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: chords belong to music; a waffle food product has no musical reading, so no SaaS is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Canary Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: lyrics are song text; a canary (bird/veterinary) anchor yields no lyric product meaning, so no SaaS is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Fluoride Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Renewal",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: reads like dish-plus-renewal novelty; an acai bowl business has no recognizable renewal product, so unclear what software this is.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Warranty",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: a bruschetta product carries no warranty reading; the pairing names no identifiable SaaS.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Certification",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: certifying prosciutto reads as a meat-inspection gimmick rather than software; no recognizable product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Correction",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: correction has no readable meaning for a tabbouleh dish business; novelty pairing, no product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Payment",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: dish-specific payment names no identifiable SaaS; reads as a novelty pairing.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Simulator",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: a ceviche simulator reads as a game or gimmick, not a SaaS a stranger can identify.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Seal",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: a seal for guacamole has no readable product meaning (packaging? approval stamp?); no SaaS named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Recipe",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: reads as a recipe webpage title, not a software product name.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Diary",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: a bratwurst diary reads as a food blog or novelty, not a tool.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Expense",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: escargot-specific expense tracking is not a product a stranger can identify.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Inventory",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: dish-specific inventory reads as a novelty pairing rather than an identifiable product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Onboarding",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: onboarding for a grain dish is incoherent; no SaaS reading survives.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Checkin",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: checking in to mochi is a joke reading; no SaaS named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Size",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the size of a satay skewer is a bare measurement, not a software concept; no product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Length",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the length of a moussaka is not a software concept; the measurement word names no SaaS.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Weight",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: weight paired with a borscht dish names no recognizable software product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Distance",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: distance for a gumbo business has no readable product meaning; novelty pairing.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Range",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the range of a jambalaya dish is not a SaaS concept a stranger can identify.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Limit",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: a limit on shawarma names no recognizable product; measurement-style novelty pairing.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Type",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the type of naan describes a taxonomy, not a software product; unclear what SaaS this is.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Clock",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: an arepa clock names no identifiable product; novelty pairing.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Time",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: time for a pierogi product names no software a stranger can identify.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Speed",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the speed of a goulash dish is not a SaaS concept; novelty pairing, no product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Depth",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the depth of tzatziki is a joke reading; no software product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Container Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Deductible Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recruiting Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Inspection Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Catalog Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Occupancy Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: verb conjugation has no occupancy/rental meaning; grammar query term without a grammar anchor, no product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cohort Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Scheduling Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: chords belong to music; a scheduling product has no musical reading, so no SaaS is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pesticide Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: lyrics are song text; a pesticide product has no lyric reading, so no recognizable SaaS is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Substation Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Manicure Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Medicine Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Kayak Synonyms",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Trademark: Kayak is a famous travel-metasearch brand; pairing it with a synonyms tool reads as mark-adjacent naming.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Hangar Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Evaporator Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Subtitling Conjugations",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Clarity: conjugation is a grammar query term while subtitling is audiovisual translation, not grammar; the pairing leaves no clear product reading.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Crate Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Delivery Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: chords belong to music; a delivery product has no chord reading, so no SaaS is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Catering Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: lyrics are song text; a catering product has no lyric reading, so no recognizable product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Vacancy Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Dessert Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Collar Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Veneer Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rowing Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Sibling Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Drainage Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Grease Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: conjugating verbs is grammar-only and a degreasing product has no reading for it; no product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chair Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Brand Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: chords belong to music; a pharmacy brand anchor gives no musical product reading.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Boiler Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: lyrics are song text; a boiler/HVAC anchor yields no lyric product meaning.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bump Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Parakeet Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tartar Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Courtyard Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Glacier Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Felting Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cannula Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Application Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: verb conjugation has no insurance-application meaning; grammar query term without a grammar anchor.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Science Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Confetti Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: chords belong to music; a confetti/party anchor gives no musical product reading.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Waffle Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: lyrics are song text; a waffle food product has no lyric reading, so no SaaS is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Canary Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Quote",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: quote for acai is ambiguous (price quote vs quotation) and dish-specific quoting names no recognizable product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Deposit",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: deposits on bruschetta is a novelty pairing; no product reading survives.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Nomination",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: nominating a prosciutto dish has no readable meaning; no SaaS named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Revision",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: revision of a tabbouleh dish names no software a stranger can identify.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Verification",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: verifying edamame reads as a gimmick; no recognizable software product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Predictor",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: predicting ceviche has no readable product meaning; novelty pairing.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Review",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: names dish-plus-review content, not a tool; a stranger cannot tell what software this is.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Video",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: an empanada video is content, not software; no product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Refund",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: dish-specific refund processing names no recognizable SaaS; novelty pairing.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Newsletter",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: a newsletter about escargot is content, not a SaaS product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Claim",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: claims about a gyro have no readable meaning (insurance? complaints?); no product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Checkin",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: checking in to quinoa is a joke reading; no SaaS named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Size",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: mochi sizing is a bare measurement pairing, not an identifiable software product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Length",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the length of a satay skewer is not a software concept; the measurement word names no SaaS.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Weight",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: weight paired with a moussaka dish names no recognizable software product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Distance",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: distance for a borscht business has no readable product meaning; novelty pairing.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Range",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the range of a gumbo dish is not a SaaS concept a stranger can identify.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Limit",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: a limit on jambalaya names no recognizable product; measurement-style novelty pairing.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Type",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the type of shawarma describes a taxonomy, not a software product; unclear what SaaS this is.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Clock",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: a naan clock names no identifiable product; novelty pairing.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Time",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: time for an arepa product names no software a stranger can identify.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Speed",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the speed of a pierogi is not a SaaS concept; novelty pairing, no product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Depth",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the depth of goulash is a joke reading; no software product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Height",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the height of tzatziki names no recognizable software product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Matter Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Container Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Deductible Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recruiting Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Inspection Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Catalog Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: conjugating verbs is grammar-only and a product-catalog anchor has no reading for it; no product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Occupancy Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cohort Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: chords belong to music; a cohort/education anchor gives no musical product reading.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Scheduling Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: lyrics are song text; a scheduling product has no lyric reading, so no SaaS is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pesticide Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Headstone Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Manicure Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Medicine Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Kayak Antonyms",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Trademark: Kayak is a famous travel-metasearch brand; pairing it with an antonyms tool reads as mark-adjacent naming.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": false
+  }
+ },
+ {
+  "title": "Hangar Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Evaporator Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Subtitling Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Crate Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: chords belong to music; a moving-crate anchor gives no musical product reading.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Delivery Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: lyrics are song text; a delivery product has no lyric reading, so no SaaS is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Catering Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Oil Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Dessert Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Collar Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Veneer Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Rowing Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Sibling Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Drainage Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: verb conjugation has no drainage meaning; grammar query term without a grammar anchor, no product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Grease Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Chair Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: chords belong to music; a salon-chair anchor gives no musical product reading.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Brand Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: lyrics are song text; a pharmacy brand anchor yields no lyric product meaning.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Boiler Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pancake Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Parakeet Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tartar Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Courtyard Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Glacier Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Felting Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cannula Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: conjugation is a grammar query term and a cannula medical anchor has no grammar reading; no product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Application Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Science Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: chords belong to music; a science education anchor gives no musical product reading.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Confetti Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: lyrics are song text; a confetti/party anchor yields no lyric product meaning.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Waffle Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Acai Warranty",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: an acai product carries no warranty reading; dish-plus-warranty is a novelty pairing, no SaaS named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bruschetta Certification",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: certifying bruschetta reads as a kitchen gimmick rather than software; no recognizable product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Prosciutto Correction",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: correction has no readable meaning for a prosciutto business; novelty pairing, no product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tabbouleh Payment",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: dish-specific payment for tabbouleh names no identifiable SaaS; reads as a novelty pairing.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Edamame Simulator",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: an edamame simulator reads as a game or gimmick, not a SaaS a stranger can identify.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Ceviche Seal",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: a seal for ceviche has no readable product meaning (packaging? approval stamp?); no SaaS named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Guacamole Recipe",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: reads as a content recipe title for guacamole, not a SaaS product a stranger can identify.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Empanada Diary",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: an empanada diary reads as a food blog or novelty, not a tool.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Bratwurst Expense",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: bratwurst-specific expense tracking is not a product a stranger can identify.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Escargot Inventory",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: dish-specific inventory for escargot reads as a novelty pairing rather than an identifiable product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gyro Onboarding",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: onboarding for a gyro dish is incoherent; no SaaS reading survives.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Quinoa Size",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: dish plus a bare measurement word names no product a stranger can identify.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Mochi Length",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the length of a mochi is not a software concept; the measurement word names no SaaS.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Satay Weight",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: weight paired with a satay dish names no recognizable software product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Moussaka Distance",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: distance for a moussaka business has no readable product meaning; novelty pairing.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Borscht Range",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the range of a borscht dish is not a SaaS concept a stranger can identify.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Gumbo Limit",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: a limit on gumbo names no recognizable product; measurement-style novelty pairing.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Jambalaya Type",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the type of jambalaya describes a taxonomy, not a software product; unclear what SaaS this is.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Shawarma Clock",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: a shawarma clock names no identifiable product; novelty pairing.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Naan Time",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: time for a naan product names no software a stranger can identify.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Arepa Speed",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the speed of an arepa is not a SaaS concept; novelty pairing, no product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Pierogi Depth",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the depth of a pierogi is a joke reading; no software product is named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Goulash Height",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the height of goulash names no recognizable software product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Tzatziki Width",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "Clarity: the width of tzatziki names no recognizable software product.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Reconciliation Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Matter Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Container Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Deductible Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Recruiting Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Inspection Conjugations",
+  "approve": false,
+  "confidence": 0.8,
+  "reason": "Clarity: conjugating verbs has no inspection meaning; mismatched grammar query term, no product named.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Catalog Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Occupancy Chords",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: chords do not compose with occupancy analytics; music term on a non-music anchor, no SaaS.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Cohort Lyrics",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "Clarity: lyrics are song text; a cohort education anchor yields no lyric product meaning.",
+  "checks": {
+   "clarity": false,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Scheduling Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Kitchen Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Headstone Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Manicure Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Medicine Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": true
+  }
+ },
+ {
+  "title": "Kayak Sentences",
+  "approve": false,
+  "confidence": 0.65,
+  "reason": "Trademark: Kayak is a famous travel-metasearch brand; pairing it with a sentences tool reads as mark-adjacent naming.",
+  "checks": {
+   "clarity": true,
+   "duplication": true,
+   "trademark": false
+  }
+ }
+]

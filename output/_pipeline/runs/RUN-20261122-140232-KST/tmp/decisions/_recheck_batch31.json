@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Treadmill Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Toddler Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Mosquito Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Stain Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Damper Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Pinning Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Simultaneous Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Relocation Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Highlight Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Playlist Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: playlist is music context; query-clause Translations stands"
+ },
+ {
+  "title": "Lease Conjugations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: lease is the standard verb of the rental industry itself; verb-usage precedent (Permit/Ferry/Request) applies"
+ },
+ {
+  "title": "Motor Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Practice Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Ferret Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Bite Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Barbell Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Mold Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Rent Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Skyline Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: generic city-skyline reading dominates in travel context; no watchlisted mark"
+ },
+ {
+  "title": "Bonsai Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Surcharge Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Bruschetta Tutorial",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Tutorial is in the sustained food-ops list; cooking tutorial reads clearly"
+ },
+ {
+  "title": "Prosciutto Timetable",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Timetable sustained: prep/service scheduling for a food business"
+ },
+ {
+  "title": "Tabbouleh Gift",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: catering gift platters/gift boxes are real food operations"
+ },
+ {
+  "title": "Ceviche App",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: restaurant/recipe app category reads clearly; not a software-trademark context"
+ },
+ {
+  "title": "Guacamole Advice",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "semantic duplication: Advice duplicates the established Tips function-word family - Guacamole Advice dup Tips"
+ },
+ {
+  "title": "Bratwurst Quantity",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: portioning/quantity is concrete food-ops meaning"
+ },
+ {
+  "title": "Escargot Analysis",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Analysis is in the sustained food-ops list (menu/cost analysis)"
+ },
+ {
+  "title": "Gyro Habit",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "dead-pattern fragment: Habit is unreadable on a food anchor (established Habit flip family); no identifiable product or operation"
+ },
+ {
+  "title": "Quinoa Ideas",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe ideas content reads naturally"
+ },
+ {
+  "title": "Mochi Basics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: beginner basics content is a real content category"
+ },
+ {
+  "title": "Satay Names",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: varieties/dish-naming content is a plausible reading, though marginal"
+ },
+ {
+  "title": "Moussaka Questions",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: FAQ-style content reading is plausible"
+ },
+ {
+  "title": "Gumbo Steps",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe steps is the natural reading"
+ },
+ {
+  "title": "Jambalaya Alternatives",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: ingredient/dish substitutes is a real query intent"
+ },
+ {
+  "title": "Shawarma Courses",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: meal courses or cooking courses both readable; slightly ambiguous but defensible"
+ },
+ {
+  "title": "Naan Examples",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: types/varieties examples content"
+ },
+ {
+  "title": "Upholstery Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Sink Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Trip Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Vocal Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Embroidery Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Fern Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Payment Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Speaker Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Emission Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Chef Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Kennel Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Toothache Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Treadmill Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Walker Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Furniture Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Supplement Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Damper Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Pinning Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Simultaneous Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Relocation Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Highlight Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Lease Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Aquarium Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Noodle Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Ferret Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Bite Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Barbell Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Mold Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Rent Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Rhythm Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Arraignment Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Bruschetta Handbook",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: Handbook is in the sustained food-ops list (kitchen handbook)"
+ },
+ {
+  "title": "Edamame Flyer",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Flyer is in the sustained food-ops list (menu/promo flyer)"
+ },
+ {
+  "title": "Ceviche Tips",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Tips is in the sustained food-ops list; primary of the Tips/Advice pair, so no dup"
+ },
+ {
+  "title": "Guacamole Workbook",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "vague fragment: Workbook is an unreadable SaaS-flavored fragment on a food anchor (batch 25 Tzatziki Workbook family); no identifiable product"
+ },
+ {
+  "title": "Empanada Spec",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: restaurants genuinely use recipe specs (line-cook 'the spec'); readable ops meaning despite jargon flavor"
+ },
+ {
+  "title": "Bratwurst Login",
+  "approve": false,
+  "confidence": 0.78,
+  "reason": "dead fragment: Login is unreadable on a food anchor (established Login flip family); names no product"
+ },
+ {
+  "title": "Escargot Coach",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Coach is in the sustained food-ops list (cooking coach)"
+ },
+ {
+  "title": "Gyro Help",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: how-to help content reads naturally; not part of the Helper/Assistant dup family as written"
+ },
+ {
+  "title": "Quinoa Basics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: beginner basics content"
+ },
+ {
+  "title": "Mochi Names",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: varieties/naming content, marginal but defensible"
+ },
+ {
+  "title": "Satay Questions",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: FAQ-style content reading"
+ },
+ {
+  "title": "Borscht Steps",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe steps reading"
+ },
+ {
+  "title": "Gumbo Alternatives",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: substitutes content"
+ },
+ {
+  "title": "Jambalaya Courses",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: meal courses/cooking courses readable"
+ },
+ {
+  "title": "Shawarma Examples",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: varieties examples content"
+ },
+ {
+  "title": "Algae Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Upholstery Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Sink Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Trip Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Vocal Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Embroidery Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Pallet Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Resume Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Speaker Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Emission Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Chef Antonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Kennel Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Toothache Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Toddler Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Mulch Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Consultation Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Supplement Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Damper Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Pinning Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Simultaneous Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Relocation Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Highlight Conjugations",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "defective Conjugations pairing: in photography_services the noun reading (photo highlight) dominates and there is no grammar/verb-usage anchor, matching the flipped Crew/Terminology/Pipeline Conjugations family"
+ },
+ {
+  "title": "Playlist Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Grout Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Parade Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Noodle Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Ferret Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Bite Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Barbell Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Mold Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Rent Conjugations",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: rent is the standard verb of the rental industry itself; verb-usage precedent (Permit/Ferry) applies"
+ },
+ {
+  "title": "Skyline Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: generic city-skyline reading dominates in travel context"
+ },
+ {
+  "title": "Rhythm Chords",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: clear music context (music_lessons); Chords with music anchors stands"
+ },
+ {
+  "title": "Jogging Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Acai Tutorial",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Tutorial sustained food-ops list"
+ },
+ {
+  "title": "Bruschetta Timetable",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Timetable sustained food-ops list"
+ },
+ {
+  "title": "Prosciutto Gift",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: gift baskets/cured-meat gifting is a real food operation"
+ },
+ {
+  "title": "Edamame App",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: restaurant/recipe app category reads clearly"
+ },
+ {
+  "title": "Ceviche Advice",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "semantic duplication: duplicates Ceviche Tips (sustained in this same recheck slice) - Tips/Advice near-synonym family, Ceviche Advice dup Ceviche Tips"
+ },
+ {
+  "title": "Empanada Quantity",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: portioning/quantity food-ops meaning"
+ },
+ {
+  "title": "Bratwurst Analysis",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Analysis sustained food-ops list"
+ },
+ {
+  "title": "Escargot Habit",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "dead-pattern fragment: Habit unreadable on a food anchor (established Habit flip family); no identifiable product"
+ },
+ {
+  "title": "Gyro Ideas",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe ideas content"
+ },
+ {
+  "title": "Quinoa Names",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: varieties content, marginal but defensible"
+ },
+ {
+  "title": "Mochi Questions",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: FAQ-style content reading"
+ },
+ {
+  "title": "Moussaka Steps",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe steps reading"
+ },
+ {
+  "title": "Borscht Alternatives",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: substitutes content"
+ },
+ {
+  "title": "Gumbo Courses",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: meal/cooking courses readable"
+ },
+ {
+  "title": "Jambalaya Examples",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: varieties examples content"
+ },
+ {
+  "title": "Tzatziki Refills",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Refills sustained food-ops list (sauce refill service)"
+ },
+ {
+  "title": "Eviction Syllables",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Algae Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Upholstery Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Sink Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Trip Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Vocal Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Fern Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Redline Orthography",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Inquiry Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Resume Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Speaker Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Emission Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Chef Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Kennel Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Treadmill Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Mosquito Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Dust Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Consultation Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Supplement Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Damper Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Pinning Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Simultaneous Translations",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Highlight Anagrams",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Playlist Chords",
+  "approve": true,
+  "confidence": 0.65,
+  "reason": "sustained: wedding playlist is music context; Chords with music anchors stands (Festival/Broadcast precedent)"
+ },
+ {
+  "title": "Motor Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Graduation Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Parade Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Noodle Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Ferret Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Bite Sentences",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Barbell Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Rent Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Rhythm Lyrics",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: clear music context (music_lessons); Lyrics with music anchors stands"
+ },
+ {
+  "title": "Bonsai Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Acai Handbook",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Handbook sustained food-ops list"
+ },
+ {
+  "title": "Bruschetta Opinion",
+  "approve": true,
+  "confidence": 0.5,
+  "reason": "sustained: opinion/recommendation content is analogous to the sustained Review word and hits no dup family; marginal but no grounded defect"
+ },
+ {
+  "title": "Tabbouleh Flyer",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Flyer sustained food-ops list"
+ },
+ {
+  "title": "Edamame Tips",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Tips sustained food-ops list; primary of the Tips/Advice pair"
+ },
+ {
+  "title": "Ceviche Workbook",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "vague fragment: Workbook unreadable on a food anchor (batch 25 Tzatziki Workbook family); names no product"
+ },
+ {
+  "title": "Guacamole Spec",
+  "approve": true,
+  "confidence": 0.5,
+  "reason": "sustained: kitchen recipe specs are real restaurant practice; readable despite jargon flavor"
+ },
+ {
+  "title": "Empanada Login",
+  "approve": false,
+  "confidence": 0.78,
+  "reason": "dead fragment: Login unreadable on a food anchor (established Login flip family); names no product"
+ },
+ {
+  "title": "Bratwurst Coach",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Coach sustained food-ops list"
+ },
+ {
+  "title": "Escargot Help",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: how-to help content reads naturally; not the Helper/Assistant dup family as written"
+ },
+ {
+  "title": "Gyro Basics",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: beginner basics content"
+ },
+ {
+  "title": "Quinoa Questions",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: FAQ-style content reading"
+ },
+ {
+  "title": "Mochi Date",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "dead fragment: Date unreadable on a food anchor (established Date flip family); no identifiable product"
+ },
+ {
+  "title": "Satay Steps",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: recipe steps reading"
+ },
+ {
+  "title": "Moussaka Alternatives",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: substitutes content"
+ },
+ {
+  "title": "Borscht Courses",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: meal/cooking courses readable"
+ },
+ {
+  "title": "Gumbo Examples",
+  "approve": true,
+  "confidence": 0.55,
+  "reason": "sustained: varieties examples content"
+ },
+ {
+  "title": "Jambalaya Repairs",
+  "approve": false,
+  "confidence": 0.78,
+  "reason": "dead fragment: Repairs is an equipment-repair fragment with no readable meaning on a food anchor (established Repairs flip family)"
+ },
+ {
+  "title": "Shawarma Sitting",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "dead fragment: Sitting unreadable on a food anchor (batch 25 Shawarma/Jambalaya Retreat family); no identifiable product"
+ },
+ {
+  "title": "Arepa Visits",
+  "approve": false,
+  "confidence": 0.75,
+  "reason": "dead fragment: Visits is an administrative fragment unreadable on a food anchor (established Visits flip family)"
+ },
+ {
+  "title": "Pierogi Checkups",
+  "approve": false,
+  "confidence": 0.7,
+  "reason": "dead fragment: Checkups is a medical/administrative fragment with no readable meaning on a food anchor, same family as the flipped Visits/Sitting pairings"
+ },
+ {
+  "title": "Goulash Refills",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Refills sustained food-ops list (sauce refills)"
+ },
+ {
+  "title": "Tzatziki Appointments",
+  "approve": true,
+  "confidence": 0.6,
+  "reason": "sustained: Appointments sustained food-ops list (tasting/catering appointments)"
+ },
+ {
+  "title": "Invitation Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Eviction Rhymes",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Algae Synonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Upholstery Antonyms",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Sink Sentences",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Trip Translations",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Embroidery Anagrams",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Payment Orthography",
+  "approve": true,
+  "confidence": 0.72,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Cloud Syllables",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: Cloud is generic, not a watchlisted mark; query-clause stands"
+ },
+ {
+  "title": "Inquiry Rhymes",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ },
+ {
+  "title": "Resume Synonyms",
+  "approve": true,
+  "confidence": 0.7,
+  "reason": "sustained: query-clause function word as second term stands per review-stage line; no clarity/dup/trademark defect found"
+ }
+]
